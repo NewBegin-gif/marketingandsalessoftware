@@ -4,31 +4,19 @@
 // runtime-fetch meer nodig, dus de site werkt ook zonder JavaScript en is
 // volledig indexeerbaar.
 
-// Vlotte, menselijke omschrijvingen per categorie
+// Vlotte, menselijke omschrijvingen per categorie afgestemd op Marketing & Sales
 const categoryInfo = {
     'All': {
         title: "Explore All Tools",
-        desc: "Browsing the full collection. From accounting platforms to AI-driven design tools, explore every piece of software we've handpicked to scale your business."
-    },
-    'Financial Operations': {
-        title: "Financial Operations",
-        desc: "Keep your numbers straight and your cash flowing. Dive into top-tier tools for accounting, automated payroll, tax compliance, and seamless invoicing."
+        desc: "The complete arsenal. From inbound marketing automation to AI sales reps, explore every piece of high-intent software we've verified to scale your revenue."
     },
     'Growth & Revenue': {
         title: "Growth & Revenue",
-        desc: "The engines that drive your business forward. Discover powerful platforms for marketing automation, sales outreach, CRM, and social media management."
-    },
-    'Operations & Workflow': {
-        title: "Operations & Workflow",
-        desc: "Keep the chaos at bay. We've highlighted the best software for project management, team collaboration, document creation, and building solid SOPs."
+        desc: "The engines of your business. Discover powerful platforms for automated outreach, lead generation, CRM, and scalable marketing campaigns."
     },
     'Communication & Voice': {
         title: "Communication & Voice",
-        desc: "Connect clearly and professionally. Explore modern solutions for business VoIP, smart call centers, live chat, and autonomous AI voice assistants."
-    },
-    'IT & Productivity': {
-        title: "IT & Productivity",
-        desc: "The silent backbone of your daily operations. Equip your team with essential tools for cybersecurity, cloud storage, web hosting, and advanced AI infrastructure."
+        desc: "Connect clearly and close faster. Explore modern solutions for business VoIP, smart call routing, and autonomous AI voice assistants."
     }
 };
 
