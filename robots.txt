@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://officesoftwaremarketplace.com/sitemap.xml
+Sitemap: https://marketingandsalessoftware.com/sitemap.xml
