@@ -1,0 +1,32 @@
+name: Sync tools from central affiliate-database
+
+on:
+  schedule:
+    - cron: "20 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch central data.json
+        run: |
+          curl -sf "https://raw.githubusercontent.com/NewBegin-gif/affiliate-database/refs/heads/main/data.json" -o data.json
+          python3 -c "import json; json.load(open('data.json'))"
+
+      - name: Rebuild static cards
+        run: python3 build_cards.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json index.html
+          git diff --cached --quiet && echo "Geen wijzigingen" && exit 0
+          git commit -m "sync: tools bijgewerkt vanuit affiliate-database"
+          git push
