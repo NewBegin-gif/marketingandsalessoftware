@@ -41,7 +41,6 @@ def main():
     tools = [t for t in all_tools if t.get("category") in target_cats]
     tools.sort(key=lambda t: t["name"].lower())
 
-    # Haal AIBM reviews op
     cache = root / "reviews.json"
     counts = {}
     try:
@@ -57,7 +56,6 @@ def main():
 
     norm_counts = {norm(k): (k, v) for k, v in counts.items()}
 
-    # Bouw de kaarten op (als platte string)
     html_cards = []
     for t in tools:
         hit = norm_counts.get(norm(t["name"]))
@@ -80,23 +78,21 @@ def main():
         html_cards.append(card_html)
     
     cards_str = "\n".join(html_cards)
-    block_str = f"{START_MARKER}\n{cards_str}\n                {END_MARKER}"
 
-    # Open index.html
     index_path = root / "index.html"
     index_content = index_path.read_text(encoding="utf-8")
     
-    if START_MARKER not in index_content or END_MARKER not in index_content:
-        raise SystemExit("Error: START of END marker ontbreekt in index.html!")
-
-    # Vlijmscherp splitsen op de markers (100% veilig)
-    pre_part = index_content.split(START_MARKER)[0]
-    post_part = index_content.split(END_MARKER)[-1]
+    # VEILIGE STRING FIND (Geen kans op wiskundige/regex errors meer)
+    start_idx = index_content.find("erin staat.")
+        
+    end_idx = index_content.find("-->", end_str_idx) + 3
     
-    # Zeker weten dat alles platte tekst is om errors te voorkomen
+    pre_part = index_content[:start_idx]
+    post_part = index_content[end_idx:]
+    
+    block_str = f"\n{cards_str}\n"
     new_index = str(pre_part) + str(block_str) + str(post_part)
 
-    # Schema.org JSON updaten
     items = [
         {
             "@type": "ListItem",
@@ -127,7 +123,6 @@ def main():
         schema_block = f"{schema_start_tag}\n{itemlist}\n{schema_end_tag}"
         new_index = str(s_pre) + str(schema_block) + str(s_post)
 
-    # Schrijf weg naar index.html
     if new_index != index_content:
         index_path.write_text(new_index, encoding="utf-8")
         print(f"✅ index.html bijgewerkt: {len(tools)} kaarten geplaatst.")
