@@ -2,13 +2,13 @@
 """Bouwt de statische toolkaarten in index.html uit data.json, met een filter voor Marketing & Sales."""
 import html
 import json
-import re
 import urllib.request
 from pathlib import Path
 from urllib.parse import quote
+import sys
 
-START_MARKER = ""
-END_MARKER = ""
+START_MARKER = "<!-- TOOLS:START -->"
+END_MARKER = "<!-- TOOLS:END -->"
 AIBM_B2B = "https://aibuildermarketplace.com/b2b/"
 
 CARD = """\
@@ -31,11 +31,13 @@ REVIEWS_ROW = """
                     <a href="{reviews_url}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-indigo-300 hover:text-white mb-3 transition-colors"><span class="text-emerald-400">&#9679;</span> {n} in-depth review{s} &rarr;</a>"""
 
 def norm(name):
+    import re
     return re.sub(r"[^a-z0-9]", "", name.lower())
 
 def fetch_review_counts(root):
     cache = root / "reviews.json"
     try:
+        import re
         with urllib.request.urlopen(AIBM_B2B, timeout=20) as r:
             page = r.read().decode("utf-8", errors="replace")
         counts = {}
@@ -54,7 +56,6 @@ def main():
     root = Path(__file__).parent
     all_tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
     
-    # DE POORTWACHTER: Alleen specifieke categorieën
     target_cats = {"Growth & Revenue", "Communication & Voice", "CRM"}
     tools = [t for t in all_tools if t.get("category") in target_cats]
     tools.sort(key=lambda t: t["name"].lower())
@@ -64,8 +65,7 @@ def main():
 
     def reviews_row(t):
         hit = counts.get(norm(t["name"]))
-        if not hit:
-            return ""
+        if not hit: return ""
         aibm_name, n = hit
         url = f"{AIBM_B2B}?tool={quote(aibm_name)}"
         return REVIEWS_ROW.format(reviews_url=url, n=n, s="" if n == 1 else "s")
@@ -88,14 +88,21 @@ def main():
 
     index = (root / "index.html").read_text(encoding="utf-8")
     
-    # KOGELVRIJE REGEX: Zoekt flexibel naar de start en end tags
-    pattern = re.compile(r".*?", re.S | re.I)
+    # KOGELVRIJ VERVANGEN (Voorkomt de 2.7GB string bug)
+    start_str = "<!-- TOOLS:START"
+    end_str = "TOOLS:END -->"
+    start_idx = index.find(start_str)
+    end_idx = index.rfind(end_str)
     
-    block = f"{START_MARKER}\n{cards}\n                {END_MARKER}"
-    if not pattern.search(index):
+    if start_idx == -1 or end_idx == -1 or end_idx < start_idx:
         raise SystemExit("Markers TOOLS:START/TOOLS:END niet gevonden in index.html")
-    new_index = pattern.sub(lambda m: block, index)
+        
+    block = f"{START_MARKER}\n{cards}\n                {END_MARKER}"
+    
+    # Vervang exact van de allereerste start marker tot en met de allerlaatste end marker
+    new_index = index[:start_idx] + block + index[end_idx + len(end_str):]
 
+    # JSON-LD SCHEMA VERVANGEN
     items = [
         {
             "@type": "ListItem",
@@ -118,12 +125,17 @@ def main():
         },
         ensure_ascii=False,
     )
-    new_index = re.sub(
-        r'(<script type="application/ld\+json" id="itemlist-schema">).*?(</script>)',
-        lambda m: m.group(1) + itemlist + m.group(2),
-        new_index,
-        flags=re.S,
-    )
+    
+    schema_start = new_index.find('<script type="application/ld+json" id="itemlist-schema">')
+    if schema_start != -1:
+        schema_end = new_index.find('</script>', schema_start)
+        if schema_end != -1:
+            schema_block = f'<script type="application/ld+json" id="itemlist-schema">\n{itemlist}\n'
+            new_index = new_index[:schema_start] + schema_block + new_index[schema_end:]
+
+    # EXTRA BEVEILIGING: Controleer of het bestand niet gigantisch is geworden
+    if len(new_index) > 5 * 1024 * 1024: # Groter dan 5MB
+        raise SystemExit(f"Fout: index.html is onverklaarbaar groot geworden ({len(new_index)/1024/1024:.2f} MB). Gestopt om GitHub crash te voorkomen.")
 
     if new_index != index:
         (root / "index.html").write_text(new_index, encoding="utf-8")
