@@ -24,15 +24,14 @@ CARD = """\
                 <div class="tool-card group bg-slate-900/40 p-6 rounded-xl border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 transition-all duration-300 flex flex-col h-full shadow-lg shadow-black/20" data-category="{category_attr}">
                     <div class="flex items-start justify-between mb-5">
                         <div class="w-12 h-12 rounded-lg bg-white p-1.5 border border-slate-700 shadow-sm flex items-center justify-center overflow-hidden">
-                            <img src="https://www.google.com/s2/favicons?domain={domain}&amp;sz=128" alt="{name} logo" class="w-full h-full object-contain" loading="lazy" width="48" height="48">
+                            <img src="https://logo.clearbit.com/{domain}" alt="{name} logo" class="w-full h-full object-contain" loading="lazy" width="48" height="48" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain={domain}&amp;sz=128'">
                         </div>
                         <span class="text-[10px] uppercase font-mono tracking-widest text-indigo-400 bg-indigo-950/40 px-2.5 py-1 rounded border border-indigo-900/30 text-right max-w-[60%]">{category}</span>
                     </div>
                     <h3 class="font-bold text-xl text-white group-hover:text-indigo-400 transition-colors mb-3">{name}</h3>{reviews_row}
                     <p class="text-sm text-slate-400 leading-relaxed mb-6 flex-grow">{desc}</p>
-                    <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="text-sm font-medium text-slate-300 hover:text-white flex items-center justify-between w-full mt-auto border-t border-slate-800/60 pt-4 group/link">
-                        <span>View Software</span>
-                        <span class="text-indigo-500 group-hover/link:translate-x-1 transition-transform">&rarr;</span>
+                    <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta mt-auto inline-flex items-center justify-center gap-2 w-full bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-sm px-4 py-2.5 rounded-lg transition-colors">
+                        <span>Visit {name}</span><span aria-hidden="true">&rarr;</span>
                     </a>
                 </div>"""
 
