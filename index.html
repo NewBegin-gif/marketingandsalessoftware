@@ -91,6 +91,7 @@
             </p>
             <p class="mt-4 text-sm"><a href="finder.html" class="text-indigo-300 underline">Try the 20-second Tool Finder →</a> <span class="text-slate-600 mx-2">·</span> <a href="deals.html" class="text-indigo-300 underline">Browse current deals →</a></p>
             
+            <div class="max-w-md mx-auto mb-6"><input id="tool-search" type="search" oninput="searchTools(this.value)" placeholder="Search tools by name or what they do…" aria-label="Search tools" class="w-full px-5 py-3 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-indigo-500 backdrop-blur-sm"></div>
             <div class="flex flex-wrap justify-center gap-3 md:gap-4" id="filter-buttons">
                 <button onclick="filterTools('All')" class="cat-btn active px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">All Tools</button>
                 <button onclick="filterTools('Growth & Revenue')" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Growth & Revenue</button>

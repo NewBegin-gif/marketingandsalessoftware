@@ -32,6 +32,37 @@ const categoryInfo = {
     }
 };
 
+// Zoek × categorie: substring-match op naam (h3) + beschrijving (p) + categorie.
+let _cat = 'All', _q = '';
+function _cardMatch(card) {
+    const okCat = _cat === 'All' || card.dataset.category === _cat;
+    if (!_q) return okCat;
+    const txt = (((card.querySelector('h3') || {}).innerText || '') + ' ' +
+                 ((card.querySelector('p') || {}).innerText || '') + ' ' +
+                 (card.dataset.category || '')).toLowerCase();
+    return okCat && txt.indexOf(_q) >= 0;
+}
+function applyGrid() {
+    const grid = document.getElementById('marketplace-grid');
+    if (!grid) return;
+    let total = 0;
+    grid.querySelectorAll('.tool-card').forEach(card => {
+        const ok = _cardMatch(card);
+        card.style.display = ok ? '' : 'none';
+        if (ok) total++;
+    });
+    let nr = document.getElementById('osm-no-results');
+    if (!nr) {
+        nr = document.createElement('div');
+        nr.id = 'osm-no-results';
+        nr.className = 'col-span-full text-center text-slate-500 py-8';
+        nr.textContent = 'No tools match your search.';
+        grid.appendChild(nr);
+    }
+    nr.style.display = total ? 'none' : '';
+}
+function searchTools(q) { _q = (q || '').trim().toLowerCase(); applyGrid(); }
+
 document.addEventListener("DOMContentLoaded", () => {
     // Diepe link zoals /#Growth%20%26%20Revenue direct openen
     const fromHash = decodeURIComponent(window.location.hash.slice(1));
@@ -61,11 +92,9 @@ function filterTools(category, updateHash = true) {
         cardElement.style.opacity = 1;
     }, 150);
 
-    // 3. Statische kaarten tonen/verbergen
-    document.querySelectorAll('#marketplace-grid .tool-card').forEach(card => {
-        const show = category === 'All' || card.dataset.category === category;
-        card.style.display = show ? '' : 'none';
-    });
+    // 3. Categorie-state + grid toepassen (zoekterm × categorie)
+    _cat = category;
+    applyGrid();
 
     // 4. Categorie deelbaar maken via de URL-hash
     if (updateHash) {
