@@ -33,14 +33,37 @@ const categoryInfo = {
 };
 
 // Zoek × categorie: substring-match op naam (h3) + beschrijving (p) + categorie.
-let _cat = 'All', _q = '';
+let _cat = 'All', _q = '', _bundle = null;
+const BUNDLES = {
+ outbound:{label:'Cold Outreach Machine',desc:'Find, enrich and close leads at scale.',tools:['Clay','Reply.io','Close','Salesmessage']},
+ content:{label:'Content & Social',desc:'Create and schedule across every channel.',tools:['Later','SocialBee','AdCreative.ai','Beehiiv']},
+ emailcrm:{label:'Email & CRM',desc:'Capture, nurture and convert from one place.',tools:['Brevo','ActiveCampaign','folk','Nutshell']}
+};
+function _cardName(card){return ((card.querySelector('h3')||{}).innerText||'').trim();}
 function _cardMatch(card) {
-    const okCat = _cat === 'All' || card.dataset.category === _cat;
-    if (!_q) return okCat;
+    const base = _bundle ? (BUNDLES[_bundle].tools.indexOf(_cardName(card)) >= 0)
+                         : (_cat === 'All' || card.dataset.category === _cat);
+    if (!base) return false;
+    if (!_q) return true;
     const txt = (((card.querySelector('h3') || {}).innerText || '') + ' ' +
                  ((card.querySelector('p') || {}).innerText || '') + ' ' +
                  (card.dataset.category || '')).toLowerCase();
-    return okCat && txt.indexOf(_q) >= 0;
+    return txt.indexOf(_q) >= 0;
+}
+function selectBundle(key){
+    _bundle = (_bundle === key) ? null : key;
+    if (_bundle) _cat = 'All';
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', !_bundle && b.innerText === 'All Tools'));
+    document.querySelectorAll('.bundle-btn').forEach(b => {
+        const on = !!_bundle && b.dataset.bundle === _bundle;
+        b.classList.toggle('bg-indigo-600', on); b.classList.toggle('text-white', on); b.classList.toggle('border-indigo-500', on);
+    });
+    const info = _bundle ? BUNDLES[_bundle] : categoryInfo['All'];
+    const t = document.getElementById('category-title'), d = document.getElementById('category-desc');
+    if (t) t.innerText = info.label || info.title;
+    if (d) d.innerText = info.desc;
+    applyGrid();
+    if (typeof gtag === 'function') gtag('event', 'bundle_select', { bundle: _bundle || 'cleared' });
 }
 function applyGrid() {
     const grid = document.getElementById('marketplace-grid');
@@ -70,6 +93,8 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function filterTools(category, updateHash = true) {
+    _bundle = null;
+    document.querySelectorAll('.bundle-btn').forEach(b => b.classList.remove('bg-indigo-600','text-white','border-indigo-500'));
     // 1. Actieve knop bijwerken
     document.querySelectorAll('.cat-btn').forEach(btn => {
         if (btn.innerText === category || (category === 'All' && btn.innerText === 'All Tools')) {
