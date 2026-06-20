@@ -42,6 +42,17 @@ REVIEWS_ROW = """
                     <a href="{reviews_url}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-indigo-300 hover:text-white mb-3 transition-colors"><span class="text-emerald-400">&#9679;</span> {n} in-depth review{s} &rarr;</a>"""
 
 
+DIRECT_REVIEWS = {
+    "Aspire": ("https://aibuildermarketplace.com/b2b/aspire-review/", 1),
+    "1Password": ("https://aibuildermarketplace.com/b2b/1password-review/", 1),
+    "Payoneer": ("https://aibuildermarketplace.com/b2b/payoneer-review/", 1),
+    "NordVPN": ("https://aibuildermarketplace.com/b2b/nordvpn-review/", 1),
+    "Apollo": ("https://aibuildermarketplace.com/b2b/apollo-review/", 1),
+    "Streak": ("https://aibuildermarketplace.com/b2b/streak-review/", 1),
+    "AWeber": ("https://aibuildermarketplace.com/b2b/aweber-review/", 1),
+}
+
+
 ALT_ROW = """\n                    <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">{leader}</span></div>"""
 
 
@@ -84,6 +95,10 @@ def main():
     counts = {norm(k): (k, v) for k, v in raw_counts.items()}
 
     def reviews_row(t):
+        direct = DIRECT_REVIEWS.get(t["name"])
+        if direct:
+            url, n = direct
+            return REVIEWS_ROW.format(reviews_url=url, n=n, s="" if n == 1 else "s")
         hit = counts.get(norm(t["name"]))
         if not hit:
             return ""
