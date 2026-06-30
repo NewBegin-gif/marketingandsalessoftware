@@ -94,12 +94,26 @@ def main():
     raw_counts = fetch_review_counts(root)
     counts = {norm(k): (k, v) for k, v in raw_counts.items()}
 
+    aibm_b2b = root.parent / "aibuildermarketplace-main" / "b2b"
+    review_folders = ({p.name for p in aibm_b2b.iterdir() if p.is_dir()}
+                      if aibm_b2b.is_dir() else set())
+
+    def _rslug(name):
+        return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") + "-review"
+
     def reviews_row(t):
+        # directe deeplink als de review als map bestaat (sterker voor SEO; werkt ook
+        # vóór Victors live-index-scan), anders DIRECT_REVIEWS of de ?tool=-filter
+        rs = _rslug(t["name"])
+        hit = counts.get(norm(t["name"]))
+        if rs in review_folders:
+            n = hit[1] if hit else DIRECT_REVIEWS.get(t["name"], (None, 1))[1]
+            return REVIEWS_ROW.format(reviews_url=f"https://aibuildermarketplace.com/b2b/{rs}/",
+                                      n=n, s="" if n == 1 else "s")
         direct = DIRECT_REVIEWS.get(t["name"])
         if direct:
             url, n = direct
             return REVIEWS_ROW.format(reviews_url=url, n=n, s="" if n == 1 else "s")
-        hit = counts.get(norm(t["name"]))
         if not hit:
             return ""
         aibm_name, n = hit
