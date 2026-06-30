@@ -101,6 +101,11 @@ def main():
     def _rslug(name):
         return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") + "-review"
 
+    # ecosysteem-UTM zodat cross-site clicks naar AIBM als 'ecosystem' attribueren
+    # i.p.v. (direct)/(none) in GA4
+    def _eco(u):
+        return u + ("&" if "?" in u else "?") + "utm_source=marketingandsalessoftware&utm_medium=ecosystem"
+
     def reviews_row(t):
         # directe deeplink als de review als map bestaat (sterker voor SEO; werkt ook
         # vóór Victors live-index-scan), anders DIRECT_REVIEWS of de ?tool=-filter
@@ -108,17 +113,17 @@ def main():
         hit = counts.get(norm(t["name"]))
         if rs in review_folders:
             n = hit[1] if hit else DIRECT_REVIEWS.get(t["name"], (None, 1))[1]
-            return REVIEWS_ROW.format(reviews_url=f"https://aibuildermarketplace.com/b2b/{rs}/",
+            return REVIEWS_ROW.format(reviews_url=_eco(f"https://aibuildermarketplace.com/b2b/{rs}/"),
                                       n=n, s="" if n == 1 else "s")
         direct = DIRECT_REVIEWS.get(t["name"])
         if direct:
             url, n = direct
-            return REVIEWS_ROW.format(reviews_url=url, n=n, s="" if n == 1 else "s")
+            return REVIEWS_ROW.format(reviews_url=_eco(url), n=n, s="" if n == 1 else "s")
         if not hit:
             return ""
         aibm_name, n = hit
         url = f"{AIBM_B2B}?tool={quote(aibm_name)}"
-        return REVIEWS_ROW.format(reviews_url=url, n=n, s="" if n == 1 else "s")
+        return REVIEWS_ROW.format(reviews_url=_eco(url), n=n, s="" if n == 1 else "s")
 
     matched = sum(1 for t in tools if norm(t["name"]) in counts)
     print(f"review-koppeling: {matched} van {len(tools)} tools hebben AIBM-reviews")
