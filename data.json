@@ -1783,5 +1783,21 @@
     "desc": "Visual collaboration platform: an infinite online whiteboard for brainstorms, diagrams, workshops and planning — with templates, voting and AI that generates diagrams and summaries, built for real-time and async teamwork.",
     "link": "https://ps.miro-affiliate.com/7itdogqkusu9",
     "replaces": null
+  },
+  {
+    "name": "Circle",
+    "category": "Growth & Revenue",
+    "domain": "circle.so",
+    "desc": "Community platform for creator businesses: discussions, courses, events, memberships and messaging in one branded home — plus a no-code website builder, branded iOS/Android apps, email marketing, a member CRM, built-in payments and AI agents that answer member questions.",
+    "link": "https://try.circle.so/qquhcg8869bj",
+    "replaces": null
+  },
+  {
+    "name": "Survicate",
+    "category": "Operations & Workflow",
+    "domain": "survicate.com",
+    "desc": "Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link — with templates, audience targeting and native integrations that pipe feedback straight into your CRM and analytics.",
+    "link": "https://try.survicate.com/378o5t18zkm2",
+    "replaces": null
   }
 ]
