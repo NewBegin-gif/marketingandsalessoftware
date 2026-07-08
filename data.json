@@ -1411,7 +1411,7 @@
     "name": "Wati",
     "category": "Communication & Voice",
     "domain": "wati.io",
-    "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus an AI agent that answers FAQs, closes routine tickets and routes complex queries to human reps — to manage customer conversations on WhatsApp at scale.",
+    "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification) across WhatsApp, web and voice.",
     "link": "https://affiliates.wati.io/pzd090owoazz"
   },
   {
@@ -1798,6 +1798,22 @@
     "domain": "survicate.com",
     "desc": "Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link — with templates, audience targeting and native integrations that pipe feedback straight into your CRM and analytics.",
     "link": "https://try.survicate.com/378o5t18zkm2",
+    "replaces": null
+  },
+  {
+    "name": "Restream",
+    "category": "Growth & Revenue",
+    "domain": "restream.io",
+    "desc": "Live streaming studio and multistreaming platform: broadcast one show simultaneously to YouTube, LinkedIn, Facebook, Twitch and 30+ destinations from your browser — with guests, local recordings, captions and scheduled broadcasts.",
+    "link": "https://try.restream.io/r09i9uua5ley",
+    "replaces": null
+  },
+  {
+    "name": "Momence",
+    "category": "Operations & Workflow",
+    "domain": "momence.com",
+    "desc": "Booking and business management for class-based businesses — yoga and fitness studios, gyms, salons and schools: scheduling, memberships, payments, marketing automations and a member app in one place.",
+    "link": "https://partners.momence.com/32hj5w4tap0s",
     "replaces": null
   }
 ]
