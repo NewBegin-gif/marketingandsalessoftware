@@ -1,5 +1,19 @@
 [
  {
+  "name": "Convert",
+  "domain": "convert.com",
+  "link": "https://www.convert.com/free-trial/?red=aibuil",
+  "category": "Marketing",
+  "desc": "Privacy-first A/B testing platform \\u2014 experiments, personalization and feature rollouts, priced by tested users, with a 15-day free trial."
+ },
+ {
+  "name": "Alli AI",
+  "domain": "alliai.com",
+  "link": "https://www.alliai.com/?red=aibuil",
+  "category": "Marketing",
+  "desc": "Agency-grade SEO automation \\u2014 bulk on-page optimizations, rules and keyword tracking across multiple sites and CMSes from one dashboard."
+ },
+ {
   "name": "BillingNow",
   "domain": "billingnow.com",
   "link": "https://billingnow.com/?red=aibuil",
@@ -485,7 +499,7 @@
   "name": "Trainual",
   "category": "Operations & Workflow",
   "domain": "trainual.com",
-  "desc": "The ultimate playbook for your business. Centralize your Standard Operating Procedures (SOPs) and automate team onboarding.",
+  "desc": "The ultimate playbook for your business: centralize SOPs and automate team onboarding. Its AI now drafts and updates training docs from your own account context \u2014 meeting notes, recurring questions, blockers \u2014 and runs content-health scans, while the Operations suite adds five-minute weekly team updates.",
   "link": "https://start.trainual.com/nn7g1qwtr0cd"
  },
  {
@@ -1399,7 +1413,7 @@
   "name": "Kit",
   "category": "Growth & Revenue",
   "domain": "kit.com",
-  "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account.",
+  "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account. Recent additions: a new landing-page editor, Dynamic Content, Newsletter Sponsorships, and App Store integrations on paid plans \u2014 SMS via SlickText, Patreon member sync (tier and support data in automations), Luma/Eventbrite event sync, and two-way HubSpot CRM sync on Pro.",
   "link": "https://partners.kit.com/3m3blymamusy",
   "replaces": "Mailchimp"
  },
