@@ -1,5 +1,12 @@
 [
  {
+  "name": "EngageBay",
+  "domain": "engagebay.com",
+  "link": "https://www.awin1.com/cread.php?awinmid=127075&awinaffid=2880219&ued=https%3A%2F%2Fwww.engagebay.com",
+  "category": "Sales & CRM",
+  "desc": "All-in-one CRM, marketing, helpdesk and live chat for small teams \\u2014 a genuine free tier (250 contacts) and per-user suites that undercut the big names."
+ },
+ {
   "name": "World Businesses for Sale",
   "domain": "worldbusinessesforsale.com",
   "link": "https://www.awin1.com/cread.php?awinmid=116725&awinaffid=2880219&ued=https%3A%2F%2Fwww.awin1.com%2Fcread.php%3Fs%3D3960279%26v%3D116725%26q%3D520967%26r%3D2880219",
@@ -929,7 +936,7 @@
   "name": "CallHippo",
   "category": "Communication & Voice",
   "domain": "callhippo.com",
-  "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents \u2014 set up your sales and support calling in minutes.",
+  "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents \u2014 set up your sales and support calling in minutes. Its omnichannel inbox threads voice, WhatsApp, SMS, email, Instagram and Telegram into one conversation per customer.",
   "link": "https://join.callhippo.com/acacgh9cnvo1",
   "replaces": "RingCentral"
  },
