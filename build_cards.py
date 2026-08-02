@@ -84,6 +84,32 @@ def fetch_review_counts(root):
     return {}
 
 
+
+SITEMAP = "https://aibuildermarketplace.com/sitemap.xml"
+
+
+def fetch_review_slugs(root):
+    """Welke reviewpagina's bestaan er op AIBM? Uit de sitemap, met cache.
+
+    Waarom niet het bestandssysteem: de oude aanpak keek naar een map naast
+    deze repo, en die bestaat alleen lokaal. In de GitHub Action was hij altijd
+    leeg, waardoor 310 tools geen deeplink kregen en er maar 7 overbleven uit
+    een handmatig lijstje.
+    """
+    cache = root / "review_slugs.json"
+    try:
+        with urllib.request.urlopen(SITEMAP, timeout=25) as r:
+            xml = r.read().decode("utf-8", errors="replace")
+        slugs = sorted(set(re.findall(r"/b2b/([a-z0-9-]+-review)/", xml)))
+        if slugs:
+            cache.write_text(json.dumps(slugs, indent=1), encoding="utf-8")
+            return set(slugs)
+    except Exception as e:
+        print(f"waarschuwing: sitemap-fetch mislukt ({e}); gebruik cache")
+    if cache.exists():
+        return set(json.loads(cache.read_text(encoding="utf-8")))
+    return set()
+
 def main():
     root = Path(__file__).parent
     tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
@@ -94,9 +120,13 @@ def main():
     raw_counts = fetch_review_counts(root)
     counts = {norm(k): (k, v) for k, v in raw_counts.items()}
 
+    # De reviewpagina's uit de sitemap in plaats van uit een map naast deze
+    # repo — dat pad bestaat niet in de GitHub Action, waardoor hier jarenlang
+    # een lege verzameling stond en vrijwel geen tool een deeplink kreeg.
+    review_folders = fetch_review_slugs(root)
     aibm_b2b = root.parent / "aibuildermarketplace-main" / "b2b"
-    review_folders = ({p.name for p in aibm_b2b.iterdir() if p.is_dir()}
-                      if aibm_b2b.is_dir() else set())
+    if aibm_b2b.is_dir():
+        review_folders |= {p.name for p in aibm_b2b.iterdir() if p.is_dir()}
 
     def _rslug(name):
         return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") + "-review"
