@@ -139,7 +139,7 @@ def fetch_review_slugs(root):
 def main():
     root = Path(__file__).parent
     tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
-    THEME = ("Growth & Revenue", "Communication & Voice")
+    THEME = ("Growth & Revenue", "Communication & Voice", "Marketing", "SEO & Marketing")
     tools = [t for t in tools if t["category"] in THEME]
     tools.sort(key=lambda t: t["name"].lower())
 
