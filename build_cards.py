@@ -64,8 +64,11 @@ CARD = """\
                     </div>
                 </div>"""
 
+# rel=nofollow sinds 12 aug 2026: kruislinks naar een site van dezelfde
+# eigenaar mogen lezers sturen, maar geen ranking-signaal dragen.
+# (Deze kopie miste de patch die osm/build_cards.py wel kreeg.)
 REVIEWS_ROW = """
-                    <a href="{reviews_url}" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-indigo-300 hover:text-white mb-3 transition-colors"><span class="text-emerald-400">&#9679;</span> {n} in-depth review{s} &rarr;</a>"""
+                    <a href="{reviews_url}" target="_blank" rel="nofollow noopener" class="inline-flex items-center gap-1.5 text-xs text-indigo-300 hover:text-white mb-3 transition-colors"><span class="text-emerald-400">&#9679;</span> {n} in-depth review{s} &rarr;</a>"""
 
 
 DIRECT_REVIEWS = {
