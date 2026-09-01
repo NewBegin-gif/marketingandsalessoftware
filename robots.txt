@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://marketingandsalessoftware.com/sitemap.xml
+Sitemap: https://marketingandsalessoftware.com/sitemap-video.xml
