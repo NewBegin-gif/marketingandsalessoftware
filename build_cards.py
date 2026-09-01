@@ -139,12 +139,36 @@ def fetch_review_slugs(root):
         return set(json.loads(cache.read_text(encoding="utf-8")))
     return set()
 
+# ── De snede van deze site ────────────────────────────────────────────────
+# 1 sep 2026, zelfde ingreep als op officesoftwaremarketplace: deze pagina
+# toonde de hele centrale database als kaartenlijst. Zo'n mega-pagina met
+# honderden sponsored links en enkele tientallen woorden per tool is de
+# dunne-affiliate-vorm die AIBM in juni heeft geraakt.
+#
+# Marketing & Sales Software houdt de categorieen die bij zijn naam horen.
+# De rest blijft op aibuildermarketplace.com staan, waar het dossier hoort.
+SNEDE = {
+    "Growth & Revenue",
+    "Marketing",
+    "SEO & Marketing",
+    "Sales & CRM",
+    "E-commerce",
+}
+
+
+def in_snede(t):
+    return t.get("category") in SNEDE
+
+
 def main():
     root = Path(__file__).parent
     tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
     THEME = ("Growth & Revenue", "Communication & Voice", "Marketing", "SEO & Marketing")
     tools = [t for t in tools if t["category"] in THEME]
+    voor = len(tools)
+    tools = [t for t in tools if in_snede(t)]
     tools.sort(key=lambda t: t["name"].lower())
+    print(f"snede: {len(tools)} van {voor} tools")
 
     raw_counts = fetch_review_counts(root)
     counts = {norm(k): (k, v) for k, v in raw_counts.items()}
