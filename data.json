@@ -93,7 +93,7 @@
   "name": "Airia",
   "category": "IT & Productivity",
   "domain": "airia.com",
-  "desc": "Enterprise AI orchestration and governance platform. Build, deploy and govern AI agents and automated workflows at scale — no-code/low-code/pro-code agent builder, connectors and MCP support, with security and governance built into the orchestration layer. Its July 2026 product update, as the vendor describes it, added three governance pieces: Model Change Management, which warns up to 90 days before a model deprecation so agents do not break silently; Advanced Context Engineering, aimed at running governed AI over complex, permission-sensitive enterprise data; and cost controls that watch budgets in real time, attribute spend per provider, model, agent and team, and flag runaway agent loops.",
+  "desc": "Enterprise AI security and governance platform. Read on 1 September 2026, the vendor leads with finding AI rather than building it: Airia says it discovers every AI tool, model, agent and MCP server running across an organisation, including the ones nobody approved, enforces policy at the execution layer before a tool call fires or an email sends, and generates continuous governance documentation mapped to the EU AI Act, NIST AI RMF, SR 11-7, HIPAA, ISO 42001 and SOC 2. The no-code/low-code/pro-code agent builder, connectors and MCP support are still there, but now sit under Optimize alongside model routing and cost controls. Its July 2026 update, as the vendor describes it, added Model Change Management, which warns up to 90 days before a model deprecation so agents do not break silently; Advanced Context Engineering, aimed at running governed AI over complex, permission-sensitive enterprise data; and cost controls that watch budgets in real time, attribute spend per provider, model, agent and team, and flag runaway agent loops.",
   "link": "https://try.airia.com/63zm3k6oocba"
  },
  {
@@ -1414,7 +1414,7 @@
   "name": "lemlist",
   "category": "Growth & Revenue",
   "domain": "lemlist.com",
-  "desc": "Cold email outreach and sales engagement. Build personalized multichannel sequences (email, LinkedIn, calls) with built-in deliverability tools, and trigger them off buying-intent signals its agents surface.",
+  "desc": "Cold email outreach and sales engagement. Build personalized multichannel sequences (email, LinkedIn, calls) with built-in deliverability tools, and trigger them off buying-intent signals its agents surface. An MCP server at app.lemlist.com/mcp puts the same actions inside Claude or ChatGPT: create, update, start and pause campaigns and sequences, manage leads, enrich emails and read team analytics in plain language - the enrichment calls spend credits like anywhere else in the product.",
   "link": "https://get.lemlist.com/ljskyzhjapd2"
  },
  {
@@ -3140,5 +3140,33 @@
   "domain": "rocketreach.co",
   "desc": "Contact data and prospecting: look up verified work and personal email addresses plus direct and mobile phone numbers, filter on 50+ criteria, then push the result into Salesforce, HubSpot, Outreach, Salesloft or Bullhorn. Sequences, an AI email writer and Autopilot jobs that keep a saved search running come with the paid plans, with technographics, org charts and intent topics higher up. The database size (700 million professionals, 60 million companies) and the 98% accuracy figure are RocketReach's own.",
   "link": "https://rocketreachllc.partnerlinks.io/zbrwwmyialrk"
+ },
+ {
+  "name": "Bitscale",
+  "category": "Growth & Revenue",
+  "domain": "bitscale.ai",
+  "desc": "GTM data layer that sits on top of your CRM: enrich records through waterfalls across 100+ B2B sources, track buying signals and run AI agents against the result. Free tier at 200 credits; paid from $349 a month for 15,000.",
+  "link": "https://join.bitscale.ai/wg8nzhxu9cfm"
+ },
+ {
+  "name": "Kiwi Sizing",
+  "category": "E-commerce",
+  "domain": "kiwisizing.com",
+  "desc": "Shopify size charts and AI fit recommendations, built to cut returns. Free plan carries a Kiwi watermark; Premium is $7.99 a month and the only paid tier without order-volume charges. From Staytuned.",
+  "link": "https://try.zenpire.tech/qsuknhy172k1"
+ },
+ {
+  "name": "Evey Events",
+  "category": "E-commerce",
+  "domain": "evey.io",
+  "desc": "Sell event tickets straight from your Shopify store: unlimited events and ticket types, QR check-in, attendee data at checkout. Free to install at $1 per ticket; the monthly plans buy a lower per-ticket rate.",
+  "link": "https://try.zenpire.tech/0q1b2gyoqkyy-8p8s0e"
+ },
+ {
+  "name": "PreOrder Now",
+  "category": "E-commerce",
+  "domain": "zenpire.tech",
+  "desc": "Shopify pre-orders with badges, partial payments, mixed-cart warnings and back-in-stock emails. Priced by which Shopify plan you are on rather than by features: $19.95 on Basic up to $99.95 on Plus.",
+  "link": "https://try.zenpire.tech/t9s08487ewps-0c3lys"
  }
 ]
