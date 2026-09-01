@@ -87,6 +87,10 @@ function applyGrid() {
 function searchTools(q) { _q = (q || '').trim().toLowerCase(); applyGrid(); }
 
 document.addEventListener("DOMContentLoaded", () => {
+    // Alleen op de directorypagina: op een review, hub of tool bestaan de
+    // kaartengrid en de no-results-melding niet, en dan gooit filterTools
+    // vier keer 'null.style'.
+    if (!document.querySelector('article.tool-card, .tool-card')) return;
     // Diepe link zoals /#Growth%20%26%20Revenue direct openen
     const fromHash = decodeURIComponent(window.location.hash.slice(1));
     filterTools(categoryInfo[fromHash] ? fromHash : 'All', false);
