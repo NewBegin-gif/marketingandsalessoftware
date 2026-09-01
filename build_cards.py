@@ -17,6 +17,99 @@ from pathlib import Path
 from urllib.parse import quote
 
 
+
+KAART_CSS = """/* FILTER */
+.filter-bar{display:flex;justify-content:center;gap:8px;margin-bottom:40px;flex-wrap:wrap}
+.filter-btn{background:var(--surface);border:1px solid var(--border);color:var(--text-2);padding:8px 16px;border-radius:999px;font-size:.85rem;font-weight:500;transition:all .15s}
+.filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
+.filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
+/* TOOLS GRID */
+.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
+.tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
+.tool-card.featured{border-color:rgba(59,130,246,.4)}
+.tool-card.featured::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 0% 0%,rgba(59,130,246,.08),transparent 50%);pointer-events:none}
+.tool-card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:14px}
+.tool-card-header{display:flex;align-items:center;gap:14px;min-width:0}
+.tool-logo{width:42px;height:42px;border-radius:10px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:1.1rem;color:#fff;letter-spacing:-.02em}
+.tool-card h3{font-size:1.15rem;font-weight:700;letter-spacing:-.01em}
+.tool-badge{font-size:.66rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;padding:4px 8px;border-radius:6px;white-space:nowrap;flex-shrink:0}
+.tool-badge.pick{background:rgba(59,130,246,.12);color:var(--accent-2);border:1px solid rgba(59,130,246,.25)}
+.tool-badge.deal{background:rgba(34,197,94,.1);color:var(--green);border:1px solid rgba(34,197,94,.22)}
+.tool-rating{display:flex;align-items:center;gap:8px;margin-top:24px;margin-bottom:10px;font-size:.82rem;color:var(--text-2)}
+.tool-rating .stars{color:var(--amber);letter-spacing:1px}
+.tool-desc{color:var(--text-2);font-size:.92rem;line-height:1.6;flex-grow:1;margin-bottom:16px}
+.tool-tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
+.tool-tag{font-size:.72rem;font-weight:500;color:var(--text-3);background:var(--surface-2);border:1px solid var(--border);padding:3px 9px;border-radius:6px}
+.tool-cta-row{display:flex;gap:10px;align-items:center}
+.tool-cta-primary{flex:1;background:var(--text);color:var(--bg);padding:11px 14px;border-radius:9px;font-weight:600;font-size:.88rem;text-align:center;transition:opacity .15s,transform .15s;display:inline-flex;align-items:center;justify-content:center;gap:6px}
+.tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
+.tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.tool-cta-secondary:hover{gap:9px}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.social-grid{grid-template-columns:1fr}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+ .how-grid{grid-template-columns:1fr}
+ .footer-inner{grid-template-columns:1fr 1fr 1fr}
+ .compare-card{grid-template-columns:1fr;text-align:left}}
+@media(max-width:720px){.nav-inner{flex-wrap:nowrap;gap:10px}
+ .nav-links{overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;flex-wrap:nowrap;white-space:nowrap;mask-image:linear-gradient(90deg,#000 88%,transparent)}
+ .nav-links::-webkit-scrollbar{display:none}
+ .nav-links a{font-size:.78rem;margin-left:12px;flex-shrink:0}
+ .nav-links a.nav-cta{display:none}
+ .nav-links .nav-dd{display:contents}
+ .nav-links .nav-dd-toggle{display:none}
+ .nav-links .nav-dd-menu{display:contents !important;position:static;background:none;border:0;box-shadow:none;padding:0;margin:0}
+ .nav-links .nav-dd-menu a{padding:0;border-radius:0;font-size:.78rem;margin-left:12px;flex-shrink:0}
+ .hero{padding:130px 24px 60px}
+ .stats-inner{grid-template-columns:repeat(2,1fr)}
+ .stat-item:nth-child(2){border-right:none}
+ .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
+ .tools-grid,.social-grid{grid-template-columns:1fr}
+ .section{padding:70px 24px 40px}
+ .how-section{padding:70px 24px;margin-top:50px}
+ .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
+ .footer-bottom{flex-direction:column;text-align:center}
+ .cta-inner{padding:44px 24px}
+ .mobile-cta{display:block}
+ body{padding-bottom:76px}
+ .trust-band-inner{font-size:.7rem;gap:14px}}"""
+
+PALET = "--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);"
+
+KNOP = ("filter-btn")
+
+
+def filterknoppen(tools):
+    """De knoppenrij uit dezelfde tools als de kaarten.
+
+    Hardgecodeerd liep hij scheef zodra de snede veranderde: drie knoppen
+    filterden naar nul kaarten en vier aanwezige categorieen hadden er geen.
+    """
+    kl = ("cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 "
+          "bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white "
+          "hover:border-slate-500 transition-all duration-300 backdrop-blur-sm")
+    cats = sorted({t["category"] for t in tools if t.get("category")})
+    rij = [f'<button onclick="filterTools(\'All\')" data-cat="All" '
+           f'class="{kl} active">All Tools</button>']
+    for c in cats:
+        v = html.escape(c, quote=True)
+        rij.append(f'<button onclick="filterTools(\'{v}\')" data-cat="{v}" '
+                   f'class="{kl}">{html.escape(c)}</button>')
+    return "\n                ".join(rij)
+
+
+FILTER_JS = """<script id="aibm-filter">
+window.filterTools = function (c) {
+  document.querySelectorAll('.cat-btn').forEach(function (b) {
+    b.classList.toggle('active', b.dataset.cat === c);
+  });
+  document.querySelectorAll('article.tool-card').forEach(function (k) {
+    k.style.display = (c === 'All' || k.dataset.category === c) ? '' : 'none';
+  });
+};
+</script>"""
+
 def _kaart_desc(t, grens=300):
     """Kaarttekst afklemmen op zinsgrens.
 
@@ -47,22 +140,21 @@ END = "<!-- TOOLS:END -->"
 AIBM_B2B = "https://aibuildermarketplace.com/b2b/"
 
 CARD = """\
-                <div class="tool-card group bg-slate-900/40 p-6 rounded-xl border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 transition-all duration-300 flex flex-col h-full shadow-lg shadow-black/20" data-category="{category_attr}">
-                    <div class="flex items-start justify-between mb-5">
-                        <div class="w-12 h-12 rounded-lg bg-white p-1.5 border border-slate-700 shadow-sm flex items-center justify-center overflow-hidden">
-                            <img src="https://logo.clearbit.com/{domain}" alt="{name} logo" class="w-full h-full object-contain" loading="lazy" width="48" height="48" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain={domain}&amp;sz=128'">
-                        </div>
-                        <span class="text-[10px] uppercase font-mono tracking-widest text-indigo-400 bg-indigo-950/40 px-2.5 py-1 rounded border border-indigo-900/30 text-right max-w-[60%]">{category}</span>
-                    </div>
-                    <h3 class="font-bold text-xl text-white group-hover:text-indigo-400 transition-colors mb-3">{name}</h3>{alt_row}{reviews_row}
-                    <p class="text-sm text-slate-400 leading-relaxed mb-6 flex-grow">{desc}</p>
-                    <div class="mt-auto flex items-center gap-2">
-                    <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta flex-1 inline-flex items-center justify-center gap-2 bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-sm px-4 py-2.5 rounded-lg transition-colors">
-                        <span>Visit {name}</span><span aria-hidden="true">&rarr;</span>
-                    </a>
-                    <button class="shortlist-btn" data-name="{name}" aria-label="Save to shortlist">&#9734;</button>
-                    </div>
-                </div>"""
+<article class="tool-card fade-in" data-category="{category_attr}">
+ <div class="tool-card-top">
+  <div class="tool-card-header">
+   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:5px">
+    <img src="https://logo.clearbit.com/{domain}" alt="{name}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain={domain}&amp;sz=64'">
+   </div>
+   <h3>{name}</h3>
+  </div>
+  <span class="tool-badge pick">{category}</span>
+ </div>{alt_row}{reviews_row}
+ <p class="tool-desc">{desc}</p>
+ <div class="tool-cta-row">
+  <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit {name} <span aria-hidden="true">&rarr;</span></a>
+ </div>
+</article>"""
 
 # rel=nofollow sinds 12 aug 2026: kruislinks naar een site van dezelfde
 # eigenaar mogen lezers sturen, maar geen ranking-signaal dragen.
@@ -244,6 +336,30 @@ def main():
     )
 
     index = (root / "index.html").read_text(encoding="utf-8")
+    # het onaangeroerde origineel bewaren: de injectie hieronder wijzigt
+    # `index`, en dan zou de vergelijking aan het eind zijn eigen
+    # wijziging niet meer zien
+    _origineel = index
+
+    # kaart-CSS van AIBM, in het palet van deze site. Gemarkeerd blok, zodat een
+    # herbouw hem vervangt in plaats van er nog een toe te voegen.
+    _css = (f"<style id=\"aibm-kaarten\">:root{{{PALET}}}\n{KAART_CSS}</style>\n{FILTER_JS}")
+    # eerst alle eerder ingespoten blokken weg, anders stapelen ze op
+    for _pat in (r'<style id="aibm-kaarten">.*?</style>',
+                 r'<script id="aibm-filter">.*?</script>',
+                 r'<script>\s*document\.querySelectorAll\(\'\.filter-btn\'\).*?</script>'):
+        index = re.sub(_pat, "", index, flags=re.S)
+    index = index.replace("</head>", _css + "\n</head>", 1)
+
+    # knoppenrij uit dezelfde tools als de kaarten
+    _knoppen = filterknoppen(tools)
+    # de rij bevat alleen <button>-elementen, dus dit sluit exact af
+    index, _n = re.subn(
+        r'(<div[^>]*id="filter-buttons">)(?:\s*<button\b.*?</button>)+(\s*</div>)',
+        lambda m: m.group(1) + "\n                " + _knoppen + m.group(2),
+        index, count=1, flags=re.S)
+    if not _n:
+        print("  let op: knoppenrij niet vervangen")
     pattern = re.compile(re.escape(START) + ".*?" + re.escape(END), re.S)
     block = f"{START}\n{cards}\n                {END}"
     if not pattern.search(index):
@@ -280,7 +396,7 @@ def main():
         flags=re.S,
     )
 
-    if new_index != index:
+    if new_index != _origineel:
         (root / "index.html").write_text(new_index, encoding="utf-8")
         print(f"index.html bijgewerkt: {len(tools)} kaarten")
     else:
