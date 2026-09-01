@@ -18,6 +18,28 @@ from urllib.parse import quote
 
 
 
+# AIBM zet een KORT label in de badge; die heeft white-space:nowrap, dus een
+# volle categorienaam schuift over de toolnaam heen.
+KORT = {
+    "Financial Operations": "Finance", "Finance & Accounting": "Accounting",
+    "IT & Productivity": "IT", "HR & People": "HR", "Growth & Revenue": "Growth",
+    "Sales & CRM": "CRM", "SEO & Marketing": "SEO", "Customer Support": "Support",
+    "Communication & Voice": "Voice", "Operations & Workflow": "Ops",
+    "Business Operations": "Ops", "Design & Content": "Design",
+    "Content & Media": "Media", "Video & Audio": "Video",
+}
+
+
+def badge(cat):
+    return KORT.get(cat, cat.split("&")[0].strip().split(" ")[0])
+
+
+def tags(cat):
+    """De categorie opgesplitst, zoals AIBM: 'Growth & Revenue' -> Growth, Revenue."""
+    delen = [d.strip() for d in cat.split("&") if d.strip()]
+    return "".join(f'<span class="tool-tag">{html.escape(d)}</span>' for d in delen)
+
+
 KAART_CSS = """/* FILTER */
 .filter-bar{display:flex;justify-content:center;gap:8px;margin-bottom:40px;flex-wrap:wrap}
 .filter-btn{background:var(--surface);border:1px solid var(--border);color:var(--text-2);padding:8px 16px;border-radius:999px;font-size:.85rem;font-weight:500;transition:all .15s}
@@ -73,7 +95,7 @@ KAART_CSS = """/* FILTER */
  .cta-inner{padding:44px 24px}
  .mobile-cta{display:block}
  body{padding-bottom:76px}
- .trust-band-inner{font-size:.7rem;gap:14px}}"""
+ .trust-band-inner{font-size:.7rem;gap:14px}}\n/* zusters: het grid is smaller dan op AIBM (286px tegen ~380px), dus de\n   naam moet kunnen krimpen en afbreken -- anders valt de nowrap-badge er\n   overheen bij lange namen */\n.tool-card-header{min-width:0;flex:1 1 auto}\n.tool-card h3{min-width:0;overflow-wrap:anywhere;hyphens:auto}\n.tool-badge{flex:0 0 auto}\n"""
 
 PALET = "--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);"
 
@@ -148,11 +170,13 @@ CARD = """\
    </div>
    <h3>{name}</h3>
   </div>
-  <span class="tool-badge pick">{category}</span>
+  <span class="tool-badge pick">{badge}</span>
  </div>{alt_row}{reviews_row}
  <p class="tool-desc">{desc}</p>
+ <div class="tool-tags">{tags}</div>
  <div class="tool-cta-row">
   <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit {name} <span aria-hidden="true">&rarr;</span></a>
+  {review_link}
  </div>
 </article>"""
 
@@ -253,9 +277,13 @@ def in_snede(t):
 
 
 EIGEN_REVIEW_ROW = (
-    '<a href="{url}" class="mt-3 inline-flex items-center gap-1 text-xs '
-    'font-medium text-indigo-400 hover:text-indigo-300">Read our {name} '
-    'review &rarr;</a>'
+    '<div class="tool-rating"><span style="color:var(--accent-2)">'
+    '&#9679;</span> our own {name} review</div>'
+)
+
+REVIEW_LINK = (
+    '<a href="{url}"{rel} class="tool-cta-secondary">Review '
+    '<span aria-hidden="true">&rarr;</span></a>'
 )
 
 
@@ -294,6 +322,18 @@ def main():
     def _eco(u):
         return u + ("&" if "?" in u else "?") + "utm_source=marketingandsalessoftware&utm_medium=ecosystem"
 
+    def review_link(t):
+        """De tweede knop in de CTA-rij: naar onze eigen review, of naar AIBM."""
+        _eigen = eigen_review(root, t["name"])
+        if _eigen:
+            return REVIEW_LINK.format(url=_eigen, rel="")
+        rs = _rslug(t["name"])
+        if rs in review_folders:
+            return REVIEW_LINK.format(
+                url=_eco(f"https://aibuildermarketplace.com/b2b/{rs}/"),
+                rel=' target="_blank" rel="nofollow noopener"')
+        return ""
+
     def reviews_row(t):
         # 1 sep 2026: heeft deze site zelf een review, dan wint die. De pagina op
         # AIBM is sindsdien een samenvatting die hierheen canoniekt.
@@ -331,6 +371,9 @@ def main():
             link=html.escape(t["link"], quote=True),
             reviews_row=reviews_row(t),
             alt_row=alt_row_for(t),
+            badge=html.escape(badge(t["category"])),
+            tags=tags(t["category"]),
+            review_link=review_link(t),
         )
         for t in tools
     )
