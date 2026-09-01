@@ -160,6 +160,19 @@ def in_snede(t):
     return t.get("category") in SNEDE
 
 
+EIGEN_REVIEW_ROW = (
+    '<a href="{url}" class="mt-3 inline-flex items-center gap-1 text-xs '
+    'font-medium text-indigo-400 hover:text-indigo-300">Read our {name} '
+    'review &rarr;</a>'
+)
+
+
+def eigen_review(root, naam):
+    """Pad naar onze eigen reviewpagina op deze site, of None."""
+    slug = re.sub(r"[^a-z0-9]+", "-", naam.lower()).strip("-") + "-review"
+    return f"{slug}.html" if (root / f"{slug}.html").is_file() else None
+
+
 def main():
     root = Path(__file__).parent
     tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
@@ -190,6 +203,11 @@ def main():
         return u + ("&" if "?" in u else "?") + "utm_source=marketingandsalessoftware&utm_medium=ecosystem"
 
     def reviews_row(t):
+        # 1 sep 2026: heeft deze site zelf een review, dan wint die. De pagina op
+        # AIBM is sindsdien een samenvatting die hierheen canoniekt.
+        _eigen = eigen_review(root, t["name"])
+        if _eigen:
+            return EIGEN_REVIEW_ROW.format(url=_eigen, name=html.escape(t["name"]))
         # directe deeplink als de review als map bestaat (sterker voor SEO; werkt ook
         # vóór Victors live-index-scan), anders DIRECT_REVIEWS of de ?tool=-filter
         rs = _rslug(t["name"])
