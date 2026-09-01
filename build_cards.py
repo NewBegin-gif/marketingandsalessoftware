@@ -203,7 +203,9 @@ ALT_ROW = """\n                    <div class="text-[11px] text-slate-500 mb-3">
 
 def alt_row_for(t):
     r = t.get("replaces")
-    return ALT_ROW.format(leader=html.escape(r)) if r else ""
+    if not r:
+        return ""
+    return _alt_met_link(ALT_ROW.format(leader=html.escape(r)))
 
 
 def norm(name):
@@ -293,6 +295,35 @@ def eigen_review(root, naam):
     return f"{slug}.html" if (root / f"{slug}.html").is_file() else None
 
 
+def _alt_met_link(html_uit, root=None):
+    """Maak 'Alternative to X' klikbaar als we een review over X hebben.
+
+    Platte tekst is hier zonde: dit is precies de vergelijking waar de lezer
+    naar op zoek is. Alleen linken als de pagina bestaat -- een dode link is
+    erger dan geen link.
+    """
+    m = re.search(r'<span[^>]*>([^<]+)</span>', html_uit)
+    if not m:
+        return html_uit
+    naam = m.group(1).strip()
+    sl = re.sub(r"[^a-z0-9]+", "-", naam.lower()).strip("-") + "-review"
+    hier = Path(__file__).parent / f"{sl}.html"
+    if hier.is_file():
+        doel, rel = f"/{sl}.html", ""
+    elif sl in _AIBM_REVIEWS:
+        doel = f"https://aibuildermarketplace.com/b2b/{sl}/"
+        rel = ' target="_blank" rel="nofollow noopener"'
+    else:
+        return html_uit
+    return html_uit.replace(
+        m.group(0),
+        f'<a href="{doel}"{rel} class="underline decoration-dotted '
+        f'hover:text-indigo-300">{m.group(1)}</a>')
+
+
+_AIBM_REVIEWS = set()
+
+
 def main():
     root = Path(__file__).parent
     tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
@@ -313,6 +344,7 @@ def main():
     aibm_b2b = root.parent / "aibuildermarketplace-main" / "b2b"
     if aibm_b2b.is_dir():
         review_folders |= {p.name for p in aibm_b2b.iterdir() if p.is_dir()}
+    _AIBM_REVIEWS.update(review_folders)
 
     def _rslug(name):
         return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") + "-review"
@@ -335,31 +367,14 @@ def main():
         return ""
 
     def reviews_row(t):
-        # 1 sep 2026: heeft deze site zelf een review, dan wint die. De pagina op
-        # AIBM is sindsdien een samenvatting die hierheen canoniekt.
-        _eigen = eigen_review(root, t["name"])
-        if _eigen:
-            return EIGEN_REVIEW_ROW.format(url=_eigen, name=html.escape(t["name"]))
-        # directe deeplink als de review als map bestaat (sterker voor SEO; werkt ook
-        # vóór Victors live-index-scan), anders DIRECT_REVIEWS of de ?tool=-filter
-        rs = _rslug(t["name"])
-        hit = counts.get(norm(t["name"]))
-        if rs in review_folders:
-            n = hit[1] if hit else DIRECT_REVIEWS.get(t["name"], (None, 1))[1]
-            return REVIEWS_ROW.format(reviews_url=_eco(f"https://aibuildermarketplace.com/b2b/{rs}/"),
-                                      n=n, s="" if n == 1 else "s")
-        direct = DIRECT_REVIEWS.get(t["name"])
-        if direct:
-            url, n = direct
-            return REVIEWS_ROW.format(reviews_url=_eco(url), n=n, s="" if n == 1 else "s")
-        if not hit:
-            return ""
-        aibm_name, n = hit
-        url = f"{AIBM_B2B}?tool={quote(aibm_name)}"
-        return REVIEWS_ROW.format(reviews_url=_eco(url), n=n, s="" if n == 1 else "s")
+        """Leeg: REVIEWTELLER WEG (1 sep 2026).
 
-    matched = sum(1 for t in tools if norm(t["name"]) in counts)
-    print(f"review-koppeling: {matched} van {len(tools)} tools hebben AIBM-reviews")
+        Hier stond "N in-depth reviews". Dat getal kwam uit een cache van een
+        meting die niet meer werkt -- /b2b/ heeft geen data-tool-attributen
+        meer -- en elke tool heeft er sowieso maar een. De Review-knop in de
+        CTA-rij is de enige link die we nodig hebben.
+        """
+        return ""
 
     cards = "\n".join(
         CARD.format(
