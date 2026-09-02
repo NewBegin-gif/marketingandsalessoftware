@@ -95,7 +95,7 @@ KAART_CSS = """/* FILTER */
  .cta-inner{padding:44px 24px}
  .mobile-cta{display:block}
  body{padding-bottom:76px}
- .trust-band-inner{font-size:.7rem;gap:14px}}\n/* zusters: het grid is smaller dan op AIBM (286px tegen ~380px), dus de\n   naam moet kunnen krimpen en afbreken -- anders valt de nowrap-badge er\n   overheen bij lange namen */\n.tool-card-header{min-width:0;flex:1 1 auto}\n.tool-card h3{min-width:0;overflow-wrap:anywhere;hyphens:auto}\n.tool-badge{flex:0 0 auto}\n\n/* KAART_V2 (2 sep 2026): prijs, adder, best-for en twee knoppen */\n.tool-card{padding:24px 24px 20px;background:linear-gradient(180deg,rgba(255,255,255,.025),rgba(255,255,255,0)) ,var(--surface)}\n.tool-card::after{content:'';position:absolute;inset:0;border-radius:inherit;padding:1px;background:linear-gradient(135deg,rgba(129,140,248,.55),rgba(52,211,153,.25) 45%,rgba(129,140,248,0) 70%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:opacity .3s var(--ease);pointer-events:none}\n.tool-card:hover::after{opacity:1}\n.tool-card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -18px rgba(99,102,241,.35),0 12px 32px -16px rgba(0,0,0,.7)}\n.tc-stripe{position:absolute;left:0;right:0;top:0;height:3px;background:linear-gradient(90deg,var(--accent),rgba(129,140,248,0) 80%);opacity:.9}\n.tool-logo{width:46px;height:46px;border-radius:12px;box-shadow:0 0 0 1px rgba(255,255,255,.08),0 6px 16px -8px rgba(0,0,0,.8)}\n.tc-price{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 10px;margin:2px 0 12px;padding:10px 12px;border-radius:10px;background:rgba(255,255,255,.03);border:1px solid var(--border)}\n.tc-price b{font-size:1.45rem;font-weight:800;letter-spacing:-.02em;color:var(--text);font-variant-numeric:tabular-nums}\n.tc-price span{font-size:.78rem;color:var(--text-3)}\n.tc-price em{font-style:normal;margin-left:auto;font-size:.66rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-3);border:1px solid var(--border);border-radius:999px;padding:2px 8px;white-space:nowrap}\n.tc-pw{font-size:.66rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:2px 8px;white-space:nowrap}\n.tc-pw.held{color:var(--green);border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.08)}\n.tc-pw.increase{color:#fb7185;border:1px solid rgba(251,113,133,.35);background:rgba(251,113,133,.08)}\n.tc-pw.decrease{color:var(--green);border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.08)}\n.tc-pw.restructure,.tc-pw.withdrawn{color:#c4b5fd;border:1px solid rgba(167,139,250,.35);background:rgba(167,139,250,.08)}\n.tool-desc{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:12px}\n.tc-catch,.tc-best{font-size:.84rem;line-height:1.5;margin:0 0 10px;padding-left:12px;border-left:2px solid var(--amber);color:var(--text-2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}\n.tc-best{border-left-color:var(--green)}\n.tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}\n.tc-best b{color:var(--green)}\n.tool-tags{margin-top:auto;margin-bottom:16px}\n.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-wrap:wrap}@container (max-width:330px){.tool-cta-row{flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}}.tool-cta-primary{white-space:nowrap}.tc-catch{-webkit-line-clamp:3}\n.tool-cta-primary{background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;box-shadow:0 8px 20px -10px rgba(99,102,241,.8)}\n.tool-cta-primary:hover{opacity:1;transform:translateY(-1px);box-shadow:0 12px 24px -10px rgba(99,102,241,.9)}\n.tool-cta-review{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:11px 12px;border-radius:9px;border:1px solid var(--border-hi);color:var(--text);font-weight:600;font-size:.86rem;background:rgba(255,255,255,.02);transition:border-color .15s,background .15s,transform .15s;white-space:nowrap}\n.tool-cta-review:hover{border-color:var(--accent);background:rgba(129,140,248,.08);transform:translateY(-1px)}\n"""
+ .trust-band-inner{font-size:.7rem;gap:14px}}\n/* zusters: het grid is smaller dan op AIBM (286px tegen ~380px), dus de\n   naam moet kunnen krimpen en afbreken -- anders valt de nowrap-badge er\n   overheen bij lange namen */\n.tool-card-header{min-width:0;flex:1 1 auto}\n.tool-card h3{min-width:0;overflow-wrap:anywhere;hyphens:auto}\n.tool-badge{flex:0 0 auto}\n\n/* KAART_V2 (2 sep 2026): prijs, adder, best-for en twee knoppen */\n.tool-card{padding:24px 24px 20px;background:linear-gradient(180deg,rgba(255,255,255,.025),rgba(255,255,255,0)) ,var(--surface)}\n.tool-card::after{content:'';position:absolute;inset:0;border-radius:inherit;padding:1px;background:linear-gradient(135deg,rgba(129,140,248,.55),rgba(52,211,153,.25) 45%,rgba(129,140,248,0) 70%);-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:opacity .3s var(--ease);pointer-events:none}\n.tool-card:hover::after{opacity:1}\n.tool-card:hover{transform:translateY(-4px);box-shadow:0 22px 44px -18px rgba(99,102,241,.35),0 12px 32px -16px rgba(0,0,0,.7)}\n.tc-stripe{position:absolute;left:0;right:0;top:0;height:3px;background:linear-gradient(90deg,var(--accent),rgba(129,140,248,0) 80%);opacity:.9}\n.tool-logo{width:46px;height:46px;border-radius:12px;box-shadow:0 0 0 1px rgba(255,255,255,.08),0 6px 16px -8px rgba(0,0,0,.8)}\n.tc-price{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 10px;margin:2px 0 12px;padding:10px 12px;border-radius:10px;background:rgba(255,255,255,.03);border:1px solid var(--border)}\n.tc-price b{font-size:1.45rem;font-weight:800;letter-spacing:-.02em;color:var(--text);font-variant-numeric:tabular-nums}\n.tc-price span{font-size:.78rem;color:var(--text-3)}\n.tc-price em{font-style:normal;margin-left:auto;font-size:.66rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-3);border:1px solid var(--border);border-radius:999px;padding:2px 8px;white-space:nowrap}\n.tc-pw{font-size:.66rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-radius:999px;padding:2px 8px;white-space:nowrap}\n.tc-pw.held{color:var(--green);border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.08)}\n.tc-pw.increase{color:#fb7185;border:1px solid rgba(251,113,133,.35);background:rgba(251,113,133,.08)}\n.tc-pw.decrease{color:var(--green);border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.08)}\n.tc-pw.restructure,.tc-pw.withdrawn{color:#c4b5fd;border:1px solid rgba(167,139,250,.35);background:rgba(167,139,250,.08)}\n.tool-desc{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:12px}\n.tc-catch,.tc-best{font-size:.84rem;line-height:1.5;margin:0 0 10px;padding-left:12px;border-left:2px solid var(--amber);color:var(--text-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}\n.tc-best{border-left-color:var(--green)}\n.tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}\n.tc-best b{color:var(--green)}\n.tool-tags{margin-top:auto;margin-bottom:16px}\n.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-wrap:wrap}@container (max-width:330px){.tool-cta-row{flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}}.tool-cta-primary{white-space:nowrap}.tc-catch{-webkit-line-clamp:3}\n/* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */\n.tool-card{border-left:3px solid var(--border-hi)}\n.tool-card[data-flag=quote_only]{border-left-color:#f59e0b}\n.tool-card[data-flag=per_seat]{border-left-color:#60a5fa}\n.tool-card[data-flag=usage_metered]{border-left-color:#a78bfa}\n.tool-card[data-flag=renewal_jump]{border-left-color:#fb7185}\n.tool-card[data-flag=addons_extra]{border-left-color:#c084fc}\n.tool-card[data-flag=annual_lock]{border-left-color:#f472b6}\n.tool-card[data-flag=free_tier]{border-left-color:#34d399}\n.tc-flags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}\n.tc-flag{font-size:.72rem;font-weight:600;color:var(--text-2);background:rgba(255,255,255,.04);border:1px solid var(--border-hi);border-radius:999px;padding:3px 10px;white-space:nowrap}\n.tc-price .fp{font-size:.8rem;font-weight:700;color:var(--text-3);margin-right:2px}\n.tc-price b.na{font-size:.95rem;font-weight:700;color:var(--text-3)}\n\n.tool-cta-primary{background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;box-shadow:0 8px 20px -10px rgba(99,102,241,.8)}\n.tool-cta-primary:hover{opacity:1;transform:translateY(-1px);box-shadow:0 12px 24px -10px rgba(99,102,241,.9)}\n.tool-cta-review{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:11px 12px;border-radius:9px;border:1px solid var(--border-hi);color:var(--text);font-weight:600;font-size:.86rem;background:rgba(255,255,255,.02);transition:border-color .15s,background .15s,transform .15s;white-space:nowrap}\n.tool-cta-review:hover{border-color:var(--accent);background:rgba(129,140,248,.08);transform:translateY(-1px)}\n"""
 
 PALET = "--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);"
 
@@ -162,7 +162,7 @@ END = "<!-- TOOLS:END -->"
 AIBM_B2B = "https://aibuildermarketplace.com/b2b/"
 
 CARD = """\
-<article class="tool-card fade-in" data-category="{category_attr}">
+<article class="tool-card fade-in" data-category="{category_attr}"{flag_attr}>
  <span class="tc-stripe" aria-hidden="true"></span>
  <div class="tool-card-top">
   <div class="tool-card-header">
@@ -173,7 +173,7 @@ CARD = """\
   </div>
   <span class="tool-badge pick">{badge}</span>
  </div>{alt_row}{reviews_row}{price_row}
- <p class="tool-desc">{desc}</p>{catch_row}{best_row}
+ <p class="tool-desc">{desc}</p>{catch_row}{best_row}{flags_row}
  <div class="tool-tags">{tags}</div>
  <div class="tool-cta-row">
   <a href="{link}" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit {name} <span aria-hidden="true">&rarr;</span></a>
@@ -340,6 +340,8 @@ def _datum_kort(s):
 def price_row(e):
     """Prijsregel met datumchip en Price Watch-stand; leeg zonder prijs."""
     if not e.get("price"):
+        if e.get("price_state") == "quote-only":
+            return '\n <div class="tc-price"><b class="na">quote-only</b><span>no public price list</span></div>'
         if e.get("pw"):
             return (f'\n <div class="tc-price"><span>Price watched monthly</span>'
                     f'<span class="tc-pw {html.escape(e.get("pw_soort", "held"))}">{html.escape(e["pw"])}</span></div>')
@@ -349,8 +351,10 @@ def price_row(e):
         chips += f'<span class="tc-pw {html.escape(e.get("pw_soort", "held"))}">{html.escape(e["pw"])}</span>'
     if e.get("verified"):
         chips += f'<em>read {html.escape(_datum_kort(e["verified"]))}</em>'
-    return (f'\n <div class="tc-price"><b>{html.escape(e["price"])}</b>'
-            f'<span>{html.escape(e.get("price_note", ""))}</span>{chips}</div>')
+    fp = '<span class="fp">from ~</span>' if str(e.get("price_note", "")).startswith("from") else ""
+    note = str(e.get("price_note", "")).replace("from · ", "")
+    return (f'\n <div class="tc-price">{fp}<b>{html.escape(e["price"])}</b>'
+            f'<span>{html.escape(note)}</span>{chips}</div>')
 
 
 def catch_row(e):
@@ -368,6 +372,21 @@ def lees_extra(root):
     if p.is_file():
         return json.loads(p.read_text(encoding="utf-8"))
     return {}
+
+
+# ── KAART_V3: Atlas-chips ──
+def flags_row(e):
+    fl = e.get("flags") or []
+    if not fl:
+        return ""
+    chips = "".join(f'<span class="tc-flag" title="{html.escape(k, quote=True)}">'
+                    f'{html.escape(i)} {html.escape(l)}</span>' for i, l, k in fl)
+    return f'\n <div class="tc-flags">{chips}</div>'
+
+
+def flag_attr(e):
+    fl = e.get("flags") or []
+    return f' data-flag="{html.escape(fl[0][2], quote=True)}"' if fl else ""
 
 
 def main():
@@ -439,6 +458,8 @@ def main():
             price_row=price_row(extra.get(t["name"], {})),
             catch_row=catch_row(extra.get(t["name"], {})),
             best_row=best_row(extra.get(t["name"], {})),
+            flags_row=flags_row(extra.get(t["name"], {})),
+            flag_attr=flag_attr(extra.get(t["name"], {})),
         )
         for t in tools
     )
