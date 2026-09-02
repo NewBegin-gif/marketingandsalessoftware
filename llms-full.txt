@@ -98,8 +98,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kit
 - Review: https://marketingandsalessoftware.com/kit-review.html
-- Verdict: Kit: The free Newsletter plan is $0/mo and covers 1,000 email subscribers.
-- Price: (re-verified 2026-08-09) The free Newsletter plan is $0/mo and covers 1,000 email subscribers, with one basic Visual Automation plus unlimited landing pages, forms and broadcasts. Creator is $39/mo billed monthly, or $33/mo billed yearly ($390 a year, saving $78).
+- Verdict: Kit: The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms.
+- Price: (re-verified 2026-09-02) The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms, unlimited email broadcasts, audience tagging and segmentation, and digital products and subscriptions. Kit renamed the old Newsletter plan to Free and took automation out of it: Visual Automations and email sequences are now Creator-and-above, and Kit's affiliate briefing of 2…
 
 ## Koongo
 - Review: https://marketingandsalessoftware.com/koongo-review.html
