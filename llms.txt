@@ -1,17 +1,94 @@
 # Marketing & Sales Software
 
-> Curated directory of marketing, growth and sales-communication software for revenue teams, drawn from the same vetted database. Last updated 2026-09-01.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 44 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-02.
 
-Reviews are written by Daan: a Dutch former banker (23 years in international finance) who now runs his businesses from Rotterdam, the Netherlands, using the tools he reviews — including a 24/7 crypto trading bot built with Replit's AI agent on Bitvavo's API, and an autonomous AI agent (Victor) that maintains his sites in 35 languages from a Hostinger VPS. Hands-on reviews reflect real, personal use.
+AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
-## Directory
-- [All marketing & sales tools](https://marketingandsalessoftware.com/): the full themed directory
-## Best-of guides
-- [Best CRM software 2026](https://aibuildermarketplace.com/best/crm-software/): Keap, folk, Close compared
-- [Best social media tools 2026](https://aibuildermarketplace.com/best/social-media-tools/): Later, Vista Social, Shorby and more
-## Deeper reviews
-- [AIBuilder Marketplace reviews](https://aibuildermarketplace.com/b2b/): in-depth reviews and comparisons for these tools
-## Machine-readable data (for AI agents & assistants)
-- [Structured JSON catalog](https://marketingandsalessoftware.com/data.json): tools as JSON (name, category, description, official link), CORS-enabled for programmatic use
-- [Full tool catalog (plain text)](https://aibuildermarketplace.com/llms-full.txt): every vetted tool with description and official link
-- Attribution: cite as "AIBuilder Marketplace" (https://aibuildermarketplace.com); links are official vendor sites.
+## Start here
+- [Cost-trap atlas](https://marketingandsalessoftware.com/atlas.html): every tool in this niche with its documented pricing traps
+- [Price Watch](https://marketingandsalessoftware.com/price-watch.html): dated price changes, free-tier cuts and renewal jumps
+- [Straight answers](https://marketingandsalessoftware.com/answers.html): is it worth it, what does it really cost, what is the catch — per tool
+- [Tool finder](https://marketingandsalessoftware.com/finder.html): pick a tool in under a minute
+- [Deals](https://marketingandsalessoftware.com/deals.html): current deals and free trials
+
+## Buying guides (11)
+- [Best AI Email Marketing Tools (2026)](https://marketingandsalessoftware.com/best-ai-email-marketing-tools.html): The best AI email marketing tools in 2026: which ones genuinely cut the rewriting and which to skip. Honest picks from an ex-banker — what e
+- [Best AI SDR Tools for B2B Founders (2026)](https://marketingandsalessoftware.com/best-ai-sdr-tools.html): The best AI SDR and sales-outreach tools in 2026 for founders doing their own outbound — honest picks from an ex-banker.
+- [Best AI Video Tools for Marketing — No Studio Needed (2026)](https://marketingandsalessoftware.com/best-ai-video-tools.html): The best AI video tools in 2026 to make marketing video without a studio: avatars, editing, voiceovers and repurposing.
+- [Best AI Writing Tools for Content That Actually Ranks (2026)](https://marketingandsalessoftware.com/best-ai-writing-tools.html): The best AI writing tools in 2026 for content that ranks — not just text. Honest picks from an ex-banker: research, drafting, SEO and editin
+- [Best CRM for Small Business (2026) | Marketing & Sales Software](https://marketingandsalessoftware.com/best-crm-for-small-business.html): The best CRM for small business in 2026, backed by G2 data: which CRMs set up fastest, pay back soonest, and your team will actually use.
+- [Best CRM Software 2026](https://marketingandsalessoftware.com/best-crm-software.html): Best CRM software for small businesses (2026) — honestly compared by someone who runs his business on these tools.
+- [Best E-commerce Operations Tools 2026](https://marketingandsalessoftware.com/best-ecommerce-operations.html): Best e-commerce operations tools (2026) — honestly compared by someone who runs his business on these tools.
+- [Best Social Media Tools 2026](https://marketingandsalessoftware.com/best-social-media-tools.html): Best social media management tools (2026) — honestly compared by someone who runs his business on these tools.
+- [How to Build a Cold Outreach System That Books Meetings | Marketing & Sales Software](https://marketingandsalessoftware.com/build-cold-outreach-system.html): A step-by-step blueprint for a cold outreach system that lands in the inbox and books meetings: the exact stack (warm-up, lead data, sending
+- [How to Build a Content Engine That Compounds (AI Stack) | Marketing & Sales Software](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
+- [How to Build a Shopify Store That Sells (2026 Stack) | Marketing & Sales Software](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
+
+## Reviews (44) — canonical versions
+- [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
+- [AgencyAnalytics Review (2026): From $20/mo, Checked Aug 2026](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics: The simplified Core plan is ~$20 per client/mo with no clients included in the base. Cost scales linearly with clients.
+- [Aira Review (2026): From €149/mo, Checked Aug 2026](https://marketingandsalessoftware.com/aira-review.html): Aira is €149 per user a month, billed monthly, for the company database, AI prospecting, monitoring and on-demand research.
+- [AISDR Review (2026): From $250/mo, Checked Aug 2026](https://marketingandsalessoftware.com/aisdr-review.html): AISDR: Solo is $250/mo or $2,400/yr for a sales team of one. Autonomous AI outreach is only as good as your targeting, list quality and messaging guar
+- [AltText.ai Review (2026): From $5/mo, Checked Aug 2026](https://marketingandsalessoftware.com/alttext-ai-review.html): AltText.ai: Credit-metered — one credit = one image. The headline ‘5¢ per image’ only holds for a plain JPG in one language.
+- [Amplemarket Review (2026): From $600/mo, Checked Aug 2026](https://marketingandsalessoftware.com/amplemarket-review.html): Amplemarket: The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase.
+- [Atria Review (2026): From $129/mo, Checked Aug 2026](https://marketingandsalessoftware.com/atria-review.html): Atria: Core is $129/mo, a stated $360 saving a year. Its edge is competitor ad intelligence plus creative generation in one place.
+- [BidX Review (2026): Part Published, Part on Quote](https://marketingandsalessoftware.com/bidx-review.html): BidX: €295 for the default report, custom reports quote-only. The number that decides your bill is the one number the page does not print.
+- [Campaign Monitor Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/campaign-monitor-review.html): Campaign Monitor: Contact-based, on three tiers. You pay for contacts, not sends — so a large, quiet list costs the same as a large, active one.
+- [Capsule Review (2026): Free Tier Stops at 250 Contacts](https://marketingandsalessoftware.com/capsule-review.html): Capsule: Four tiers, each quoted per user a month on annual billing. Capsule's simplicity is the product: it deliberately does less than the CRM giant
+- [Close Review (2026): From $1/mo, Checked Aug 2026](https://marketingandsalessoftware.com/close-review.html): Close: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually. The built-in calling is the draw.
+- [Crazy Egg Review (2026): From $29/mo, Checked Aug 2026](https://marketingandsalessoftware.com/crazy-egg-review.html): Crazy Egg: Three plans, all billed annually, with a 30-day free trial and — in the vendor's words — no overages, ever. The entry plan is thin on recor
+- [Dripify Review (2026): Part Published, Part on Quote](https://marketingandsalessoftware.com/dripify-review.html): Dripify: Month to month the same tiers read $59, $79 and $99 per user. Understand what you are buying before the price matters.
+- [Expandi Review (2026): From $99/mo, Checked Aug 2026](https://marketingandsalessoftware.com/expandi-review.html): Expandi: Business is $99 per month month-to-month; paying a year up front takes 20% off, which their own page describes as two months free.
+- [ExpertSender Review (2026): 30,000 Visits Is the Floor](https://marketingandsalessoftware.com/expertsender-review.html): ExpertSender — (2026) Quote-based with a documented floor: their site lists pricing starting around $450/mo, scaling with volume and channels.
+- [Fast Bundle Review (2026): Priced on Your Bundle Sales](https://marketingandsalessoftware.com/fast-bundle-review.html): Fast Bundle: The listing is free to install and shows four tiers. The most important thing about this app is not on its App Store listing.
+- [GrapeLeads Review (2026): $0.56 a Result, Not a Lead](https://marketingandsalessoftware.com/grapeleads-review.html): GrapeLeads: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51).
+- [HubSpot Review (2026): From $7/mo, Checked Aug 2026](https://marketingandsalessoftware.com/hubspot-review.html): HubSpot: Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Three numbers on this pricing page are not what they look like
+- [Kit Review (2026): Free Stops at 1,000 Subscribers](https://marketingandsalessoftware.com/kit-review.html): Kit: The free Newsletter plan is $0/mo and covers 1,000 email subscribers.
+- [Koongo Review (2026): Trial Terms, Price & Limits](https://marketingandsalessoftware.com/koongo-review.html): Koongo: Lite is $39 a month and updates every 6 hours, Starter is $79 and updates every 30 minutes. The headline price is a base, not a bill.
+- [Later Review (2026): Starter Caps at 30 Posts](https://marketingandsalessoftware.com/later-review.html): Later: Starter $18.75/month, Growth $37.50 and Scale $82.50, all billed yearly. The Starter caps are where the price really lives.
+- [Leadfeeder Review (2026): Company Allowance Unpublished](https://marketingandsalessoftware.com/leadfeeder-review.html): Leadfeeder: Lite is free forever with a 14-day full trial, seven days of visitor history and the last 100 companies a month.
+- [lemlist Review (2026): Part Published, Part on Quote](https://marketingandsalessoftware.com/lemlist-review.html): lemlist: No free plan, 14-day trial. The per-seat plus per-email-account model makes total cost unpredictable as you scale.
+- [NiceJob Review (2026): From $75/mo, Checked Aug 2026](https://marketingandsalessoftware.com/nicejob-review.html): NiceJob: Reviews plan about $75/mo and Pro around $125/mo (adds referrals, AI replies, booking reminders). It automates review collection genuinely we
+- [Nutshell Review (2026): The Add-Ons Outgrow the CRM](https://marketingandsalessoftware.com/nutshell-review.html): Nutshell — Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month. Full API access is included on ever
+- [PagePulse Review (2026): $29 Buys Two Pages, Not a Site](https://marketingandsalessoftware.com/pagepulse-review.html): PagePulse — Genuinely free tier: $0 for 1 member and 1 page with unlimited traffic. The tiers gate on two axes at once — members AND tracked pages.
+- [PartnerStack Review (2026): Quote-Only, We Run 58 Programmes](https://marketingandsalessoftware.com/partnerstack-review.html): PartnerStack publishes three plans — Launch, Growth and Enterprise. A record in the Partner API's customers endpoint is a tracked click, not a signup.
+- [Pingtree Review (2026): Trial Terms, Price & Limits](https://marketingandsalessoftware.com/pingtree-review.html): Pingtree: Self Service is “From $199” per month with a free trial included. We get paid whether or not you ever spend a cent with them.
+- [Pipedrive Review (2026): Priced Per Seat, Checked Aug 2026](https://marketingandsalessoftware.com/pipedrive-review.html): Pipedrive: Billed annually they are US$14, US$39, US$59 and US$79 per seat per month. Pipedrive manages what happens after a lead enters your pipeline
+- [Quartile Review (2026): No Price Anywhere on the Site](https://marketingandsalessoftware.com/quartile-review.html): Quartile: Budget for this one from a written quote, because nothing else exists. Everything about the sales motion here is a conversation.
+- [Rank Math Review (2026): PRO Excludes Client Sites](https://marketingandsalessoftware.com/rank-math-review.html): Rank Math: Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT. Don't pay until you hit those.
+- [Reditus Review (2026): Marketplace Needs $4,788/yr Plan](https://marketingandsalessoftware.com/reditus-review.html): Reditus: The published entry plan is Growth at $99/mo billed annually — $1,188 once a year. The advertised $99 is the annual-commitment rate.
+- [Reply.io Review (2026): $89 Buys Unlimited Contacts](https://marketingandsalessoftware.com/reply-io-review.html): Reply.io: Three separate tracks, and the one you pick changes the arithmetic completely. The advertised $89 is the lobby, not the building.
+- [Scarcity.AI Review (2026): Real Data, Tunable Truth](https://marketingandsalessoftware.com/scarcity-ai-review.html): Scarcity.AI: The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores.
+- [Seller Investigators Review (2026): Priced at 25% Commission](https://marketingandsalessoftware.com/seller-investigators-review.html): Seller Investigators: One number, and it is the whole model. Contingency pricing is the honest kind — you pay only out of money that arrived.
+- [Seller Snap Review (2026): Annual Billing, Checked Aug 2026](https://marketingandsalessoftware.com/seller-snap-review.html): Seller Snap: Read them as $15,000 and $30,000 a month. Read the caps before you read the prices, because the caps are what you are actually buying.
+- [Similarweb Review (2026): From $125/Month, Teams Quote-Only](https://marketingandsalessoftware.com/similarweb-review.html): Similarweb: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Intel & SEO & AEO. Similarweb does publish a price.
+- [Spiky.ai Review (2026): Free Tier, Then $15/mo](https://marketingandsalessoftware.com/spiky-ai-review.html): Spiky.ai: On annual billing Plus is $15, Pro $24 and Premium $40 per user per month. The number to check first is the meeting cap, not the price.
+- [Stamped Review (2026): From $18/mo, Checked Aug 2026](https://marketingandsalessoftware.com/stamped-review.html): Stamped: Bundled, all three products came to about $18/month at the 200-order step and $79/month at 1,000 orders. Read the order band, not the headlin
+- [Storista Review (2026): Trial Terms, Price & Limits](https://marketingandsalessoftware.com/storista-review.html): Storista: AI-generated UGC video at roughly $1 to $4 a render, free to start with a $19 a month Pro plan. Same company, same name, unrelated ladders.
+- [Tapita SEO Optimizer Review (2026): A 2.5x Price Spread](https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html): Tapita SEO Optimizer: +$5 on the Shopify Grow plan, +$30 on Advanced and +$60 on Shopify Plus. The price on the listing is a Shopify-Basic price.
+- [TnC Review (2026): The Free Plan Is Dev Stores Only](https://marketingandsalessoftware.com/tnc-review.html): TnC: Development Stores is free and carries every Pro feature.
+- [Uniqode Review (2026): Cancel and the Codes Stop](https://marketingandsalessoftware.com/uniqode-review.html): Uniqode: The plan cards are rendered in the browser and invisible to a non-browser client. The tier jumps are steep and a lot is gated.
+- [ZoomInfo Review (2026): Renewals Rise 10-20% a Year](https://marketingandsalessoftware.com/zoominfo-review.html): ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year, climbing once seats. The contract is the most-cited frustration.
+
+## Free calculators (15)
+- [Free A/B Test Significance Calculator (2026)](https://marketingandsalessoftware.com/tools/ab-test-calculator/)
+- [Free A/B Test Sample Size Calculator (2026)](https://marketingandsalessoftware.com/tools/ab-test-sample-size-calculator/)
+- [Free CAC & LTV Calculator (2026)](https://marketingandsalessoftware.com/tools/cac-ltv-calculator/)
+- [Free Churn Rate Calculator (2026)](https://marketingandsalessoftware.com/tools/churn-rate-calculator/)
+- [Free Cohort Retention & LTV Calculator (2026)](https://marketingandsalessoftware.com/tools/cohort-retention-calculator/)
+- [Free Conversion Rate Calculator (2026)](https://marketingandsalessoftware.com/tools/conversion-rate-calculator/)
+- [Free Discount Calculator (2026)](https://marketingandsalessoftware.com/tools/discount-calculator/)
+- [Free Email Subject Line Tester (2026)](https://marketingandsalessoftware.com/tools/email-subject-line-tester/)
+- [Free Social Media Engagement Rate Calculator (2026)](https://marketingandsalessoftware.com/tools/engagement-rate-calculator/)
+- [Free Keyword Density Analyzer (2026)](https://marketingandsalessoftware.com/tools/keyword-density-analyzer/)
+- [Free Pricing Tier Revenue Calculator (2026)](https://marketingandsalessoftware.com/tools/pricing-tier-calculator/)
+- [Free Readability Checker (Flesch Score, 2026)](https://marketingandsalessoftware.com/tools/readability-checker/)
+- [Free ROAS Calculator (2026)](https://marketingandsalessoftware.com/tools/roas-calculator/)
+- [Free URL Slug Generator (2026)](https://marketingandsalessoftware.com/tools/url-slug-generator/)
+- [Free UTM Link Builder (2026)](https://marketingandsalessoftware.com/tools/utm-builder/)
+
+## Machine-readable
+- [Full review catalog with prices (plain text)](https://marketingandsalessoftware.com/llms-full.txt)
+- [Structured JSON](https://marketingandsalessoftware.com/data.json): tools in this niche as JSON
+- Network: [AIBuilder Marketplace](https://aibuildermarketplace.com) holds the wider catalog (https://aibuildermarketplace.com/llms.txt); this site is the canonical home for the reviews listed above.
+- Attribution: cite as "Marketing & Sales Software" (https://marketingandsalessoftware.com).
