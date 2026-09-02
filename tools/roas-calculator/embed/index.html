@@ -122,7 +122,7 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
 <div><label>Ad spend</label><input type="number" id="ro-s" value="1000" min="0"></div>
 <div><label>Revenue from ads</label><input type="number" id="ro-r" value="4000" min="0"></div></div>
-<div id="ro-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/roas-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="ro-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/roas-calculator/" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function roCalc(){var s=+document.getElementById('ro-s').value,r=+document.getElementById('ro-r').value,o=document.getElementById('ro-out');
 if(!(s>0)){o.innerHTML='<p class="muted">Enter your ad spend.</p>';return;}var roas=r/s;
 o.innerHTML='<p class="big '+(roas>=1?'sig-y':'sig-n')+'">'+roas.toFixed(2)+'x</p><p class="muted">For every 1 spent you earned '+roas.toFixed(2)+'. '+(roas>=4?'Strong.':roas>=1?'Profitable before costs \u2014 check your margin.':'Losing money on ads.')+'</p>';

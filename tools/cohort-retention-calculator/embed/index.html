@@ -124,7 +124,7 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 <div><label>Revenue / user / month ($)</label><input type="number" id="co-arpu" value="50" min="0"></div>
 <div><label>Monthly retention (%)</label><input type="number" id="co-ret" value="90" min="1" max="100"></div></div>
 <div id="co-stats" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(128px,1fr));gap:12px;margin:18px 0"></div>
-<div id="co-chart"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/cohort-retention-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; Cohort Retention & LTV Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="co-chart"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/cohort-retention-calculator/" style="color:#8b93a7;text-decoration:none">&#9889; Cohort Retention & LTV Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function coFmt(x){return x>=1e3?'$'+(x/1e3).toFixed(1)+'k':'$'+Math.round(x);}
 function coCalc(){
 var n=+document.getElementById('co-n').value,arpu=+document.getElementById('co-arpu').value,ret=+document.getElementById('co-ret').value/100;

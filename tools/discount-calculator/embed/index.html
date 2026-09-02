@@ -122,7 +122,7 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
 <div><label>Original price</label><input type="number" id="dc-p" value="80" min="0" step="0.01"></div>
 <div><label>Discount (%)</label><input type="number" id="dc-d" value="25" min="0" max="100"></div></div>
-<div id="dc-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/discount-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; Discount Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="dc-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/discount-calculator/" style="color:#8b93a7;text-decoration:none">&#9889; Discount Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function dcCalc(){var p=+document.getElementById('dc-p').value,d=+document.getElementById('dc-d').value,o=document.getElementById('dc-out');
 var save=p*d/100,final=p-save;
 o.innerHTML='<p class="big sig-y">'+final.toFixed(2)+'</p><p class="muted">sale price \u00b7 you save <b style="color:var(--text)">'+save.toFixed(2)+'</b></p>';

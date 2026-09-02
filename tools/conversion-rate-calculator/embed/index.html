@@ -122,7 +122,7 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
 <div><label>Visitors</label><input type="number" id="cv-v" value="1000" min="1"></div>
 <div><label>Conversions</label><input type="number" id="cv-c" value="35" min="0"></div></div>
-<div id="cv-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/conversion-rate-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; Conversion Rate Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="cv-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/conversion-rate-calculator/" style="color:#8b93a7;text-decoration:none">&#9889; Conversion Rate Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function cvCalc(){var v=+document.getElementById('cv-v').value,c=+document.getElementById('cv-c').value,o=document.getElementById('cv-out');
 if(!(v>0)){o.innerHTML='<p class="muted">Enter your visitors.</p>';return;}var r=c/v*100;
 o.innerHTML='<p class="big">'+r.toFixed(2)+'%</p><p class="muted">conversion rate \u00b7 '+c+' of '+v+' visitors converted.</p>';

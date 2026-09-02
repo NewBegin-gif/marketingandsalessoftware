@@ -125,7 +125,7 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 <div class="row"><div><label>Significance</label><select id="ss-sig"><option value="1.96">95%</option><option value="1.645">90%</option><option value="2.576">99%</option></select></div>
 <div><label>Power</label><select id="ss-pow"><option value="0.84">80%</option><option value="1.28">90%</option></select></div></div>
 <button class="btn" id="ss-go" style="margin-top:14px">Calculate</button>
-<div id="ss-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/ab-test-sample-size-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; A/B Test Sample Size Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="ss-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/ab-test-sample-size-calculator/" style="color:#8b93a7;text-decoration:none">&#9889; A/B Test Sample Size Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function ssCalc(){var p1=(+document.getElementById('ss-base').value)/100,mde=(+document.getElementById('ss-mde').value)/100,
 za=+document.getElementById('ss-sig').value,zb=+document.getElementById('ss-pow').value,o=document.getElementById('ss-out');
 if(!(p1>0&&p1<1&&mde>0)){o.innerHTML='<p class="muted">Enter valid numbers.</p>';return;}

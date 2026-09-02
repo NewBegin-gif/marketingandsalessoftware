@@ -125,7 +125,7 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 <div class="row"><div><label>Revenue / customer / mo</label><input type="number" id="cl-rev" value="50" min="0"></div>
 <div><label>Gross margin (%)</label><input type="number" id="cl-mar" value="80" min="0" max="100"></div>
 <div><label>Avg lifespan (months)</label><input type="number" id="cl-life" value="24" min="1"></div></div>
-<div id="cl-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://aibuildermarketplace.com/tools/cac-ltv-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; CAC & LTV Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<div id="cl-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/cac-ltv-calculator/" style="color:#8b93a7;text-decoration:none">&#9889; CAC & LTV Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
 function clCalc(){var sp=+document.getElementById('cl-spend').value,cu=+document.getElementById('cl-cust').value,rev=+document.getElementById('cl-rev').value,mar=+document.getElementById('cl-mar').value/100,life=+document.getElementById('cl-life').value,o=document.getElementById('cl-out');
 if(!(cu>0)){o.innerHTML='<p class="muted">Enter your number of new customers.</p>';return;}
 var cac=sp/cu,ltv=rev*mar*life,ratio=cac>0?ltv/cac:0,verdict=ratio>=3?'Healthy (3:1+)':ratio>=1?'Thin \u2014 aim for 3:1':'Unsustainable';
