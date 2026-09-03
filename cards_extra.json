@@ -4765,6 +4765,20 @@
   "best": "Stores seeing real fraud or bot traffic that want country, IP, VPN and email-risk rules plus automatic holds on suspicious orders."
  },
  "Seel": {
+  "flags": [
+   [
+    "🔒",
+    "Hidden pricing",
+    "quote_only"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$99",
+  "price_note": "from · per month",
   "catch": "Two things to weigh, and neither is the price you pay — because you do not pay one.",
   "best": "Stores selling final-sale, high-consideration or hard-to-size products, where return anxiety is the thing killing the order."
  },
@@ -7441,5 +7455,29 @@
   "verified": "2026-09-02",
   "catch": "The yearly toggle wears a -20% badge, but the arithmetic on the page is steeper than that: Basic is $13 yearly against $20 monthly (35% less), Essential $56 against $100 (44% less) and Advanced $96 against $200 (52% less).",
   "best": "Teams that need a reusable web scraper or browser bot without writing selectors, want the browsers, residential proxies and CAPTCHA handling managed for them."
+ },
+ "Modge": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "$4",
+  "price_note": "Basic · per month, annual",
+  "verified": "2026-09-03",
+  "catch": "The numbers on Modge's own pages do not agree with each other.",
+  "best": "Desk-bound remote or hybrid teams of a few to a few hundred people who want time tracking, app classification, shift adherence."
  }
 }
