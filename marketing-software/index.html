@@ -23,6 +23,8 @@
   
   <style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');body{font-family:'Inter',sans-serif}/*aibm-nav-align*/.nav-inner,.nav-in,.topnav-inner{box-sizing:border-box;max-width:1180px;margin-left:auto;margin-right:auto;padding-left:24px;padding-right:24px}.nav,.topnav{padding-left:0;padding-right:0}.nav-logo,.logo-t,.topnav-logo{margin-left:0 !important}</style>
 
+
+
 <style id="aibm-kaarten">:root{--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);}
 /* FILTER */
 .filter-bar{display:flex;justify-content:center;gap:8px;margin-bottom:40px;flex-wrap:wrap}
@@ -104,7 +106,7 @@
 .tc-pw.decrease{color:var(--green);border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.08)}
 .tc-pw.restructure,.tc-pw.withdrawn{color:#c4b5fd;border:1px solid rgba(167,139,250,.35);background:rgba(167,139,250,.08)}
 .tool-desc{margin-bottom:12px}
-.tc-catch,.tc-best{font-size:.84rem;line-height:1.5;margin:0 0 10px;padding-left:12px;border-left:2px solid var(--amber);color:var(--text-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.tc-catch,.tc-best{font-size:.84rem;line-height:1.5;margin:0 0 10px;padding-left:12px;border-left:2px solid var(--amber);color:var(--text-2);}
 .tc-best{border-left-color:var(--green)}
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
@@ -141,6 +143,41 @@
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
 .tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
+#marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
+.lg-kop{display:grid;grid-template-columns:200px 150px minmax(0,1fr) 190px 150px;gap:0 22px;position:sticky;top:60px;z-index:5;background:var(--bg);padding:10px 18px 10px 15px;border-bottom:1px solid var(--border);font-size:.66rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--text-3);margin:0}
+article.tool-card.ledger{display:grid;grid-template-columns:200px 150px minmax(0,1fr) 190px 150px;gap:0 22px;align-items:start;padding:20px 18px 20px 15px;border:0;border-bottom:1px solid var(--border);border-left:3px solid var(--border-hi);border-radius:0;background:linear-gradient(90deg,rgba(255,255,255,.015),transparent 40%);box-shadow:none;transform:none;overflow:visible;position:relative}
+article.tool-card.ledger:hover{background:var(--surface);transform:none;box-shadow:none;border-color:var(--border);border-left-color:var(--accent)}
+article.tool-card.ledger::after,article.tool-card.ledger .tc-stripe{display:none}
+article.tool-card.ledger[data-flag=quote_only]{border-left-color:#f59e0b}
+article.tool-card.ledger[data-flag=per_seat]{border-left-color:#60a5fa}
+article.tool-card.ledger[data-flag=usage_metered]{border-left-color:#a78bfa}
+article.tool-card.ledger[data-flag=renewal_jump]{border-left-color:#fb7185}
+article.tool-card.ledger[data-flag=addons_extra]{border-left-color:#c084fc}
+article.tool-card.ledger[data-flag=annual_lock]{border-left-color:#f472b6}
+article.tool-card.ledger[data-flag=free_tier]{border-left-color:#34d399}
+.lg-wie{display:flex;gap:12px;align-items:flex-start;min-width:0}
+.lg-wie .tool-logo{width:44px;height:44px;border-radius:10px;flex:none;box-shadow:0 0 0 1px rgba(255,255,255,.08)}
+.lg-naam{min-width:0}
+.lg-naam h3{margin:0 0 4px;font-size:1.05rem;font-weight:700;line-height:1.2;overflow-wrap:anywhere}
+.lg-naam .tool-badge{display:inline-block;margin:0 0 4px}
+.lg-naam .tc-alt{margin:2px 0 0;min-height:0}
+.lg-prijs .tc-price{margin:0;min-height:0;padding:0;border:0;background:none;display:block}
+.lg-prijs .tc-price b{display:block;font-size:1.45rem;line-height:1.1}.lg-prijs .tc-price b.na{font-size:.86rem;line-height:1.3}
+.lg-prijs .tc-price>span:not(.tc-pw):not(.tc-chips){display:block;font-size:.76rem;margin-top:2px;white-space:normal;overflow:visible}
+.lg-prijs .tc-chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px;min-height:0}
+.lg-prijs .tc-chips em{margin-left:0}
+.lg-oordeel .tool-desc{margin:0 0 8px;min-height:0;font-size:.9rem;line-height:1.55}
+.lg-oordeel .tc-best,.lg-oordeel .tc-catch{margin:0 0 6px;min-height:0;padding-left:0;border-left:0;font-size:.9rem}
+.lg-oordeel .tc-best b,.lg-oordeel .tc-catch b{display:inline-block;min-width:62px;margin-right:8px}
+.lg-signalen .tc-flags{margin:0 0 8px;min-height:0}
+.lg-signalen .tc-coupon{margin:0 0 8px;min-height:0}
+.lg-signalen .tool-tags{margin:0;min-height:0}
+.lg-acties{display:flex;flex-direction:column;gap:7px;margin:0}
+.lg-acties .tool-cta-primary,.lg-acties .tool-cta-review{padding:10px 12px;font-size:.84rem}
+@media(max-width:1024px){.lg-kop{display:none}article.tool-card.ledger{grid-template-columns:1fr 1fr;grid-template-areas:"wie prijs" "oordeel oordeel" "signalen acties";gap:14px 18px}.lg-wie{grid-area:wie}.lg-prijs{grid-area:prijs}.lg-oordeel{grid-area:oordeel}.lg-signalen{grid-area:signalen}.lg-acties{grid-area:acties}}
+@media(max-width:600px){article.tool-card.ledger{grid-template-columns:1fr;grid-template-areas:"wie" "prijs" "oordeel" "signalen" "acties"}}
 /* KAART_V5 */.tc-alt{min-height:18px;margin:0 0 8px;font-size:.72rem;color:var(--text-3)}.tc-alt>div{margin:0!important}
 .tc-price b .fp{font-size:.78rem;font-weight:700;color:var(--text-3);margin-right:3px;letter-spacing:0}
 
@@ -185,623 +222,519 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <section class="py-10">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="tools-grid grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-
-<article class="tool-card fade-in" data-category="Marketing" data-flag="annual_lock">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/alliai.com" alt="Alli AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alliai.com&amp;sz=64'">
-   </div>
-   <h3>Alli AI</h3>
+<div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, dated</span><span>What it does · best for · the catch</span><span>Pricing patterns · reader code</span><span></span></div>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="annual_lock">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/alliai.com" alt="Alli AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alliai.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Alli AI</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$299</b><span>per month</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Agency-grade SEO automation — bulk on-page optimizations, rules and keyword tracking across multiple sites and CMSes from one dashboard.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$299</b><span>per month</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Agency-grade SEO automation — bulk on-page optimizations, rules and keyword tracking across multiple sites and CMSes from one dashboard.</p>
  <p class="tc-best"><b>Best for</b>Consultants and agencies managing SEO across a portfolio of client sites who want bulk on-page changes, optimization rules and keyword tracking from one dashboard.</p>
- <p class="tc-catch"><b>The catch</b>The entry is $299 a month — agency-grade automation priced accordingly — and every tier meters on FOUR axes at once (sites, seats, keywords, pages), so growth on any axis forces the upgrade.</p>
+ <p class="tc-catch"><b>The catch</b>The entry is $299 a month — agency-grade automation priced accordingly — and every tier meters on FOUR axes at once (sites, seats, keywords, pages), so growth on any axis forces the upgrade.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.alliai.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Alli AI <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/alli-ai-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/alttext.ai" alt="AltText.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alttext.ai&amp;sz=64'">
-   </div>
-   <h3>AltText.ai</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/alttext.ai" alt="AltText.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alttext.ai&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>AltText.ai</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$5</b><span>Bronze · /mo</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 26 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Bulk AI alt-text generation for image-heavy sites: crawls your pages or plugs into your CMS (WordPress, Shopify, WooCommerce, Magento, Contentful, DatoCMS) and writes the alt attributes back automatically, in 130+ languages.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$5</b><span>Bronze · /mo</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 26 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Bulk AI alt-text generation for image-heavy sites: crawls your pages or plugs into your CMS (WordPress, Shopify, WooCommerce, Magento, Contentful, DatoCMS) and writes the alt attributes back automatically, in 130+ languages.</p>
  <p class="tc-best"><b>Best for</b>Image-heavy sites that need alt text written back into the CMS automatically: e-commerce catalogues, publishers and long-running blogs on WordPress, Shopify.</p>
- <p class="tc-catch"><b>The catch</b>The headline ‘5¢ per image’ only holds for a plain JPG in one language.</p>
+ <p class="tc-catch"><b>The catch</b>The headline ‘5¢ per image’ only holds for a plain JPG in one language.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://alttext.ai/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit AltText.ai <span aria-hidden="true">&rarr;</span></a>
   <a href="/alttext-ai-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/autowrite.blog" alt="AutoWrite" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=autowrite.blog&amp;sz=64'">
-   </div>
-   <h3>AutoWrite</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/autowrite.blog" alt="AutoWrite" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=autowrite.blog&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>AutoWrite</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$9</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI blog writer for Shopify with SEO scoring, scheduling and publishing. Free plan available. New to the App Store: zero reviews as of 18 Aug 2026.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$9</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI blog writer for Shopify with SEO scoring, scheduling and publishing. Free plan available. New to the App Store: zero reviews as of 18 Aug 2026.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that want to test AI-written blog posts with SEO scoring at no cost, and who treat the output as a first draft rather than as publishable copy.</p>
- <p class="tc-catch"><b>The catch</b>The honest thing to say about this one is that there is nothing to judge yet: on 18 August 2026 the App Store listing showed a rating of 0.0 from zero reviews.</p>
+ <p class="tc-catch"><b>The catch</b>The honest thing to say about this one is that there is nothing to judge yet: on 18 August 2026 the App Store listing showed a rating of 0.0 from zero reviews.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_XXVnQavZ" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit AutoWrite <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/autowrite-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/babylovegrowth.ai" alt="BabyLoveGrowth" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=babylovegrowth.ai&amp;sz=64'">
-   </div>
-   <h3>BabyLoveGrowth</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/babylovegrowth.ai" alt="BabyLoveGrowth" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=babylovegrowth.ai&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>BabyLoveGrowth</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$99</b><span>Grow · /mo billed monthly</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI SEO/GEO content automation — auto-publishes optimized articles, builds backlinks and runs keyword research, aimed at fast hands-off organic growth for lean teams.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$99</b><span>Grow · /mo billed monthly</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI SEO/GEO content automation — auto-publishes optimized articles, builds backlinks and runs keyword research, aimed at fast hands-off organic growth for lean teams.</p>
  <p class="tc-best"><b>Best for</b>Solo founders and lean startups who want hands-off SEO content velocity fast, are comfortable with AI-generated articles at scale.</p>
- <p class="tc-catch"><b>The catch</b>The honest concern here isn&#x27;t the price — it&#x27;s the model.</p>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <p class="tc-catch"><b>The catch</b>The honest concern here isn&#x27;t the price — it&#x27;s the model.</p></div>
+ <div class="lg-signalen">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.babylovegrowth.ai/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit BabyLoveGrowth <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/babylovegrowth-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/breadbutter.io" alt="Bread &amp; Butter" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=breadbutter.io&amp;sz=64'">
-   </div>
-   <h3>Bread &amp; Butter</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/breadbutter.io" alt="Bread &amp; Butter" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=breadbutter.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Bread &amp; Butter</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$49</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Lead-intelligence platform with server-side tracking: captures the full visitor journey from the first visit, then enriches, scores and nurtures the moment someone submits an email — verified identities instead of IP-based company guesses.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$49</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Lead-intelligence platform with server-side tracking: captures the full visitor journey from the first visit, then enriches, scores and nurtures the moment someone submits an email — verified identities instead of IP-based company guesses.</p>
  <p class="tc-best"><b>Best for</b>Marketing and revenue teams that want engaged visitors — people who filled a form or left an email.</p>
- <p class="tc-catch"><b>The catch</b>Two meters to watch: it prices per WEBSITE (multi-site setups multiply the $49) and the AI features run on compute-credit blocks that stack as usage grows.</p>
+ <p class="tc-catch"><b>The catch</b>Two meters to watch: it prices per WEBSITE (multi-site setups multiply the $49) and the AI features run on compute-credit blocks that stack as usage grows.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.breadbutter.io/nz5buw0ecmo8" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Bread &amp; Butter <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/bread-butter-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/cloro.dev" alt="Cloro" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloro.dev&amp;sz=64'">
-   </div>
-   <h3>Cloro</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/cloro.dev" alt="Cloro" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloro.dev&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Cloro</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$30</b><span>Lite · per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">API that reads AI search engines — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$30</b><span>Lite · per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">API that reads AI search engines — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON.</p>
  <p class="tc-best"><b>Best for</b>SEO and marketing teams who need AI-search visibility as structured data.</p>
- <p class="tc-catch"><b>The catch</b>The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.</p>
+ <p class="tc-catch"><b>The catch</b>The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://affiliate.cloro.dev/7s5arpd4jhio" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Cloro <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/cloro-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/convert.com" alt="Convert" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=convert.com&amp;sz=64'">
-   </div>
-   <h3>Convert</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/convert.com" alt="Convert" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=convert.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Convert</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$299</b><span>per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Privacy-first A/B testing platform — experiments, personalization and feature rollouts, priced by tested users. Via our link: an exclusive 30-day full-access trial (standard is 15 days).</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$299</b><span>per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Privacy-first A/B testing platform — experiments, personalization and feature rollouts, priced by tested users. Via our link: an exclusive 30-day full-access trial (standard is 15 days).</p>
  <p class="tc-best"><b>Best for</b>CRO teams running serious A/B and multivariate testing who want a privacy-first, GDPR-friendly alternative to the big experimentation suites.</p>
- <p class="tc-catch"><b>The catch</b>The meter is tested users, and it keeps running: blow past your monthly allowance and overuse blocks land at $399-699 unless you hard-cap them — and every extra custom domain is $1,000 a year.</p>
+ <p class="tc-catch"><b>The catch</b>The meter is tested users, and it keeps running: blow past your monthly allowance and overuse blocks land at $399-699 unless you hard-cap them — and every extra custom domain is $1,000 a year.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.convert.com/free-trial/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Convert <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/convert-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/dondy.net" alt="Dondy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dondy.net&amp;sz=64'">
-   </div>
-   <h3>Dondy</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/dondy.net" alt="Dondy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dondy.net&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Dondy</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$6.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">WhatsApp marketing and support for Shopify on the official WhatsApp Business API: abandoned-cart recovery, campaigns to Shopify segments, automated order messages, a shared inbox and an AI chatbot for sales and support.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$6.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">WhatsApp marketing and support for Shopify on the official WhatsApp Business API: abandoned-cart recovery, campaigns to Shopify segments, automated order messages, a shared inbox and an AI chatbot for sales and support.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores whose customers already live in WhatsApp — much of Europe, Latin America, the Middle East and Asia.</p>
- <p class="tc-catch"><b>The catch</b>The free plan is a chat button.</p>
+ <p class="tc-catch"><b>The catch</b>The free plan is a chat button.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_crZ3TcbF" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Dondy <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/dondy-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/drip.com" alt="Drip" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=drip.com&amp;sz=64'">
-   </div>
-   <h3>Drip</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/drip.com" alt="Drip" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=drip.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Drip</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$39</b><span>2,500 contacts · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Ecommerce email and onsite marketing built around your store&#x27;s order data — segments, abandoned-cart and welcome playbooks, pop-ups and A/B testing, with one-click links to Shopify, WooCommerce and BigCommerce.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$39</b><span>2,500 contacts · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Ecommerce email and onsite marketing built around your store&#x27;s order data — segments, abandoned-cart and welcome playbooks, pop-ups and A/B testing, with one-click links to Shopify, WooCommerce and BigCommerce.</p>
  <p class="tc-best"><b>Best for</b>An online store on Shopify, WooCommerce or BigCommerce that already has order data worth segmenting and wants ecommerce playbooks.</p>
- <p class="tc-catch"><b>The catch</b>The word “unlimited” quietly expires.</p>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <p class="tc-catch"><b>The catch</b>The word “unlimited” quietly expires.</p></div>
+ <div class="lg-signalen">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.drip.com/5jr8q83uwr56" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Drip <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/drip-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/emaillistverify.com" alt="EmailListVerify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=emaillistverify.com&amp;sz=64'">
-   </div>
-   <h3>EmailListVerify</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/emaillistverify.com" alt="EmailListVerify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=emaillistverify.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>EmailListVerify</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Email verification with never-expiring pay-as-you-go credits — bulk list cleaning, real-time API, inbox-placement testing and free DMARC/SPF tools, plus a credit-based email finder.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Email verification with never-expiring pay-as-you-go credits — bulk list cleaning, real-time API, inbox-placement testing and free DMARC/SPF tools, plus a credit-based email finder.</p>
  <p class="tc-best"><b>Best for</b>Teams cleaning real sending lists before campaigns — bulk verification at volume rates, with credits that never expire.</p>
- <p class="tc-catch"><b>The catch</b>The $5 entry pack is the most expensive way to buy: $0.005 per check versus $0.00196 at the 50k tier — a 2.5x spread that rewards guessing your volume upfront.</p>
+ <p class="tc-catch"><b>The catch</b>The $5 entry pack is the most expensive way to buy: $0.005 per check versus $0.00196 at the 50k tier — a 2.5x spread that rewards guessing your volume upfront.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.emaillistverify.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit EmailListVerify <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/emaillistverify-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/geotargetly.com" alt="Geotargetly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=geotargetly.com&amp;sz=64'">
-   </div>
-   <h3>Geotargetly</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/geotargetly.com" alt="Geotargetly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=geotargetly.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Geotargetly</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$9</b><span>Dev · per year</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Geo-targeting toolkit — location-based redirects, content swaps, popups and personalization by country, state and city, priced by traffic volume.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$9</b><span>Dev · per year</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Geo-targeting toolkit — location-based redirects, content swaps, popups and personalization by country, state and city, priced by traffic volume.</p>
  <p class="tc-best"><b>Best for</b>Marketers personalizing redirects, content blocks and popups by visitor location — country to city level — without engineering work.</p>
- <p class="tc-catch"><b>The catch</b>The meter is pageviews, not visitors, and each product consumes its own pageview on the same page visit — so a redirect plus a popup bills twice.</p>
+ <p class="tc-catch"><b>The catch</b>The meter is pageviews, not visitors, and each product consumes its own pageview on the same page visit — so a redirect plus a popup bills twice.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://geotargetly.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Geotargetly <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/geotargetly-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/involve.me" alt="involve.me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=involve.me&amp;sz=64'">
-   </div>
-   <h3>involve.me</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/involve.me" alt="involve.me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=involve.me&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>involve.me</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$49</b><span>per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Interactive funnel builder: quizzes, calculators, assessments and payment pages with built-in email sequences — free tier to start, paid tiers priced by live-funnel count from $19/mo annual.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$49</b><span>per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Interactive funnel builder: quizzes, calculators, assessments and payment pages with built-in email sequences — free tier to start, paid tiers priced by live-funnel count from $19/mo annual.</p>
  <p class="tc-best"><b>Best for</b>Marketers building interactive lead-gen — quizzes, calculators, assessments and payment funnels with built-in email sequences.</p>
- <p class="tc-catch"><b>The catch</b>The tier ladder is really a funnel-and-seat ladder — 3 live funnels on Start evaporates once you run campaigns in parallel, and Start cannot buy extra seats at all, so a second user means the $40 step up to Grow.</p>
+ <p class="tc-catch"><b>The catch</b>The tier ladder is really a funnel-and-seat ladder — 3 live funnels on Start evaporates once you run campaigns in parallel, and Start cannot buy extra seats at all, so a second user means the $40 step up to Grow.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.involve.me/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit involve.me <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/involve-me-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/meeritech.com" alt="Meeri" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=meeritech.com&amp;sz=64'">
-   </div>
-   <h3>Meeri</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/meeritech.com" alt="Meeri" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=meeritech.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Meeri</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$4.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS — no address or phone needed to subscribe, and no commission on recovered revenue. Free for 300 notifications a month; Pro is $4.99.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$4.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS — no address or phone needed to subscribe, and no commission on recovered revenue. Free for 300 notifications a month; Pro is $4.99.</p>
  <p class="tc-best"><b>Best for</b>Small Shopify stores that want a cart-recovery channel which costs almost nothing and takes no commission on what it recovers.</p>
- <p class="tc-catch"><b>The catch</b>Start with the numbers on the vendor&#x27;s own homepage, because they do not match the App Store.</p>
+ <p class="tc-catch"><b>The catch</b>Start with the numbers on the vendor&#x27;s own homepage, because they do not match the App Store.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_vSqzYDCx" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Meeri <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/meeri-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/mktg.ai" alt="Mktg.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=mktg.ai&amp;sz=64'">
-   </div>
-   <h3>Mktg.ai</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/mktg.ai" alt="Mktg.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=mktg.ai&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Mktg.ai</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Always-on AI marketing analyst: unified creative visibility, live performance signals and plain-language questions over your own spend data — no public pricing, demo-first.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Always-on AI marketing analyst: unified creative visibility, live performance signals and plain-language questions over your own spend data — no public pricing, demo-first.</p>
  <p class="tc-best"><b>Best for</b>Marketing teams with real media spend across channels who want an always-on AI analyst.</p>
- <p class="tc-catch"><b>The catch</b>Two honest cautions.</p>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <p class="tc-catch"><b>The catch</b>Two honest cautions.</p></div>
+ <div class="lg-signalen">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://mktg.ai/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Mktg.ai <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/mktg-ai-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/moosend.com" alt="Moosend" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=moosend.com&amp;sz=64'">
-   </div>
-   <h3>Moosend</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/moosend.com" alt="Moosend" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=moosend.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Moosend</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$9</b><span>Pro at 500 contacts · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Email marketing and automation platform — drag-and-drop campaigns, automation workflows, landing pages and subscription forms, priced by contact-list size with a 30-day free trial and pay-as-you-go email credits as an alternative.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$9</b><span>Pro at 500 contacts · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Email marketing and automation platform — drag-and-drop campaigns, automation workflows, landing pages and subscription forms, priced by contact-list size with a 30-day free trial and pay-as-you-go email credits as an alternative.</p>
  <p class="tc-best"><b>Best for</b>Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder.</p>
- <p class="tc-catch"><b>The catch</b>The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts) — Moosend&#x27;s pricing scales with your contact count, so as your list grows the monthly bill climbs with it, and the lowest rate assumes you pay a year up front.</p>
+ <p class="tc-catch"><b>The catch</b>The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts) — Moosend&#x27;s pricing scales with your contact count, so as your list grows the monthly bill climbs with it, and the lowest rate assumes you pay a year up front.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://trymoo.moosend.com/10v55otv87lh" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Moosend <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/moosend-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/getpagepulse.io" alt="PagePulse" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getpagepulse.io&amp;sz=64'">
-   </div>
-   <h3>PagePulse</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/getpagepulse.io" alt="PagePulse" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getpagepulse.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>PagePulse</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$29</b><span>per month</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Per-page site analytics with heatmaps and AI-summarised insights. Free for one member and one page; Starter at $29/month buys one member and two pages.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$29</b><span>per month</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Per-page site analytics with heatmaps and AI-summarised insights. Free for one member and one page; Starter at $29/month buys one member and two pages.</p>
  <p class="tc-best"><b>Best for</b>Solos and small teams who want simple per-page analytics — heatmaps, visitor behavior and AI-summarized insights — with a genuinely free single-page tier to start.</p>
- <p class="tc-catch"><b>The catch</b>The tiers gate on two axes at once — members AND tracked pages — so either one forces the upgrade: Starter buys one person just two pages.</p>
+ <p class="tc-catch"><b>The catch</b>The tiers gate on two axes at once — members AND tracked pages — so either one forces the upgrade: Starter buys one person just two pages.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://getpagepulse.io/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit PagePulse <span aria-hidden="true">&rarr;</span></a>
   <a href="/pagepulse-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/partnerstack.com" alt="PartnerStack" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=partnerstack.com&amp;sz=64'">
-   </div>
-   <h3>PartnerStack</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/partnerstack.com" alt="PartnerStack" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=partnerstack.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>PartnerStack</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">The partner platform we run our own 58 programmes on: affiliate tracking, lead and deal registration, partner payments and a marketplace where B2B partners find you. Quote-only at every tier.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">The partner platform we run our own 58 programmes on: affiliate tracking, lead and deal registration, partner payments and a marketplace where B2B partners find you. Quote-only at every tier.</p>
  <p class="tc-best"><b>Best for</b>B2B SaaS teams that want partner payments, lead and deal registration and a marketplace of active B2B partners in one place.</p>
- <p class="tc-catch"><b>The catch</b>The reporting counts clicks and calls them customers.</p>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <p class="tc-catch"><b>The catch</b>The reporting counts clicks and calls them customers.</p></div>
+ <div class="lg-signalen">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://try.partnerstack.com/oj4obett8k3n" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit PartnerStack <span aria-hidden="true">&rarr;</span></a>
   <a href="/partnerstack-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/pippit.ai" alt="Pippit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pippit.ai&amp;sz=64'">
-   </div>
-   <h3>Pippit</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/pippit.ai" alt="Pippit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pippit.ai&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Pippit</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>€9</b><span>Starter · per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">AI marketing-content maker by CapCut — turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>€9</b><span>Starter · per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">AI marketing-content maker by CapCut — turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card.</p>
  <p class="tc-best"><b>Best for</b>Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything.</p>
- <p class="tc-catch"><b>The catch</b>The meter is credits per attempt, not per usable result — and buyer reviews centre on exactly that.</p>
+ <p class="tc-catch"><b>The catch</b>The meter is credits per attempt, not per usable result — and buyer reviews centre on exactly that.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://pippit.pxf.io/jRBnqn" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Pippit <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/pippit-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/getreditus.com" alt="Reditus" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getreditus.com&amp;sz=64'">
-   </div>
-   <h3>Reditus</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/getreditus.com" alt="Reditus" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getreditus.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Reditus</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Affiliate-program software plus marketplace for B2B SaaS: launch, manage and scale a partner program with tracking, automated payouts and affiliate discovery.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Affiliate-program software plus marketplace for B2B SaaS: launch, manage and scale a partner program with tracking, automated payouts and affiliate discovery.</p>
  <p class="tc-best"><b>Best for</b>B2B SaaS teams with a product-led motion that want to launch an affiliate program and tap an affiliate-discovery network, and are comfortable committing annually.</p>
- <p class="tc-catch"><b>The catch</b>The advertised $99 is the annual-commitment rate — month-to-month is $149.</p>
+ <p class="tc-catch"><b>The catch</b>The advertised $99 is the annual-commitment rate — month-to-month is $149.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.getreditus.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Reditus <span aria-hidden="true">&rarr;</span></a>
   <a href="/reditus-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/seospace.co" alt="SEO Space" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seospace.co&amp;sz=64'">
-   </div>
-   <h3>SEO Space</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/seospace.co" alt="SEO Space" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seospace.co&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>SEO Space</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$33.33</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">SEO tool built exclusively for Squarespace, delivered as a Chrome extension paired with a web dashboard.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$33.33</b><span>per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">SEO tool built exclusively for Squarespace, delivered as a Chrome extension paired with a web dashboard.</p>
  <p class="tc-best"><b>Best for</b>Squarespace freelancers and studios billing for several client sites. Pricing by number of websites rather than per seat.</p>
- <p class="tc-catch"><b>The catch</b>Squarespace has been quietly absorbing the job this tool was invented for.</p>
+ <p class="tc-catch"><b>The catch</b>Squarespace has been quietly absorbing the job this tool was invented for.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.seospace.co/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SEO Space <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/seo-space-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="per_seat">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/serpstat.com" alt="Serpstat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=serpstat.com&amp;sz=64'">
-   </div>
-   <h3>Serpstat</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/serpstat.com" alt="Serpstat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=serpstat.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Serpstat</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$50</b><span>Individual · per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">All-in-one SEO platform — keyword research, competitor analysis, rank tracking, site audit and backlink data — from $50/month on annual billing ($69 month-to-month), with a 7-day trial that takes a card and auto-renews.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$50</b><span>Individual · per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">All-in-one SEO platform — keyword research, competitor analysis, rank tracking, site audit and backlink data — from $50/month on annual billing ($69 month-to-month), with a 7-day trial that takes a card and auto-renews.</p>
  <p class="tc-best"><b>Best for</b>Solo SEOs and small in-house teams who want the whole workflow — keywords, rankings, audit, competitors.</p>
- <p class="tc-catch"><b>The catch</b>The thing you are actually buying is data coverage, and that is the one thing you cannot verify — Serpstat&#x27;s own published figures do not agree with each other.</p>
+ <p class="tc-catch"><b>The catch</b>The thing you are actually buying is data coverage, and that is the one thing you cannot verify — Serpstat&#x27;s own published figures do not agree with each other.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.awin1.com/cread.php?awinmid=122238&amp;awinaffid=2880219" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Serpstat <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/serpstat-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/storista.io" alt="Storista" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storista.io&amp;sz=64'">
-   </div>
-   <h3>Storista</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/storista.io" alt="Storista" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storista.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Storista</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$15</b><span>Basic · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 23 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets — carousels, stories, grids and spotlights — with auto-sync from TikTok and Instagram. Free for 10 videos, $15 for 50, and AI product tagging from $49.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$15</b><span>Basic · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 23 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets — carousels, stories, grids and spotlights — with auto-sync from TikTok and Instagram. Free for 10 videos, $15 for 50, and AI product tagging from $49.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that already produce TikTok or Reels content and want it on the storefront as shoppable video.</p>
- <p class="tc-catch"><b>The catch</b>The first thing to know is that the brand sells two different products, and the one you find by searching the name is not the one this link installs.</p>
+ <p class="tc-catch"><b>The catch</b>The first thing to know is that the brand sells two different products, and the one you find by searching the name is not the one this link installs.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_Koyaq7Kj" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Storista <span aria-hidden="true">&rarr;</span></a>
   <a href="/storista-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="addons_extra">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/surferseo.com" alt="Surfer (SurferSEO)" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=surferseo.com&amp;sz=64'">
-   </div>
-   <h3>Surfer (SurferSEO)</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="addons_extra">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/surferseo.com" alt="Surfer (SurferSEO)" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=surferseo.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Surfer (SurferSEO)</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$49</b><span>Discovery · per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Content optimization against live SERP data, and since 2026 a tracker for how often a brand is cited in AI answers like ChatGPT and Google AI Overviews. Billed yearly at four tiers.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$49</b><span>Discovery · per year</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Content optimization against live SERP data, and since 2026 a tracker for how often a brand is cited in AI answers like ChatGPT and Google AI Overviews. Billed yearly at four tiers.</p>
  <p class="tc-best"><b>Best for</b>Content marketers, SEO specialists and agencies that need on-page optimization against live SERP data and want to start tracking how often they are cited in AI answers.</p>
- <p class="tc-catch"><b>The catch</b>Every tier quotes its monthly rate on annual billing, so the number you see is a year&#x27;s commitment rather than a monthly one.</p>
+ <p class="tc-catch"><b>The catch</b>Every tier quotes its monthly rate on annual billing, so the number you see is a year&#x27;s commitment rather than a monthly one.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://get.surferseo.com/wcvko5qhbzuq" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Surfer (SurferSEO) <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/surfer-surferseo-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="free_tier">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/effectify.io" alt="TiXel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
-   </div>
-   <h3>TiXel</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/effectify.io" alt="TiXel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>TiXel</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>$19.99</b><span>Unlimited Plan · per year</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Shopify app for Meta and TikTok pixels, with unlimited pixels, product-level scoping and server-side Events API tracking on one flat plan.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>$19.99</b><span>Unlimited Plan · per year</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Shopify app for Meta and TikTok pixels, with unlimited pixels, product-level scoping and server-side Events API tracking on one flat plan.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them.</p>
- <p class="tc-catch"><b>The catch</b>The 4.1 rating is the most useful number on this listing, but not for the reason an average usually is.</p>
+ <p class="tc-catch"><b>The catch</b>The 4.1 rating is the most useful number on this listing, but not for the reason an average usually is.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_Iy5GxUnu" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit TiXel <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/tixel-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="usage_metered">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/warmupinbox.com" alt="Warmup Inbox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=warmupinbox.com&amp;sz=64'">
-   </div>
-   <h3>Warmup Inbox</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/warmupinbox.com" alt="Warmup Inbox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=warmupinbox.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>Warmup Inbox</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b><span class="fp">from ~</span>$15</b><span>per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">Standalone email warm-up service — automated inbox warming, deliverability monitoring and integrations for Google, Outlook, Zoho and SendGrid.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b><span class="fp">from ~</span>$15</b><span>per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">Standalone email warm-up service — automated inbox warming, deliverability monitoring and integrations for Google, Outlook, Zoho and SendGrid.</p>
  <p class="tc-best"><b>Best for</b>Outbound teams warming new sending domains and inboxes before campaigns, with integrations across Google, Outlook, Zoho and SendGrid.</p>
- <p class="tc-catch"><b>The catch</b>The pricing is published and readable — three tiers, per inbox, with the yearly total printed next to each.</p>
+ <p class="tc-catch"><b>The catch</b>The pricing is published and readable — three tiers, per inbox, with the yearly total printed next to each.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://www.warmupinbox.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Warmup Inbox <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/warmup-inbox-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card fade-in" data-category="Marketing" data-flag="addons_extra">
- <span class="tc-stripe" aria-hidden="true"></span>
- <div class="tool-card-top">
-  <div class="tool-card-header">
-   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-    <img src="https://logo.clearbit.com/webinargeek.com" alt="WebinarGeek" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=webinargeek.com&amp;sz=64'">
-   </div>
-   <h3>WebinarGeek</h3>
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="addons_extra">
+ <div class="lg-wie">
+  <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
+   <img src="https://logo.clearbit.com/webinargeek.com" alt="WebinarGeek" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=webinargeek.com&amp;sz=64'">
   </div>
-  <span class="tool-badge pick">Marketing</span>
+  <div class="lg-naam"><h3>WebinarGeek</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
- <div class="tc-alt"></div>
- <div class="tc-price"><b>€69</b><span>Premium (50 viewers) · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div>
- <p class="tool-desc">European live and automated webinar platform — viewer-tier pricing, engagement tools, CRM integrations and GDPR-friendly hosting.</p>
+ <div class="lg-prijs">
+ <div class="tc-price"><b>€69</b><span>Premium (50 viewers) · per year</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="lg-oordeel"><p class="tool-desc">European live and automated webinar platform — viewer-tier pricing, engagement tools, CRM integrations and GDPR-friendly hosting.</p>
  <p class="tc-best"><b>Best for</b>Marketing and sales teams running live and automated webinars in Europe who want a polished, GDPR-friendly platform with viewer-tier pricing.</p>
- <p class="tc-catch"><b>The catch</b>The friendly €49 headline is the annual rate for just 50 viewers, and the real cost lives in add-ons: localization, the AI assistant, CRM integrations and extra workspaces are each €20-59 a month on top.</p>
+ <p class="tc-catch"><b>The catch</b>The friendly €49 headline is the annual rate for just 50 viewers, and the real cost lives in add-ons: localization, the AI assistant, CRM integrations and extra workspaces are each €20-59 a month on top.</p></div>
+ <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tool-tags"><span class="tool-tag">Marketing</span></div>
- <div class="tool-cta-row">
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="lg-acties tool-cta-row">
   <a href="https://webinargeek.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit WebinarGeek <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/webinargeek-review/" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
