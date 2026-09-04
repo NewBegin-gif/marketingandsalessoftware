@@ -116,8 +116,8 @@ function filterTools(category, updateHash = true) {
     cardElement.style.opacity = 0;
     setTimeout(() => {
         const info = categoryInfo[category] || categoryInfo['All'];
-        if (titleElement) titleElement.innerText = info.title;
-        if (descElement) descElement.innerText = info.desc;
+        titleElement.innerText = info.title;
+        descElement.innerText = info.desc;
         cardElement.style.opacity = 1;
     }, 150);
 
@@ -130,35 +130,3 @@ function filterTools(category, updateHash = true) {
         history.replaceState(null, '', category === 'All' ? '#' : '#' + encodeURIComponent(category));
     }
 }
-
-// --- infokaart: alleen tonen als er iets gekozen is (4 sep 2026) ---
-// In de openingsstand ('All', geen stack) zei de kaart 'Browsing the full
-// collection' -- een doos van 128px die niets toevoegt boven de resultaten.
-// En zonder eigen regel viel een categorie terug op de All-tekst, dus
-// 'Security' las als 'Explore All Tools'. Beide zijn hier dichtgezet.
-const _extraInfo = {
-    "E-commerce": { title: "E-commerce", desc: "Selling online: storefronts, checkout, shipping and returns. Most take a slice of revenue on top of the monthly fee, and we say how big." },
-    "Growth & Revenue": { title: "Growth & Revenue", desc: "The engines that move the pipeline: marketing automation, outreach, CRM and social. Priced per contact, so growth costs more by design." },
-    "Marketing": { title: "Marketing", desc: "Campaigns, content and analytics. We flag where the contact meter starts and which features only arrive on the annual plan." },
-    "SEO & Marketing": { title: "SEO & Marketing", desc: "Keywords, rankings and content workflows. Credit-based pricing is the norm here, so we count what a month of real use costs." },
-    "Sales & CRM": { title: "Sales & CRM", desc: "Pipelines, outreach and deal tracking. Almost all per seat: check what the cheapest tier locks away before you commit the team." }
-};
-Object.keys(_extraInfo).forEach(k => { if (!categoryInfo[k]) categoryInfo[k] = _extraInfo[k]; });
-
-function _toonInfokaart(category) {
-    const wrap = document.getElementById('category-info-wrap');
-    if (!wrap) return;
-    const leeg = !_bundle && (!category || category === 'All');
-    wrap.style.display = leeg ? 'none' : '';
-}
-
-const _filterTools = filterTools, _selectBundle = selectBundle;
-window.filterTools = function (category, updateHash = true) {
-    _filterTools(category, updateHash);
-    _toonInfokaart(category);
-};
-window.selectBundle = function (key) {
-    _selectBundle(key);
-    _toonInfokaart(_cat);
-};
-document.addEventListener('DOMContentLoaded', () => _toonInfokaart(_cat));
