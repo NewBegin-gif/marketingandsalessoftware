@@ -159,8 +159,6 @@
 
 
 
-
-
 <style id="aibm-kaarten">:root{--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);}
 /* FILTER */
 .filter-bar{display:flex;justify-content:center;gap:8px;margin-bottom:40px;flex-wrap:wrap}
@@ -371,7 +369,25 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
             </p>
             <div class="flex flex-wrap justify-center gap-3 mt-4 mb-2"><a href="finder.html" class="inline-flex items-center gap-2 bg-white text-slate-900 font-semibold px-6 py-3 rounded-full hover:bg-slate-100 transition-colors" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'hero',site:'mss'})">Find your perfect tool in 20 sec <span aria-hidden="true">→</span></a><a href="deals.html" class="inline-flex items-center gap-2 border border-slate-700 text-white font-medium px-6 py-3 rounded-full hover:border-slate-500 transition-colors">Browse current deals <span aria-hidden="true">→</span></a><a href="/guides.html" target="_blank" class="inline-flex items-center gap-2 border border-slate-700 text-white font-medium px-6 py-3 rounded-full hover:border-slate-500 transition-colors" rel="nofollow noopener">🛠️ Build Guides <span aria-hidden="true">→</span></a></div>
             
-                    </div>
+            <div class="max-w-md mx-auto mb-6"><input id="tool-search" type="search" oninput="searchTools(this.value)" placeholder="Search tools by name or what they do…" aria-label="Search tools" class="w-full px-5 py-3 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-indigo-500 backdrop-blur-sm"></div>
+            <div class="flex flex-wrap justify-center items-center gap-2 mb-5" id="bundle-buttons"><span class="text-xs text-slate-500 mr-1">Ready-made stacks:</span><button data-bundle="outbound" onclick="selectBundle('outbound')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">🎯 Cold Outreach Machine</button><button data-bundle="content" onclick="selectBundle('content')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">✍️ Content & Social</button><button data-bundle="emailcrm" onclick="selectBundle('emailcrm')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">✉️ Email & CRM</button></div>
+                <div class="flex flex-wrap justify-center gap-3 md:gap-4" id="filter-buttons">
+                <button onclick="filterTools('All')" data-cat="All" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm active">All Tools</button>
+                <button onclick="filterTools('E-commerce')" data-cat="E-commerce" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">E-commerce</button>
+                <button onclick="filterTools('Growth &amp; Revenue')" data-cat="Growth &amp; Revenue" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Growth &amp; Revenue</button>
+                <button onclick="filterTools('Marketing')" data-cat="Marketing" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Marketing</button>
+                <button onclick="filterTools('SEO &amp; Marketing')" data-cat="SEO &amp; Marketing" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">SEO &amp; Marketing</button>
+                <button onclick="filterTools('Sales &amp; CRM')" data-cat="Sales &amp; CRM" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Sales &amp; CRM</button>
+            </div>
+
+            <div id="category-info-wrap" class="mt-12 max-w-3xl mx-auto min-h-32 flex items-center justify-center">
+                <div id="category-info-card" class="p-6 md:p-8 rounded-2xl bg-gradient-to-b from-slate-800/40 to-slate-900/40 border border-slate-700/50 backdrop-blur-md shadow-2xl relative overflow-hidden transition-opacity duration-300 w-full text-left">
+                    <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-indigo-500 to-purple-500"></div>
+                    <h2 id="category-title" class="text-xl md:text-2xl font-bold text-white mb-2 tracking-tight"></h2>
+                    <p id="category-desc" class="text-base md:text-lg text-slate-300 leading-relaxed font-light"></p>
+                </div>
+            </div>
+        </div>
     </section>
 
     <section id="why-trust" class="py-16 bg-slate-950 border-b border-slate-900">
@@ -405,25 +421,6 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 </style><div class="pw-head"><h2>Vendors raise prices quietly. We write it down.</h2><p style="color:#94a3b8;max-width:760px;margin:0 auto">Every month we archive the pricing page of the 46 tools reviewed on this site, then compare the new capture against the last. Between August 2026 and September 2026, 31 gave a comparable capture: none showed a verified price change, 22 were unchanged to the cent, and 9 changed wording or layout without a price we could confirm moved. Every capture is read by a person before it counts.</p></div><div class="pw-grid"><a class="pwc" href="/leadfeeder-review.html"><span class="k" style="color:#fb7185">PRICE INCREASE</span><b>Leadfeeder</b><span class="pwn"><s>€99</s> &rarr; €113</span><span class="go">Read the review &rarr;</span></a><a class="pwc" href="/aisdr-review.html"><span class="k" style="color:#94a3b8">Held, August 2026 &rarr; September 2026</span><b>AISDR</b><span class="pwn">…from $250/mo - cancel anytime<br><span style="color:#64748b">captured 2026-09-01, same amounts as the month before</span></span><span class="go">Read the review &rarr;</span></a><a class="pwc" href="/adcreative-ai-review.html"><span class="k" style="color:#94a3b8">Held, August 2026 &rarr; September 2026</span><b>AdCreative.ai</b><span class="pwn">Analyze your creative performance…<br><span style="color:#64748b">captured 2026-09-02, same amounts as the month before</span></span><span class="go">Read the review &rarr;</span></a><a class="pwc" href="/alttext-ai-review.html"><span class="k" style="color:#94a3b8">Held, August 2026 &rarr; September 2026</span><b>AltText.ai</b><span class="pwn">…from $5/mo, 25 Images Free<br><span style="color:#64748b">captured 2026-09-01, same amounts as the month before</span></span><span class="go">Read the review &rarr;</span></a></div><div class="pw-cta"><a href="/price-watch.html">See what these vendors changed &rarr;</a></div></section>
 <section class="py-16 bg-slate-950 min-h-[50vh]">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div id="tool-filter" class="max-w-5xl mx-auto text-center mb-14">
-            <div class="max-w-md mx-auto mb-6"><input id="tool-search" type="search" oninput="searchTools(this.value)" placeholder="Search tools by name or what they do…" aria-label="Search tools" class="w-full px-5 py-3 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-indigo-500 backdrop-blur-sm"></div>
-            <div class="flex flex-wrap justify-center items-center gap-2 mb-5" id="bundle-buttons"><span class="text-xs text-slate-500 mr-1">Ready-made stacks:</span><button data-bundle="outbound" onclick="selectBundle('outbound')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">🎯 Cold Outreach Machine</button><button data-bundle="content" onclick="selectBundle('content')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">✍️ Content & Social</button><button data-bundle="emailcrm" onclick="selectBundle('emailcrm')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">✉️ Email & CRM</button></div>
-                <div class="flex flex-wrap justify-center gap-3 md:gap-4" id="filter-buttons">
-                <button onclick="filterTools('All')" data-cat="All" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm active">All Tools</button>
-                <button onclick="filterTools('E-commerce')" data-cat="E-commerce" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">E-commerce</button>
-                <button onclick="filterTools('Growth &amp; Revenue')" data-cat="Growth &amp; Revenue" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Growth &amp; Revenue</button>
-                <button onclick="filterTools('Marketing')" data-cat="Marketing" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Marketing</button>
-                <button onclick="filterTools('Sales &amp; CRM')" data-cat="Sales &amp; CRM" class="cat-btn px-6 py-2.5 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm font-medium text-slate-400 hover:text-white hover:border-slate-500 transition-all duration-300 backdrop-blur-sm">Sales &amp; CRM</button>
-            </div>
-
-            <div id="category-info-wrap" class="mt-12 max-w-3xl mx-auto min-h-32 flex items-center justify-center">
-                <div id="category-info-card" class="p-6 md:p-8 rounded-2xl bg-gradient-to-b from-slate-800/40 to-slate-900/40 border border-slate-700/50 backdrop-blur-md shadow-2xl relative overflow-hidden transition-opacity duration-300 w-full text-left">
-                    <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-indigo-500 to-purple-500"></div>
-                    <h2 id="category-title" class="text-xl md:text-2xl font-bold text-white mb-2 tracking-tight"></h2>
-                    <p id="category-desc" class="text-base md:text-lg text-slate-300 leading-relaxed font-light"></p>
-                </div>
-            </div>
-            </div>
             <!-- AIBM-FREETOOLS:START --><div class="mb-12"><div class="flex items-end justify-between flex-wrap gap-2 mb-1"><h2 class="text-2xl font-bold text-white">Free tools</h2><a href="/tools/" class="text-xs text-indigo-400 hover:text-indigo-300">All 78 free tools &rarr;</a></div><p class="text-slate-400 mb-5 text-sm">No signup, runs in your browser, each with an honest guide &mdash; from <a href="/tools/" class="text-indigo-400 hover:text-indigo-300">AIBuilder Marketplace</a>.</p><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3"><a href="/tools/roas-calculator/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#06b6d4,#0891b2);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M17 7h4v4"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">ROAS Calculator</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Enter ad spend and revenue to get your return on ad spend instantly.</p></div></a><a href="/tools/conversion-rate-calculator/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#06b6d4,#0891b2);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.3" fill="currentColor"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Conversion Rate Calculator</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Enter visitors and conversions to get your conversion rate instantly.</p></div></a><a href="/tools/ab-test-calculator/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#10b981,#059669);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><rect x="5" y="11" width="3" height="7" rx="1"/><rect x="11" y="6" width="3" height="12" rx="1"/><rect x="17" y="9" width="3" height="9" rx="1"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">A/B Test Significance Calculator</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Enter visitors and conversions for each variant to get conversion rates, uplift and stat…</p></div></a><a href="/tools/utm-builder/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#3b82f6,#6366f1);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 15l6-6"/><path d="M11 7l1-1a4 4 0 0 1 6 6l-1 1"/><path d="M13 17l-1 1a4 4 0 0 1-6-6l1-1"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">UTM Link Builder</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Add trackable utm_source, utm_medium and utm_campaign tags to any URL so you can see exa…</p></div></a><a href="/tools/email-subject-line-tester/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#f59e0b,#f97316);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Email Subject Line Tester</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Checks length, word count, emoji, ALL-CAPS and spam-trigger words, with an inbox preview.</p></div></a><a href="https://aibuildermarketplace.com/tools/headline-analyzer/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#a78bfa,#8b5cf6);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h6M7 12h10M7 16h10"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Headline Analyzer</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Score your headline on length, numbers and power words, with tips to make it more clicka…</p></div></a><a href="https://aibuildermarketplace.com/tools/seo-meta-tag-generator/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#a78bfa,#8b5cf6);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">SEO Meta Tag & SERP Preview</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Write your title and meta description with live length checks and a Google search (SERP)…</p></div></a><a href="https://aibuildermarketplace.com/tools/social-media-character-counter/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#a78bfa,#8b5cf6);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-11.3 7.3L4 21l1.7-5.7A8 8 0 1 1 21 12z"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Social Media Character Counter</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">See how your post fits the limits for X, LinkedIn, Instagram, Threads, TikTok and Facebo…</p></div></a></div></div><!-- AIBM-FREETOOLS:END --><div id="marketplace-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
 <!-- TOOLS:START (auto-generated by build_cards.py — niet handmatig bewerken) -->
 <div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, dated</span><span>What it does · best for · the catch</span><span>Pricing patterns · reader code</span><span></span></div>
@@ -528,12 +525,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="agencyanalytics-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/ecommercestorez.us" alt="AgentNest" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecommercestorez.us&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>AgentNest</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>AgentNest</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b>$19</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
@@ -542,7 +539,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>Thirteen days old and no reviews.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_uBscHcSN" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit AgentNest <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/agentnest-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
@@ -2739,12 +2736,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/post-purchase-upsell-hero-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/postscript.io" alt="Postscript" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=postscript.io&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>Postscript</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>Postscript</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
@@ -2753,7 +2750,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>The $0 a month is not free — it carries a $49 monthly minimum spend, which means $49 is your floor whether you send anything or not.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://postscript.partnerlinks.io/wle2bu9y77jv" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Postscript <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/postscript-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
@@ -3263,12 +3260,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/seo-space-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/seomatic.io" alt="SEOmatic" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seomatic.io&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>SEOmatic</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>SEOmatic</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b>$15</b><span>Starter · per year</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
@@ -3277,7 +3274,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>This app is eleven years old and has 114 reviews.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_CVTgz8Zx" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SEOmatic <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/seomatic-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
@@ -3344,12 +3341,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/shorby-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="addons_extra">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/similarweb.com" alt="Similarweb" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=similarweb.com&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>Similarweb</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>Similarweb</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b><span class="fp">from ~</span>$125</b><span>per month</span><span class="tc-chips"><em>read 29 Aug 2026</em></span></div></div>
@@ -3358,7 +3355,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>Similarweb does publish a price — $125 a month for one seat on annual billing, or $199 if you pay monthly.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://similarweb.partnerlinks.io/nikoa7tzrhcs" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Similarweb <span aria-hidden="true">&rarr;</span></a>
   <a href="similarweb-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
@@ -3505,12 +3502,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/stampezee-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/storeseo.com" alt="StoreSEO" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storeseo.com&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>StoreSEO</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>StoreSEO</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b>$14.99</b><span>Lite · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
@@ -3519,7 +3516,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>Know what an SEO app can and cannot do before you buy any tier.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_NhfsK9HT" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit StoreSEO <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/storeseo-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
@@ -3685,12 +3682,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/surveysparrow-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/tapita.io" alt="Tapita AI SEO Blog Builder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapita.io&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>Tapita AI SEO Blog Builder</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>Tapita AI SEO Blog Builder</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b>$9.99</b><span>Pro · per year</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
@@ -3699,18 +3696,18 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>Publishing volume is the trap this tool makes cheap.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_YezE0WYL" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Tapita AI SEO Blog Builder <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/tapita-ai-seo-blog-builder-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/tapita.io" alt="Tapita SEO Optimizer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapita.io&amp;sz=64'">
   </div>
-  <div class="lg-naam"><h3>Tapita SEO Optimizer</h3><span class="tool-badge pick">Marketing</span></div>
+  <div class="lg-naam"><h3>Tapita SEO Optimizer</h3><span class="tool-badge pick">SEO</span></div>
  </div>
  <div class="lg-prijs">
  <div class="tc-price"><b>$9.99</b><span>Basic · per year</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div></div>
@@ -3719,7 +3716,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-catch"><b>The catch</b>The price on the listing is a Shopify-Basic price, and almost nobody reads the line underneath it.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
- <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
+ <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">SEO</span><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_CHreIi9B" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Tapita SEO Optimizer <span aria-hidden="true">&rarr;</span></a>
   <a href="tapita-seo-optimizer-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>

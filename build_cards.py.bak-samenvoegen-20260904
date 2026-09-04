@@ -276,19 +276,6 @@ def in_snede(t):
     return t.get("category") in SNEDE
 
 
-# Bijna-dubbele chips samentrekken (4 sep 2026, Daan: "Finance, Finance &
-# Accounting en Financial Operations zijn hetzelfde onderwerp"). Dit verandert
-# alleen het etiket op de kaart en de chip -- de snede hierboven bepaalt nog
-# steeds welke tool op deze zuster hoort, en het dossier blijft ongemoeid.
-SAMENVOEGEN = {
-    'SEO & Marketing': 'Marketing',
-}
-
-
-def snede_naam(cat):
-    return SAMENVOEGEN.get(cat, cat)
-
-
 EIGEN_REVIEW_ROW = (
     '<div class="tool-rating"><span style="color:var(--accent-2)">'
     '&#9679;</span> our own {name} review</div>'
@@ -424,8 +411,6 @@ def main():
     # De snede is nu de enige keuze.
     voor = len(tools)
     tools = [t for t in tools if in_snede(t)]
-    for t in tools:
-        t["category"] = snede_naam(t.get("category"))
     tools.sort(key=lambda t: t["name"].lower())
     extra = lees_extra(root)
     print(f"snede: {len(tools)} van {voor} tools")
