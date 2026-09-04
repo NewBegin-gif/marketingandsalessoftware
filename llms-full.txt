@@ -114,7 +114,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Later
 - Review: https://marketingandsalessoftware.com/later-review.html
 - Verdict: Later: Starter $18.75/month, Growth $37.50 and Scale $82.50, all billed yearly. The Starter caps are where the price really lives.
-- Price: (re-verified 2026-08-17) Starter $18.75/month, Growth $37.50 and Scale $82.50, all billed yearly, which Later advertises as three months free and 25% off against monthly. There is a limited free plan and a 14-day trial.
+- Price: (re-verified 2026-08-17) Starter $18.75/month, Growth $37.50 and Scale $82.50, all billed yearly, which Later advertises as three months free and 25% off against monthly. Every plan opens with a 14-day trial, and on the page as we read it on 31 August 2026 that trial is the only no-cost route offered: three paid tiers, nothing beneath them, and an FAQ that discusses users per plan rather than any zero-price option.
 
 ## Leadfeeder
 - Review: https://marketingandsalessoftware.com/leadfeeder-review.html
