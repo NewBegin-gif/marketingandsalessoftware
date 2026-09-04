@@ -157,8 +157,6 @@
 
 
 
-
-
 <style id="aibm-kaarten">:root{--bg:#020617;--bg-2:#0b1120;--surface:#0f172a;--surface-2:#1e293b;--border:#1e293b;--border-hi:#334155;--text:#f8fafc;--text-2:#cbd5e1;--text-3:#94a3b8;--accent:#818cf8;--accent-2:#a5b4fc;--green:#34d399;--amber:#fbbf24;--radius:16px;--radius-sm:11px;--max:1200px;--ease:cubic-bezier(.22,.68,.24,1);--shadow-card:0 1px 0 rgba(255,255,255,.035) inset,0 24px 48px -28px rgba(0,0,0,.75);--shadow-pop:0 20px 60px -18px rgba(0,0,0,.8);}
 /* FILTER */
 .filter-bar{display:flex;justify-content:center;gap:8px;margin-bottom:40px;flex-wrap:wrap}
@@ -357,7 +355,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 .znav .links a.cta:hover{filter:brightness(1.08)}
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
-</style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
+</style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/#aibm-gidsen">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
 
     <section class="pt-20 pb-12 lg:pt-24 lg:pb-16 border-b border-slate-900 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-slate-900 via-slate-950 to-slate-950">
         <div class="max-w-5xl mx-auto px-4 text-center">
@@ -367,7 +365,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
             <p class="text-lg text-slate-400 mb-12 leading-relaxed max-w-3xl mx-auto">
                 There is an abundance of software out there, but which ones actually drive traction? We built this high-intent directory to cut through the noise. Discover the exact CRM, automation, and outreach tools you need to optimize your funnel, close more deals, and scale your pipeline.
             </p>
-            <div class="flex flex-wrap justify-center gap-3 mt-4 mb-2"><a href="finder.html" class="inline-flex items-center gap-2 bg-white text-slate-900 font-semibold px-6 py-3 rounded-full hover:bg-slate-100 transition-colors" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'hero',site:'mss'})">Find your perfect tool in 20 sec <span aria-hidden="true">→</span></a><a href="deals.html" class="inline-flex items-center gap-2 border border-slate-700 text-white font-medium px-6 py-3 rounded-full hover:border-slate-500 transition-colors">Browse current deals <span aria-hidden="true">→</span></a><a href="/guides.html" target="_blank" class="inline-flex items-center gap-2 border border-slate-700 text-white font-medium px-6 py-3 rounded-full hover:border-slate-500 transition-colors" rel="nofollow noopener">🛠️ Build Guides <span aria-hidden="true">→</span></a></div>
+            <div class="flex flex-wrap justify-center gap-3 mt-4 mb-2"><a href="finder.html" class="inline-flex items-center gap-2 bg-white text-slate-900 font-semibold px-6 py-3 rounded-full hover:bg-slate-100 transition-colors" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'hero',site:'mss'})">Find your perfect tool in 20 sec <span aria-hidden="true">→</span></a><a href="deals.html" class="inline-flex items-center gap-2 border border-slate-700 text-white font-medium px-6 py-3 rounded-full hover:border-slate-500 transition-colors">Browse current deals <span aria-hidden="true">→</span></a><a href="/#aibm-gidsen" target="_blank" class="inline-flex items-center gap-2 border border-slate-700 text-white font-medium px-6 py-3 rounded-full hover:border-slate-500 transition-colors" rel="nofollow noopener">🛠️ Build Guides <span aria-hidden="true">→</span></a></div>
             
             <div class="max-w-md mx-auto mb-6"><input id="tool-search" type="search" oninput="searchTools(this.value)" placeholder="Search tools by name or what they do…" aria-label="Search tools" class="w-full px-5 py-3 rounded-full border border-slate-700/50 bg-slate-900/50 text-sm text-white placeholder-slate-500 focus:outline-none focus:border-indigo-500 backdrop-blur-sm"></div>
             <div class="flex flex-wrap justify-center items-center gap-2 mb-5" id="bundle-buttons"><span class="text-xs text-slate-500 mr-1">Ready-made stacks:</span><button data-bundle="outbound" onclick="selectBundle('outbound')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">🎯 Cold Outreach Machine</button><button data-bundle="content" onclick="selectBundle('content')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">✍️ Content & Social</button><button data-bundle="emailcrm" onclick="selectBundle('emailcrm')" class="bundle-btn px-4 py-2 rounded-full border border-dashed border-slate-600 text-xs font-semibold text-slate-400 hover:text-white hover:border-indigo-500 transition-all duration-300">✉️ Email & CRM</button></div>
@@ -384,7 +382,36 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                 <div id="category-info-card" class="p-6 md:p-8 rounded-2xl bg-gradient-to-b from-slate-800/40 to-slate-900/40 border border-slate-700/50 backdrop-blur-md shadow-2xl relative overflow-hidden transition-opacity duration-300 w-full text-left">
                     <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-indigo-500 to-purple-500"></div>
                     <h2 id="category-title" class="text-xl md:text-2xl font-bold text-white mb-2 tracking-tight"></h2>
-                    <div class="mt-14 pt-10 border-t border-slate-900">
+                    <p id="category-desc" class="text-base md:text-lg text-slate-300 leading-relaxed font-light"></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- START HERE (decision-first) -->
+    <section id="start-here" class="py-16 bg-slate-950 border-b border-slate-900">
+      <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <p class="text-center text-xs font-semibold tracking-[0.15em] text-indigo-400 uppercase mb-3">Start here</p>
+        <h2 class="text-center text-2xl sm:text-3xl font-bold text-white mb-2 tracking-tight">Not sure where to begin? Pick your situation.</h2>
+        <p class="text-center text-slate-400 mb-10 max-w-xl mx-auto">Three honest paths to the tool that moves revenue — instead of scrolling a wall of options.</p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+          <a href="finder.html" onclick="if(window.gtag)gtag('event','finder_cta_click',{location:'starthere',site:'mss'})" class="group block p-6 rounded-2xl bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 transition-all">
+            <div class="text-2xl mb-3">🔍</div>
+            <h3 class="font-bold text-white text-lg mb-1 group-hover:text-indigo-400 transition-colors">I know roughly what I need &rarr;</h3>
+            <p class="text-sm text-slate-400 leading-relaxed">Answer a few quick questions and get an honest shortlist in 20 seconds.</p>
+          </a>
+          <a href="deals.html" class="group block p-6 rounded-2xl bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 transition-all">
+            <div class="text-2xl mb-3">💸</div>
+            <h3 class="font-bold text-white text-lg mb-1 group-hover:text-indigo-400 transition-colors">I'm hunting a deal &rarr;</h3>
+            <p class="text-sm text-slate-400 leading-relaxed">Current offers and free trials on marketing &amp; sales tools — no fake "exclusive" discounts.</p>
+          </a>
+          <a href="/#aibm-gidsen" class="group block p-6 rounded-2xl bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 transition-all">
+            <div class="text-2xl mb-3">🛠️</div>
+            <h3 class="font-bold text-white text-lg mb-1 group-hover:text-indigo-400 transition-colors">I need a whole funnel &rarr;</h3>
+            <p class="text-sm text-slate-400 leading-relaxed">Not one tool but a complete go-to-market stack, built step by step with honest costs.</p>
+          </a>
+        </div>
+        <div class="mt-14 pt-10 border-t border-slate-900">
           <p class="text-center text-xs font-semibold tracking-[0.15em] text-indigo-400 uppercase mb-6">Why trust this</p>
           <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
             <div class="text-left"><h4 class="font-bold text-white mb-1">Curated, not scraped</h4><p class="text-sm text-slate-400 leading-relaxed">A directory built deliberately by an operator — not an auto-imported list of whatever ranks.</p></div>
@@ -419,7 +446,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/activecampaign.com" alt="ActiveCampaign" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=activecampaign.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=activecampaign.com" alt="ActiveCampaign" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=activecampaign.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>ActiveCampaign</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -440,7 +467,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/adcreative.ai" alt="AdCreative.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=adcreative.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=adcreative.ai" alt="AdCreative.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=adcreative.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AdCreative.ai</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Canva</span></div></div>
@@ -461,7 +488,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/adwisely.com" alt="Adwisely" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=adwisely.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=adwisely.com" alt="Adwisely" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=adwisely.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Adwisely</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -481,7 +508,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/aftersell.app" alt="AfterSell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aftersell.app&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=aftersell.app" alt="AfterSell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aftersell.app&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AfterSell</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -500,7 +527,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/agencyanalytics.com" alt="AgencyAnalytics" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=agencyanalytics.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=agencyanalytics.com" alt="AgencyAnalytics" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=agencyanalytics.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AgencyAnalytics</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="https://aibuildermarketplace.com/b2b/databox-review/" target="_blank" rel="nofollow noopener" class="underline decoration-dotted hover:text-indigo-300">Databox</a></div></div>
@@ -520,7 +547,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/ecommercestorez.us" alt="AgentNest" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecommercestorez.us&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=ecommercestorez.us" alt="AgentNest" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecommercestorez.us&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AgentNest</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -540,7 +567,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/aira.app" alt="Aira" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aira.app&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=aira.app" alt="Aira" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aira.app&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Aira</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -560,7 +587,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/aisdr.com" alt="AISDR" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aisdr.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=aisdr.com" alt="AISDR" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aisdr.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AISDR</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -580,7 +607,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/aisq.com" alt="AISQ" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aisq.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=aisq.com" alt="AISQ" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aisq.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AISQ</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -600,7 +627,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/algomo.com" alt="Algomo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=algomo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=algomo.com" alt="Algomo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=algomo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Algomo</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -620,7 +647,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/alidrop.co" alt="Alidrop" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alidrop.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=alidrop.co" alt="Alidrop" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alidrop.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Alidrop</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -639,7 +666,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/alliai.com" alt="Alli AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alliai.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=alliai.com" alt="Alli AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alliai.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Alli AI</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -659,7 +686,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/alttext.ai" alt="AltText.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alttext.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=alttext.ai" alt="AltText.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=alttext.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AltText.ai</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -679,7 +706,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/amplemarket.com" alt="Amplemarket" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=amplemarket.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=amplemarket.com" alt="Amplemarket" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=amplemarket.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Amplemarket</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Outreach</span></div></div>
@@ -700,7 +727,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/apollo.io" alt="Apollo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=apollo.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=apollo.io" alt="Apollo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=apollo.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Apollo</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/zoominfo-review.html" class="underline decoration-dotted hover:text-indigo-300">ZoomInfo</a></div></div>
@@ -721,7 +748,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/helloatlas.io" alt="Atlas AI Store Builder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=helloatlas.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=helloatlas.io" alt="Atlas AI Store Builder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=helloatlas.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Atlas AI Store Builder</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -740,7 +767,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/tryatria.com" alt="Atria" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tryatria.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=tryatria.com" alt="Atria" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tryatria.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Atria</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -760,7 +787,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/attribuly.com" alt="Attribuly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=attribuly.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=attribuly.com" alt="Attribuly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=attribuly.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Attribuly</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -780,7 +807,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/goaura.com" alt="Aura" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=goaura.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=goaura.com" alt="Aura" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=goaura.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Aura</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -800,7 +827,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/autowrite.blog" alt="AutoWrite" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=autowrite.blog&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=autowrite.blog" alt="AutoWrite" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=autowrite.blog&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AutoWrite</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -820,7 +847,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/auware.com" alt="Auware" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=auware.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=auware.com" alt="Auware" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=auware.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Auware</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -839,7 +866,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/avasales.ai" alt="Ava AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=avasales.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=avasales.ai" alt="Ava AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=avasales.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Ava AI</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -859,7 +886,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/aweber.com" alt="AWeber" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aweber.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=aweber.com" alt="AWeber" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=aweber.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>AWeber</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -879,7 +906,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/babylovegrowth.ai" alt="BabyLoveGrowth" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=babylovegrowth.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=babylovegrowth.ai" alt="BabyLoveGrowth" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=babylovegrowth.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>BabyLoveGrowth</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -898,7 +925,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/beefree.io" alt="Beefree" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=beefree.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=beefree.io" alt="Beefree" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=beefree.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Beefree</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -918,7 +945,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/beehiiv.com" alt="Beehiiv" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=beehiiv.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=beehiiv.com" alt="Beehiiv" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=beehiiv.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Beehiiv</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Substack</span></div></div>
@@ -939,7 +966,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/bidx.io" alt="BidX" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bidx.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=bidx.io" alt="BidX" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bidx.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>BidX</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -959,7 +986,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/bir.ch" alt="Birch" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bir.ch&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=bir.ch" alt="Birch" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bir.ch&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Birch</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -979,7 +1006,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/bitscale.ai" alt="Bitscale" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bitscale.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=bitscale.ai" alt="Bitscale" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bitscale.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Bitscale</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -999,7 +1026,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/bookyourdata.com" alt="Bookyourdata" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bookyourdata.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=bookyourdata.com" alt="Bookyourdata" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bookyourdata.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Bookyourdata</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/zoominfo-review.html" class="underline decoration-dotted hover:text-indigo-300">ZoomInfo</a></div></div>
@@ -1020,7 +1047,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/usebouncer.com" alt="Bouncer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=usebouncer.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=usebouncer.com" alt="Bouncer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=usebouncer.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Bouncer</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">ZeroBounce</span></div></div>
@@ -1041,7 +1068,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/breadbutter.io" alt="Bread &amp; Butter" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=breadbutter.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=breadbutter.io" alt="Bread &amp; Butter" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=breadbutter.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Bread &amp; Butter</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1061,7 +1088,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/brevo.com" alt="Brevo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=brevo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=brevo.com" alt="Brevo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=brevo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Brevo</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -1082,7 +1109,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/buzz.ai" alt="Buzz.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=buzz.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=buzz.ai" alt="Buzz.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=buzz.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Buzz.ai</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1102,7 +1129,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/callrail.com" alt="CallRail" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=callrail.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=callrail.com" alt="CallRail" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=callrail.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>CallRail</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1122,7 +1149,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/campaignmonitor.com" alt="Campaign Monitor" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=campaignmonitor.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=campaignmonitor.com" alt="Campaign Monitor" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=campaignmonitor.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Campaign Monitor</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -1143,7 +1170,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/campaigner.com" alt="Campaigner" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=campaigner.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=campaigner.com" alt="Campaigner" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=campaigner.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Campaigner</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -1163,7 +1190,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/capsulecrm.com" alt="Capsule" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=capsulecrm.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=capsulecrm.com" alt="Capsule" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=capsulecrm.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Capsule</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Salesforce</span></div></div>
@@ -1184,7 +1211,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/circle.so" alt="Circle" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=circle.so&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=circle.so" alt="Circle" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=circle.so&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Circle</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1204,7 +1231,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/claap.io" alt="Claap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=claap.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=claap.io" alt="Claap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=claap.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Claap</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1224,7 +1251,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/clay.com" alt="Clay" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=clay.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=clay.com" alt="Clay" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=clay.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Clay</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/zoominfo-review.html" class="underline decoration-dotted hover:text-indigo-300">ZoomInfo</a></div></div>
@@ -1245,7 +1272,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/cloro.dev" alt="Cloro" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloro.dev&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=cloro.dev" alt="Cloro" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cloro.dev&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Cloro</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1265,7 +1292,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/close.com" alt="Close" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=close.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=close.com" alt="Close" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=close.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Close</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Salesforce</span></div></div>
@@ -1286,7 +1313,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/cognism.com" alt="Cognism" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cognism.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=cognism.com" alt="Cognism" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=cognism.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Cognism</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1306,7 +1333,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/convert.com" alt="Convert" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=convert.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=convert.com" alt="Convert" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=convert.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Convert</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1326,7 +1353,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/crazyegg.com" alt="Crazy Egg" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=crazyegg.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=crazyegg.com" alt="Crazy Egg" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=crazyegg.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Crazy Egg</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Hotjar</span></div></div>
@@ -1347,7 +1374,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/diginius.com" alt="Diginius" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=diginius.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=diginius.com" alt="Diginius" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=diginius.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Diginius</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1367,7 +1394,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/dondy.net" alt="Dondy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dondy.net&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=dondy.net" alt="Dondy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dondy.net&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Dondy</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1387,7 +1414,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/drip.com" alt="Drip" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=drip.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=drip.com" alt="Drip" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=drip.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Drip</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1406,7 +1433,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/dripify.com" alt="Dripify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dripify.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=dripify.com" alt="Dripify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dripify.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Dripify</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1426,7 +1453,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/dripshipper.io" alt="Dripshipper" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dripshipper.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=dripshipper.io" alt="Dripshipper" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dripshipper.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Dripshipper</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -1446,7 +1473,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/dropgenius.com" alt="DropGenius" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dropgenius.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=dropgenius.com" alt="DropGenius" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=dropgenius.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>DropGenius</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1466,7 +1493,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/northwest.dev" alt="Easy Advanced Translations" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=northwest.dev&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=northwest.dev" alt="Easy Advanced Translations" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=northwest.dev&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Easy Advanced Translations</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -1486,7 +1513,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/skailama.com" alt="Easy Bundles" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=skailama.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=skailama.com" alt="Easy Bundles" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=skailama.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Easy Bundles</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -1506,7 +1533,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/ecomxray.io" alt="EcomXray" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecomxray.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=ecomxray.io" alt="EcomXray" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ecomxray.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>EcomXray</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -1526,7 +1553,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/emaillistverify.com" alt="EmailListVerify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=emaillistverify.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=emaillistverify.com" alt="EmailListVerify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=emaillistverify.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>EmailListVerify</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1546,7 +1573,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/engagebay.com" alt="EngageBay" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=engagebay.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=engagebay.com" alt="EngageBay" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=engagebay.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>EngageBay</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1566,7 +1593,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/essential-apps.com" alt="Essential Loyalty" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=essential-apps.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=essential-apps.com" alt="Essential Loyalty" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=essential-apps.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Essential Loyalty</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1586,7 +1613,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/evey.io" alt="Evey Events" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=evey.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=evey.io" alt="Evey Events" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=evey.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Evey Events</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -1606,7 +1633,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/expandi.io" alt="Expandi" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=expandi.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=expandi.io" alt="Expandi" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=expandi.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Expandi</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1626,7 +1653,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/expertsender.com" alt="ExpertSender" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=expertsender.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=expertsender.com" alt="ExpertSender" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=expertsender.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>ExpertSender</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1646,7 +1673,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/fastbundle.co" alt="Fast Bundle" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=fastbundle.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=fastbundle.co" alt="Fast Bundle" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=fastbundle.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Fast Bundle</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1666,7 +1693,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/feedvisor.com" alt="Feedvisor" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=feedvisor.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=feedvisor.com" alt="Feedvisor" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=feedvisor.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Feedvisor</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1686,7 +1713,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/flocksy.com" alt="Flocksy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=flocksy.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=flocksy.com" alt="Flocksy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=flocksy.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Flocksy</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1706,7 +1733,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/folk.app" alt="folk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=folk.app&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=folk.app" alt="folk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=folk.app&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>folk</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/hubspot-review.html" class="underline decoration-dotted hover:text-indigo-300">HubSpot</a></div></div>
@@ -1727,7 +1754,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/frase.io" alt="Frase" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=frase.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=frase.io" alt="Frase" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=frase.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Frase</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Surfer</span></div></div>
@@ -1748,7 +1775,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/fullenrich.com" alt="FullEnrich" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=fullenrich.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=fullenrich.com" alt="FullEnrich" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=fullenrich.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>FullEnrich</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/zoominfo-review.html" class="underline decoration-dotted hover:text-indigo-300">ZoomInfo</a></div></div>
@@ -1769,7 +1796,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/gelato.com" alt="Gelato" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=gelato.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=gelato.com" alt="Gelato" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=gelato.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Gelato</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1789,7 +1816,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/jtcinteractive.com" alt="GeoStock" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=jtcinteractive.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=jtcinteractive.com" alt="GeoStock" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=jtcinteractive.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>GeoStock</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -1808,7 +1835,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/geotargetly.com" alt="Geotargetly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=geotargetly.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=geotargetly.com" alt="Geotargetly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=geotargetly.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Geotargetly</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -1828,7 +1855,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/getresponse.com" alt="GetResponse" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getresponse.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=getresponse.com" alt="GetResponse" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getresponse.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>GetResponse</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -1849,7 +1876,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/grapeleads.com" alt="GrapeLeads" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=grapeleads.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=grapeleads.com" alt="GrapeLeads" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=grapeleads.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>GrapeLeads</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1869,7 +1896,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/hellobar.com" alt="Hello Bar" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=hellobar.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=hellobar.com" alt="Hello Bar" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=hellobar.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Hello Bar</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">OptinMonster</span></div></div>
@@ -1890,7 +1917,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/hubspot.com" alt="HubSpot" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=hubspot.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=hubspot.com" alt="HubSpot" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=hubspot.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>HubSpot</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -1910,7 +1937,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/iconosquare.com" alt="Iconosquare" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=iconosquare.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=iconosquare.com" alt="Iconosquare" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=iconosquare.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Iconosquare</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1930,7 +1957,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/icontact.com" alt="iContact" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=icontact.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=icontact.com" alt="iContact" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=icontact.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>iContact</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -1951,7 +1978,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/inboxally.com" alt="InboxAlly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=inboxally.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=inboxally.com" alt="InboxAlly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=inboxally.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>InboxAlly</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1971,7 +1998,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/instapage.com" alt="Instapage" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=instapage.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=instapage.com" alt="Instapage" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=instapage.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Instapage</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -1991,7 +2018,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/intelis.ai" alt="Intelis" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=intelis.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=intelis.ai" alt="Intelis" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=intelis.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Intelis</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2010,7 +2037,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/involve.me" alt="involve.me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=involve.me&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=involve.me" alt="involve.me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=involve.me&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>involve.me</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2030,7 +2057,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/kartra.com" alt="Kartra" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kartra.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=kartra.com" alt="Kartra" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kartra.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Kartra</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">ClickFunnels</span></div></div>
@@ -2050,7 +2077,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/keap.com" alt="Keap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=keap.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=keap.com" alt="Keap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=keap.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Keap</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/hubspot-review.html" class="underline decoration-dotted hover:text-indigo-300">HubSpot</a></div></div>
@@ -2071,7 +2098,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/kit.com" alt="Kit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kit.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=kit.com" alt="Kit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kit.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Kit</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
@@ -2092,7 +2119,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/kiwisizing.com" alt="Kiwi Sizing" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kiwisizing.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=kiwisizing.com" alt="Kiwi Sizing" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kiwisizing.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Kiwi Sizing</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2112,7 +2139,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/koongo.com" alt="Koongo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=koongo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=koongo.com" alt="Koongo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=koongo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Koongo</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2131,7 +2158,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/landingi.com" alt="Landingi" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=landingi.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=landingi.com" alt="Landingi" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=landingi.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Landingi</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="https://aibuildermarketplace.com/b2b/unbounce-review/" target="_blank" rel="nofollow noopener" class="underline decoration-dotted hover:text-indigo-300">Unbounce</a></div></div>
@@ -2152,7 +2179,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/later.com" alt="Later" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=later.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=later.com" alt="Later" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=later.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Later</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Hootsuite</span></div></div>
@@ -2173,7 +2200,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/leadfeeder.com" alt="Leadfeeder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=leadfeeder.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=leadfeeder.com" alt="Leadfeeder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=leadfeeder.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Leadfeeder</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2193,7 +2220,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/leadpages.com" alt="Leadpages" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=leadpages.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=leadpages.com" alt="Leadpages" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=leadpages.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Leadpages</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">ClickFunnels</span></div></div>
@@ -2214,7 +2241,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/learnworlds.com" alt="LearnWorlds" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=learnworlds.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=learnworlds.com" alt="LearnWorlds" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=learnworlds.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>LearnWorlds</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2234,7 +2261,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/lemlist.com" alt="lemlist" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=lemlist.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=lemlist.com" alt="lemlist" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=lemlist.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>lemlist</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2254,7 +2281,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/lettrlabs.com" alt="LettrLabs" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=lettrlabs.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=lettrlabs.com" alt="LettrLabs" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=lettrlabs.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>LettrLabs</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2274,7 +2301,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/livestorm.com" alt="Livestorm" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=livestorm.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=livestorm.com" alt="Livestorm" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=livestorm.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Livestorm</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Zoom Webinars</span></div></div>
@@ -2295,7 +2322,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/logome.ai" alt="Logome.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=logome.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=logome.ai" alt="Logome.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=logome.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Logome.ai</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2314,7 +2341,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/manychat.com" alt="ManyChat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=manychat.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=manychat.com" alt="ManyChat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=manychat.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>ManyChat</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2334,7 +2361,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/marketerhire.com" alt="MarketerHire" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=marketerhire.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=marketerhire.com" alt="MarketerHire" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=marketerhire.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>MarketerHire</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2353,7 +2380,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/marketing360.com" alt="Marketing 360" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=marketing360.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=marketing360.com" alt="Marketing 360" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=marketing360.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Marketing 360</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2373,7 +2400,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/meeritech.com" alt="Meeri" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=meeritech.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=meeritech.com" alt="Meeri" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=meeritech.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Meeri</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2393,7 +2420,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/mktg.ai" alt="Mktg.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=mktg.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=mktg.ai" alt="Mktg.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=mktg.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Mktg.ai</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2412,7 +2439,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/moosend.com" alt="Moosend" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=moosend.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=moosend.com" alt="Moosend" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=moosend.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Moosend</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2432,7 +2459,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/nicejob.com" alt="NiceJob" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=nicejob.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=nicejob.com" alt="NiceJob" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=nicejob.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>NiceJob</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2452,7 +2479,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/notify-me.io" alt="Notify Me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=notify-me.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=notify-me.io" alt="Notify Me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=notify-me.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Notify Me</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2472,7 +2499,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/nutshell.com" alt="Nutshell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=nutshell.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=nutshell.com" alt="Nutshell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=nutshell.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Nutshell</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/hubspot-review.html" class="underline decoration-dotted hover:text-indigo-300">HubSpot</a></div></div>
@@ -2493,7 +2520,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/omniseo.com" alt="Omniseo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=omniseo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=omniseo.com" alt="Omniseo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=omniseo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Omniseo</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2513,7 +2540,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/oneflow.com" alt="Oneflow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=oneflow.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=oneflow.com" alt="Oneflow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=oneflow.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Oneflow</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -2533,7 +2560,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/optizenapp.com" alt="Optizen" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=optizenapp.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=optizenapp.com" alt="Optizen" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=optizenapp.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Optizen</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2553,7 +2580,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/outgrow.co" alt="Outgrow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=outgrow.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=outgrow.co" alt="Outgrow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=outgrow.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Outgrow</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Typeform</span></div></div>
@@ -2574,7 +2601,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/getpagepulse.io" alt="PagePulse" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getpagepulse.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=getpagepulse.io" alt="PagePulse" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getpagepulse.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>PagePulse</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2594,7 +2621,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/partnerstack.com" alt="PartnerStack" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=partnerstack.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=partnerstack.com" alt="PartnerStack" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=partnerstack.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>PartnerStack</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2613,7 +2640,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pecan.ai" alt="Pecan AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pecan.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pecan.ai" alt="Pecan AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pecan.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pecan AI</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2632,7 +2659,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pingtree.com" alt="Pingtree" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pingtree.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pingtree.com" alt="Pingtree" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pingtree.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pingtree</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2652,7 +2679,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pipedrive.com" alt="Pipedrive" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pipedrive.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pipedrive.com" alt="Pipedrive" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pipedrive.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pipedrive</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2672,7 +2699,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pippit.ai" alt="Pippit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pippit.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pippit.ai" alt="Pippit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pippit.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pippit</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2692,7 +2719,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pixelunion.net" alt="Pixel Union" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pixelunion.net&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pixelunion.net" alt="Pixel Union" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pixelunion.net&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pixel Union</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2711,7 +2738,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/postpurchaseupsellhero.com" alt="Post Purchase Upsell Hero" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=postpurchaseupsellhero.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=postpurchaseupsellhero.com" alt="Post Purchase Upsell Hero" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=postpurchaseupsellhero.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Post Purchase Upsell Hero</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2731,7 +2758,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/postscript.io" alt="Postscript" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=postscript.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=postscript.io" alt="Postscript" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=postscript.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Postscript</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -2751,7 +2778,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/zenpire.tech" alt="PreOrder Now" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zenpire.tech&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=zenpire.tech" alt="PreOrder Now" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zenpire.tech&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>PreOrder Now</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2771,7 +2798,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pricefy.io" alt="Pricefy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pricefy.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pricefy.io" alt="Pricefy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pricefy.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pricefy</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2791,7 +2818,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/printify.com" alt="Printify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=printify.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=printify.com" alt="Printify" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=printify.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Printify</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Printful</span></div></div>
@@ -2812,7 +2839,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/protectmyorder.com" alt="ProtectMyOrder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=protectmyorder.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=protectmyorder.com" alt="ProtectMyOrder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=protectmyorder.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>ProtectMyOrder</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2831,7 +2858,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pumper.run" alt="Pumper Bundles" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pumper.run&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pumper.run" alt="Pumper Bundles" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pumper.run&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pumper Bundles</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2851,7 +2878,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pushowl.com" alt="PushOwl" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pushowl.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pushowl.com" alt="PushOwl" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pushowl.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>PushOwl</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2871,7 +2898,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/pythago.io" alt="Pythago" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pythago.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=pythago.io" alt="Pythago" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pythago.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Pythago</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2890,7 +2917,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/quartile.com" alt="Quartile" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=quartile.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=quartile.com" alt="Quartile" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=quartile.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Quartile</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -2910,7 +2937,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/rankmath.com" alt="Rank Math" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=rankmath.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=rankmath.com" alt="Rank Math" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=rankmath.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Rank Math</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Yoast SEO</span></div></div>
@@ -2931,7 +2958,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/getreditus.com" alt="Reditus" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getreditus.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=getreditus.com" alt="Reditus" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=getreditus.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Reditus</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -2951,7 +2978,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/reply.io" alt="Reply.io" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=reply.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=reply.io" alt="Reply.io" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=reply.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Reply.io</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Outreach</span></div></div>
@@ -2972,7 +2999,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/restream.io" alt="Restream" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=restream.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=restream.io" alt="Restream" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=restream.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Restream</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -2992,7 +3019,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/riverside.fm" alt="Riverside" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=riverside.fm&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=riverside.fm" alt="Riverside" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=riverside.fm&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Riverside</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Zencastr</span></div></div>
@@ -3013,7 +3040,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/rocketreach.co" alt="RocketReach" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=rocketreach.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=rocketreach.co" alt="RocketReach" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=rocketreach.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>RocketReach</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3033,7 +3060,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/salesflare.com" alt="Salesflare" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesflare.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=salesflare.com" alt="Salesflare" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesflare.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Salesflare</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/hubspot-review.html" class="underline decoration-dotted hover:text-indigo-300">HubSpot</a></div></div>
@@ -3054,7 +3081,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/salesflow.io" alt="Salesflow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesflow.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=salesflow.io" alt="Salesflow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesflow.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Salesflow</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -3074,7 +3101,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/effectify.io" alt="Scarcity.AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=effectify.io" alt="Scarcity.AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Scarcity.AI</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3094,7 +3121,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/effectify.io" alt="Scrolly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=effectify.io" alt="Scrolly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Scrolly</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3113,7 +3140,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/seamless.ai" alt="Seamless.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seamless.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=seamless.ai" alt="Seamless.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seamless.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Seamless.ai</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/zoominfo-review.html" class="underline decoration-dotted hover:text-indigo-300">ZoomInfo</a></div></div>
@@ -3134,7 +3161,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/seel.com" alt="Seel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seel.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=seel.com" alt="Seel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seel.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Seel</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3154,7 +3181,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/selixer.com" alt="Selixer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=selixer.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=selixer.com" alt="Selixer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=selixer.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Selixer</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3174,7 +3201,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/sellerinvestigators.com" alt="Seller Investigators" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sellerinvestigators.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=sellerinvestigators.com" alt="Seller Investigators" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sellerinvestigators.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Seller Investigators</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3194,7 +3221,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/sellersnap.io" alt="Seller Snap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sellersnap.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=sellersnap.io" alt="Seller Snap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sellersnap.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Seller Snap</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3214,7 +3241,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/sellfy.com" alt="Sellfy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sellfy.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=sellfy.com" alt="Sellfy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=sellfy.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Sellfy</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Gumroad</span></div></div>
@@ -3235,7 +3262,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/seospace.co" alt="SEO Space" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seospace.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=seospace.co" alt="SEO Space" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seospace.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>SEO Space</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -3255,7 +3282,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/seomatic.io" alt="SEOmatic" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seomatic.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=seomatic.io" alt="SEOmatic" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seomatic.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>SEOmatic</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -3275,7 +3302,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/serpstat.com" alt="Serpstat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=serpstat.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=serpstat.com" alt="Serpstat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=serpstat.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Serpstat</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -3295,7 +3322,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/happyapps.cz" alt="Shipdock" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=happyapps.cz&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=happyapps.cz" alt="Shipdock" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=happyapps.cz&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Shipdock</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3315,7 +3342,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/shorby.com" alt="Shorby" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=shorby.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=shorby.com" alt="Shorby" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=shorby.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Shorby</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Linktree</span></div></div>
@@ -3336,7 +3363,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/similarweb.com" alt="Similarweb" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=similarweb.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=similarweb.com" alt="Similarweb" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=similarweb.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Similarweb</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -3356,7 +3383,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/smartli.ai" alt="Smartli" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=smartli.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=smartli.ai" alt="Smartli" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=smartli.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Smartli</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3376,7 +3403,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/neezon.com" alt="Smarty Discounts" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=neezon.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=neezon.com" alt="Smarty Discounts" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=neezon.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Smarty Discounts</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3396,7 +3423,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/socialbee.io" alt="SocialBee" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=socialbee.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=socialbee.io" alt="SocialBee" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=socialbee.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>SocialBee</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Hootsuite</span></div></div>
@@ -3417,7 +3444,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/spiky.ai" alt="Spiky.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=spiky.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=spiky.ai" alt="Spiky.ai" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=spiky.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Spiky.ai</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -3437,7 +3464,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/spocket.co" alt="Spocket" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=spocket.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=spocket.co" alt="Spocket" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=spocket.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Spocket</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3457,7 +3484,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/stamped.io" alt="Stamped" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=stamped.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=stamped.io" alt="Stamped" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=stamped.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Stamped</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3477,7 +3504,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/stampezee.com" alt="Stampezee" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=stampezee.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=stampezee.com" alt="Stampezee" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=stampezee.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Stampezee</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3497,7 +3524,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/storeseo.com" alt="StoreSEO" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storeseo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=storeseo.com" alt="StoreSEO" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storeseo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>StoreSEO</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -3517,7 +3544,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/storista.io" alt="Storista" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storista.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=storista.io" alt="Storista" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storista.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Storista</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -3537,7 +3564,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/storylane.io" alt="Storylane" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storylane.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=storylane.io" alt="Storylane" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=storylane.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Storylane</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -3557,7 +3584,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/streak.com" alt="Streak" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=streak.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=streak.com" alt="Streak" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=streak.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Streak</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3577,7 +3604,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/success.co" alt="Success.co" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=success.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=success.co" alt="Success.co" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=success.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Success.co</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3597,7 +3624,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/supaeasy.com" alt="SupaEasy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=supaeasy.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=supaeasy.com" alt="SupaEasy" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=supaeasy.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>SupaEasy</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3617,7 +3644,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/superfiliate.com" alt="Superfiliate" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=superfiliate.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=superfiliate.com" alt="Superfiliate" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=superfiliate.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Superfiliate</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3636,7 +3663,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/surferseo.com" alt="Surfer (SurferSEO)" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=surferseo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=surferseo.com" alt="Surfer (SurferSEO)" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=surferseo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Surfer (SurferSEO)</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -3656,7 +3683,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/surveysparrow.com" alt="SurveySparrow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=surveysparrow.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=surveysparrow.com" alt="SurveySparrow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=surveysparrow.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>SurveySparrow</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="https://aibuildermarketplace.com/b2b/surveymonkey-review/" target="_blank" rel="nofollow noopener" class="underline decoration-dotted hover:text-indigo-300">SurveyMonkey</a></div></div>
@@ -3677,7 +3704,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/tapita.io" alt="Tapita AI SEO Blog Builder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapita.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=tapita.io" alt="Tapita AI SEO Blog Builder" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapita.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Tapita AI SEO Blog Builder</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -3697,7 +3724,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="SEO &amp; Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/tapita.io" alt="Tapita SEO Optimizer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapita.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=tapita.io" alt="Tapita SEO Optimizer" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapita.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Tapita SEO Optimizer</h3><span class="tool-badge pick">SEO</span></div>
  </div>
@@ -3717,7 +3744,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/tapstitch.com" alt="Tapstitch" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapstitch.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=tapstitch.com" alt="Tapstitch" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tapstitch.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Tapstitch</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="https://aibuildermarketplace.com/b2b/printify-review/" target="_blank" rel="nofollow noopener" class="underline decoration-dotted hover:text-indigo-300">Printify</a></div></div>
@@ -3737,7 +3764,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/teikametrics.com" alt="Teikametrics" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=teikametrics.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=teikametrics.com" alt="Teikametrics" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=teikametrics.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Teikametrics</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3757,7 +3784,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/tickettailor.com" alt="TicketTailor" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tickettailor.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=tickettailor.com" alt="TicketTailor" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=tickettailor.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>TicketTailor</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Eventbrite</span></div></div>
@@ -3778,7 +3805,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/effectify.io" alt="TiXel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=effectify.io" alt="TiXel" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>TiXel</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -3798,7 +3825,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/effectify.io" alt="TnC" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=effectify.io" alt="TnC" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>TnC</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -3818,7 +3845,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/ueni.com" alt="UENI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ueni.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=ueni.com" alt="UENI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=ueni.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>UENI</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3837,7 +3864,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/unbounce.com" alt="Unbounce" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=unbounce.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=unbounce.com" alt="Unbounce" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=unbounce.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Unbounce</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="https://aibuildermarketplace.com/b2b/instapage-review/" target="_blank" rel="nofollow noopener" class="underline decoration-dotted hover:text-indigo-300">Instapage</a></div></div>
@@ -3858,7 +3885,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/uniqode.com" alt="Uniqode" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=uniqode.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=uniqode.com" alt="Uniqode" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=uniqode.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Uniqode</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Bitly</span></div></div>
@@ -3879,7 +3906,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/upsell.com" alt="Upsell.com" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=upsell.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=upsell.com" alt="Upsell.com" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=upsell.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Upsell.com</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3899,7 +3926,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/upsellplus.com" alt="UpsellPlus" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=upsellplus.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=upsellplus.com" alt="UpsellPlus" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=upsellplus.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>UpsellPlus</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3918,7 +3945,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/vidpal.ai" alt="VidPal" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vidpal.ai&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=vidpal.ai" alt="VidPal" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vidpal.ai&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>VidPal</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -3938,7 +3965,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/vistasocial.com" alt="Vista Social" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vistasocial.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=vistasocial.com" alt="Vista Social" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vistasocial.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Vista Social</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Hootsuite</span></div></div>
@@ -3959,7 +3986,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/volza.com" alt="Volza" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=volza.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=volza.com" alt="Volza" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=volza.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Volza</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">ImportGenius</span></div></div>
@@ -3980,7 +4007,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/vwo.com" alt="VWO" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vwo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=vwo.com" alt="VWO" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=vwo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>VWO</h3><span class="tool-badge pick">Growth</span>
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Optimizely</span></div></div>
@@ -4000,7 +4027,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/warmupinbox.com" alt="Warmup Inbox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=warmupinbox.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=warmupinbox.com" alt="Warmup Inbox" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=warmupinbox.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Warmup Inbox</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -4020,7 +4047,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/effectify.io" alt="Way" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=effectify.io" alt="Way" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=effectify.io&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Way</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -4040,7 +4067,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Marketing" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/webinargeek.com" alt="WebinarGeek" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=webinargeek.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=webinargeek.com" alt="WebinarGeek" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=webinargeek.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>WebinarGeek</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
@@ -4060,7 +4087,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/whatconverts.com" alt="WhatConverts" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=whatconverts.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=whatconverts.com" alt="WhatConverts" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=whatconverts.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>WhatConverts</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -4080,7 +4107,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/skailama.com" alt="Wiz Checkout Upsell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=skailama.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=skailama.com" alt="Wiz Checkout Upsell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=skailama.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Wiz Checkout Upsell</h3><span class="tool-badge pick">Growth</span></div>
  </div>
@@ -4100,7 +4127,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/woodpecker.co" alt="Woodpecker" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=woodpecker.co&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=woodpecker.co" alt="Woodpecker" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=woodpecker.co&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Woodpecker</h3><span class="tool-badge pick">CRM</span></div>
  </div>
@@ -4120,7 +4147,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/zendrop.com" alt="Zendrop" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zendrop.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=zendrop.com" alt="Zendrop" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zendrop.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>Zendrop</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
@@ -4140,7 +4167,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 <article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
-   <img src="https://logo.clearbit.com/zoominfo.com" alt="ZoomInfo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zoominfo.com&amp;sz=64'">
+   <img src="https://www.google.com/s2/favicons?sz=128&amp;domain=zoominfo.com" alt="ZoomInfo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=zoominfo.com&amp;sz=64'">
   </div>
   <div class="lg-naam"><h3>ZoomInfo</h3><span class="tool-badge pick">Growth</span></div>
  </div>
