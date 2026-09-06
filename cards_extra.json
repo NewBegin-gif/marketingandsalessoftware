@@ -3400,7 +3400,7 @@
   "price": "$24",
   "price_note": "Starter · /mo billed annually",
   "verified": "2026-09-05",
-  "catch": "The detail most people miss is Starter's $5-per-enrollment fee — at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
+  "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee — at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
   "best": "Course creators and training businesses that want a branded school with interactive video, assessments, certificates and a built-in checkout."
  },
  "Leavo": {
@@ -7722,5 +7722,33 @@
   "verified": "2026-09-06",
   "catch": "The two halves of the pitch are priced five times apart.",
   "best": "Shopify stores running several promotions at once — an order discount, free shipping and a collection deal."
+ },
+ "Code Bulk Discounts": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$14.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-06",
+  "catch": "Read the free plan's number twice, because the word doing the work is 'lifetime': it is 500 codes in total, not 500 a month.",
+  "best": "Shopify stores that already run email or SMS campaigns and need thousands of unique, single-use codes generated out of one existing discount and handed over as a CSV."
+ },
+ "Kite": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$29",
+  "price_note": "from · per month",
+  "verified": "2026-09-06",
+  "catch": "'Free to install' is doing a lot of work on this listing.",
+  "best": "Shopify stores that want the discount mechanics themselves."
  }
 }
