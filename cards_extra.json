@@ -7698,5 +7698,29 @@
   "verified": "2026-09-04",
   "catch": "The pricing page is a feature list with the prices taken out, and that is a choice rather than an oversight — Mycroft publishes what is in each package down to the individual capability, then stops short of the one line you came for.",
   "best": "Companies chasing an attestation they cannot staff for."
+ },
+ "Stackable": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$19.99",
+  "price_note": "Growth · per year",
+  "verified": "2026-09-06",
+  "catch": "The two halves of the pitch are priced five times apart.",
+  "best": "Shopify stores running several promotions at once — an order discount, free shipping and a collection deal."
  }
 }
