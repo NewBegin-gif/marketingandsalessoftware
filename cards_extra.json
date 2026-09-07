@@ -7774,5 +7774,29 @@
   "verified": "2026-09-06",
   "catch": "'Free to install' is doing a lot of work on this listing.",
   "best": "Shopify stores that want the discount mechanics themselves."
+ },
+ "Nextify.ai": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$21",
+  "price_note": "Starter · per year",
+  "verified": "2026-09-07",
+  "catch": "The plans are sold in videos and images; the meter runs in credits per second, and the two do not reconcile.",
+  "best": "Advertisers who need a steady stream of short product clips and will deliberately choose the cheap model for drafts, and teams who would rather have video, avatars."
  }
 }
