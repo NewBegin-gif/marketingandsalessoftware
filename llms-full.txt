@@ -253,7 +253,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## TnC
 - Review: https://marketingandsalessoftware.com/tnc-review.html
-- Verdict: TnC: Development Stores is free and carries every Pro feature.
+- Verdict: TnC: Development Stores is free and carries every Pro feature. A store that takes real orders has no free tier here.
 - Price: (read 2026-08-25 on apps.shopify.com/terms-and-conditions-checkbox, listed as “TnC: Terms and Conditions Box”, and in the vendor's own pricing article on effectify.help) Every paid tier costs more than it did a day earlier: read on 24 August 2026 the ladder was $6.99, $9.99 and $12.99, and read again on 25 August 2026 the same three plans, carrying the same feature lists, showed $7.99, $12.99 and $14.99. Four…
 
 ## Uniqode
