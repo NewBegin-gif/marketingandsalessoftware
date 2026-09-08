@@ -4518,9 +4518,9 @@
     "free_tier"
    ]
   ],
-  "price": "€8.33",
-  "price_note": "from · per month",
-  "verified": "2026-09-07",
+  "price": "$8.33",
+  "price_note": "Premium · per month",
+  "verified": "2026-09-08",
   "catch": "The free tier is deliberately narrow: 125 words per paraphrase and two of the modes.",
   "best": "Students, non-native writers and anyone who wants quick paraphrasing, grammar and summarizing help."
  },
@@ -4731,9 +4731,7 @@
     "free_tier"
    ]
   ],
-  "price": "$14.08",
-  "price_note": "from · per month",
-  "verified": "2026-09-07",
+  "verified": "2026-09-08",
   "catch": "Work out which lane you are in before you pay, because the three lanes price the same photo very differently.",
   "coupon": {
    "code": "AIBuilder20",
@@ -7717,16 +7715,16 @@
     "usage_metered"
    ],
    [
-    "📅",
-    "Annual commit",
-    "annual_lock"
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
    ]
   ],
   "price": "€24",
   "price_note": "Pro · per month, annual",
-  "verified": "2026-09-04",
+  "verified": "2026-09-08",
   "catch": "The four tiers sell two different products, and only one of them is self-serve.",
-  "best": "Revenue teams that want every call captured without a notetaker bot joining the meeting, and want those calls to end up as CRM fields."
+  "best": "Revenue teams that want every call captured — by default with no notetaker bot in the meeting, though a customisable bot is there for teams that prefer one."
  },
  "Mycroft": {
   "flags": [

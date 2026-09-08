@@ -73,8 +73,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Claap
 - Review: https://marketingandsalessoftware.com/claap-review.html
-- Verdict: Claap: Pro is €24 per license a month billed yearly or €30 monthly. The four tiers sell two different products.
-- Price: (read 2026-09-04 on claap.io/pricing, both billing toggles and the full comparison table) Priced per license per month, in euros, with no dollar column anywhere on the page. Basic is €0: 10 videos per user, 300 minutes of recording in total rather than per month, calendar and conference-call sync, 99-language transcript, basic AI summary, the Chrome recorder extension and a collaborative workspace, capped at 5…
+- Verdict: Claap — Pro is €24 per license a month billed yearly or €30 monthly: unlimited recordings, 1,000 minutes a month. The four tiers sell two different products.
+- Price: (read 2026-09-04 on claap.io/pricing, both billing toggles and the full comparison table; re-verified 2026-09-08) Licenses are priced per license per month in euros. The only dollar figure on the page belongs to an add-on rather than a plan: a tooltip offers the Power Recorder, which adds unlimited recording length to any paid seat for $20 per seat a month.
 
 ## Close
 - Review: https://marketingandsalessoftware.com/close-review.html
