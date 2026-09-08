@@ -1721,7 +1721,7 @@
   "name": "Pixel Union",
   "category": "Growth & Revenue",
   "domain": "pixelunion.net",
-  "desc": "Premium Shopify themes bought once rather than by subscription: Pixel Union themes around $300–340 and Out of the Sandbox themes roughly $350–495. A theme is a starting point — the conversion lift comes from how you configure and populate it, not from the purchase.",
+  "desc": "Premium Shopify themes bought once rather than by subscription: Pixel Union's own six run $100–360 and sister brand Out of the Sandbox's $220–499. A theme is a starting point — the conversion lift comes from how you configure and populate it, not from the purchase.",
   "link": "https://partners.pixelunion.net/iv57khdrl4uh",
   "platform": "shopify"
  },
@@ -1858,7 +1858,7 @@
   "name": "QuillBot",
   "category": "Operations & Workflow",
   "domain": "quillbot.com",
-  "desc": "Paraphrasing, grammar, summarising and plagiarism checking in one box of writing utilities. The free tier caps paraphrasing at 125 words and two modes, and the advertised $4.17/month assumes a year paid up front — no month-to-month rate is published.",
+  "desc": "Paraphrasing, grammar, summarising and plagiarism checking in one box of writing utilities. The free tier caps paraphrasing at 125 words and two modes, and Premium is €19.95 a month month-to-month against €8.33 billed annually — 2.4 times the price for the right to leave.",
   "link": "https://try.quillbot.com/1kodsf2wz3o2",
   "replaces": "Grammarly"
  },
@@ -1933,7 +1933,7 @@
   "name": "Restream",
   "category": "Growth & Revenue",
   "domain": "restream.io",
-  "desc": "Multistreaming studio: broadcast one show to YouTube, LinkedIn, Facebook and Twitch at once from the browser, with guests and local recordings. The channel caps are the business model — 3 on Standard at about $16/month annual, 5 on Professional — and each extra teammate is a $25/month seat.",
+  "desc": "Multistreaming studio: broadcast one show to YouTube, LinkedIn, Facebook and Twitch at once from the browser, with guests and local recordings. The channel caps are the business model — 3 on Standard at $190 a year, 5 on Professional — and extra seats start at Professional, at $25/month; the Standard column offers none.",
   "link": "https://try.restream.io/r09i9uua5ley",
   "replaces": null
  },
@@ -1942,13 +1942,13 @@
   "domain": "retouch4.me",
   "link": "https://www.awin1.com/cread.php?awinmid=123978&awinaffid=2880219",
   "category": "Design & Content",
-  "desc": "AI retouching plugins for photographers (Photoshop-compatible, Mac/Windows) — lifetime licenses per plugin (Heal/Crop $145, Dodge&Burn $179), full-suite subscriptions from $169/year with retouch credits, or pay-as-you-go cloud retouching at $0.10/photo. Free to try first: signing up gives 20 cloud retouches at no cost (site, verified 23 Jul 2026)."
+  "desc": "AI retouching plugins for photographers (Photoshop-compatible, Mac/Windows) — perpetual licences per plugin ($145 for most, $179 for Dodge & Burn and Clean Backdrop), full-suite subscriptions from $169 a year with 2,400 retouch credits, or cloud retouching in credit packs at $24 for 100, $59 for 300 and $179 for 1,200. Free to try first: two free plugins, three free apps and a demo on every paid plugin (site, read 7 Sep 2026)."
  },
  {
   "name": "Riverside",
   "category": "Growth & Revenue",
-  "domain": "riverside.fm",
-  "desc": "Records podcasts and video locally at each end, so guests on poor connections still come out broadcast-quality. The meter is separate-track recording time: Pro is $29/month for 15 hours, and hitting the cap stops new separate-track downloads until the next cycle rather than billing you more.",
+  "domain": "riverside.com",
+  "desc": "Records podcasts and video locally at each end, so guests on poor connections still come out broadcast-quality. Recording hours are unlimited; the meter is separate-track download time, 15 hours a month on Pro ($35 monthly or $24 on annual billing, re-read 7 Sep 2026), and hitting that cap stops new separate-track downloads until the next cycle rather than billing you more.",
   "link": "https://riverside.partnerlinks.io/g04f8x6h3qz8",
   "replaces": "Zencastr"
  },
@@ -2000,7 +2000,7 @@
   "name": "Seamless.ai",
   "category": "Growth & Revenue",
   "domain": "seamless.ai",
-  "desc": "B2B contact database with AI list-building, plus an MCP server so Claude or ChatGPT can run the searching and enrichment. Paid plans are quote-based, reported around $147/month for 250 credits. Independent tests put deliverability near 74%, and contracts auto-renew with 30–60 days' notice to cancel.",
+  "desc": "B2B contact database with AI list-building, plus an MCP server so Claude or ChatGPT can run the searching and enrichment. Nothing above the free plan (1 user, 50 credits) carries a published price; the only quantity their FAQ names is a Pro floor of 10,000 annual credits (read 7 Sep 2026). Independent tests put deliverability near 74%, and contracts auto-renew with 30-60 days' notice to cancel.",
   "link": "https://get.seamless.ai/gleubirgjgj8",
   "replaces": "ZoomInfo"
  },
@@ -3265,5 +3265,21 @@
   "domain": "nextify.ai",
   "desc": "AI ad-video generator for advertisers and e-commerce sellers: turn a product image, a script or a brief into a vertical or landscape video ad, with avatar presenters, lip-sync, product image sets and image cloning in the same workspace. Eight tools in one credit pool — Create Video Ad, Viral Video, Video Cloning, UGC Product Video, Lip-sync, Image Generator, Listing Images and Image Cloning — running on Seedance, Kling, MiniMax, HeyGen, GPT Image and Nano Banana models you pick per generation. Metered in credits per second of output rather than per finished video, with the cost shown on the generate button before you commit.",
   "link": "https://www.nextify.ai/?ref=AIBM"
+ },
+ {
+  "name": "BookX",
+  "category": "Operations & Workflow",
+  "domain": "logbase.io",
+  "desc": "Shopify appointment booking that lives in the storefront: Calendly-style slots for services, classes, rentals and events, with staff and multi-location schedules, deposits and partial payments, and the money taken at your own checkout. Bookings are unlimited on every tier — the ladder is gated on locations and team members. Free covers 1 service and 1 team member; Starter $9.99 a month or $107.99 a year, Growth $19.99 or $203.99, Business $39.99 or $407.99, for 5, 10 and 20 locations and team members. Read 8 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_gfIV1kJt",
+  "platform": "shopify"
+ },
+ {
+  "name": "Consentmo",
+  "category": "E-commerce",
+  "domain": "consentmo.com",
+  "desc": "Shopify consent app that geolocates the visitor and shows the right GDPR, CCPA, PIPEDA or LGPD banner, with Google Consent Mode v2 and Meta, Microsoft and TikTok signals, cookie scanning and data-request pages — plus an accessibility widget and scanner from the Plus tier. Banner impressions are unlimited on every tier. Free plan; Standard $10 a month or $100 a year, Plus $37 or $370, Enterprise $64 or $640. Read 8 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_ZyHb2TCa",
+  "platform": "shopify"
  }
 ]
