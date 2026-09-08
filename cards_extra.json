@@ -7815,5 +7815,33 @@
   "verified": "2026-09-07",
   "catch": "The plans are sold in videos and images; the meter runs in credits per second, and the two do not reconcile.",
   "best": "Advertisers who need a steady stream of short product clips and will deliberately choose the cheap model for drafts, and teams who would rather have video, avatars."
+ },
+ "BookX": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-08",
+  "catch": "The free plan is a demonstration rather than a plan.",
+  "best": "Shopify merchants running appointment-based services — salons, studios, clinics, rentals, classes and events."
+ },
+ "Consentmo": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$10",
+  "price_note": "from · per month",
+  "verified": "2026-09-08",
+  "catch": "Read the ladder before you budget $10 for this.",
+  "best": "Shopify merchants selling into several jurisdictions who want one app to carry the cookie banner, the consent signals the ad platforms now demand."
  }
 }
