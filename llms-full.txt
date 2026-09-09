@@ -29,7 +29,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AISDR
 - Review: https://marketingandsalessoftware.com/aisdr-review.html
 - Verdict: AISDR: Solo is $250/mo or $2,400/yr for a sales team of one. Autonomous AI outreach is only as good as your targeting, list quality and messaging guardrails.
-- Price: (re-verified 2026-08-17 from AiSDR's own machine-readable pricing page) There are three published plans. Solo is $250/mo or $2,400/yr for a sales team of one: 200 AI-researched contacts a month, 1 user, 1 domain, 3 mailboxes, month-to-month.
+- Price: (re-verified 2026-09-09 on AiSDR's own pricing page) There are three published plans. Solo is $250/mo or $2,400/yr for a sales team of one: 200 AI-researched contacts a month, 1 user, 1 domain, 3 mailboxes, month-to-month.
 
 ## AISQ
 - Review: https://marketingandsalessoftware.com/aisq-review.html
