@@ -128,8 +128,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Feedyio
 - Review: https://marketingandsalessoftware.com/feedyio-review.html
-- Verdict: Feedyio: Four published tiers, billed in USD every 30 days. Two gates decide your bill and neither is about how much value the feeds create.
-- Price: (read 2026-09-10 on apps.shopify.com/product-feed-10) Four published tiers, billed in USD every 30 days. Free is permanent and covers up to 30 products or 100 variants, one feed, the primary market only, a daily product update and email support.
+- Verdict: Feedyio: Nine published tiers, billed in USD every 30 days through Shopify. Two gates decide your bill and neither is about how much value the feeds create.
+- Price: (read 2026-09-10 on apps.shopify.com/product-feed-10 and feedyio.com/pricing) Nine published tiers, billed in USD every 30 days through Shopify. The Shopify listing shows only the first four.
 
 ## GrapeLeads
 - Review: https://marketingandsalessoftware.com/grapeleads-review.html
@@ -164,7 +164,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## LangShop
 - Review: https://marketingandsalessoftware.com/langshop-review.html
 - Verdict: LangShop: Basic is $10 a month or $100 a year. The named engines that the listing leads with — OpenAI, DeepL Pro, Google Cloud Translation.
-- Price: (read 2026-09-10 on apps.shopify.com/langshop) Four published tiers, billed in USD every 30 days. Free costs nothing and covers one language and 50 products, with limited manual and AI translation, the standard language and currency switcher and multilingual SEO.
+- Price: (read 2026-09-10 on apps.shopify.com/langshop and langshop.app/pricing) Seven published tiers, billed in USD. The Shopify listing shows only the first four and links to 'more pricing plans'; the vendor's own pricing page prices the rest.
 
 ## Later
 - Review: https://marketingandsalessoftware.com/later-review.html
