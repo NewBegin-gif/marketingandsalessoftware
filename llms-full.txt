@@ -118,8 +118,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## ExpertSender
 - Review: https://marketingandsalessoftware.com/expertsender-review.html
-- Verdict: ExpertSender — (2026) Quote-based with a documented floor: their site lists pricing starting around $450/mo, scaling with volume and channels.
-- Price: (price re-verified 2026-08-17 against the vendor's own pricing page) (2026) Quote-based with a documented floor: their site lists pricing starting around $450/mo, scaling with volume and channels, and they explicitly target stores with at least 30,000 unique monthly visits. No free tier — a free consultation is the entry point.
+- Verdict: ExpertSender: (2026) Quote-based with a documented floor. The $450/mo floor and the 30k-monthly-visits target make this an established-store tool.
+- Price: (re-verified 10 September 2026 on expertsender.com — on the home page, because the pricing page is gone: /pricing, /pricing-plans/ and /en/pricing/ all return 404) (2026) Quote-based with a documented floor: their home page says 'Start growing your eCommerce business from $450 USD', scaling with volume and channels, and they explicitly target stores with at least 30,000 unique monthly visits. No free tier — a…
 
 ## Fast Bundle
 - Review: https://marketingandsalessoftware.com/fast-bundle-review.html
@@ -203,8 +203,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## PagePulse
 - Review: https://marketingandsalessoftware.com/pagepulse-review.html
-- Verdict: PagePulse — Genuinely free tier: $0 for 1 member and 1 page with unlimited traffic. The tiers gate on two axes at once — members AND tracked pages.
-- Price: (2026) Genuinely free tier: $0 for 1 member and 1 page with unlimited traffic. Starter $29/mo (1 member, 2 pages); Growth $79/mo (2 members, 5 pages); Pro $129/mo (5 members, 10 pages); Scale $199/mo (10 members, 15 heatmaps, 1,500 AI insights/mo).
+- Verdict: PagePulse — Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
+- Price: (read 10 September 2026 on getpagepulse.io — the plans sit on the home page under the #pricing anchor; /pricing itself returns 404.) Five tiers, and the meter is pages plus AI insights rather than people. Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
 
 ## PartnerStack
 - Review: https://marketingandsalessoftware.com/partnerstack-review.html
