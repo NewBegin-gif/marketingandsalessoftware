@@ -2613,6 +2613,20 @@
   "catch": "The honest structure: the $100 tier is a limited on-ramp, and most of what Feedvisor is famous for (the algorithmic Buy-Box strategy that holds prices UP, ad management, analysts) lives behind the $1,500+ top tier — this is enterprise software for serious catalogs, priced accordingly.",
   "best": "Mid-market and enterprise Amazon sellers with large catalogs where algorithmic repricing and ad optimization move real revenue."
  },
+ "Feedyio": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "from · per month",
+  "verified": "2026-09-10",
+  "catch": "Two gates decide your bill and neither is about how much value the feeds create.",
+  "best": "Shopify merchants who need several feeds at once, in formats they control — custom XML, CSV, TXT or JSON built from their own template."
+ },
  "Filevine": {
   "flags": [
    [
@@ -3103,6 +3117,20 @@
   "best": "Web developers, designers and agencies prospecting local businesses that do not have a website yet — surfaced from Google Maps with contact details.",
   "pw": "price held",
   "pw_soort": "held"
+ },
+ "Grapevine": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$25",
+  "price_note": "from · per month",
+  "verified": "2026-09-10",
+  "catch": "The flat price is the whole pricing page, which cuts both ways.",
+  "best": "Shopify stores running more than one marketing channel that want attribution from customers rather than from cookies."
  },
  "Gravity Forms": {
   "flags": [
@@ -3828,6 +3856,13 @@
   "catch": "You trade away the high-end optimisation: no AI traffic routing like Unbounce's Smart Traffic, no real-time collaboration, and thinner technical control (script containers).",
   "best": "Budget-conscious teams, international businesses and anyone needing bulk or programmatic page generation across 29 languages."
  },
+ "LangShop": {
+  "price": "$10",
+  "price_note": "from · per month",
+  "verified": "2026-09-10",
+  "catch": "Two things sit awkwardly next to each other in the plan table.",
+  "best": "Shopify merchants selling into several language markets who want machine translation they can correct by hand — glossary rules, brand terms, bulk editing."
+ },
  "Later": {
   "flags": [
    [
@@ -4456,6 +4491,30 @@
   "verified": "2026-08-07",
   "catch": "Reporting and customization are fairly basic and there's a setup fee on top of the monthly.",
   "best": "Local and service businesses that want reputation marketing on offense — automatically asking happy customers for reviews and showcasing them."
+ },
+ "noCRM": {
+  "flags": [
+   [
+    "🪑",
+    "Per-seat pricing",
+    "per_seat"
+   ],
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ]
+  ],
+  "price": "€11",
+  "price_note": "Starter · per month",
+  "verified": "2026-09-09",
+  "catch": "The pitch is that salespeople hate CRMs, and the answer is a tool built around the next action rather than the form.",
+  "best": "Solo sellers, small outbound teams and telesales operations that want a list of leads each carrying a next step, rather than a CRM to configure."
  },
  "NordVPN": {
   "flags": [
@@ -5266,6 +5325,30 @@
   "verified": "2026-08-26",
   "catch": "The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",
   "best": "WordPress site owners who want a powerful, feature-rich SEO plugin — the free version alone beats most paid rivals."
+ },
+ "ReachStream": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$39",
+  "price_note": "Starter · per month",
+  "verified": "2026-09-10",
+  "catch": "The meter is on exporting, not on looking, and that is the number to size before you pick a tier.",
+  "best": "Small sales and marketing teams that want a B2B contact database with a published price rather than a quote."
  },
  "Readymode": {
   "flags": [
@@ -7603,7 +7686,7 @@
   "price": "$30",
   "price_note": "from · per month",
   "verified": "2026-09-05",
-  "catch": "Its genuine strength versus bigger attribution suites is capturing EVERY lead type (not just calls) at a fair price; the flip side is you still need someone to read the reports and reallocate budget, or it's measurement theater.",
+  "catch": "The meter is honest and the unit rate is invisible: every phone number, call minute, text, form, chat, appointment, email, event and transaction is charged against a monthly credit, and past that credit WhatConverts publishes no unit price anywhere on its site — the billing FAQ points to a Rates page inside the account.",
   "best": "Agencies and lead-gen businesses that want every lead — calls, forms, chats — attributed to its source and campaign without enterprise-suite prices."
  },
  "Wholesale Gorilla": {
@@ -7889,29 +7972,5 @@
   "verified": "2026-08-17",
   "catch": "The contract is the most-cited frustration: annual lock-in with a strict 60–90 day cancellation window and 10–20% renewal increases.",
   "best": "Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence — and can absorb the contract."
- },
- "noCRM": {
-  "flags": [
-   [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
-    "🧮",
-    "Usage-metered",
-    "usage_metered"
-   ],
-   [
-    "📅",
-    "Annual commit",
-    "annual_lock"
-   ]
-  ],
-  "price": "€11",
-  "price_note": "Starter · per month",
-  "verified": "2026-09-09",
-  "catch": "The pitch is that salespeople hate CRMs, and the answer is a tool built around the next action rather than the form.",
-  "best": "Solo sellers, small outbound teams and telesales operations that want a list of leads each carrying a next step, rather than a CRM to configure."
  }
 }
