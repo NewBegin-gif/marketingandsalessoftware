@@ -18,7 +18,7 @@
   "domain": "accessibe.com",
   "link": "https://try.accessibe.com/g102j14bqso5",
   "category": "IT & Productivity",
-  "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement. Priced by monthly visits: $490/year up to 5,000, $1,490 up to 30,000, $3,990 up to 100,000. An aid, not WCAG conformance — for that the same vendor sells accessFlow (developer audits with ready-to-commit code fixes) and accessServices (VPATs, file remediation, expert audits), both quoted rather than priced publicly."
+  "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement. Priced by monthly visits, with a monthly and a yearly rate on every tier: $59 a month or $490 a year up to 5,000 visits, $179 or $1,490 up to 30,000, $479 or $3,990 up to 100,000 (read 10 Sep 2026). An aid, not WCAG conformance — for that the same vendor sells accessFlow (developer audits with ready-to-commit code fixes) and accessServices (VPATs, file remediation, expert audits), both quoted rather than priced publicly."
  },
  {
   "name": "ActiveCampaign",
@@ -56,7 +56,7 @@
   "category": "Growth & Revenue",
   "domain": "aftersell.app",
   "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value — no extra ad spend.",
-  "link": "https://apps.shopify.com/aftersell",
+  "link": "https://try.aftersell.app/vv4g49ide6z2",
   "platform": "shopify"
  },
  {
@@ -2100,7 +2100,7 @@
  {
   "name": "PreOrder Now",
   "category": "E-commerce",
-  "domain": "zenpire.tech",
+  "domain": "preordernow.app",
   "desc": "Shopify pre-orders with badges, partial payments, mixed-cart warnings and back-in-stock emails. Priced by which Shopify plan you are on rather than by features: $19.95 on Basic up to $99.95 on Plus.",
   "link": "https://try.zenpire.tech/t9s08487ewps-0c3lys"
  },
@@ -2433,7 +2433,7 @@
   "name": "Selixer",
   "category": "E-commerce",
   "domain": "selixer.com",
-  "desc": "Shopify profit dashboard that nets ad spend, COGS, returns and fees out of revenue and reports what you keep per product, campaign and customer, built for fashion and apparel brands. Essance $149 a month, Catalyst $299 and Aether $399, each with a 14-day trial; the profit waterfall and campaign ROAS start at $299.",
+  "desc": "Shopify profit dashboard that nets ad spend, COGS, returns and fees out of revenue and reports what you keep per product, campaign and customer, built for fashion and apparel brands. Essence $149 a month, Catalyst $299 and Aether $399, each with a 14-day trial; the profit waterfall and campaign ROAS start at $299.",
   "link": "https://platform.shoffi.app/r/rl_KJx7vv0I",
   "platform": "shopify"
  },
@@ -2898,7 +2898,7 @@
   "name": "TheTop",
   "category": "IT & Productivity",
   "domain": "thetop.com",
-  "desc": "An AI 'chief of staff' that pulls Gmail, Google Calendar, Outlook, Microsoft 365 and RSS feeds into one ranked morning brief, then drafts the replies and quick actions the brief calls for. Essential is $15/month for two connected sources; the enrichment, smart reply and five-source cap that let it act rather than summarise sit on Pro at $30.",
+  "desc": "An AI 'chief of staff' that pulls your calendar, inbox and news feeds into one ranked morning brief through Google or Microsoft, then drafts the replies and quick actions the brief calls for. One plan at $8 a month, or $80 a year, with five connected sources, five brief refreshes a day and a seven-day free trial.",
   "link": "https://join.thetop.com/bvtsnmltfl93"
  },
  {
@@ -3195,7 +3195,7 @@
   "domain": "wegic.ai",
   "link": "https://try.wegic.ai/gy39hk291ujf",
   "category": "Design & Content",
-  "desc": "AI website builder that generates and hosts sites from a conversation — credit-based, with custom domains and code export on higher tiers, and built-in image generation powered by ChatGPT Image-2 (upload a reference or prompt, drop the result straight into your design). It can also turn a single product photo or mockup into a ready-to-sell product page. A one-click optimize pass audits a published site for SEO and site-health problems and applies the fixes itself — vendor-announced in July 2026, and not something we have tested."
+  "desc": "AI website builder that generates and hosts sites from a conversation — credit-based, with custom domains and code export on higher tiers. Wegic's own help center documents images only by upload or external URL; the built-in image generation the vendor promotes, including a product-photo-to-product-page pass, is not in that documentation and we have not tested it. A one-click optimize pass audits a published site for SEO and site-health problems and applies the fixes itself — vendor-announced in July 2026, and not something we have tested."
  },
  {
   "name": "WhatConverts",
