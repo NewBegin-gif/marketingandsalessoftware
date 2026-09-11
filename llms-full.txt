@@ -193,8 +193,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## NiceJob
 - Review: https://marketingandsalessoftware.com/nicejob-review.html
-- Verdict: NiceJob: Reviews plan about $75/mo and Pro around $125/mo (adds referrals, AI replies, booking reminders). It automates review collection genuinely well.
-- Price: (price re-verified 2026-08-07) Reviews plan about $75/mo and Pro around $125/mo (adds referrals, AI replies, booking reminders), both with a 14-day trial and a one-off setup fee near $199 (2026). No contracts.
+- Verdict: NiceJob: Software plans are Reviews at $75/mo and Pro at $125/mo, both USD, with a 14-day free trial, no credit card up front and no contracts.
+- Price: (re-verified 2026-09-11 on their own pricing page) Software plans are Reviews at $75/mo and Pro at $125/mo, both USD, with a 14-day free trial, no credit card up front and no contracts. The website plans are Sites at $99/mo and Grow + Sites at $174/mo, each with a one-off $199 setup fee; the software-only plans carry no setup fee.
 
 ## noCRM
 - Review: https://marketingandsalessoftware.com/nocrm-review.html
@@ -229,7 +229,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Quartile
 - Review: https://marketingandsalessoftware.com/quartile-review.html
 - Verdict: Quartile: Budget for this one from a written quote, because nothing else exists. Everything about the sales motion here is a conversation.
-- Price: (2026-08-07, read on their own site) There is no public pricing. quartile.com/pricing serves the same page as the homepage — no tier, no rate card and no entry figure anywhere on it, and the only call to action is Request Demo.
+- Price: (2026-09-11, re-read on their own site) There is no public pricing. quartile.com/pricing serves the same page as the homepage — no tier, no rate card and no entry figure anywhere on it, and the only call to action is Request Demo.
 
 ## Rank Math
 - Review: https://marketingandsalessoftware.com/rank-math-review.html
