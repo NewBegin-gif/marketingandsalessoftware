@@ -2603,7 +2603,7 @@
   "pw_soort": "held"
  },
  "Fastmail": {
-  "price": "€6",
+  "price": "$5",
   "price_note": "Individual · per month",
   "verified": "2026-08-26",
   "catch": "You're paying for what the free giants monetize differently: no ads, no profiling, real support and standards-first email (JMAP/IMAP everywhere).",
@@ -4903,7 +4903,7 @@
     "addons_extra"
    ]
   ],
-  "price": "€24",
+  "price": "$14",
   "price_note": "Lite, per seat · per month",
   "verified": "2026-08-26",
   "catch": "Pipedrive manages what happens after a lead enters your pipeline — it doesn't do outbound prospecting or marketing, so you'll pair it with a separate tool for that.",
