@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 61 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-11.
+> All 62 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-11.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -210,6 +210,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/pagepulse-review.html
 - Verdict: PagePulse — Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
 - Price: (read 10 September 2026 on getpagepulse.io — the plans sit on the home page under the #pricing anchor; /pricing itself returns 404.) Five tiers, and the meter is pages plus AI insights rather than people. Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
+
+## Parallel AI
+- Review: https://marketingandsalessoftware.com/parallel-ai-review.html
+- Verdict: Parallel AI — Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card.
+- Price: (read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise…
 
 ## PartnerStack
 - Review: https://marketingandsalessoftware.com/partnerstack-review.html

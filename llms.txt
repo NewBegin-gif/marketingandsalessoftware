@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 61 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-11.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 62 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-11.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (61) — canonical versions
+## Reviews (62) — canonical versions
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): From $20/mo, Checked Aug 2026](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics: The simplified Core plan is ~$20 per client/mo with no clients included in the base. Cost scales linearly with clients.
 - [AgentNest Review (2026): Free Tier, Then $19/mo](https://marketingandsalessoftware.com/agentnest-review.html): AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no review
@@ -66,6 +66,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [noCRM Review (2026): The Team Features Are All on Dream](https://marketingandsalessoftware.com/nocrm-review.html): noCRM: The page opens on annual billing, where Starter is €11, Expert €22 and Dream €33 per user a month. The pitch is that salespeople hate CRMs.
 - [Nutshell Review (2026): The Add-Ons Outgrow the CRM](https://marketingandsalessoftware.com/nutshell-review.html): Nutshell — Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month. Full API access is included on ever
 - [PagePulse Review (2026): $29 Buys Two Pages, Not a Site](https://marketingandsalessoftware.com/pagepulse-review.html): PagePulse — Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
+- [Parallel AI Review (2026): 50 Free Credits, Then $99/mo](https://marketingandsalessoftware.com/parallel-ai-review.html): Parallel AI — Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card.
 - [PartnerStack Review (2026): Quote-Only, We Run 58 Programmes](https://marketingandsalessoftware.com/partnerstack-review.html): PartnerStack publishes three plans — Launch, Growth and Enterprise. A record in the Partner API's customers endpoint is a tracked click, not a signup.
 - [Pingtree Review (2026): From $199/mo, Overage After Close](https://marketingandsalessoftware.com/pingtree-review.html): Pingtree: Self Service is “From $199” per month with a free trial included. We get paid whether or not you ever spend a cent with them.
 - [Pipedrive Review (2026): From $14 a Seat, Billed a Year Up Front](https://marketingandsalessoftware.com/pipedrive-review.html): Pipedrive: Billed annually they are US$14, US$39, US$59 and US$79 per seat per month. Pipedrive manages what happens after a lead enters your pipeline
