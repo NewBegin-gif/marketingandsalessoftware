@@ -74,7 +74,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## BidX
 - Review: https://marketingandsalessoftware.com/bidx-review.html
 - Verdict: BidX: €295 for the default report, custom reports quote-only. The number that decides your bill is the one number the page does not print.
-- Price: (2026-08-06, read in a live browser on their own pricing page, EUR view) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month.
+- Price: (re-verified 2026-09-11, read in a live browser on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month.
 
 ## Campaign Monitor
 - Review: https://marketingandsalessoftware.com/campaign-monitor-review.html
