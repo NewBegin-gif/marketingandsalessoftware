@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 66 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-13.
+> All 67 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-14.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -59,7 +59,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Attribuly
 - Review: https://marketingandsalessoftware.com/attribuly-review.html
 - Verdict: Attribuly: A free plan that covers the first $1,000 of recovered email revenue, then Capture at $450 a month and Recapture at $500.
-- Price: (read 2026-08-18 on apps.shopify.com/attribuly) A free plan that covers the first $1,000 of recovered email revenue, then Capture at $450 a month and Recapture at $500. Rating 4.8 from 154 reviews.
+- Price: (re-verified 2026-09-13 on apps.shopify.com/attribuly; every amount unchanged since 2026-08-18) A free plan that covers the first $1,000 of recovered email revenue, then Capture at $450 a month and Recapture at $500, both with a 14-day free trial. All charges in USD, billed every 30 days.
 
 ## Aura
 - Review: https://marketingandsalessoftware.com/aura-review.html
@@ -80,6 +80,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/beefree-review.html
 - Verdict: Beefree: Professional $25/mo billed yearly ($30/mo monthly). Professional and Business both cap at two full editing seats.
 - Price: (price re-verified 2026-09-10) Sold as RGE Studio since the 14 May 2026 rebrand. Starter free — up to 10 designs, 6 exports/mo, landing-page builder, custom subdomain, 20GB/mo image traffic, unlimited users but no roles or permissions.
+
+## Beehiiv
+- Review: https://marketingandsalessoftware.com/beehiiv-review.html
+- Verdict: Beehiiv: At 10,000 subscribers Scale is $109/mo or $1,151 a year; at 50,000 it is $249/mo or $2,629 a year. Next to Substack it's more to learn.
+- Price: (re-verified 2026-08-16 from beehiiv's own machine-readable pricing file at beehiiv.com/pricing.md, which states USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv takes 0%, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Launch is $0 up to 2,500 subscribers with unlimited sends.
 
 ## BidX
 - Review: https://marketingandsalessoftware.com/bidx-review.html
@@ -328,8 +333,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Uniqode
 - Review: https://marketingandsalessoftware.com/uniqode-review.html
-- Verdict: Uniqode: The plan cards are rendered in the browser and invisible to a non-browser client. The tier jumps are steep and a lot is gated.
-- Price: (re-verified 2026-08-12, read on their own pricing page) The plan cards are rendered in the browser and invisible to a non-browser client. So what we can hold Uniqode to is its own pricing FAQ, read on 12 August 2026.
+- Verdict: Uniqode: The plan cards are rendered in the browser and carry no price in either reading. The tier jumps are steep and a lot is gated.
+- Price: (re-verified 2026-09-13 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month.
 
 ## ZoomInfo
 - Review: https://marketingandsalessoftware.com/zoominfo-review.html
