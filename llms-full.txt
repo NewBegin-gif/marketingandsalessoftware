@@ -284,7 +284,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## SEOKart
 - Review: https://marketingandsalessoftware.com/seokart-review.html
 - Verdict: SEOKart: Plus is $30 a month or $324 a year for 5,000 products, Max $40 or $432 for 10,000. Every plan, free included, lists free SEO consultancy.
-- Price: (price read 2026-09-12) Four tiers on apps.shopify.com/seokart, billed in USD and recurring every 30 days through Shopify. Free covers 50 pages of one-click AI optimisation, 10 tracked keywords checked monthly, 50 image optimisations and 50 pages of bulk editing, with limited rich snippets.
+- Price: (price read 2026-09-12, re-verified 2026-09-14) Four tiers on apps.shopify.com/seokart, billed in USD and recurring every 30 days through Shopify. Free covers 50 pages of one-click AI optimisation, 10 tracked keywords checked monthly, 50 image optimisations and 50 pages of bulk editing, with limited rich snippets.
 
 ## Similarweb
 - Review: https://marketingandsalessoftware.com/similarweb-review.html
