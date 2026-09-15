@@ -44,7 +44,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Amplemarket
 - Review: https://marketingandsalessoftware.com/amplemarket-review.html
 - Verdict: Amplemarket: The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase.
-- Price: (re-verified 2026-08-17) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial.
+- Price: (re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial.
 
 ## Atlas AI Store Builder
 - Review: https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html
@@ -98,8 +98,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Campaign Monitor
 - Review: https://marketingandsalessoftware.com/campaign-monitor-review.html
-- Verdict: Campaign Monitor: Contact-based, on three tiers. You pay for contacts, not sends — so a large, quiet list costs the same as a large, active one.
-- Price: Contact-based, on three tiers — Lite (with a monthly send cap of about five times your contact count), Essentials (unlimited sends) and Premier (priority and phone support). We could not re-verify a plan amount on 2026-08-16.
+- Verdict: Campaign Monitor: We could not re-verify a plan amount on 2026-09-14 either. You pay for contacts, not sends.
+- Price: Contact-based, on three tiers - Lite (with a monthly send cap of five times your contact count), Essentials (unlimited sends) and Premier (priority and phone support). We could not re-verify a plan amount on 2026-09-14 either: the page prints the euro sign and the words '/month' with nothing between them until you pick a contact count in its slider.
 
 ## Capsule
 - Review: https://marketingandsalessoftware.com/capsule-review.html
@@ -288,8 +288,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SEOKart
 - Review: https://marketingandsalessoftware.com/seokart-review.html
-- Verdict: SEOKart: Plus is $30 a month or $324 a year for 5,000 products, Max $40 or $432 for 10,000. Every plan, free included, lists free SEO consultancy.
-- Price: (price read 2026-09-12, re-verified 2026-09-14) Four tiers on apps.shopify.com/seokart, billed in USD and recurring every 30 days through Shopify. Free covers 50 pages of one-click AI optimisation, 10 tracked keywords checked monthly, 50 image optimisations and 50 pages of bulk editing, with limited rich snippets.
+- Verdict: SEOKart: Pro is $20 a month or $216 a year for 1,000 products with 100 tracked keywords checked weekly. Every plan, free included, lists free SEO consultancy.
+- Price: (price read 2026-09-12, re-verified 2026-09-15) Two publishers, and they do not publish the same ladder. The Shopify listing, https://apps.shopify.com/seokart, bills in USD and recurs every 30 days through Shopify, with four fixed tiers.
 
 ## Signitic
 - Review: https://marketingandsalessoftware.com/signitic-review.html
