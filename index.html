@@ -332,7 +332,7 @@ window.filterTools = function (c) {
     b.classList.toggle('active', b.dataset.cat === c);
   });
   document.querySelectorAll('article.tool-card').forEach(function (k) {
-    k.style.display = (c === 'All' || k.dataset.category === c) ? '' : 'none';
+    k.style.display = (c === 'All' || (k.dataset.category || '').split('|').indexOf(c) > -1) ? '' : 'none';
   });
 };
 </script>
@@ -430,7 +430,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
             <!-- AIBM-FREETOOLS:START --><div class="mb-12"><div class="flex items-end justify-between flex-wrap gap-2 mb-1"><h2 class="text-2xl font-bold text-white">Free tools</h2><a href="/tools/" class="text-xs text-indigo-400 hover:text-indigo-300">All 78 free tools &rarr;</a></div><p class="text-slate-400 mb-5 text-sm">No signup, runs in your browser, each with an honest guide &mdash; from <a href="/tools/" class="text-indigo-400 hover:text-indigo-300">AIBuilder Marketplace</a>.</p><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3"><a href="/tools/roas-calculator/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#06b6d4,#0891b2);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M17 7h4v4"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">ROAS Calculator</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Enter ad spend and revenue to get your return on ad spend instantly.</p></div></a><a href="/tools/conversion-rate-calculator/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#06b6d4,#0891b2);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.3" fill="currentColor"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Conversion Rate Calculator</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Enter visitors and conversions to get your conversion rate instantly.</p></div></a><a href="/tools/ab-test-calculator/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#10b981,#059669);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18"/><rect x="5" y="11" width="3" height="7" rx="1"/><rect x="11" y="6" width="3" height="12" rx="1"/><rect x="17" y="9" width="3" height="9" rx="1"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">A/B Test Significance Calculator</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Enter visitors and conversions for each variant to get conversion rates, uplift and stat…</p></div></a><a href="/tools/utm-builder/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#3b82f6,#6366f1);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 15l6-6"/><path d="M11 7l1-1a4 4 0 0 1 6 6l-1 1"/><path d="M13 17l-1 1a4 4 0 0 1-6-6l1-1"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">UTM Link Builder</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Add trackable utm_source, utm_medium and utm_campaign tags to any URL so you can see exa…</p></div></a><a href="/tools/email-subject-line-tester/" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#f59e0b,#f97316);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Email Subject Line Tester</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Checks length, word count, emoji, ALL-CAPS and spam-trigger words, with an inbox preview.</p></div></a><a href="https://aibuildermarketplace.com/tools/headline-analyzer/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#a78bfa,#8b5cf6);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h6M7 12h10M7 16h10"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Headline Analyzer</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Score your headline on length, numbers and power words, with tips to make it more clicka…</p></div></a><a href="https://aibuildermarketplace.com/tools/seo-meta-tag-generator/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#a78bfa,#8b5cf6);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">SEO Meta Tag & SERP Preview</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">Write your title and meta description with live length checks and a Google search (SERP)…</p></div></a><a href="https://aibuildermarketplace.com/tools/social-media-character-counter/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-card group flex items-start gap-3 bg-slate-900/40 border border-slate-800 hover:border-indigo-500 hover:bg-slate-900/70 rounded-xl p-4 transition-all duration-200"><div class="w-9 h-9 rounded-lg flex items-center justify-center flex-none" style="background:linear-gradient(135deg,#a78bfa,#8b5cf6);color:#fff"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-11.3 7.3L4 21l1.7-5.7A8 8 0 1 1 21 12z"/></svg></div><div class="min-w-0"><div class="font-semibold text-white text-sm leading-snug group-hover:text-indigo-300 transition-colors">Social Media Character Counter</div><p class="text-xs text-slate-400 leading-snug mt-1 mb-0">See how your post fits the limits for X, LinkedIn, Instagram, Threads, TikTok and Facebo…</p></div></a></div></div><!-- AIBM-FREETOOLS:END --><div id="marketplace-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
 <!-- TOOLS:START (auto-generated by build_cards.py — niet handmatig bewerken) -->
 <div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, dated</span><span>What it does · best for · the catch</span><span>Pricing patterns · reader code</span><span></span></div>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/activecampaign.com" alt="ActiveCampaign" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=activecampaign.com&amp;sz=64'">
@@ -444,7 +444,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Businesses that want deep marketing automation and lifecycle email tied to a light CRM, and will actually use the automation depth.</p>
  <p class="tc-catch"><b>The catch</b>Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast — the sticker Starter price is not what a serious automation setup actually costs.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.activecampaign.com/h07gxhkcy8v7" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit ActiveCampaign <span aria-hidden="true">&rarr;</span></a>
@@ -465,7 +465,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Performance marketers and stores that test many ad variations across sizes and platforms and want on-brand creative volume without a designer bottleneck.</p>
  <p class="tc-catch"><b>The catch</b>The meter counts downloads, not campaigns — iterate seriously on ad variations and a 10-credit starter evaporates in an afternoon, which is exactly what iteration-heavy ad work does.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://free-trial.adcreative.ai/9rbtqowzgwy2" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit AdCreative.ai <span aria-hidden="true">&rarr;</span></a>
@@ -480,7 +480,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Adwisely</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b><span class="fp">from ~</span>$49</b><span>per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b class="na">see the review</b><span>pricing read on the vendor page</span><span class="tc-chips"></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Automated retargeting and prospecting ads on Meta and Google for Shopify, WooCommerce and BigCommerce stores.</p>
  <p class="tc-best"><b>Best for</b>E-commerce stores (Shopify, WooCommerce, BigCommerce) that want automated, largely hands-off retargeting and prospecting ads on Meta and Google.</p>
  <p class="tc-catch"><b>The catch</b>The honest math is the 10%-of-ad-spend fee on top of the minimum.</p></div>
@@ -541,7 +541,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>AgentNest</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$19</b><span>Starter · per month for 100 successful automated fixes, billed in USD every 30…</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Scans your Shopify catalogue for the product-data gaps AI shopping surfaces trip over — status, category, description, image alt text — and applies the eligible ones in a click.</p>
  <p class="tc-best"><b>Best for</b>Stores that want an outside read on whether their product data is complete enough for AI shopping surfaces.</p>
  <p class="tc-catch"><b>The catch</b>Thirteen days old and no reviews.</p></div>
@@ -613,7 +613,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="aisq-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Sales &amp; CRM" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Sales &amp; CRM">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/algomo.com" alt="Algomo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=algomo.com&amp;sz=64'">
@@ -626,7 +626,6 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>B2B teams with real inbound traffic that want an AI agent qualifying visitors, personalizing the site by visitor identity and booking meetings.</p>
  <p class="tc-catch"><b>The catch</b>Algomo is a member of the quote-only club: $200/month is the only number on the site, and the real bill for your traffic volume and feature set only emerges in a sales conversation.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Sales</span><span class="tool-tag">CRM</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://www.algomo.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Algomo <span aria-hidden="true">&rarr;</span></a>
@@ -693,7 +692,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="alttext-ai-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/amplemarket.com" alt="Amplemarket" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=amplemarket.com&amp;sz=64'">
@@ -743,7 +742,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Atlas AI Store Builder</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$39</b><span>All-in-one · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$39</b><span>All-in-one · per month, plus usage charges that scale with the revenue your store…</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that builds a full store or product page from a single product link — layout, copy and images generated automatically, plus bundle and cart upsells.</p>
  <p class="tc-best"><b>Best for</b>Sellers testing many product ideas quickly who want a full Shopify storefront from a single product link.</p>
  <p class="tc-catch"><b>The catch</b>The meter runs on your success, not your usage.</p></div>
@@ -794,7 +793,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="attribuly-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="E-commerce" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="E-commerce">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/goaura.com" alt="Aura" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=goaura.com&amp;sz=64'">
@@ -802,12 +801,11 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Aura</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$37</b><span>Starter · per month</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$37</b><span>Starter · per month flat per account, but the tier is set by your monthly sales…</span><span class="tc-chips"><em>read 28 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Dynamic repricing for Amazon and Walmart sellers — automated price strategy across marketplaces.</p>
  <p class="tc-best"><b>Best for</b>Amazon and Walmart sellers past the point where manual repricing costs more attention than it is worth, and whose monthly volume sits comfortably inside one band.</p>
  <p class="tc-catch"><b>The catch</b>The tier is decided by how much you sell, not by what you need.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">E-commerce</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://goaura.com" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Aura <span aria-hidden="true">&rarr;</span></a>
@@ -822,7 +820,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>AutoWrite</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9</b><span>Starter · per month, billed every 30 days in USD</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI blog writer for Shopify with SEO scoring, scheduling and publishing. Free plan available. New to the App Store: zero reviews as of 18 Aug 2026.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that want to test AI-written blog posts with SEO scoring at no cost, and who treat the output as a first draft rather than as publishable copy.</p>
  <p class="tc-catch"><b>The catch</b>The honest thing to say about this one is that there is nothing to judge yet: on 18 August 2026 the App Store listing showed a rating of 0.0 from zero reviews.</p></div>
@@ -941,7 +939,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Substack</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>per month</span><span class="tc-chips"><em>read 16 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Scale, up to 1,000… · billed monthly</span><span class="tc-chips"><em>read 16 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Newsletter platform with growth, automation, SEO and monetisation tooling, priced by subscriber count.</p>
  <p class="tc-best"><b>Best for</b>Newsletter operators who want growth tools, automation, SEO control and ad/referral monetisation — and to keep 100% of subscription revenue.</p>
  <p class="tc-catch"><b>The catch</b>Next to Substack it&#x27;s more to learn.</p></div>
@@ -961,7 +959,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>BidX</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€495</b><span>Self Service Platform · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 11 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€495</b><span>Self Service Platform · per month PLUS an unpublished percentage of connected ad spend, net of…</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 11 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Amazon-advertising automation from German vendor BidX GmbH: bid and budget automation, campaign creation, dayparting and target-ACOS rules for Sponsored Products, Brands and Display, with Amazon DSP and Marketing Cloud reporting and…</p>
  <p class="tc-best"><b>Best for</b>Brands and agencies already spending well past €10,000 a month on Amazon ads, who want bid, budget and campaign automation.</p>
  <p class="tc-catch"><b>The catch</b>The number that decides your bill is the one number the page does not print.</p></div>
@@ -993,7 +991,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="birch-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/bitscale.ai" alt="Bitscale" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bitscale.ai&amp;sz=64'">
@@ -1021,7 +1019,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Blocky</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Basic Plan · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Basic Plan · per month for country blocking only</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify fraud filter that blocks visitors and orders by country, IP (v4 and v6), email, name, address and phone, with an AI bot blocker for TOR, proxy and VPN traffic that gets past reCAPTCHA, country redirects, a right-click blocker and…</p>
  <p class="tc-best"><b>Best for</b>Shopify stores below Plus that are losing time to bot traffic, repeat fraudsters or orders from regions they do not ship to.</p>
  <p class="tc-catch"><b>The catch</b>Read the plan text before you read the badge.</p></div>
@@ -1095,7 +1093,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/bread-butter-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="addons_extra">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="addons_extra">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/brevo.com" alt="Brevo" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=brevo.com&amp;sz=64'">
@@ -1107,7 +1105,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <div class="tc-price"><b><span class="fp">from ~</span>$27</b><span>per month</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Email, SMS and a light CRM, priced by monthly send volume rather than contact count — cheaper for a large list you email selectively. Free forever at 300 emails a day with unlimited contacts; paid from about $9/month.</p>
  <p class="tc-best"><b>Best for</b>Businesses with large contact lists who email selectively and want to pay by send volume, not list size.</p>
- <p class="tc-catch"><b>The catch</b>Charging by sends rather than contacts is genuinely cheaper for big lists you email infrequently — but the free daily cap and add-on fees mean high-frequency senders should model their real send volume first.</p></div>
+ <p class="tc-catch"><b>The catch</b>Charging by sends looks cheaper for a big list you email rarely, but the send tiers cap stored contacts too: 5,000 sends a month stores only 500 contacts, and a 20,000-contact list needs the 20,000-send tier whatever you send.</p></div>
  <div class="lg-signalen">
  <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
@@ -1136,7 +1134,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/buzz-ai-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/callrail.com" alt="CallRail" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=callrail.com&amp;sz=64'">
@@ -1170,14 +1168,14 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Brands and agencies that want beautiful, reliable email campaigns with strong templates and client-friendly management, priced per contact.</p>
  <p class="tc-catch"><b>The catch</b>You pay for contacts, not sends — so a large, quiet list costs the same as a large, active one, and dormant subscribers are literally a line item.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://partners.campaignmonitor.com/v66v483h4lfy" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Campaign Monitor <span aria-hidden="true">&rarr;</span></a>
   <a href="campaign-monitor-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/campaigner.com" alt="Campaigner" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=campaigner.com&amp;sz=64'">
@@ -1191,14 +1189,14 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Mid-market senders with larger lists that want mature email plus SMS workflows and are comfortable at the Essential tier and up.</p>
  <p class="tc-catch"><b>The catch</b>Two paragraphs of fine print worth reading.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://pstk.campaigner.com/0ypcozjggnji" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Campaigner <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/campaigner-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/capsulecrm.com" alt="Capsule" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=capsulecrm.com&amp;sz=64'">
@@ -1219,7 +1217,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="capsule-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/circle.so" alt="Circle" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=circle.so&amp;sz=64'">
@@ -1227,7 +1225,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Circle</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$129</b><span>Professional · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$129</b><span>Professional · billed monthly</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Community platform for creator businesses: discussions, courses, events, memberships and messaging in one branded home — plus a no-code website builder, branded iOS/Android apps, email marketing, a member CRM, built-in payments and AI…</p>
  <p class="tc-best"><b>Best for</b>Creators and brands running a paid community — courses, memberships, events and discussions in one branded home.</p>
  <p class="tc-catch"><b>The catch</b>The sticker is only the entry: Circle keeps a commission on every sale on top of Stripe&#x27;s processing fees, and email marketing is a separate add-on — so a monetized community&#x27;s real bill runs meaningfully past the plan price.</p></div>
@@ -1247,7 +1245,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Claap</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€24</b><span>Pro · per month, annual</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€24</b><span>Pro · annual</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI sales intelligence that records calls without putting a bot in the meeting, then turns them into CRM fields, follow-up emails, deal scoring and coaching.</p>
  <p class="tc-best"><b>Best for</b>Revenue teams that want every call captured — by default with no notetaker bot in the meeting, though a customisable bot is there for teams that prefer one.</p>
  <p class="tc-catch"><b>The catch</b>The four tiers sell two different products, and only one of them is self-serve.</p></div>
@@ -1268,7 +1266,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/zoominfo-review.html" class="underline decoration-dotted hover:text-indigo-300">ZoomInfo</a></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$167</b><span>per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$167</b><span>entry paid plan, from… · billed monthly</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Waterfall enrichment and custom research workflows for go-to-market teams. It enriches rather than sends, so you still need a separate email tool.</p>
  <p class="tc-best"><b>Best for</b>Modern GTM and ops teams who want best-in-class waterfall enrichment and custom research workflows — and have someone to own it.</p>
  <p class="tc-catch"><b>The catch</b>Two honest catches: a steep learning curve (expect 2–4 weeks, many teams need a dedicated Clay expert), and credits that are hard to forecast at scale.</p></div>
@@ -1288,7 +1286,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Cloro</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$30</b><span>Lite · per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$30</b><span>Lite · per month for 37,500 credits</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">API that reads AI search engines — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON.</p>
  <p class="tc-best"><b>Best for</b>SEO and marketing teams who need AI-search visibility as structured data.</p>
  <p class="tc-catch"><b>The catch</b>The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response.</p></div>
@@ -1300,7 +1298,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/cloro-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/close.com" alt="Close" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=close.com&amp;sz=64'">
@@ -1309,7 +1307,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Salesforce</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19</b><span>Solo, per user · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 12 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$19</b><span>Solo, per user · per month, billed month to month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 12 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Sales CRM unifying calling, email and SMS in one inbox, for teams that live on the phone.</p>
  <p class="tc-best"><b>Best for</b>Inside-sales teams that live on the phone and want calling, SMS and CRM in one place.</p>
  <p class="tc-catch"><b>The catch</b>The built-in calling is the draw, but call and SMS credits stack on top of the seat price — a &#x27;$99&#x27; plan can effectively cost ~$160/user once a rep dials 50+ times a day.</p></div>
@@ -1369,7 +1367,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Consentmo</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$10</b><span>Standard · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$10</b><span>Standard · per month, a month, or $100 a year, for unlimited cookie scans, multi-region…</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify consent app that geolocates the visitor and shows the right GDPR, CCPA, PIPEDA or LGPD banner, with Google Consent Mode v2 and Meta, Microsoft and TikTok signals, cookie scanning and data-request pages — plus an accessibility…</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants selling into several jurisdictions who want one app to carry the cookie banner, the consent signals the ad platforms now demand.</p>
  <p class="tc-catch"><b>The catch</b>Read the ladder before you budget $10 for this.</p></div>
@@ -1450,7 +1448,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Dondy</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$6.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$6.99</b><span>Pro · per month for the chat button and messages you send by hand</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">WhatsApp marketing and support for Shopify on the official WhatsApp Business API: abandoned-cart recovery, campaigns to Shopify segments, automated order messages, a shared inbox and an AI chatbot for sales and support.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores whose customers already live in WhatsApp — much of Europe, Latin America, the Middle East and Asia.</p>
  <p class="tc-catch"><b>The catch</b>The free plan is a chat button.</p></div>
@@ -1489,7 +1487,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Dripify</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$39</b><span>Basic (per user) · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$39</b><span>Basic (per user) · per user per month billed annually</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Cloud-based LinkedIn outreach automation — drip sequences of connection requests, messages, InMails and profile views, with configurable daily limits and a built-in email finder.</p>
  <p class="tc-best"><b>Best for</b>Sales teams that already run LinkedIn outreach, understand that automation breaches LinkedIn&#x27;s terms, and accept that risk with their eyes open.</p>
  <p class="tc-catch"><b>The catch</b>Understand what you are buying before the price matters: LinkedIn prohibits this entire product category.</p></div>
@@ -1509,7 +1507,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Dripshipper</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$30</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$30</b><span>Starter · per month, or $240 a year which works out at $20 a month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Private-label coffee and tea dropshipping for Shopify: they roast, bag and ship from their own US facilities within 3-5 business days, with your brand on the packaging.</p>
  <p class="tc-best"><b>Best for</b>Someone who wants a turnkey private-label coffee or tea brand on Shopify — their roasting and packaging, your label on the bag.</p>
  <p class="tc-catch"><b>The catch</b>Read the ladder before you climb it.</p></div>
@@ -1529,7 +1527,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>DropGenius</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$24</b><span>Pro · per month</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$24</b><span>Pro · per month billed annually at $288 -- cheaper than the $39 monthly…</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Generates a Shopify dropshipping store — products, branding and copy — as a starting template, not a finished business. Monthly runs $39 to $299, and annual billing drops Starter.</p>
  <p class="tc-best"><b>Best for</b>Absolute beginners who want a pre-built Shopify dropshipping store scaffold in minutes and understand it&#x27;s a starting point, not a business.</p>
  <p class="tc-catch"><b>The catch</b>We have to be blunt here: DropGenius carries a very poor Trustpilot rating (around 1.6/5 at research time), with recurring complaints about charges continuing after cancellation and refund difficulty.</p></div>
@@ -1608,7 +1606,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>EcomXray</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29</b><span>Pro · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$29</b><span>Pro · per month for in-place product editing, SEO fields and automatic…</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shows cost price, gross margin, current stock and net units sold over 30, 90 and 365 days for every Shopify product, with restock advice from real sales velocity.</p>
  <p class="tc-best"><b>Best for</b>Small and mid-size Shopify merchants who want cost price, gross margin, clean net unit sales and restock advice inside the admin instead of exporting to a spreadsheet.</p>
  <p class="tc-catch"><b>The catch</b>The split between the two tiers is unusually clean, and worth seeing clearly: everything this app is described as doing, the margins, the net units, the restock advice, is free.</p></div>
@@ -1648,7 +1646,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>EngageBay</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$14.99</b><span>per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$14.99</b><span>All-in-One Basic, per… · per user per month on monthly billing</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">All-in-one CRM, marketing, helpdesk and live chat for small teams — a genuine free tier (250 contacts) and per-user suites that undercut the big names.</p>
  <p class="tc-best"><b>Best for</b>Small teams that want CRM, email marketing, helpdesk and live chat in one affordable suite.</p>
  <p class="tc-catch"><b>The catch</b>The meter is contacts AND seats at once: prices are per user, and each tier caps contacts — Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user).</p></div>
@@ -1668,7 +1666,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Essential Loyalty</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$10</b><span>Starter · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$10</b><span>Starter · per month for up to 500 loyalty-influenced orders</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify loyalty and rewards app metered on loyalty-influenced orders rather than total orders, with VIP tiers and referrals on the free plan.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores with genuine repeat business that want a loyalty programme priced on the orders it influences rather than on total volume.</p>
  <p class="tc-catch"><b>The catch</b>Two things to read closely before you pay.</p></div>
@@ -1708,12 +1706,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Expandi</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$99</b><span>Business · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$99</b><span>Business · per month, month-to-month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">LinkedIn and email outreach automation for sales teams and agencies — smart limits, warm-up and multi-account management.</p>
  <p class="tc-best"><b>Best for</b>Sales teams and agencies running LinkedIn (and email) outreach at scale who want smart sending limits, warm-up and multi-account management.</p>
  <p class="tc-catch"><b>The catch</b>There is no free tier and no cheap entry — Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Sales</span><span class="tool-tag">CRM</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://expandi.io/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Expandi <span aria-hidden="true">&rarr;</span></a>
@@ -1733,7 +1731,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>E-commerce stores from 10,000+ monthly visitors (the vendor&#x27;s own stated ICP) and high-volume senders doing 100k+ emails a month, who want email, SMS.</p>
  <p class="tc-catch"><b>The catch</b>The $450/mo floor and the 30k-monthly-visits target make this an established-store tool, not a starter one: below that traffic the platform can&#x27;t pay for itself, and there is no self-serve plan to test it cheaply first.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="quote_only">🔒 Hidden pricing</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="quote_only">🔒 Hidden pricing</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://expertsendersa.partnerlinks.io/gz0syebhiw37" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit ExpertSender <span aria-hidden="true">&rarr;</span></a>
@@ -1748,7 +1746,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Fast Bundle</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19</b><span>Standard (1K) · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 24 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$19</b><span>Standard (1K) · per month on the App Store listing, or $180 a year, for up to $1,000 of…</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 24 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that covers every bundle format from one place — fixed bundles, mix-and-match, build-your-own, BOGO, volume breaks and AI frequently-bought-together — on product pages, in the cart and in POS.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants who want every bundle and upsell format from one app — mix-and-match, build-your-own, BOGO, volume breaks, AI frequently-bought-together.</p>
  <p class="tc-catch"><b>The catch</b>The most important thing about this app is not on its App Store listing.</p></div>
@@ -1808,7 +1806,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Flocksy</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$1,199</b><span>2 hours a day · per month</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$1,199</b><span>2 hours a day · per month billed annually</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">A dedicated creative team for one flat monthly fee. Unlimited graphic design, video editing, motion graphics and web design — your marketing never waits on a freelancer again.</p>
  <p class="tc-best"><b>Best for</b>Marketing teams and agencies with steady, recurring creative volume (ads, social, video edits) that want predictable flat-fee capacity instead of freelancer wrangling.</p>
  <p class="tc-catch"><b>The catch</b>&#x27;Unlimited&#x27; means unlimited queue, not unlimited throughput: work happens at your plan&#x27;s daily capacity, so a big launch week still needs planning, and turnaround expectations are where subscription-design relationships sour.</p></div>
@@ -1820,7 +1818,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/flocksy-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/folk.app" alt="folk" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=folk.app&amp;sz=64'">
@@ -1829,7 +1827,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/hubspot-review.html" class="underline decoration-dotted hover:text-indigo-300">HubSpot</a></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$30</b><span>Standard, per member · per month</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$30</b><span>Standard, per member · billed monthly</span><span class="tc-chips"><em>read 3 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Lightweight, collaborative CRM for managing contacts and relationships. Centralize your network and personalize outreach without the bloat.</p>
  <p class="tc-best"><b>Best for</b>Small sales teams, agencies and VC/partnership teams who want a clean, fast-to-set-up CRM with a great LinkedIn enrichment extension.</p>
  <p class="tc-catch"><b>The catch</b>One gap has closed and one has narrowed.</p></div>
@@ -1930,7 +1928,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Geotargetly</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9</b><span>Dev · per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9</b><span>Dev · per month billed yearly ($12 monthly)</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Geo-targeting toolkit — location-based redirects, content swaps, popups and personalization by country, state and city, priced by traffic volume.</p>
  <p class="tc-best"><b>Best for</b>Marketers personalizing redirects, content blocks and popups by visitor location — country to city level — without engineering work.</p>
  <p class="tc-catch"><b>The catch</b>The meter is pageviews, not visitors, and each product consumes its own pageview on the same page visit — so a redirect plus a popup bills twice.</p></div>
@@ -1983,7 +1981,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="grapeleads-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="free_tier">
+<article class="tool-card ledger fade-in" data-category="Marketing">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/grapevine-surveys.com" alt="Grapevine" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=grapevine-surveys.com&amp;sz=64'">
@@ -1996,7 +1994,6 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Shopify stores running more than one marketing channel that want attribution from customers rather than from cookies.</p>
  <p class="tc-catch"><b>The catch</b>The flat price is the whole pricing page, which cuts both ways.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_rCP4WXWG" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Grapevine <span aria-hidden="true">&rarr;</span></a>
@@ -2032,7 +2029,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>HubSpot</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$20</b><span>Starter, per seat · per month</span><span class="tc-chips"><em>read 18 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$20</b><span>Starter, per seat · the list price per seat per month</span><span class="tc-chips"><em>read 18 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">CRM platform with marketing, sales, service and content hubs on one contact database.</p>
  <p class="tc-best"><b>Best for</b>Teams that want marketing, sales, service and content on one contact database and will actually use more than one hub.</p>
  <p class="tc-catch"><b>The catch</b>Three numbers on this pricing page are not what they look like, and they compound.</p></div>
@@ -2052,7 +2049,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Iconosquare</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€39</b><span>per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>€39</b><span>Launch (1 user, 5… · billed monthly</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Social analytics, reporting and competitor benchmarking, deepest on Instagram and the core networks. Free for one user and two profiles, then Launch around €33/month and Scale €69.</p>
  <p class="tc-best"><b>Best for</b>Agencies and brands that want deep social analytics, reporting and competitor benchmarking alongside scheduling, especially Instagram-first teams.</p>
  <p class="tc-catch"><b>The catch</b>Its depth is strongest on Instagram and the core networks; if your priority platform sits outside its best-supported set, coverage thins.</p></div>
@@ -2064,7 +2061,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/iconosquare-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/icontact.com" alt="iContact" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=icontact.com&amp;sz=64'">
@@ -2078,14 +2075,13 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Small businesses and nonprofits who want a simple, reliable email tool with strong deliverability and a real marketing advisor included on every paid plan.</p>
  <p class="tc-catch"><b>The catch</b>Pricing feels a touch high for what you get, and the Standard plan&#x27;s hard caps on automations and landing pages push growing teams to upgrade sooner than expected.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://ps.icontact.com/d1d7xi95plm6" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit iContact <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/icontact-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/inboxally.com" alt="InboxAlly" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=inboxally.com&amp;sz=64'">
@@ -2098,7 +2094,6 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Serious senders — email marketers and cold-outreach teams — whose deliverability problems are costing measurable revenue and who need active reputation repair.</p>
  <p class="tc-catch"><b>The catch</b>This is a premium, seed-list-based deliverability tool, and the price reflects it — Starter alone is well above casual warm-up apps, so it only makes sense if inbox placement is genuinely costing you real revenue.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://get.inboxally.com/anvbioq7ns18" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit InboxAlly <span aria-hidden="true">&rarr;</span></a>
@@ -2133,7 +2128,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Intelis</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>Basic · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Basic · per month for up to 100 products or variants, or $490 a year, a 17%…</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Monitors competitor prices on Google Shopping and direct competitor sites and reprices your Shopify catalogue automatically with AI matching rules.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores with hundreds to a few thousand variants that genuinely compete on price on Google Shopping and want competitor monitoring and repricing handled automatically.</p>
  <p class="tc-catch"><b>The catch</b>The ladder counts variants, not products, and that is where stores get caught.</p></div>
@@ -2144,7 +2139,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/intelis-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="Marketing|Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/involve.me" alt="involve.me" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=involve.me&amp;sz=64'">
@@ -2152,7 +2147,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>involve.me</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>per month</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Start (3 live funnels… · per month, month-to-month</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Interactive funnel builder: quizzes, calculators, assessments and payment pages with built-in email sequences and a built-in CRM for the leads they capture — free tier to start, paid tiers priced by live-funnel count from $29/mo annual.</p>
  <p class="tc-best"><b>Best for</b>Marketers building interactive lead-gen — quizzes, calculators, assessments and payment funnels with built-in email sequences.</p>
  <p class="tc-catch"><b>The catch</b>The tier pages sell live funnels, but the meter that empties first is contacts.</p></div>
@@ -2184,7 +2179,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/kartra-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/keap.com" alt="Keap" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=keap.com&amp;sz=64'">
@@ -2193,7 +2188,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <a href="/hubspot-review.html" class="underline decoration-dotted hover:text-indigo-300">HubSpot</a></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$299</b><span>the whole platform · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$299</b><span>the whole platform · billed monthly</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">CRM, sales and marketing automation built for small businesses. Capture leads, automate follow-up and manage your pipeline in one place.</p>
  <p class="tc-best"><b>Best for</b>Service-based small businesses, coaches and solopreneurs who want CRM, email, payments and automation in one tool — and will invest the time to learn it.</p>
  <p class="tc-catch"><b>The catch</b>Cost is the big one (56% of reviewers flag it), the interface feels dated, and there&#x27;s a real 2–4 week learning curve on the automation builder.</p></div>
@@ -2205,7 +2200,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/keap-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="free_tier">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="free_tier">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/kit.com" alt="Kit" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=kit.com&amp;sz=64'">
@@ -2214,7 +2209,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Mailchimp</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$39</b><span>Creator · per month</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$39</b><span>Creator · billed monthly</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Email marketing built for creators (formerly ConvertKit).</p>
  <p class="tc-best"><b>Best for</b>Creators, writers and coaches building an audience-first business who want email, landing pages, digital products and a creator network in one.</p>
  <p class="tc-catch"><b>The catch</b>Three honest notes.</p></div>
@@ -2274,7 +2269,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Koongo</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$39</b><span>Lite Plan · per month</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$39</b><span>Lite Plan · per month on the App Store listing for 1,000 items, 5 feeds, two…</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that syncs product feeds, stock and orders across Amazon, eBay, Bol, Zalando, Allegro and 500-plus channels from one dashboard.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants selling across several European marketplaces — Bol, Zalando, Allegro, Cdiscount, Miinto and the rest.</p>
  <p class="tc-catch"><b>The catch</b>The headline price is a base, not a bill.</p></div>
@@ -2355,7 +2350,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Leadfeeder</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€113</b><span>Discover · per month</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€113</b><span>Discover · per month, month-to-month</span><span class="tc-chips"><span class="tc-pw increase">price up</span><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Website visitor identification for B2B sales. See which companies visit your site and what they viewed, and turn anonymous traffic into a warm pipeline.</p>
  <p class="tc-best"><b>Best for</b>B2B teams with real website traffic and a sales team that will actually work the list.</p>
  <p class="tc-catch"><b>The catch</b>The words doing the work are &#x27;starting at&#x27;.</p></div>
@@ -2508,7 +2503,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/marketerhire-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="quote_only">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="quote_only">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/marketing360.com" alt="Marketing 360" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=marketing360.com&amp;sz=64'">
@@ -2536,7 +2531,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Meeri</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$4.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$4.99</b><span>Pro · per month for up to 3,000 push notification impressions, billed in USD…</span><span class="tc-chips"><em>read 23 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS — no address or phone needed to subscribe, and no commission on recovered revenue. Free for 300 notifications a month; Pro is $4.99.</p>
  <p class="tc-best"><b>Best for</b>Small Shopify stores that want a cart-recovery channel which costs almost nothing and takes no commission on what it recovers.</p>
  <p class="tc-catch"><b>The catch</b>Start with the numbers on the vendor&#x27;s own homepage, because they do not match the App Store.</p></div>
@@ -2576,7 +2571,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Moosend</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9</b><span>Pro at 500 contacts · per month</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$9</b><span>Pro at 500 contacts · billed monthly</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Email marketing and automation platform — drag-and-drop campaigns, automation workflows, landing pages and subscription forms, priced by contact-list size with a 30-day free trial and pay-as-you-go email credits as an alternative.</p>
  <p class="tc-best"><b>Best for</b>Small businesses and marketers who want affordable email marketing and automation with a low entry price, a real free trial and a clean drag-and-drop builder.</p>
  <p class="tc-catch"><b>The catch</b>The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts), and the ladder above it does not fall smoothly: paid annually, 8,000 contacts costs $51 a month while 10,000 costs $70, so a list of 9,000 sits on the wrong side of the sharpest jump on the slider.</p></div>
@@ -2596,7 +2591,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Nexis CRO</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9</b><span>Pro · per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$9</b><span>Pro · per month, or $99 a year</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that runs a 34-check SEO and AEO audit across products, collections, pages and policies, rewrites the gaps with AI, deploys JSON-LD schema and an llms.txt file, and tracks whether ChatGPT, Gemini and Perplexity cite your store.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants who already care about being cited in ChatGPT, Gemini and Perplexity, and who want the audit, the schema deployment.</p>
  <p class="tc-catch"><b>The catch</b>It has no track record at all.</p></div>
@@ -2616,7 +2611,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Nextify.ai</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$21</b><span>Starter · per month</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$21</b><span>Starter · per month billed annually at $244 a year</span><span class="tc-chips"><em>read 7 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI ad-video generator for advertisers and e-commerce sellers: turn a product image, a script or a brief into a vertical or landscape video ad, with avatar presenters, lip-sync, product image sets and image cloning in the same workspace.</p>
  <p class="tc-best"><b>Best for</b>Advertisers who need a steady stream of short product clips and will deliberately choose the cheap model for drafts, and teams who would rather have video, avatars.</p>
  <p class="tc-catch"><b>The catch</b>The plans are sold in videos and images; the meter runs in credits per second, and the two do not reconcile.</p></div>
@@ -2656,7 +2651,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>noCRM</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€11</b><span>Starter · per month</span><span class="tc-chips"><em>read 9 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€11</b><span>Starter · per user per month on annual billing</span><span class="tc-chips"><em>read 9 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Action-driven sales tool from France&#x27;s Positive Group: every lead carries a next step instead of a form to fill in.</p>
  <p class="tc-best"><b>Best for</b>Solo sellers, small outbound teams and telesales operations that want a list of leads each carrying a next step, rather than a CRM to configure.</p>
  <p class="tc-catch"><b>The catch</b>The pitch is that salespeople hate CRMs, and the answer is a tool built around the next action rather than the form.</p></div>
@@ -2688,7 +2683,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/notify-me-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/nutshell.com" alt="Nutshell" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=nutshell.com&amp;sz=64'">
@@ -2757,7 +2752,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Optizen</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Starter · per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Starter · per month, plus $2 per extra AI video credit beyond the 2 included</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that puts video upsells and bundles on product, cart and post-purchase pages, using your own clips or AI-generated ones.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that already own product video and want it working as an upsell at the product page, cart and post-purchase moments.</p>
  <p class="tc-catch"><b>The catch</b>AI video is the reason to install this, and it is the one thing the subscription does not cover.</p></div>
@@ -2769,7 +2764,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/optizen-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="annual_lock">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="annual_lock">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/outgrow.co" alt="Outgrow" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=outgrow.co&amp;sz=64'">
@@ -2849,7 +2844,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="partnerstack-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/pecan.ai" alt="Pecan AI" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pecan.ai&amp;sz=64'">
@@ -2888,7 +2883,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="pingtree-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/pipedrive.com" alt="Pipedrive" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=pipedrive.com&amp;sz=64'">
@@ -2896,7 +2891,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Pipedrive</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$14</b><span>Lite, per seat · per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$14</b><span>Lite, per seat · per seat a month billed annually</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Sales-first CRM built around a visual pipeline: track deals, automate follow-ups and forecast revenue — designed for small and mid-size sales teams.</p>
  <p class="tc-best"><b>Best for</b>Sales teams that want a simple, visual pipeline they can use on day one, with a separate marketing tool already in place.</p>
  <p class="tc-catch"><b>The catch</b>Pipedrive manages what happens after a lead enters your pipeline — it doesn&#x27;t do outbound prospecting or marketing, so you&#x27;ll pair it with a separate tool for that.</p></div>
@@ -2916,7 +2911,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Pippit</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€14</b><span>Starter · per month</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€14</b><span>Starter · on monthly billing, against a €22 list price</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI marketing-content maker by CapCut — turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card.</p>
  <p class="tc-best"><b>Best for</b>Solo founders and small teams that want a steady stream of product-marketing videos and posters generated from a product link, without filming anything.</p>
  <p class="tc-catch"><b>The catch</b>The meter is credits per attempt, not per usable result — and buyer reviews centre on exactly that.</p></div>
@@ -3056,7 +3051,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>ProtectMyOrder</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$20</b><span>Free to install · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$20</b><span>Free to install · minimum monthly charge on the App Store plan</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify checkout upsell for premium services: package protection against lost and stolen parcels, carbon-neutral shipping and free returns, sold on the cart page, in checkout or through a custom widget, with fixed, dynamic or percentage…</p>
  <p class="tc-best"><b>Best for</b>Shopify stores with enough volume to clear roughly $100 of protection revenue a month and a known parcel-loss rate.</p>
  <p class="tc-catch"><b>The catch</b>Start with the two pricing pages, because they do not describe the same product.</p></div>
@@ -3075,7 +3070,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Pumper Bundles</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Starter · per month</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Starter · per month, or $94.68 a year</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify bundle app by Profit Pumper: unlimited product bundles, quantity breaks, volume and cart discounts, BOGO and free-gift offers, with cart drawer and page builder integrations.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that want bundles, quantity breaks, BOGO and free-gift offers without touching code.</p>
  <p class="tc-catch"><b>The catch</b>Every tier ships the same four features, so what you are buying is a ceiling on the revenue the app is allowed to earn you.</p></div>
@@ -3175,7 +3170,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>ReachStream</h3><span class="tool-badge pick">CRM</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$39</b><span>Starter · per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$39</b><span>Starter · a month billed monthly, or $29 a month on annual billing (the page…</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">B2B contact database with a published price instead of a quote: unlimited contact and company views on every tier, with the meter running on exports rather than on looking.</p>
  <p class="tc-best"><b>Best for</b>Small sales and marketing teams that want a B2B contact database with a published price rather than a quote.</p>
  <p class="tc-catch"><b>The catch</b>The meter is on exporting, not on looking, and that is the number to size before you pick a tier.</p></div>
@@ -3207,7 +3202,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="reditus-review.html" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/reply.io" alt="Reply.io" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=reply.io&amp;sz=64'">
@@ -3216,12 +3211,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Outreach</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$99</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$99</b><span>Multichannel… · billed monthly</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 17 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI-driven sales engagement platform. Automate your cold outreach across email, LinkedIn, and calls while keeping the human touch. Now includes a mobile app (Jason AI) for iOS and Android to run outreach on the go.</p>
  <p class="tc-best"><b>Best for</b>Sales teams running structured multichannel outbound (email + LinkedIn + calls) who want sequences, warmup and a B2B database in one platform.</p>
- <p class="tc-catch"><b>The catch</b>The advertised $89 is the lobby, not the building: use LinkedIn and calling — the whole point of multichannel — and the real per-seat price roughly doubles.</p></div>
+ <p class="tc-catch"><b>The catch</b>The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp — $99 month to month.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://get.reply.io/l5ko4nvevkas" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Reply.io <span aria-hidden="true">&rarr;</span></a>
@@ -3277,7 +3272,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>RocketReach</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19</b><span>Essentials · per month</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$19</b><span>Essentials · per month on an annual term, billed $229 USD annually</span><span class="tc-chips"><em>read 1 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Contact data and prospecting: look up verified work and personal email addresses plus direct and mobile phone numbers, filter on 50+ criteria, then push the result into Salesforce, HubSpot, Outreach, Salesloft or Bullhorn.</p>
  <p class="tc-best"><b>Best for</b>Sales, recruiting and BD teams whose bottleneck is finding verified direct dials and personal emails.</p>
  <p class="tc-catch"><b>The catch</b>The published prices are annual rates, and the annual term is doing more work than the page lets on.</p></div>
@@ -3289,7 +3284,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/rocketreach-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/salesflare.com" alt="Salesflare" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=salesflare.com&amp;sz=64'">
@@ -3338,7 +3333,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Scarcity.AI</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$4.99</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$4.99</b><span>Monthly Plan (Low Stock… · per month for the low stock counter, or $41.91 a year</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Three Shopify urgency apps — low stock counter, countdown timer and live visitors counter — that read real data but let you choose which true number the shopper sees.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants who genuinely run low stock or timed promotions and want to surface that on the product page.</p>
  <p class="tc-catch"><b>The catch</b>All three read real data, which is worth saying before anything else — the low stock counter shows inventory levels and the visitors counter reads unique visitors, live traffic and product views.</p></div>
@@ -3398,7 +3393,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Securify</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$5.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 13 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$5.99</b><span>Pro · per month, or $49.99 a year (30% less)</span><span class="tc-chips"><em>read 13 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Country blocker and fraud filter for Shopify: blocks countries, IP ranges, bots, VPNs and risky emails at checkout, and holds suspicious orders automatically. Free plan; paid $5.99 to $49 a month.</p>
  <p class="tc-best"><b>Best for</b>Stores seeing real fraud or bot traffic that want country, IP, VPN and email-risk rules plus automatic holds on suspicious orders.</p>
  <p class="tc-catch"><b>The catch</b>Blocking by country and IP is a blunt instrument and it cuts both ways: every rule that keeps out a fraudster also keeps out a customer travelling, using a corporate VPN, or living behind a carrier NAT.</p></div>
@@ -3438,12 +3433,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Selixer</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$149</b><span>Essence · per month</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$149</b><span>Essence · per month for two user seats, one connected ad platform and a year of…</span><span class="tc-chips"><em>read 10 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify profit dashboard that nets ad spend, COGS, returns and fees out of revenue and reports what you keep per product, campaign and customer, built for fashion and apparel brands.</p>
  <p class="tc-best"><b>Best for</b>Shopify fashion and apparel brands with real ad spend that want profit per SKU and per campaign in one place.</p>
  <p class="tc-catch"><b>The catch</b>Read the feature lists rather than the prices and the entry tier stops looking like the product.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">E-commerce</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_KJx7vv0I" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Selixer <span aria-hidden="true">&rarr;</span></a>
@@ -3478,7 +3473,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Seller Snap</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$250</b><span>per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$250</b><span>Accelerator (1 seller… · billed monthly</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI repricer and seller-analytics platform for Amazon and Walmart — what the vendor calls game-theory repricing, aimed at Buy Box share rather than racing to the bottom, plus min/max profit calculation, 80+ analytics data points and imports…</p>
  <p class="tc-best"><b>Best for</b>Amazon and Walmart sellers past the hobby stage who compete for the Buy Box on a catalog of up to a few thousand SKUs.</p>
  <p class="tc-catch"><b>The catch</b>Read the caps before you read the prices, because the caps are what you are actually buying.</p></div>
@@ -3499,19 +3494,19 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
                     <div class="text-[11px] text-slate-500 mb-3">&#8596; Alternative to <span class="text-slate-300 font-medium">Gumroad</span></div></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29</b><span>per month</span><span class="tc-chips"><span class="tc-pw decrease">price down</span><em>read 7 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$29</b><span>Starter, up to $10k in… · billed monthly</span><span class="tc-chips"><span class="tc-pw decrease">price down</span><em>read 7 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">No-code store builder for creators to sell digital products, subscriptions and print-on-demand merch — with zero transaction fees and built-in social-media selling.</p>
  <p class="tc-best"><b>Best for</b>Creators selling digital products, subscriptions and print-on-demand who want a simple store with zero platform commission.</p>
  <p class="tc-catch"><b>The catch</b>The honest mechanic is the revenue ladder: plans cap by your ANNUAL SALES, so success moves you up.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://get.sellfy.com/vbstfilwqb5p" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Sellfy <span aria-hidden="true">&rarr;</span></a>
   <a href="https://aibuildermarketplace.com/b2b/sellfy-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/seospace.co" alt="SEO Space" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=seospace.co&amp;sz=64'">
@@ -3524,7 +3519,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Squarespace freelancers and studios billing for several client sites. Pricing by number of websites rather than per seat.</p>
  <p class="tc-catch"><b>The catch</b>Squarespace has been quietly absorbing the job this tool was invented for.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://www.seospace.co/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit SEO Space <span aria-hidden="true">&rarr;</span></a>
@@ -3559,7 +3554,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>SEOmatic</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$15</b><span>Starter · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$15</b><span>Starter · per month for up to 500 products, billed in USD every 30 days</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">SEO suite for Shopify from Aheadworks: unlimited image compression with alt text, AI-generated meta titles and descriptions, SEO audit, schema markup and both XML and HTML sitemaps.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores under 5,000 products that want image compression, alt text, auto-generated meta tags, schema and sitemaps from one app on a flat monthly fee.</p>
  <p class="tc-catch"><b>The catch</b>This app is eleven years old and has 114 reviews.</p></div>
@@ -3571,7 +3566,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/seomatic-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="usage_metered">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/serpstat.com" alt="Serpstat" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=serpstat.com&amp;sz=64'">
@@ -3579,12 +3574,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Serpstat</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$50</b><span>Individual · per month</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$50</b><span>Individual · per month on annual billing</span><span class="tc-chips"><em>read 26 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">All-in-one SEO platform — keyword research, competitor analysis, rank tracking, site audit and backlink data — from $50/month on annual billing ($69 month-to-month), with a 7-day trial that takes a card and auto-renews.</p>
  <p class="tc-best"><b>Best for</b>Solo SEOs and small in-house teams who want the whole workflow — keywords, rankings, audit, competitors.</p>
  <p class="tc-catch"><b>The catch</b>The thing you are actually buying is data coverage, and that is the one thing you cannot verify — Serpstat&#x27;s own published figures do not agree with each other.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://www.awin1.com/cread.php?awinmid=122238&amp;awinaffid=2880219" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Serpstat <span aria-hidden="true">&rarr;</span></a>
@@ -3599,12 +3594,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Shipdock</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$14.99</b><span>Basic · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$14.99</b><span>Basic · per month, the cheapest tier that prints shipping labels</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify pickup points, multi-carrier label printing and cash-on-delivery tracking, strongest on the Central European carrier networks.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants shipping in Central and Eastern Europe who want pickup points.</p>
  <p class="tc-catch"><b>The catch</b>Read the carrier list against your own country before anything else.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="annual_lock">📅 Annual commit</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">E-commerce</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_GhvBej7p" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Shipdock <span aria-hidden="true">&rarr;</span></a>
@@ -3640,7 +3635,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Signitic</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€1</b><span>Standard · per month</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>€1</b><span>Standard · per user per month, minimum 20 licences</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Email signature management for Google Workspace and Microsoft 365: central templates, per-entity branding, and clickable banner campaigns with click statistics. ISO 27001 certified and hosted in Europe.</p>
  <p class="tc-best"><b>Best for</b>European organisations of roughly twenty people and up, on Google Workspace or Microsoft 365.</p>
  <p class="tc-catch"><b>The catch</b>The homepage sells deployment &#x27;without going through IT&#x27;, and Signitic&#x27;s own help centre contradicts that on every path in.</p></div>
@@ -3781,12 +3776,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Stackable</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19.99</b><span>Growth · per month</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$19.99</b><span>Growth · per month, or $199.99 a year</span><span class="tc-chips"><em>read 6 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify discount app (by Optizio) that folds several discounts into one code: order, collection and shipping discounts combined, a progress type that raises the discount as the cart grows, and checkout upsells on the top tier.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores running several promotions at once — an order discount, free shipping and a collection deal.</p>
  <p class="tc-catch"><b>The catch</b>The two halves of the pitch are priced five times apart.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">E-commerce</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_25GFb2VQ" target="_blank" rel="nofollow noopener noreferrer" class="tool-cta-primary">Visit Stackable <span aria-hidden="true">&rarr;</span></a>
@@ -3806,7 +3801,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Mid-market Shopify brands that want reviews and loyalty in one platform instead of juggling separate apps.</p>
  <p class="tc-catch"><b>The catch</b>So the ladder has a cliff in it rather than a slope.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://get.stamped.io/sdjq70urrlg6" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Stamped <span aria-hidden="true">&rarr;</span></a>
@@ -3821,7 +3816,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Stampezee</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29.99</b><span>Stamp Lite · per month</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$29.99</b><span>Stamp Lite · per month for 2 branches and 3 stamp cards, with 17% advertised off the…</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Digital stamp cards for local businesses, replacing paper punch cards. Stamp Start is free for one branch, one card and up to 100 stamps; Stamp Lite is $29.99/month for two branches and three cards.</p>
  <p class="tc-best"><b>Best for</b>Local businesses (cafés, salons, retail) that want a simple digital stamp-card loyalty program starting free.</p>
  <p class="tc-catch"><b>The catch</b>The category is honest and proven (digital stamp cards beat lost paper cards), and the platform is young with limited public pricing and review coverage — so start on the free plan, run one real campaign, and measure repeat-visit lift before paying.</p></div>
@@ -3841,7 +3836,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>StoreSEO</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$14.99</b><span>Lite · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$14.99</b><span>Lite · per month for 100 products</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">SEO suite for Shopify: bulk meta titles and descriptions, image compression and alt text, JSON-LD schema, sitemap submission, instant indexing requests and Search Console reporting, with AI credits for generated copy.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores with a few hundred products and no in-house SEO help, who want metadata, schema, alt text and indexing handled in bulk and reported against Search Console.</p>
  <p class="tc-catch"><b>The catch</b>Know what an SEO app can and cannot do before you buy any tier.</p></div>
@@ -3861,7 +3856,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Storista</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$15</b><span>Basic · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 23 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$15</b><span>Basic · per month for 50 videos and basic analytics, billed in USD every 30…</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 23 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets — carousels, stories, grids and spotlights — with auto-sync from TikTok and Instagram. Free for 10 videos, $15 for 50, and AI product tagging from $49.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that already produce TikTok or Reels content and want it on the storefront as shoppable video.</p>
  <p class="tc-catch"><b>The catch</b>The first thing to know is that the brand sells two different products, and the one you find by searching the name is not the one this link installs.</p></div>
@@ -3893,7 +3888,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/storylane-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue" data-flag="per_seat">
+<article class="tool-card ledger fade-in" data-category="Growth &amp; Revenue|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/streak.com" alt="Streak" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=streak.com&amp;sz=64'">
@@ -3901,7 +3896,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Streak</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$59</b><span>Pro, per user · per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$59</b><span>Pro, per user · billed monthly</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">CRM built directly inside Gmail: manage pipelines, leads and deals from your inbox with email tracking, mail merge and shared views — ideal for teams that live in Google Workspace.</p>
  <p class="tc-best"><b>Best for</b>Solo founders and small Gmail-native teams whose pipeline genuinely lives in email threads and who want zero context-switching.</p>
  <p class="tc-catch"><b>The catch</b>The pitch — CRM living inside Gmail — is also the ceiling: everything happens in the inbox, which power users love and growing teams outgrow (reporting, permissions, cross-team process).</p></div>
@@ -4000,7 +3995,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Surfer (SurferSEO)</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>Discovery · per month</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Discovery · per month, billed yearly</span><span class="tc-chips"><em>read 5 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Content optimization against live SERP data, and since 2026 a tracker for how often a brand is cited in AI answers like ChatGPT and Google AI Overviews. Billed yearly at four tiers.</p>
  <p class="tc-best"><b>Best for</b>Content marketers, SEO specialists and agencies that need on-page optimization against live SERP data and want to start tracking how often they are cited in AI answers.</p>
  <p class="tc-catch"><b>The catch</b>Every tier quotes its monthly rate on annual billing, so the number you see is a year&#x27;s commitment rather than a monthly one.</p></div>
@@ -4041,7 +4036,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Tapita AI SEO Blog Builder</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Pro · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Pro · per month on Shopify Basic</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI blog builder for Shopify: generates SEO-oriented posts with titles, images and keyword suggestions, embeds your products, and schedules bulk publishing from a drag-and-drop editor.</p>
  <p class="tc-best"><b>Best for</b>Shopify stores that want structured, product-linked blog drafts and a publishing schedule, and that will edit what comes out before it goes live.</p>
  <p class="tc-catch"><b>The catch</b>Publishing volume is the trap this tool makes cheap.</p></div>
@@ -4061,7 +4056,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Tapita SEO Optimizer</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Basic · per month</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Basic · per month on the Shopify Basic plan</span><span class="tc-chips"><em>read 21 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">All-in-one Shopify SEO app: site audits with LLMs.txt for AI search engines, bulk and AI-written metadata, image alt text and compression, JSON-LD schema, broken-link auto-redirects and one-click speed fixes.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants on the Basic or Grow plan who want SEO audits, bulk metadata, image alt text and speed fixes out of one app instead of hiring a specialist.</p>
  <p class="tc-catch"><b>The catch</b>The price on the listing is a Shopify-Basic price, and almost nobody reads the line underneath it.</p></div>
@@ -4101,7 +4096,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Teikametrics</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$179</b><span>per month</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$179</b><span>Essentials, up to $10K… · billed monthly</span><span class="tc-chips"><em>read 30 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Advertising optimisation for Amazon and Walmart sellers, with inventory and catalogue signals.</p>
  <p class="tc-best"><b>Best for</b>Amazon and Walmart sellers spending enough on ads that a few points of efficiency covers the fee — under $10K a month the flat $149 is straightforward.</p>
  <p class="tc-catch"><b>The catch</b>Read the Advanced tier carefully, because it is not a subscription — it is a subscription plus a percentage.</p></div>
@@ -4142,7 +4137,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>TiXel</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$19.99</b><span>Unlimited Plan · per month</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$19.99</b><span>Unlimited Plan · per month, or $119.94 a year at a stated 50% saving</span><span class="tc-chips"><em>read 22 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app for Meta and TikTok pixels, with unlimited pixels, product-level scoping and server-side Events API tracking on one flat plan.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants running Meta and TikTok ads who need more than the free channel apps give them.</p>
  <p class="tc-catch"><b>The catch</b>The 4.1 rating is the most useful number on this listing, but not for the reason an average usually is.</p></div>
@@ -4162,7 +4157,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>TnC</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$7.99</b><span>Basic Plan · per month</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 9 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$7.99</b><span>Basic Plan · per month on the App Store listing, or $47.94 a year, for the checkbox…</span><span class="tc-chips"><span class="tc-pw held">price held</span><em>read 9 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries…</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants on a standard plan who need a recorded “I agree” gate before payment — for GDPR, an age gate, digital-goods withdrawal rules or chargeback defence.</p>
  <p class="tc-catch"><b>The catch</b>Start with the badge at the top of the listing, because it is the one thing on this page that misleads.</p></div>
@@ -4182,7 +4177,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>UENI</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$24.99</b><span>Website Launch · per month</span><span class="tc-chips"><span class="tc-pw restructure">plans rebuilt</span><em>read 9 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$24.99</b><span>Website Launch · per month on the entry tier, on top of a $599 setup fee currently…</span><span class="tc-chips"><span class="tc-pw restructure">plans rebuilt</span><em>read 9 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">A done-for-you small-business website, built for you rather than a builder you have to learn: a one-time build fee (promoted at $79 against a usual figure near $599) plus $24.99/month, including domain, email and a launch call.</p>
  <p class="tc-best"><b>Best for</b>Small-business owners with no time or tech skills who want a professional site built for them, not another tool to learn.</p>
  <p class="tc-catch"><b>The catch</b>It&#x27;s done-for-you, which is the appeal and the catch.</p></div>
@@ -4243,7 +4238,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Upsell.com</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$4.99</b><span>Upsell Basic · per month</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$4.99</b><span>Upsell Basic · per month for up to 50 orders or $50 of upsell revenue</span><span class="tc-chips"><em>read 2 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify upsell app, formerly ReConvert: AI-driven cart, checkout and post-purchase upsell and cross-sell funnels, frequently-bought-together and product page recommendations, A/B testing and analytics with segmentation.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants who want one funnel covering product page, cart and post-purchase offers with AI recommendations and A/B testing.</p>
  <p class="tc-catch"><b>The catch</b>The prices on the listing are the bottom three rungs of a ladder that keeps going.</p></div>
@@ -4263,7 +4258,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>UpsellPlus</h3><span class="tool-badge pick">Growth</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$49</b><span>Launch · per month</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$49</b><span>Launch · per month, or $500 a year</span><span class="tc-chips"><em>read 31 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Upsells, cross-sells and free gifts across Shopify product pages, cart, checkout, post-purchase, customer accounts and POS, with AI recommendations and A/B testing in 23 storefront languages.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants who want one app covering product page, cart, checkout, post-purchase, customer accounts and POS offers rather than three.</p>
  <p class="tc-catch"><b>The catch</b>The plans are capped by the revenue they are allowed to earn you, and the first paid step does not raise that cap: Free and the $49 Launch plan both stop at $500 of upsell revenue a month.</p></div>
@@ -4384,7 +4379,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Way</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$9.99</b><span>Basic Plan · per month</span><span class="tc-chips"><em>read 25 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$9.99</b><span>Basic Plan · per month for up to 50 store locations, or $95.90 a year</span><span class="tc-chips"><em>read 25 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">Shopify store locator on Google Maps with no API key needed, priced by location count rather than by feature.</p>
  <p class="tc-best"><b>Best for</b>Retailers and brands with physical stockists who want a Google Maps locator on their Shopify storefront without setting up a Maps API key or paying Google directly.</p>
  <p class="tc-catch"><b>The catch</b>The pricing page reads like a feature ladder and behaves like a counter.</p></div>
@@ -4396,7 +4391,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <a href="https://aibuildermarketplace.com/b2b/way-review/?utm_source=marketingandsalessoftware&utm_medium=ecosystem" target="_blank" rel="nofollow noopener" class="tool-cta-review">Honest review <span aria-hidden="true">&rarr;</span></a>
  </div>
 </article>
-<article class="tool-card ledger fade-in" data-category="Marketing" data-flag="addons_extra">
+<article class="tool-card ledger fade-in" data-category="Marketing|Sales &amp; CRM" data-flag="per_seat">
  <div class="lg-wie">
   <div class="tool-logo" style="background:#fff;box-sizing:border-box;padding:6px">
    <img src="https://logo.clearbit.com/webinargeek.com" alt="WebinarGeek" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:contain" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=webinargeek.com&amp;sz=64'">
@@ -4404,12 +4399,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>WebinarGeek</h3><span class="tool-badge pick">Marketing</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>€69</b><span>Premium (50 viewers) · per month</span><span class="tc-chips"><em>read 17 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>€69</b><span>Premium (50 viewers) · billed monthly</span><span class="tc-chips"><em>read 14 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">European live and automated webinar platform — viewer-tier pricing, engagement tools, CRM integrations and GDPR-friendly hosting.</p>
  <p class="tc-best"><b>Best for</b>Marketing and sales teams running live and automated webinars in Europe who want a polished, GDPR-friendly platform with viewer-tier pricing.</p>
- <p class="tc-catch"><b>The catch</b>The friendly €49 headline is the annual rate for just 50 viewers, and the real cost lives in add-ons: localization, the AI assistant, CRM integrations and extra workspaces are each €20-59 a month on top.</p></div>
+ <p class="tc-catch"><b>The catch</b>The friendly €49 headline is the annual rate for just 50 viewers, and the real cost lives in add-ons: localisation, the AI assistant, CRM integrations, RTMP and branding profiles are each €20-59 a month on top, and only a Premium subscription can buy them.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="annual_lock">📅 Annual commit</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="per_seat">🪑 Per-seat pricing</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Marketing</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://webinargeek.com/?red=aibuil" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit WebinarGeek <span aria-hidden="true">&rarr;</span></a>
@@ -4444,12 +4439,12 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Wholesale Gorilla</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$34.95</b><span>Lite · per month</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
+ <div class="tc-price"><b>$34.95</b><span>Lite · per month, a month, billed every 30 days</span><span class="tc-chips"><em>read 8 Sep 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">B2B wholesale inside an ordinary Shopify store: custom prices per customer group, a signup and approval flow, net payment terms, wholesale-only shipping rules and a quick-order form, so trade buyers order from the same storefront as retail…</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants who already have wholesale buyers and want them ordering from the same store as retail customers.</p>
  <p class="tc-catch"><b>The catch</b>It is a feature ladder, not a volume ladder, and the features most people picture when they say wholesale sit high on it.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">E-commerce</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_5ISWDdVm" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Wholesale Gorilla <span aria-hidden="true">&rarr;</span></a>
@@ -4469,7 +4464,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Shopify merchants who want checkout-stage upsells, banners, trust badges and gift messages alongside post-purchase and thank-you page offers from a single app.</p>
  <p class="tc-catch"><b>The catch</b>The name says checkout, but the $49 Essential plan does not include checkout upsells.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://platform.shoffi.app/r/rl_eU2hsg8h" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit Wiz Checkout Upsell <span aria-hidden="true">&rarr;</span></a>
@@ -4504,7 +4499,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
   <div class="lg-naam"><h3>Zendrop</h3><span class="tool-badge pick">E-commerce</span></div>
  </div>
  <div class="lg-prijs">
- <div class="tc-price"><b>$29</b><span>Beginner · per month</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
+ <div class="tc-price"><b>$29</b><span>Beginner · per month for 1-20 linked products</span><span class="tc-chips"><em>read 19 Aug 2026</em></span></div></div>
  <div class="lg-oordeel"><p class="tool-desc">AI dropshipping and print-on-demand for Shopify: browse 1M+ products from US and global suppliers, link them to your store and let fulfilment and tracking run automatically, with custom branding, POD and 3PL as you scale.</p>
  <p class="tc-best"><b>Best for</b>Shopify merchants starting or scaling a dropshipping or print-on-demand store who want sourcing, automated fulfilment, tracking and custom branding in one app.</p>
  <p class="tc-catch"><b>The catch</b>The free plan is a catalogue browser rather than a working tier: it allows no linked products, so nothing can actually be sold through it.</p></div>
@@ -4529,7 +4524,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  <p class="tc-best"><b>Best for</b>Enterprise go-to-market teams that need the deepest US database, buyer-intent signals and conversation intelligence — and can absorb the contract.</p>
  <p class="tc-catch"><b>The catch</b>The contract is the most-cited frustration: annual lock-in with a strict 60–90 day cancellation window and 10–20% renewal increases.</p></div>
  <div class="lg-signalen">
- <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span><span class="tc-flag" title="free_tier">🆓 Free tier</span></div>
+ <div class="tc-flags"><span class="tc-flag" title="usage_metered">🧮 Usage-metered</span><span class="tc-flag" title="addons_extra">🧩 Add-ons extra</span></div>
  <div class="tc-coupon leeg" aria-hidden="true"></div><div class="tool-tags"><span class="tool-tag">Growth</span><span class="tool-tag">Revenue</span></div></div>
  <div class="lg-acties tool-cta-row">
   <a href="https://try.zoominfo.com/me0vaf3cnryt" target="_blank" rel="sponsored noopener noreferrer" class="tool-cta-primary">Visit ZoomInfo <span aria-hidden="true">&rarr;</span></a>
