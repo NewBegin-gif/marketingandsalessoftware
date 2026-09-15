@@ -126,15 +126,31 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 <label for="u-cmp">Campaign (utm_campaign)</label><input type="text" id="u-cmp" placeholder="spring_launch" value="launch">
 <div class="row"><div><label for="u-trm">Term (optional)</label><input type="text" id="u-trm"></div>
 <div><label for="u-cnt">Content (optional)</label><input type="text" id="u-cnt"></div></div>
+<div class="row"><div><label for="u-norm">Normalise</label><select id="u-norm"><option value="1" selected>lower-case, spaces to _</option><option value="0">keep as typed</option></select></div>
+<div><label for="u-preset">Presets (saved in your browser)</label><select id="u-preset"><option value="">&mdash; pick a preset &mdash;</option></select></div></div>
 <label for="u-out" style="margin-top:14px">Your tracking URL</label>
 <input type="text" id="u-out" class="out" readonly>
-<button class="btn" id="u-copy">Copy</button></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/utm-builder/" style="color:#8b93a7;text-decoration:none">&#9889; UTM Link Builder &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<button class="btn" id="u-copy">Copy</button> <button class="btn ghost" id="u-save">Save as preset</button> <button class="btn ghost" id="u-del" hidden>Delete preset</button>
+<details style="margin-top:14px"><summary>History &mdash; your last 25 links, kept in this browser only</summary><div id="u-hist" style="font-size:.85rem;margin-top:8px"></div></details>
+<p class="note">Presets and history live in your browser (localStorage); nothing is sent to us. Tools like utm.io charge for exactly this.</p></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/utm-builder/" style="color:#8b93a7;text-decoration:none">&#9889; UTM Link Builder &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+var U_IDS=['u-url','u-src','u-med','u-cmp','u-trm','u-cnt'];
+function uLoad(k,d){try{return JSON.parse(localStorage.getItem(k))||d;}catch(e){return d;}}
+function uSave(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
+function uNorm(v){return document.getElementById('u-norm').value==='1'?v.toLowerCase().split(' ').join('_'):v;}
 function utmBuild(){var base=(document.getElementById('u-url').value||'').trim(),o=document.getElementById('u-out');
-if(!base){o.value='';return;}var p=[];
-function add(k,id){var v=(document.getElementById(id).value||'').trim();if(v)p.push(k+'='+encodeURIComponent(v));}
+if(!base){o.value='';return;}var url;
+try{url=new URL(/^[a-z][a-z0-9+.-]*:/i.test(base)?base:'https://'+base);}catch(e){o.value='';return;}
+function add(k,id){var v=uNorm((document.getElementById(id).value||'').trim());if(v)url.searchParams.set(k,v);}
 add('utm_source','u-src');add('utm_medium','u-med');add('utm_campaign','u-cmp');add('utm_term','u-trm');add('utm_content','u-cnt');
-o.value=p.length?base+(base.indexOf('?')>-1?'&':'?')+p.join('&'):base;
+o.value=url.toString();
 gtag&&gtag('event','tool_use',{event_label:'utm_build'});}
-['u-url','u-src','u-med','u-cmp','u-trm','u-cnt'].forEach(function(id){document.getElementById(id).addEventListener('input',utmBuild);});
-document.getElementById('u-copy').onclick=function(){var o=document.getElementById('u-out');if(!o.value)return;navigator.clipboard&&navigator.clipboard.writeText(o.value);var b=this;b.textContent='Copied!';setTimeout(function(){b.textContent='Copy';},1500);gtag&&gtag('event','tool_copy',{event_label:'utm_copy'});};
-utmBuild();</script></body></html>
+U_IDS.concat(['u-norm']).forEach(function(id){document.getElementById(id).addEventListener('input',utmBuild);document.getElementById(id).addEventListener('change',utmBuild);});
+function uHist(){var h=uLoad('aibm_utm_hist',[]),d=document.getElementById('u-hist');d.innerHTML=h.length?h.map(function(x){return '<div style="padding:4px 0;border-bottom:1px solid #26262b;word-break:break-all">'+x.replace(/</g,'&lt;')+'</div>';}).join(''):'<span class="muted">Nothing yet &mdash; copy a link and it lands here.</span>';}
+function uPresets(){var ps=uLoad('aibm_utm_presets',{}),s=document.getElementById('u-preset'),cur=s.value;s.innerHTML='<option value="">&mdash; pick a preset &mdash;</option>'+Object.keys(ps).sort().map(function(n){return '<option value="'+n.replace(/"/g,'&quot;')+'">'+n.replace(/</g,'&lt;')+'</option>';}).join('');s.value=cur;document.getElementById('u-del').hidden=!cur;}
+document.getElementById('u-copy').onclick=function(){var o=document.getElementById('u-out');if(!o.value)return;navigator.clipboard&&navigator.clipboard.writeText(o.value);var b=this;b.textContent='Copied!';setTimeout(function(){b.textContent='Copy';},1500);
+var h=uLoad('aibm_utm_hist',[]);if(h[0]!==o.value){h.unshift(o.value);uSave('aibm_utm_hist',h.slice(0,25));uHist();}
+gtag&&gtag('event','tool_copy',{event_label:'utm_copy'});};
+document.getElementById('u-save').onclick=function(){var n=prompt('Name for this preset (e.g. Newsletter / Q4 launch):');if(!n)return;var ps=uLoad('aibm_utm_presets',{}),v={};U_IDS.forEach(function(id){v[id]=document.getElementById(id).value;});ps[n]=v;uSave('aibm_utm_presets',ps);uPresets();document.getElementById('u-preset').value=n;document.getElementById('u-del').hidden=false;gtag&&gtag('event','tool_use',{event_label:'utm_preset_save'});};
+document.getElementById('u-preset').onchange=function(){var ps=uLoad('aibm_utm_presets',{}),v=ps[this.value];document.getElementById('u-del').hidden=!v;if(!v)return;U_IDS.forEach(function(id){document.getElementById(id).value=v[id]||'';});utmBuild();};
+document.getElementById('u-del').onclick=function(){var s=document.getElementById('u-preset'),ps=uLoad('aibm_utm_presets',{});if(!s.value)return;delete ps[s.value];uSave('aibm_utm_presets',ps);s.value='';uPresets();};
+uPresets();uHist();utmBuild();</script></body></html>

@@ -138,10 +138,11 @@ var va=+va_.value,ca=+ca_.value,vb=+vb_.value,cb=+cb_.value,o=document.getElemen
 if(!(va>0&&vb>0)||ca<0||cb<0||ca>va||cb>vb){o.innerHTML='<p class="muted">Enter valid numbers (conversions must be \u2264 visitors).</p>';return;}
 var pa=ca/va,pb=cb/vb,pp=(ca+cb)/(va+vb),se=Math.sqrt(pp*(1-pp)*(1/va+1/vb));
 var z=se?(pb-pa)/se:0,pv=2*(1-ncdf(Math.abs(z))),up=pa?((pb-pa)/pa*100):0,sig=pv<0.05;
+var seD=Math.sqrt(pa*(1-pa)/va+pb*(1-pb)/vb),lo=(pb-pa-1.96*seD)*100,hi=(pb-pa+1.96*seD)*100,pvs=pv<0.0001?'&lt; 0.0001':pv.toFixed(4);
 o.innerHTML='<p>Control: <b>'+(pa*100).toFixed(2)+'%</b> &nbsp;|&nbsp; Variant: <b>'+(pb*100).toFixed(2)+'%</b></p>'
 +'<p class="big">'+(up>=0?'+':'')+up.toFixed(1)+'% <span class="muted" style="font-size:.9rem">relative uplift</span></p>'
-+'<p>p-value: <b>'+pv.toFixed(4)+'</b> &nbsp; (confidence '+((1-pv)*100).toFixed(1)+'%)</p>'
-+'<p class="'+(sig?'sig-y':'sig-n')+'">'+(sig?'\u2714 Statistically significant (p &lt; 0.05)':'\u2717 Not yet significant \u2014 keep the test running')+'</p>';
++'<p>p-value: <b>'+pvs+'</b> &nbsp;\u00b7&nbsp; 95% interval for the difference: <b>'+(lo>=0?'+':'')+lo.toFixed(2)+' to '+(hi>=0?'+':'')+hi.toFixed(2)+' points</b></p>'
++'<p class="'+(sig?'sig-y':'sig-n')+'">'+(sig?'\u2714 Statistically significant at p &lt; 0.05 \u2014 the '+(pb>=pa?'variant':'control')+' did better in this sample; the p-value is not the probability that it is truly better':'\u2717 Not statistically significant at p &lt; 0.05 \u2014 judge it at the sample size you planned, not by running on until it turns green')+'</p>';
 gtag&&gtag('event','tool_use',{event_label:'ab_calc'});}
 var va_=document.getElementById('va'),ca_=document.getElementById('ca'),vb_=document.getElementById('vb'),cb_=document.getElementById('cb');
 document.getElementById('ab-go').onclick=abCalc;abCalc();

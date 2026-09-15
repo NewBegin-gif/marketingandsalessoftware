@@ -129,9 +129,9 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 function ssCalc(){var p1=(+document.getElementById('ss-base').value)/100,mde=(+document.getElementById('ss-mde').value)/100,
 za=+document.getElementById('ss-sig').value,zb=+document.getElementById('ss-pow').value,o=document.getElementById('ss-out');
 if(!(p1>0&&p1<1&&mde>0)){o.innerHTML='<p class="muted">Enter valid numbers.</p>';return;}
-var p2=p1*(1+mde);if(p2>=1)p2=0.999;
+var p2=p1*(1+mde);if(p2>=1){o.innerHTML='<p class="muted">A '+document.getElementById('ss-mde').value+'% relative lift on a '+document.getElementById('ss-base').value+'% baseline would be a '+(p2*100).toFixed(1)+'% conversion rate, which is impossible. Lower the baseline or the effect.</p>';return;}
 var n=Math.ceil(Math.pow(za+zb,2)*(p1*(1-p1)+p2*(1-p2))/Math.pow(p2-p1,2));
-o.innerHTML='<p class="big">'+n.toLocaleString()+'</p><p class="muted">visitors needed <b>per variant</b> ('+(n*2).toLocaleString()+' total) to detect a '+document.getElementById('ss-mde').value+'% relative lift from a '+document.getElementById('ss-base').value+'% baseline.</p>';
+o.innerHTML='<p class="big">'+n.toLocaleString()+'</p><p class="muted">visitors needed <b>per variant</b> ('+(n*2).toLocaleString()+' total) to detect a '+document.getElementById('ss-mde').value+'% relative lift from a '+document.getElementById('ss-base').value+'% baseline \u2014 that is a target of '+(p2*100).toFixed(2)+'%, or +'+((p2-p1)*100).toFixed(2)+' percentage points.</p>';
 gtag&&gtag('event','tool_use',{event_label:'ab_samplesize'});}
 document.getElementById('ss-go').onclick=ssCalc;
 ['ss-base','ss-mde','ss-sig','ss-pow'].forEach(function(id){document.getElementById(id).addEventListener('change',ssCalc);});ssCalc();</script></body></html>

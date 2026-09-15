@@ -128,9 +128,9 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 function coFmt(x){return x>=1e3?'$'+(x/1e3).toFixed(1)+'k':'$'+Math.round(x);}
 function coCalc(){
 var n=+document.getElementById('co-n').value,arpu=+document.getElementById('co-arpu').value,ret=+document.getElementById('co-ret').value/100;
-var M=12,pct=[],totRev=0;for(var m=0;m<=M;m++){var p=Math.pow(ret,m);pct.push(p);totRev+=n*p*arpu;}
-var life=ret<1?1/(1-ret):999,ltv=arpu*life;
-var stats=[['LTV / user',coFmt(ltv),''],['Avg lifetime',(ret<1?life.toFixed(1)+' mo':'\u221e'),''],['Retained at mo 12',(pct[12]*100).toFixed(0)+'%',(pct[12]<0.3?'sig-n':'')],['12-mo revenue',coFmt(totRev),'']];
+var M=12,pct=[],totRev=0;for(var m=0;m<=M;m++){var p=Math.pow(ret,m);pct.push(p);if(m<M)totRev+=n*p*arpu;}
+var life=ret<1?1/(1-ret):Infinity,ltv=ret<1?arpu*life:Infinity;
+var stats=[['LTV / user',(ret<1?coFmt(ltv):'\u221e (no churn)'),''],['Avg lifetime',(ret<1?life.toFixed(1)+' mo':'\u221e'),''],['Retained at mo 12',(pct[12]*100).toFixed(0)+'%',(pct[12]<0.3?'sig-n':'')],['12-mo revenue',coFmt(totRev),'']];/* 12 payments, months 0-11; month 0 is the first paid month */
 document.getElementById('co-stats').innerHTML=stats.map(function(s){return '<div style="background:var(--card2);border:1px solid var(--border);border-radius:12px;padding:14px"><div class="big '+s[2]+'" style="font-size:1.4rem;line-height:1.1">'+s[1]+'</div><div class="muted" style="font-size:.76rem;margin-top:2px">'+s[0]+'</div></div>';}).join('');
 var W=640,H=220,pd=32;function X(i){return (pd+i/M*(W-2*pd)).toFixed(1);}function Y(v){return (H-pd-v*(H-2*pd)).toFixed(1);}
 var pts=pct.map(function(v,i){return X(i)+','+Y(v);}).join(' ');
