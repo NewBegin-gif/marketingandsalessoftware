@@ -14,7 +14,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AgencyAnalytics
 - Review: https://marketingandsalessoftware.com/agencyanalytics-review.html
 - Verdict: AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clients.
-- Price: One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (a 50-client agency pays $1,000/mo). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly the advertised "Save 20% annually".
+- Price: One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (a 25-client agency pays $500/mo; past that it is a quote). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly the advertised "Save 20% annually".
 
 ## AgentNest
 - Review: https://marketingandsalessoftware.com/agentnest-review.html
@@ -268,7 +268,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Reply.io
 - Review: https://marketingandsalessoftware.com/reply-io-review.html
-- Verdict: Reply.io: Three separate tracks, and the one you pick changes the arithmetic completely. The advertised $89 is the lobby, not the building.
+- Verdict: Reply.io: Three separate tracks, and the one you pick changes the arithmetic completely. The $89 is the Multichannel track on annual billing.
 - Price: (re-verified 2026-08-17 against Reply's own machine-readable plan breakdown) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is pay-as-you-go by active contacts: 1,000 for $49/mo, 2,000 for $59, 3,000 for $69, 5,000 for $89, 10,000 for $159, 25,000 for $259 and 50,000 for $459, with 100,000+ quoted.
 
 ## Scarcity.AI

@@ -312,7 +312,7 @@ window.filterTools = function (c) {
     b.classList.toggle('active', b.dataset.cat === c);
   });
   document.querySelectorAll('article.tool-card').forEach(function (k) {
-    k.style.display = (c === 'All' || k.dataset.category === c) ? '' : 'none';
+    k.style.display = (c === 'All' || (k.dataset.category || '').split('|').indexOf(c) > -1) ? '' : 'none';
   });
 };
 </script>
