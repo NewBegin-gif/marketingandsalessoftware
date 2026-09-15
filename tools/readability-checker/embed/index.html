@@ -120,14 +120,32 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><label for="rd-in">Paste your text</label>
-<textarea id="rd-in" rows="6">Good writing is clear writing. When a sentence runs too long or leans on jargon, readers drop off. Aim for short sentences and plain words.</textarea>
-<div id="rd-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/readability-checker/" style="color:#8b93a7;text-decoration:none">&#9889; Readability Checker &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+<textarea id="rd-in" rows="7">Good writing is clear writing. When a sentence runs too long or leans on jargon, readers drop off. The report was written by the committee and it was subsequently reviewed extensively by several stakeholders who were not particularly enthusiastic about it. Aim for short sentences and plain words.</textarea>
+<div id="rd-out" style="margin-top:16px"></div>
+<label style="margin-top:14px">Your text, marked up</label>
+<div id="rd-marked" style="background:#121214;border:1px solid #26262b;border-radius:12px;padding:14px;line-height:1.8;font-size:.95rem"></div>
+<p class="note"><span style="background:rgba(248,113,113,.3);padding:0 4px;border-radius:3px">red</span> very long sentence (25+ words) &middot; <span style="background:rgba(251,191,36,.3);padding:0 4px;border-radius:3px">yellow</span> long sentence (20+) &middot; <span style="border-bottom:2px solid #a78bfa">purple</span> passive voice &middot; <span style="border-bottom:2px dotted #38bdf8">blue</span> adverb &middot; <span style="background:rgba(52,211,153,.25);padding:0 3px;border-radius:3px">green</span> complex word (3+ syllables). The same marks the paid Hemingway app sells, in your browser, free.</p></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/readability-checker/" style="color:#8b93a7;text-decoration:none">&#9889; Readability Checker &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
+(function(){
 function syl(w){w=w.toLowerCase().replace(/[^a-z]/g,'');if(w.length<=3)return 1;w=w.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/,'').replace(/^y/,'');var m=w.match(/[aeiouy]{1,2}/g);return m?m.length:1;}
-function rdCalc(){var t=document.getElementById('rd-in').value||'',o=document.getElementById('rd-out');
-var sentences=(t.match(/[.!?]+/g)||[]).length||1,words=t.trim().match(/\S+/g)||[],wc=words.length;
-if(!wc){o.innerHTML='<p class="muted">Paste some text to analyse.</p>';return;}
-var syls=words.reduce(function(a,w){return a+syl(w);},0),fre=206.835-1.015*(wc/sentences)-84.6*(syls/wc);fre=Math.max(0,Math.min(100,fre));
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;');}
+var PASS=/\b(am|is|are|was|were|be|been|being|get|got)\s+(\w+ed|\w+en|built|done|made|sent|seen|given|taken|written|paid|found|held|kept|known|left|lost|put|read|run|set|shown|told|thought|won)\b/gi;
+function calc(){var t=document.getElementById('rd-in').value||'',o=document.getElementById('rd-out'),mk=document.getElementById('rd-marked');
+var sents=t.match(/[^.!?]+[.!?]+["')\]]*|[^.!?]+$/g)||[];var words=t.trim().match(/\S+/g)||[],wc=words.length;
+if(!wc){o.innerHTML='<p class="muted">Paste some text to analyse.</p>';mk.innerHTML='';return;}
+var syls=words.reduce(function(a,w){return a+syl(w);},0),ns=Math.max(1,sents.length);
+var fre=Math.max(0,Math.min(100,206.835-1.015*(wc/ns)-84.6*(syls/wc))),fk=Math.max(0,0.39*(wc/ns)+11.8*(syls/wc)-15.59);
 var grade=fre>=70?'Easy \u2014 most readers':fre>=60?'Plain English (8\u20139th grade)':fre>=50?'Fairly hard':fre>=30?'Difficult (college)':'Very difficult',cls=fre>=60?'sig-y':(fre<30?'sig-n':'');
-o.innerHTML='<p class="big '+cls+'">'+Math.round(fre)+'</p><p>Flesch Reading Ease \u2014 <b>'+grade+'</b></p><p class="muted">'+wc+' words \u00b7 '+sentences+' sentences \u00b7 '+(wc/sentences).toFixed(1)+' words/sentence \u00b7 '+(syls/wc).toFixed(2)+' syllables/word</p>';
-gtag&&gtag('event','tool_use',{event_label:'readability'});}
-document.getElementById('rd-in').addEventListener('input',rdCalc);rdCalc();</script></body></html>
+var longS=0,veryLong=0,passive=0,adverbs=0,complex=0;
+var html=sents.map(function(s){var w=(s.trim().match(/\S+/g)||[]).length;var bg='';if(w>=25){bg='rgba(248,113,113,.3)';veryLong++;}else if(w>=20){bg='rgba(251,191,36,.3)';longS++;}
+var inner=esc(s).replace(/\b([A-Za-z]{4,})\b/g,function(m0){if(syl(m0)>=3){complex++;return '<span style="background:rgba(52,211,153,.25);border-radius:3px">'+m0+'</span>';}return m0;});
+inner=inner.replace(/\b(\w+ly)\b/g,function(m0){if(/^(only|family|early|likely|reply|apply|supply|italy|ally|belly|jelly|bully|rally|tally|holy|ugly|fly|july|daily|lily)$/i.test(m0))return m0;adverbs++;return '<span style="border-bottom:2px dotted #38bdf8">'+m0+'</span>';});
+inner=inner.replace(PASS,function(m0){passive++;return '<span style="border-bottom:2px solid #a78bfa">'+m0+'</span>';});
+return bg?'<span style="background:'+bg+';border-radius:3px">'+inner+'</span>':inner;}).join('');
+mk.innerHTML=html;
+var mins=Math.max(1,Math.round(wc/230));
+o.innerHTML='<p class="big '+cls+'">'+Math.round(fre)+'</p><p>Flesch Reading Ease \u2014 <b>'+grade+'</b> &middot; grade level '+fk.toFixed(1)+' &middot; ~'+mins+' min read</p>'
++'<p class="muted">'+wc+' words \u00b7 '+ns+' sentences \u00b7 '+(wc/ns).toFixed(1)+' words/sentence \u00b7 '+(syls/wc).toFixed(2)+' syllables/word</p>'
++'<div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:8px;font-size:.88rem"><span>'+veryLong+' very long</span><span>'+longS+' long</span><span>'+passive+' passive</span><span>'+adverbs+' adverbs</span><span>'+complex+' complex words</span></div>';
+if(typeof gtag==='function')gtag('event','tool_use',{event_label:'readability'});}
+document.getElementById('rd-in').addEventListener('input',calc);calc();
+})();</script></body></html>

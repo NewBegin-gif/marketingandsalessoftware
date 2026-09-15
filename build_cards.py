@@ -561,7 +561,7 @@ def main():
         {
             "@context": "https://schema.org",
             "@type": "ItemList",
-            "name": "Office Software Marketplace directory",
+            "name": "Marketing & Sales Software directory",
             "numberOfItems": len(tools),
             "itemListElement": items,
         },
