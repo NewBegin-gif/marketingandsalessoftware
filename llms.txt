@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 75 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-18.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 76 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-18.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (75) — canonical versions
+## Reviews (76) — canonical versions
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
 - [AgentNest Review (2026): Free Tier, Then $19/mo](https://marketingandsalessoftware.com/agentnest-review.html): AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no review
@@ -61,6 +61,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [GrapeLeads Review (2026): $0.56 a Result, Not a Lead](https://marketingandsalessoftware.com/grapeleads-review.html): GrapeLeads: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51).
 - [Grapevine Review (2026): From $25/mo, Checked Sep 2026](https://marketingandsalessoftware.com/grapevine-review.html): Grapevine: One plan, called Complete, at $25 a month, billed in USD every 30 days, with a 14-day free trial and no free tier.
 - [HubSpot Review (2026): From $7/mo, Checked Aug 2026](https://marketingandsalessoftware.com/hubspot-review.html): HubSpot: Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Three numbers on this pricing page are not what they look like
+- [Influencer Hero Review (2026): $519 a Month, Billed Quarterly](https://marketingandsalessoftware.com/influencer-hero-review.html): Influencer Hero: Four plans, quoted per month but charged up front for the period. The three-month minimum is the real commitment.
 - [Kit Review (2026): Free to 10,000 Subscribers, No Automations](https://marketingandsalessoftware.com/kit-review.html): Kit: The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms.
 - [Kite Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/kite-review.html): Kite: The Free plan is free to install and covers the first 50 discount orders each month. 'Free to install' is doing a lot of work on this listing.
 - [Koongo Review (2026): From $39/mo Plus Item Surcharges](https://marketingandsalessoftware.com/koongo-review.html): Koongo: Lite is $39 a month and updates every 6 hours, Starter is $79 and updates every 30 minutes. The headline price is a base, not a bill.
