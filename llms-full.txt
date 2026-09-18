@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 76 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-18.
+> All 77 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-18.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -275,6 +275,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/pipedrive-review.html
 - Verdict: Pipedrive: Billed annually they are US$14, US$39, US$59 and US$79 per seat per month. Pipedrive manages what happens after a lead enters your pipeline.
 - Price: (read 2026-08-26 on pipedrive.com/pricing over a US connection; the monthly column below is our 2026-08-16 reading from the EU) Four seat-based plans. Billed annually they are US$14, US$39, US$59 and US$79 per seat per month — which is one payment of $168, $468, $708 or $948 per seat per year, since Pipedrive charges the year up front.
+
+## Poptin
+- Review: https://marketingandsalessoftware.com/poptin-review.html
+- Verdict: Poptin: Free is $0 forever with 1,000 unique visitors a month, one domain and unlimited poptins. The plan Poptin recommends does not have a price on it.
+- Price: (read 18 September 2026 in a live browser on poptin.com/pricing, in both product modes and both billing cycles, with the in-app billing page at app.popt.in checked alongside it) The page opens with a question — “What are you looking for?” — and the answer changes the whole ladder. Pick Poptins, the popup product, and every tier carries a figure.
 
 ## Quartile
 - Review: https://marketingandsalessoftware.com/quartile-review.html
