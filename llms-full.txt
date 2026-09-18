@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 72 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-17.
+> All 73 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-18.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -105,6 +105,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/bouncer-review.html
 - Verdict: Bouncer: Volume brings the rate down to $35 per 5,000, $60 per 10,000 and $250 per 50,000. Not charging for unknowns and duplicates is genuinely fair.
 - Price: Email verification credits, pay-as-you-go and never expiring (re-verified 2026-09-11): $8 per 1,000 credits is the minimum purchase. Volume brings the rate down to $35 per 5,000, $60 per 10,000 and $250 per 50,000.
+
+## CallRail
+- Review: https://marketingandsalessoftware.com/callrail-review.html
+- Verdict: CallRail — Usage past the included allowance is metered: extra local numbers $3 each, local minutes $0.06, toll-free numbers $5.
+- Price: Four plans, read on callrail.com/pricing on 5 September 2026, each 'plus usage': Lead Tracking $55 a month, Lead Tracking Complete $105, Lead Conversion $165 and Lead Conversion Complete $215; on yearly billing the same four read $50, $95, $150 and $195 a month (read 6 September 2026; the page states “Save up to 10% with a yearly plan”). Voice Assist (the AI answering agent) is a separate add-on from $95 a month…
 
 ## Campaign Monitor
 - Review: https://marketingandsalessoftware.com/campaign-monitor-review.html
