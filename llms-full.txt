@@ -193,8 +193,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Influencer Hero
 - Review: https://marketingandsalessoftware.com/influencer-hero-review.html
-- Verdict: Influencer Hero — Billed monthly: Standard $649, Pro $1,049, Business $2,490. The three-month minimum is the real commitment, and it is easy to read past.
-- Price: (read 18 September 2026 in a live browser on influencer-hero.com/pricing) Four plans, and the page quotes all of them per month with three billing routes side by side. Billed monthly: Standard $649, Pro $1,049, Business $2,490.
+- Verdict: Influencer Hero — Billed monthly: Standard $649, Pro $1,049, Business $2,490. The three-month minimum is the real commitment.
+- Price: (pricing matrix read 18 September 2026 in documentation the vendor sent us; the public ladder at influencer-hero.com/pricing was read the same week and shows the quarterly column) Four plans, and the figure you see depends entirely on the billing term you pick. Billed monthly: Standard $649, Pro $1,049, Business $2,490.
 
 ## Kit
 - Review: https://marketingandsalessoftware.com/kit-review.html
