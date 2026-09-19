@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 78 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-19.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 79 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-19.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (78) — canonical versions
+## Reviews (79) — canonical versions
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
 - [AgentNest Review (2026): Free Tier, Then $19/mo](https://marketingandsalessoftware.com/agentnest-review.html): AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no review
@@ -84,6 +84,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Quartile Review (2026): No Price Anywhere on the Site](https://marketingandsalessoftware.com/quartile-review.html): Quartile: Budget for this one from a written quote, because nothing else exists. Everything about the sales motion here is a conversation.
 - [Rank Math Review (2026): PRO Excludes Client Sites](https://marketingandsalessoftware.com/rank-math-review.html): Rank Math: Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT. Don't pay until you hit those.
 - [Reditus Review (2026): Marketplace Needs $4,788/yr Plan](https://marketingandsalessoftware.com/reditus-review.html): Reditus: The published entry plan is Growth at $99/mo billed annually — $1,188 once a year. The advertised $99 is the annual-commitment rate.
+- [rePete Review (2026): No Subscription, 3% of What It Brings](https://marketingandsalessoftware.com/repete-review.html): RePete is free to install and takes a percentage of the sales it claims to have caused. Most Shopify apps stop charging more once you pass their top t
 - [Reply.io Review (2026): $89 Buys Unlimited Contacts](https://marketingandsalessoftware.com/reply-io-review.html): Reply.io: Three separate tracks, and the one you pick changes the arithmetic completely. The $89 is the Multichannel track on annual billing.
 - [Scarcity.AI Review (2026): Real Data, Tunable Truth](https://marketingandsalessoftware.com/scarcity-ai-review.html): Scarcity.AI: The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores.
 - [Seller Investigators Review (2026): Priced at 25% Commission](https://marketingandsalessoftware.com/seller-investigators-review.html): Seller Investigators: One number, and it is the whole model. Contingency pricing is the honest kind — you pay only out of money that arrived.
