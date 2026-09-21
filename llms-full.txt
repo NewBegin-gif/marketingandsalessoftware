@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 82 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-20.
+> All 83 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-09-21.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -135,6 +135,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/claap-review.html
 - Verdict: Claap — Pro is €24 per license a month billed yearly or €30 monthly: unlimited recordings, 1,000 minutes a month. The four tiers sell two different products.
 - Price: (read 2026-09-04 on claap.io/pricing, both billing toggles and the full comparison table; re-verified 2026-09-08) Licenses are priced per license per month in euros. The only dollar figure on the page belongs to an add-on rather than a plan: a tooltip offers the Power Recorder, which adds unlimited recording length to any paid seat for $20 per seat a month.
+
+## Clay
+- Review: https://marketingandsalessoftware.com/clay-review.html
+- Verdict: Clay: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder.
+- Price: (re-verified 2026-09-14 on their own pricing page; both billing terms read from the page markup, and no figure has moved since our August reading) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update. The free plan is real: 6,000 actions and…
 
 ## Close
 - Review: https://marketingandsalessoftware.com/close-review.html
