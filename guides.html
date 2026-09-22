@@ -151,7 +151,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -173,9 +173,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -192,7 +192,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -230,7 +230,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -261,7 +261,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -343,7 +343,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 .znav .links a.cta:hover{filter:brightness(1.08)}
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
-</style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html" class="nu">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
+</style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "Buying guides for marketing and sales software", "url": "https://marketingandsalessoftware.com/guides.html", "description": "11 buying guides. Priced from the slider up: what the entry tier really covers, where the meter starts running, and who should skip it.", "publisher": {"@type": "Organization", "name": "Marketing & Sales Software", "url": "https://marketingandsalessoftware.com/"}, "hasPart": [{"@type": "Article", "name": "Best AI Email Marketing Tools (2026)", "url": "https://marketingandsalessoftware.com/best-ai-email-marketing-tools.html"}, {"@type": "Article", "name": "Best AI SDR Tools for B2B Founders (2026)", "url": "https://marketingandsalessoftware.com/best-ai-sdr-tools.html"}, {"@type": "Article", "name": "Best AI Video Tools for Marketing — No Studio Needed (2026)", "url": "https://marketingandsalessoftware.com/best-ai-video-tools.html"}, {"@type": "Article", "name": "Best AI Writing Tools by Phase: Research, Drafting, SEO, Product Copy (2026)", "url": "https://marketingandsalessoftware.com/best-ai-writing-tools.html"}, {"@type": "Article", "name": "Best CRM for Small Business (2026)", "url": "https://marketingandsalessoftware.com/best-crm-for-small-business.html"}, {"@type": "Article", "name": "Best CRM With Marketing Automation 2026", "url": "https://marketingandsalessoftware.com/best-crm-software.html"}, {"@type": "Article", "name": "Best E-commerce Operations Tools 2026", "url": "https://marketingandsalessoftware.com/best-ecommerce-operations.html"}, {"@type": "Article", "name": "Best Social Media Tools 2026", "url": "https://marketingandsalessoftware.com/best-social-media-tools.html"}, {"@type": "Article", "name": "How to Build a Cold Outreach System That Books Meetings", "url": "https://marketingandsalessoftware.com/build-cold-outreach-system.html"}, {"@type": "Article", "name": "How to Build a Content Engine That Compounds (AI Stack)", "url": "https://marketingandsalessoftware.com/build-content-engine.html"}, {"@type": "Article", "name": "How to Build a Shopify Store That Sells (2026 Stack)", "url": "https://marketingandsalessoftware.com/build-shopify-store-stack.html"}]}</script>
 <div class="gd"><div class="bc"><a href="/">Marketing &amp; Sales Software</a> &rsaquo; Guides</div><h1>Buying guides for marketing and sales software</h1><p class="lede">Priced from the slider up: what the entry tier really covers, where the meter starts running, and who should skip it.</p><ul><li><a href="/best-ai-email-marketing-tools.html">Best AI Email Marketing Tools (2026)</a><p>The best AI email marketing tools in 2026: which ones genuinely cut the rewriting and which to skip. Honest picks from an ex-banker — what each is best for.</p></li><li><a href="/best-ai-sdr-tools.html">Best AI SDR Tools for B2B Founders (2026)</a><p>The best AI SDR and sales-outreach tools in 2026 for founders doing their own outbound — honest picks from an ex-banker.</p></li><li><a href="/best-ai-video-tools.html">Best AI Video Tools for Marketing — No Studio Needed (2026)</a><p>The best AI video tools in 2026 to make marketing video without a studio: avatars, editing, voiceovers and repurposing.</p><span class="dt">Prices read 7 Sep 2026</span></li><li><a href="/best-ai-writing-tools.html">Best AI Writing Tools by Phase: Research, Drafting, SEO, Product Copy (2026)</a><p>The best AI writing tools in 2026 for content that ranks — not just text. Honest picks from an ex-banker: research, drafting, SEO and editing, and what to…</p></li><li><a href="/best-crm-for-small-business.html">Best CRM for Small Business (2026)</a><p>The best CRM for small business in 2026, backed by G2 data: which CRMs set up fastest, pay back soonest, and your team will actually use.</p></li><li><a href="/best-crm-software.html">Best CRM With Marketing Automation 2026</a><p>Best CRM software with built-in marketing automation (2026) — honestly compared by someone who runs his business on these tools.</p></li><li><a href="/best-ecommerce-operations.html">Best E-commerce Operations Tools 2026</a><p>Best e-commerce operations tools (2026) — honestly compared by someone who runs his business on these tools.</p></li><li><a href="/best-social-media-tools.html">Best Social Media Tools 2026</a><p>Best social media management tools (2026) — honestly compared by someone who runs his business on these tools.</p></li><li><a href="/build-cold-outreach-system.html">How to Build a Cold Outreach System That Books Meetings</a><p>A step-by-step blueprint for a cold outreach system that lands in the inbox and books meetings: the exact stack (warm-up, lead data, sending, CRM), what…</p></li><li><a href="/build-content-engine.html">How to Build a Content Engine That Compounds (AI Stack)</a><p>A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own — what each…</p></li><li><a href="/build-shopify-store-stack.html">How to Build a Shopify Store That Sells (2026 Stack)</a><p>A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what each tool…</p></li></ul><p class="lede">Every guide names who should <em>not</em> buy the tool. If a price here is wrong, tell me and I correct it the same day.</p></div>
 <footer class="zfoot" id="zuster-voet"><style>
