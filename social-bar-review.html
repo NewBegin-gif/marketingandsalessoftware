@@ -171,7 +171,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -193,9 +193,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -212,7 +212,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -250,7 +250,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -281,7 +281,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -397,14 +397,14 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Social Bar Review (2026): The Free Plan Is Not For Live Stores", "datePublished": "2026-09-18", "dateModified": "2026-09-21", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Social Bar", "applicationCategory": "Marketing", "operatingSystem": "Web", "description": "Shopify app from Effective Apps that adds a bar of social media icons and share buttons to storefront pages, covering more than 80 platforms, with a per-platform Follow Us bar, shape and colour options, an animation, a one-click hide for shoppers and a click counter. The free plan is limited to deve", "url": "https://marketingandsalessoftware.com/social-bar-review.html", "sameAs": "https://effectify.io", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/social-bar-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Social Bar Review (2026): The Free Plan Is Not For Live Stores", "datePublished": "2026-09-18", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Social Bar", "applicationCategory": "Marketing", "operatingSystem": "Web", "description": "Shopify app from Effective Apps that adds a bar of social media icons and share buttons to storefront pages, covering more than 80 platforms, with a per-platform Follow Us bar, shape and colour options, an animation, a one-click hide for shoppers and a click counter.", "url": "https://marketingandsalessoftware.com/social-bar-review.html", "sameAs": "https://effectify.io", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/social-bar-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does $4.99 a month actually buy?", "acceptedAnswer": {"@type": "Answer", "text": "One plan, because the other one is not for you. Read on apps.shopify.com/sticky-social-media-icons-bar on 19 September 2026: the Development Stores plan is free with unlimited access to every feature, and its own feature line says it is for development and partner stores only, with payment activated on upgrade. A live store is on the Monthly Plan at $4.99 a month, or $41.88 a year, with a 7-day free trial. What the paid card names: 80-plus social icons, a Follow Us bar for any platform, a dance animation, round or square icon shapes, a bar that visitors can click away, the option to hide it on mobile, a log of visitor clicks, and online support. That is the whole product. Sixty dollars a year monthly, or forty-two on annual, for icons that your theme places and a counter that says how often they were clicked."}}, {"@type": "Question", "name": "Reviewers keep calling it free. Did the price change?", "acceptedAnswer": {"@type": "Answer", "text": "Some of the warmest reviews describe an app that cost a live store nothing. A Canadian store in May 2020: easy to install, perfect for my website, and it is FREE. A US store in the same month calls them incredible features for a free app. Today's listing reserves the free plan for development and partner stores. We have not found a vendor statement saying when that changed or whether early installs were grandfathered, so the safest reading is that the old reviews describe a different deal than the one you would sign. It also explains part of the five-star wall: a fair number of those stars were given for something that was free at the time."}}, {"@type": "Question", "name": "Will I be able to tell whether it works?", "acceptedAnswer": {"@type": "Answer", "text": "Barely. The only measurement the app offers is its own click counter, named on the pricing card as a log of the number of visitor clicks, and not one reviewer on the listing cites a number from it — not a follower count, not a click rate, not a sale. The praise is about installation: reviews written after 9, 11, 13 and 14 minutes of use, saying it went in quickly and looks good. The two reviewers who had the app for years say the same thing they said on day one, that it looks right and they never had to touch it. So judge this the way you would judge a font licence rather than a marketing tool: you are buying the look of the thing, and the counter will tell you it was clicked, not what the click was worth."}}, {"@type": "Question", "name": "What should I weigh before buying Marketing software?", "acceptedAnswer": {"@type": "Answer", "text": "Usually yes for the major platforms, but check yours specifically. Tools in this class typically ship native connectors for the big CMS, CRM and email platforms and fall back on Zapier, webhooks or an API for everything else. The practical question is whether your stack is on the native list or needs glue, because a missing native connector normally means either manual work or a paid middleware layer. Check the integrations page for your exact tools before you buy."}}, {"@type": "Question", "name": "Is this a hands-on review of Social Bar?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://marketingandsalessoftware.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://marketingandsalessoftware.com/"}, {"@type": "ListItem", "position": 3, "name": "Social Bar Review", "item": "https://marketingandsalessoftware.com/social-bar-review.html"}]}</script>
 <div class="wrap">
 <div class="bc"><a href="/">Marketing &amp; Sales Software</a> &rsaquo; <a href="/">Reviews</a> &rsaquo; Social Bar</div>
 <h1><span class="lg"><img src="https://www.google.com/s2/favicons?sz=128&amp;domain=effectify.io" alt="Social Bar" loading="lazy" onerror="this.style.display='none'"></span>Social Bar Review <span style="color:var(--muted);font-weight:700">(2026)</span><span style="display:block;font-size:.6em;color:var(--muted);font-weight:700;margin-top:6px">The Free Plan Is Not For Live Stores</span></h1>
-<div class="meta"><span class="tag">Marketing</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-21</span></div>
+<div class="meta"><span class="tag">Marketing</span><span>Researched assessment · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-22</span></div>
 <p class="lede">This is a styling subscription, and the listing&#x27;s own framing oversells it: social icons and share buttons build no trust on their own, and &#x27;boost sales with social proof&#x27; is a claim the app has no way to support.</p>
 <div class="box best"><b>Best for:</b> Shopify merchants who want branded social icons and a WhatsApp chat button on product pages without touching theme code, and who will use the built-in click counter to check whether anyone taps them.</div>
 <div class="box skip"><b>Who should skip it:</b> if your theme already places social links where you need them, you are unwilling to pay a recurring fee for a display element, or you are looking for real social proof such as reviews, user content or engagement analytics rather than a row of icons.</div>

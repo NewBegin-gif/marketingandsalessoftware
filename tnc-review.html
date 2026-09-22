@@ -171,7 +171,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -193,9 +193,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -212,7 +212,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -250,7 +250,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -281,7 +281,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -398,7 +398,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "TnC Review (2026): The Free Plan Is Dev Stores Only", "datePublished": "2026-08-24", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "TnC", "applicationCategory": "E-commerce", "operatingSystem": "Web", "description": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates. From $7.99 a month, with the consent ", "url": "https://marketingandsalessoftware.com/tnc-review.html", "sameAs": "https://effectify.io", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/tnc-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}, "offers": {"@type": "Offer", "price": 7.99, "priceCurrency": "USD", "url": "https://marketingandsalessoftware.com/tnc-review.html", "description": "Basic Plan, per month on the App Store listing, or $47.94 a year, for the checkbox on the cart and on express-checkout buttons with a 7-day free trial; the monthly ladder was raised between 24 and 25 August 2026 with no change to its feature list, and the annual rate was cut to exactly six months' money between 25 August and 9 September, so consent-date logging now starts on Advanced at $12.99 a month or $77.94 a year, while the vendor's own pricing article still prints the old annual rates and adds a Shopify-Plus-only Plus Plan at $19.99 that the listing does not show. Read on the vendor's own pricing page on 2026-09-09."}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "TnC", "applicationCategory": "E-commerce", "operatingSystem": "Web", "description": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates.", "url": "https://marketingandsalessoftware.com/tnc-review.html", "sameAs": "https://effectify.io", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/tnc-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}, "offers": {"@type": "Offer", "price": 7.99, "priceCurrency": "USD", "url": "https://marketingandsalessoftware.com/tnc-review.html", "description": "Basic Plan, per month on the App Store listing, or $47.94 a year, for the checkbox on the cart and on express-checkout buttons with a 7-day free trial; the monthly ladder was raised between 24 and 25 August 2026 with no change to its feature list, and the annual rate was cut to exactly six months' money between 25 August and 9 September, so consent-date logging now starts on Advanced at $12.99 a month or $77.94 a year, while the vendor's own pricing article still prints the old annual rates and adds a Shopify-Plus-only Plus Plan at $19.99 that the listing does not show. Read on the vendor's own pricing page on 2026-09-09."}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What should I weigh before buying E-commerce software?", "acceptedAnswer": {"@type": "Answer", "text": "Check your platform and version specifically. Shopify support is close to universal in this category, while WooCommerce, BigCommerce, Magento and headless setups vary a lot, and 'supported' sometimes means a generic API rather than a maintained app. A listing in your own platform's app store, with recent reviews there, is a better signal than the vendor's logo wall."}}, {"@type": "Question", "name": "Is this a hands-on review of TnC?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://marketingandsalessoftware.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://marketingandsalessoftware.com/"}, {"@type": "ListItem", "position": 3, "name": "TnC Review", "item": "https://marketingandsalessoftware.com/tnc-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "TnC Review (2026) \u2014 honest pricing & who should skip it", "description": "TnC: The monthly ladder is $7.99, $12.99 and $14.99. Start with the badge at the top of the listing, because it is the one thing on this page that misleads.", "thumbnailUrl": "https://i.ytimg.com/vi/iMaahdaCmLM/hqdefault.jpg", "uploadDate": "2026-09-22T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=iMaahdaCmLM", "embedUrl": "https://www.youtube-nocookie.com/embed/iMaahdaCmLM", "hasPart": [{"@type": "Clip", "name": "What it does", "startOffset": 0, "endOffset": 70, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=0"}, {"@type": "Clip", "name": "The price picture", "startOffset": 70, "endOffset": 85, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=70"}, {"@type": "Clip", "name": "The honest knock", "startOffset": 85, "endOffset": 262, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=85"}, {"@type": "Clip", "name": "Who it's best for", "startOffset": 262, "endOffset": 287, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=262"}, {"@type": "Clip", "name": "Who should skip it", "startOffset": 287, "endOffset": 316, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=287"}, {"@type": "Clip", "name": "The Verdict", "startOffset": 316, "endOffset": 327, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=316"}, {"@type": "Clip", "name": "The full dossier", "startOffset": 327, "endOffset": 350, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=327"}, {"@type": "Clip", "name": "Subscribe", "startOffset": 350, "endOffset": 380, "url": "https://www.youtube.com/watch?v=iMaahdaCmLM&t=350"}]}</script>

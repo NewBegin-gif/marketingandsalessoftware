@@ -171,7 +171,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -193,9 +193,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -212,7 +212,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -250,7 +250,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -281,7 +281,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -397,15 +397,15 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
 @media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Nextify.ai Review (2026): 3,000 Credits Is 62 Clips", "datePublished": "2026-09-07", "dateModified": "2026-09-21", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Nextify.ai", "applicationCategory": "Marketing", "operatingSystem": "Web", "description": "AI ad-video generator for advertisers and e-commerce sellers: turn a product image, a script or a brief into a vertical or landscape video ad, with avatar presenters, lip-sync, product image sets and image cloning in the same workspace. Eight tools in one credit pool — Create Video Ad, Viral Video, ", "url": "https://marketingandsalessoftware.com/nextify-ai-review.html", "sameAs": "https://nextify.ai", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/nextify-ai-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}, "offers": {"@type": "Offer", "price": 21, "priceCurrency": "USD", "url": "https://marketingandsalessoftware.com/nextify-ai-review.html", "description": "Starter, per month billed annually at $244 a year; $29 billed monthly. Pro $52 a month annually ($617 a year) or $79 monthly; Business $114 annually ($1,361 a year) or $189 monthly. Free is $0 with 50 credits a month and a watermark. Top-ups are $50 per 1,250 credits.. Read on the vendor's own pricing page on 2026-09-07."}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Nextify.ai Review (2026): 3,000 Credits Is 62 Clips", "datePublished": "2026-09-07", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Nextify.ai", "applicationCategory": "Marketing", "operatingSystem": "Web", "description": "AI ad-video generator for advertisers and e-commerce sellers: turn a product image, a script or a brief into a vertical or landscape video ad, with avatar presenters, lip-sync, product image sets and image cloning in the same workspace.", "url": "https://marketingandsalessoftware.com/nextify-ai-review.html", "sameAs": "https://nextify.ai", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/nextify-ai-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}, "offers": {"@type": "Offer", "price": 21, "priceCurrency": "USD", "url": "https://marketingandsalessoftware.com/nextify-ai-review.html", "description": "Starter, per month billed annually at $244 a year; $29 billed monthly. Pro $52 a month annually ($617 a year) or $79 monthly; Business $114 annually ($1,361 a year) or $189 monthly. Free is $0 with 50 credits a month and a watermark. Top-ups are $50 per 1,250 credits.. Read on the vendor's own pricing page on 2026-09-07."}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What should I weigh before buying Marketing software?", "acceptedAnswer": {"@type": "Answer", "text": "Usually yes for the major platforms, but check yours specifically. Tools in this class typically ship native connectors for the big CMS, CRM and email platforms and fall back on Zapier, webhooks or an API for everything else. The practical question is whether your stack is on the native list or needs glue, because a missing native connector normally means either manual work or a paid middleware layer. Check the integrations page for your exact tools before you buy."}}, {"@type": "Question", "name": "Is this a hands-on review of Nextify.ai?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We used Nextify.ai ourselves on 2026-09-07; the section above reports what we measured in the product, and says where a figure comes from the vendor's own documentation instead. Most of our reviews are researched rather than run; we say which is which. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://marketingandsalessoftware.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://marketingandsalessoftware.com/"}, {"@type": "ListItem", "position": 3, "name": "Nextify.ai Review", "item": "https://marketingandsalessoftware.com/nextify-ai-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "Nextify.ai Review (2026) \u2014 honest pricing & who should skip it", "description": "Nextify.ai: Free is $0 for 50 credits a month, watermarked, on the basic models only. The plans are sold in videos and images.", "thumbnailUrl": "https://i.ytimg.com/vi/MgRHtMsxy8w/hqdefault.jpg", "uploadDate": "2026-09-07T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=MgRHtMsxy8w", "embedUrl": "https://www.youtube-nocookie.com/embed/MgRHtMsxy8w", "hasPart": [{"@type": "Clip", "name": "What it does", "startOffset": 0, "endOffset": 74, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=0"}, {"@type": "Clip", "name": "The price picture", "startOffset": 74, "endOffset": 88, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=74"}, {"@type": "Clip", "name": "The honest knock", "startOffset": 88, "endOffset": 179, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=88"}, {"@type": "Clip", "name": "Who it's best for", "startOffset": 179, "endOffset": 200, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=179"}, {"@type": "Clip", "name": "Who should skip it", "startOffset": 200, "endOffset": 227, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=200"}, {"@type": "Clip", "name": "The Verdict", "startOffset": 227, "endOffset": 237, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=227"}, {"@type": "Clip", "name": "The full dossier", "startOffset": 237, "endOffset": 264, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=237"}, {"@type": "Clip", "name": "Subscribe", "startOffset": 264, "endOffset": 294, "url": "https://www.youtube.com/watch?v=MgRHtMsxy8w&t=264"}]}</script>
 <div class="wrap">
 <div class="bc"><a href="/">Marketing &amp; Sales Software</a> &rsaquo; <a href="/">Reviews</a> &rsaquo; Nextify.ai</div>
 <h1><span class="lg"><img src="https://www.google.com/s2/favicons?sz=128&amp;domain=nextify.ai" alt="Nextify.ai" loading="lazy" onerror="this.style.display='none'"></span>Nextify.ai Review <span style="color:var(--muted);font-weight:700">(2026)</span><span style="display:block;font-size:.6em;color:var(--muted);font-weight:700;margin-top:6px">3,000 Credits Is 62 Clips</span></h1>
-<div class="meta"><span class="tag">Marketing</span><span>✓ Hands-on tested · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-21</span></div>
+<div class="meta"><span class="tag">Marketing</span><span>✓ Hands-on tested · by <a href="/about.html#daan">Daniel Haket</a></span><span>Updated 2026-09-22</span></div>
 <p class="lede">The plans are sold in videos and images; the meter runs in credits per second, and the two do not reconcile.</p>
 <div class="box best"><b>Best for:</b> advertisers who need a steady stream of short product clips and will deliberately choose the cheap model for drafts, and teams who would rather have video, avatars, lip-sync and product imagery drawing on one credit pool than pay for four separate subscriptions.</div>
 <div class="box skip"><b>Who should skip it:</b> if you are budgeting from the “up to N videos” figures on the pricing page, you need talking-head or avatar video at any volume — that route is 6.7 credits a second, so Pro buys seven sixty-second ads a month — or you expected the free tier to work as a trial: it is 50 watermarked credits and it cannot reach the Seedance models at all.</div>

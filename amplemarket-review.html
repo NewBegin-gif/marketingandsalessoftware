@@ -171,7 +171,7 @@
 .filter-btn:hover{border-color:var(--border-hi);color:var(--text)}
 .filter-btn.active{background:var(--text);border-color:var(--text);color:var(--bg)}
 /* TOOLS GRID */
-.tools-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tools-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 .tool-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px 26px 22px;transition:border-color .25s var(--ease),transform .25s var(--ease),box-shadow .25s var(--ease);display:flex;flex-direction:column;position:relative;overflow:hidden;box-shadow:var(--shadow-card)}
 .tool-card:hover{border-color:var(--border-hi);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(0,0,0,.6)}
 .tool-card.featured{border-color:rgba(59,130,246,.4)}
@@ -193,9 +193,9 @@
 .tool-cta-primary:hover{opacity:.88;transform:translateY(-1px)}
 .tool-cta-secondary{color:var(--accent-2);font-size:.85rem;font-weight:600;transition:gap .15s;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
 .tool-cta-secondary:hover{gap:9px}
-.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
-.tools-grid,.social-grid{grid-template-columns:1fr}
-@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,1fr)}
+.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
+@media(max-width:960px){.tools-grid,.how-grid,.social-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
  .how-grid{grid-template-columns:1fr}
  .footer-inner{grid-template-columns:1fr 1fr 1fr}
  .compare-card{grid-template-columns:1fr;text-align:left}}
@@ -212,7 +212,7 @@
  .stats-inner{grid-template-columns:repeat(2,1fr)}
  .stat-item:nth-child(2){border-right:none}
  .stat-item:nth-child(1),.stat-item:nth-child(2){border-bottom:1px solid var(--border)}
- .tools-grid,.social-grid{grid-template-columns:1fr}
+ .tools-grid,.social-grid{grid-template-columns:minmax(0,1fr)}
  .section{padding:70px 24px 40px}
  .how-section{padding:70px 24px;margin-top:50px}
  .footer-inner{grid-template-columns:1fr 1fr;gap:28px}
@@ -250,7 +250,7 @@
 .tc-catch b,.tc-best b{font-size:.66rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);margin-right:6px}
 .tc-best b{color:var(--green)}
 .tool-tags{margin-top:auto;margin-bottom:16px}
-.tool-card{container-type:inline-size}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
+.tool-card{container-type:inline-size;min-width:0}.tool-cta-row{gap:8px;flex-direction:column;align-items:stretch}.tool-cta-review{flex:1 1 auto}.tool-cta-primary{white-space:nowrap}.tc-catch{}
 /* KAART_V3: Atlas-chips en vlagkleur op de linkerrand */
 .tool-card{border-left:3px solid var(--border-hi)}
 .tool-card[data-flag=quote_only]{border-left-color:#f59e0b}
@@ -281,7 +281,7 @@
 .tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
 .tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -398,7 +398,7 @@ nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;t
  .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
 </style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Amplemarket Review (2026): From $600/mo, Checked Sep 2026", "datePublished": "2026-06-30", "dateModified": "2026-09-22", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Amplemarket", "applicationCategory": "Growth & Revenue", "operatingSystem": "Web", "description": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling — drawing on a large multi-source contact database it refresh", "url": "https://marketingandsalessoftware.com/amplemarket-review.html", "sameAs": "https://amplemarket.com", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/amplemarket-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Amplemarket", "applicationCategory": "Growth & Revenue", "operatingSystem": "Web", "description": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling — drawing on a large multi-source contact database it…", "url": "https://marketingandsalessoftware.com/amplemarket-review.html", "sameAs": "https://amplemarket.com", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/amplemarket-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What does Amplemarket cost?", "acceptedAnswer": {"@type": "Answer", "text": "$600 a month on an annual term for the Startup plan, which includes two users; Growth and Elite are quote-only. That is the only figure Amplemarket publishes, and it has been unchanged across our July and August 2026 captures and our re-read on 17 August 2026. The floor is therefore $7,200 a year for two seats, and reviewers report real invoices landing well above that once credits and extra users are added."}}, {"@type": "Question", "name": "How does it compare to ZoomInfo on what you get?", "acceptedAnswer": {"@type": "Answer", "text": "That comparison is one of the measured searches that brings people here, and the honest answer is that the products are shaped differently: Amplemarket bundles the data with the sending, so credits and mailboxes are part of the plan (13,500 email and 600 phone credits per user per year on Startup, 2 mailboxes per user). Buyers on G2, Capterra and TrustRadius consistently praise the message quality and consistently flag data accuracy outside the US, which is the trade to test on your own territory during the trial."}}, {"@type": "Question", "name": "Is there a way to try it before committing to a year?", "acceptedAnswer": {"@type": "Answer", "text": "All plans include a free trial, per their pricing page on 17 August 2026, but the published plan itself is annual — there is no published monthly option. Use the trial to check the two things reviewers flag most: bounce rates on an exported list before you send to it, and data quality in your actual target geography."}}, {"@type": "Question", "name": "What should I weigh before buying Growth & Revenue software?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on whether you have the bottleneck it solves. Small teams get the most out of this category when one clear problem is already costing real hours or revenue; buying ahead of that just adds cost and another login. Price it against the hours or lost deals it removes, not against its feature list, and start on the smallest plan that covers the job."}}, {"@type": "Question", "name": "Is this a hands-on review of Amplemarket?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is genuinely good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://marketingandsalessoftware.com"}, {"@type": "ListItem", "position": 2, "name": "Reviews", "item": "https://marketingandsalessoftware.com/"}, {"@type": "ListItem", "position": 3, "name": "Amplemarket Review", "item": "https://marketingandsalessoftware.com/amplemarket-review.html"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoObject", "name": "Amplemarket Review (2026) \u2014 honest pricing & who should skip it", "description": "Amplemarket: The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase.", "thumbnailUrl": "https://i.ytimg.com/vi/cxEBrNSjMiQ/hqdefault.jpg", "uploadDate": "2026-07-19T00:00:00+00:00", "contentUrl": "https://www.youtube.com/watch?v=cxEBrNSjMiQ", "embedUrl": "https://www.youtube-nocookie.com/embed/cxEBrNSjMiQ"}</script>
