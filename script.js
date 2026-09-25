@@ -39,16 +39,18 @@ const BUNDLES = {
  content:{label:'Content & Social',desc:'Create and schedule across every channel.',tools:['Later','SocialBee','AdCreative.ai','Beehiiv']},
  emailcrm:{label:'Email & CRM',desc:'Capture, nurture and convert from one place.',tools:['Brevo','ActiveCampaign','folk','Nutshell']}
 };
-function _cardName(card){return ((card.querySelector('h3')||{}).innerText||'').trim();}
+// 25 sep 2026 (R25-04, gemeten): innerText forceert een layout; in de lus met
+// style.display-writes gaf dat 145 ms per toetsaanslag op MSS. textContent + cache.
+function _cardName(card){if(card._naam===undefined)card._naam=((card.querySelector('h3')||{}).textContent||'').trim();return card._naam;}
 function _cardMatch(card) {
     const base = _bundle ? (BUNDLES[_bundle].tools.indexOf(_cardName(card)) >= 0)
                          : (_cat === 'All' || card.dataset.category === _cat);
     if (!base) return false;
     if (!_q) return true;
-    const txt = (((card.querySelector('h3') || {}).innerText || '') + ' ' +
-                 ((card.querySelector('p') || {}).innerText || '') + ' ' +
-                 (card.dataset.category || '')).toLowerCase();
-    return txt.indexOf(_q) >= 0;
+    if (card._zoek === undefined)
+        card._zoek = (_cardName(card) + ' ' + ((card.querySelector('p') || {}).textContent || '') + ' ' +
+                      (card.dataset.category || '')).toLowerCase().replace(/\s+/g, ' ');
+    return _q.split(/\s+/).every(w => card._zoek.indexOf(w) >= 0);
 }
 function selectBundle(key){
     _bundle = (_bundle === key) ? null : key;
@@ -69,10 +71,12 @@ function applyGrid() {
     const grid = document.getElementById('marketplace-grid');
     if (!grid) return;
     let total = 0;
-    grid.querySelectorAll('.tool-card').forEach(card => {
-        const ok = _cardMatch(card);
-        card.style.display = ok ? '' : 'none';
-        if (ok) total++;
+    const kaarten = grid.querySelectorAll('.tool-card');
+    const uit = Array.prototype.map.call(kaarten, _cardMatch);   // eerst alles lezen ...
+    kaarten.forEach((card, i) => {                                // ... dan alles schrijven
+        const d = uit[i] ? '' : 'none';
+        if (card.style.display !== d) card.style.display = d;
+        if (uit[i]) total++;
     });
     let nr = document.getElementById('osm-no-results');
     if (!nr) {
