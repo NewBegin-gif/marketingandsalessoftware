@@ -373,30 +373,68 @@ window.filterTools = function (c) {
 </head>
 <body class="bg-slate-950 text-slate-100 antialiased selection:bg-indigo-500/30">
 
-    <nav class="znav" id="zuster-nav" aria-label="Site"><style>
-nav.znav{display:block;padding:0;margin:0;height:auto;border:0;position:sticky;top:0;z-index:120;background:rgba(2,6,23,.82);backdrop-filter:blur(12px);
- -webkit-backdrop-filter:blur(12px);border-bottom:1px solid rgba(148,163,184,.14);
- font:500 .86rem/1 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;text-align:left}
-.znav *{box-sizing:border-box}
-.znav .in{max-width:1180px;margin:0 auto;padding:0 24px;height:60px;display:flex;align-items:center;
- justify-content:space-between;gap:24px}
-.znav .merk{display:flex;align-items:center;gap:9px;color:#f8fafc;text-decoration:none;font-weight:800;
- font-size:1.12rem;letter-spacing:-.01em;white-space:nowrap}
-.znav .merk i{width:10px;height:10px;border-radius:3px;background:linear-gradient(135deg,#818cf8,#34d399);
- box-shadow:0 0 12px rgba(129,140,248,.6)}
-.znav .merk em{font-style:normal;color:#a5b4fc}
-.znav .links{display:flex;align-items:center;gap:4px;overflow-x:auto;scrollbar-width:none;
- -webkit-overflow-scrolling:touch;padding-right:4px}
-.znav .links::-webkit-scrollbar{display:none}
-.znav .links a{color:#cbd5e1;text-decoration:none;padding:8px 11px;border-radius:8px;white-space:nowrap;
- transition:color .15s,background .15s}
-.znav .links a:hover{color:#fff;background:rgba(255,255,255,.06)}
-.znav .links a.nu{color:#fff;background:rgba(129,140,248,.14)}
-.znav .links a.cta{margin-left:6px;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;font-weight:700}
-.znav .links a.cta:hover{filter:brightness(1.08)}
-@media(max-width:720px){.znav .in{height:54px;padding:0 14px;gap:12px}.znav .merk{font-size:1rem}
- .znav .links a{padding:7px 8px;font-size:.8rem}.znav .links a.cta{display:none}}
-</style><div class="in"><a class="merk" href="/"><i></i>Marketing &amp; Sales <em>Software</em></a><div class="links"><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/build-cold-outreach-system.html">Build a stack</a><a href="/tools/">Free tools</a><a href="/atlas.html">Atlas</a><a href="/price-watch.html">Price Watch</a><a href="/about.html">About</a><a href="/finder.html" class="cta">Tool Finder</a></div></div></nav>
+    <nav class="snav" id="zuster-nav" aria-label="Main"><style>
+:root{--snav-h:56px}
+nav.snav{display:block;position:sticky;top:0;left:auto;right:auto;z-index:1000;margin:0;padding:0;height:auto;border:0;width:auto;
+ max-width:none;transform:none;box-shadow:none;
+ background:rgba(2,6,23,.9);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+ border-bottom:1px solid rgba(148,163,184,.16);font:500 .9rem/1.2 Inter,system-ui,-apple-system,"Segoe UI",sans-serif;
+ text-align:left;color:#e2e8f0}
+nav.snav *{box-sizing:border-box}
+nav.snav .snav-in{max-width:1180px;margin:0 auto;padding:0 20px;height:var(--snav-h);display:flex;align-items:center;gap:12px}
+nav.snav a{text-decoration:none}
+nav.snav button,nav.snav a{margin:0;line-height:1.2;height:auto;min-height:0;box-shadow:none;text-transform:none;
+ letter-spacing:normal;vertical-align:middle;width:auto}
+nav.snav li{margin:0;padding:0;list-style:none}
+nav.snav .snav-merk{display:flex;align-items:center;gap:9px;color:#f8fafc;font-weight:800;font-size:1.05rem;
+ letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:0 1 auto}
+nav.snav .snav-merk i{width:10px;height:10px;border-radius:3px;flex:0 0 10px;background:linear-gradient(135deg,#818cf8,#34d399)}
+nav.snav .snav-merk em{font-style:normal;color:#a5b4fc}
+nav.snav .snav-links{display:flex;align-items:center;gap:2px;margin-left:auto;list-style:none;padding:0;margin-top:0;margin-bottom:0}
+nav.snav .snav-links a,nav.snav .snav-meer>button{color:#cbd5e1;padding:8px 11px;border-radius:8px;white-space:nowrap;
+ background:none;border:0;font:inherit;cursor:pointer;display:block}
+nav.snav .snav-links a:hover,nav.snav .snav-meer>button:hover{color:#fff;background:rgba(255,255,255,.07)}
+nav.snav .nu>a,nav.snav a.nu,nav.snav .snav-meer.nu>button{color:#fff;background:rgba(129,140,248,.16)}
+nav.snav .snav-meer{position:relative}
+nav.snav .snav-meer>button::after{content:"";display:inline-block;margin-left:6px;border:4px solid transparent;
+ border-top-color:currentColor;vertical-align:-2px}
+nav.snav .snav-meer-lijst{position:absolute;right:0;top:calc(100% + 6px);min-width:220px;list-style:none;margin:0;padding:6px;
+ background:#0f172a;border:1px solid rgba(148,163,184,.2);border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.45)}
+nav.snav .snav-meer-lijst[hidden]{display:none}
+nav.snav .snav-meer-lijst a{padding:9px 12px}
+nav.snav .snav-cta{flex:0 0 auto;background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;font-weight:700;
+ padding:8px 14px;border-radius:9px;white-space:nowrap}
+nav.snav .snav-cta:hover{filter:brightness(1.08)}
+nav.snav .snav-menu{display:none;flex:0 0 auto;background:none;border:1px solid rgba(148,163,184,.3);color:#e2e8f0;
+ border-radius:9px;padding:7px 11px;font:inherit;font-weight:600;cursor:pointer}
+nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc;outline-offset:2px}
+@media(max-width:900px){
+ nav.snav .snav-in{padding:0 12px;gap:8px}
+ nav.snav .snav-merk{font-size:.98rem}
+ nav.snav .snav-menu{display:block}
+ nav.snav .snav-cta{margin-left:auto;padding:7px 11px;font-size:.84rem}
+ nav.snav .snav-links{display:none;position:absolute;left:0;right:0;top:var(--snav-h);flex-direction:column;align-items:stretch;
+  gap:0;margin:0;padding:8px 12px 14px;background:#0b1224;border-bottom:1px solid rgba(148,163,184,.2);
+  max-height:calc(100vh - var(--snav-h));overflow-y:auto;box-shadow:0 16px 32px rgba(0,0,0,.5)}
+ nav.snav.open .snav-links{display:flex}
+ nav.snav .snav-links a,nav.snav .snav-meer>button{padding:12px 10px;font-size:1rem;width:100%;text-align:left}
+ nav.snav .snav-meer>button{display:none}
+ nav.snav .snav-meer-lijst,nav.snav .snav-meer-lijst[hidden]{display:block;position:static;box-shadow:none;border:0;
+  border-top:1px solid rgba(148,163,184,.16);border-radius:0;padding:6px 0 0;margin-top:6px;background:none;min-width:0}
+}
+@media(max-width:480px){nav.snav .snav-merk em{display:none}}
+/* audit P1-2: de marketplace-subnav (vorige/volgende) plakt direct onder deze balk, op elke breedte */
+.subnav{top:calc(var(--snav-h) + 1px)!important}
+</style><div class="snav-in"><a class="snav-merk" href="/"><i aria-hidden="true"></i><span>Marketing &amp; Sales <em>Software</em></span></a><ul class="snav-links" id="zuster-nav-links"><li><a href="/guides.html">Guides</a></li><li><a href="/tools/">Free tools</a></li><li><a href="/atlas.html">Atlas</a></li><li><a href="/deals.html">Deals</a></li><li class="snav-meer"><button type="button" aria-expanded="false" aria-controls="zuster-nav-meer">More</button><ul class="snav-meer-lijst" id="zuster-nav-meer" hidden><li><a href="/price-watch.html">Price Watch</a></li><li><a href="/about.html">About</a></li></ul></li></ul><a class="snav-cta" href="/finder.html">Find software</a><button type="button" class="snav-menu" aria-expanded="false" aria-controls="zuster-nav-links">Menu</button></div><script>(function(){var n=document.currentScript&&document.currentScript.closest('nav.snav');if(!n)return;
+var m=n.querySelector('.snav-menu'),w=n.querySelector('.snav-meer>button'),l=n.querySelector('.snav-meer-lijst');
+function zetMenu(o){n.classList.toggle('open',o);m.setAttribute('aria-expanded',o?'true':'false');}
+function zetMeer(o){if(!w)return;w.setAttribute('aria-expanded',o?'true':'false');l.hidden=!o;}
+m.addEventListener('click',function(){zetMenu(!n.classList.contains('open'));});
+if(w)w.addEventListener('click',function(e){e.stopPropagation();zetMeer(l.hidden);});
+document.addEventListener('keydown',function(e){if(e.key!=='Escape')return;
+ if(w&&!l.hidden){zetMeer(false);w.focus();}else if(n.classList.contains('open')){zetMenu(false);m.focus();}});
+document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(false);zetMenu(false);}});
+})();</script></nav>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Poptin Review (2026): The Recommended Plan Has No Price", "datePublished": "2026-09-18", "dateModified": "2026-09-25", "author": {"@type": "Person", "@id": "https://aibuildermarketplace.com/about/#daan", "name": "Daniel Haket"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Poptin", "applicationCategory": "Growth & Revenue", "operatingSystem": "Web", "description": "Popups, forms and coupons with a drag-and-drop editor, exit-intent and cart triggers, A/B testing, 70-plus native integrations and an email-marketing side with campaigns, automations and segments. Metered on unique monthly visitors, counted once per browser per 30 days.", "url": "https://marketingandsalessoftware.com/poptin-review.html", "sameAs": "https://poptin.com", "review": {"@type": "Review", "url": "https://marketingandsalessoftware.com/poptin-review.html", "author": {"@type": "Person", "name": "Daniel Haket", "@id": "https://aibuildermarketplace.com/about/#daan"}, "publisher": {"@type": "Organization", "name": "Marketing & Sales Software"}}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How does Poptin decide I have used up my visitors?", "acceptedAnswer": {"@type": "Answer", "text": "Their own FAQ, read on poptin.com/pricing on 19 September 2026, defines it: a unique monthly visitor is anyone who loads one of your pages carrying the Poptin snippet in the last 30 days. One person opening five sessions and twenty pages still counts once — but clearing cookies, switching browser or picking up a different device makes them count again. Three things follow from that. The meter is browsers over a rolling 30 days, not people. It counts page loads carrying the snippet, not popups shown, so a page where nothing ever fires still spends the allowance. And your analytics figure will understate it, because the same person on a phone and a laptop is two visitors here. Put the snippet only where you actually want a popup, and assume Poptin's count runs above your own."}}, {"@type": "Question", "name": "On the email side, what counts as an active contact?", "acceptedAnswer": {"@type": "Answer", "text": "The same FAQ, read 19 September 2026: a contact is active if it held the status Subscribed or Unconfirmed at least once during the current billing cycle. It is counted once per cycle however often its status changes, however many emails it receives, and however many subaccounts it appears in — and, the line worth reading twice, it still counts for that cycle even if the person unsubscribes inside it. So an unconfirmed address that never opts in and a subscriber who leaves in week one both occupy a slot until the cycle rolls over. Clean the list before a cycle starts rather than during it."}}, {"@type": "Question", "name": "Can I run Poptin for clients, and what does that take?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, and the FAQ names the tier: sub-accounts — separate popups, emails and automations per client, site or project — come with the Agency or Growth plans, and only an Agency plan lets you create and manage user accounts for clients. On the popup-only ladder that matters more than traffic does. The pricing page marks Manage accounts and Manage users crossed out on Free, Basic and Pro, and ticked only on Agency, so the real entry price for working on behalf of other people is Agency at $95 a month billed annually ($1,140 a year, or $119 monthly) rather than Basic at $20 — for reasons that have nothing to do with how many visitors you have. If referring rather than reselling is what you meant, the FAQ puts the affiliate programme at a lifetime 25% monthly commission per new paying member."}}, {"@type": "Question", "name": "What should I weigh before buying Growth & Revenue software?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on whether you have the bottleneck it solves. Small teams get the most out of this category when one clear problem is already costing real hours or revenue; buying ahead of that just adds cost and another login. Price it against the hours or lost deals it removes, not against its feature list, and start on the smallest plan that covers the job."}}, {"@type": "Question", "name": "Is this a hands-on review of Poptin?", "acceptedAnswer": {"@type": "Answer", "text": "This is a researched assessment, not a hands-on test — where we've used a tool ourselves, we say so explicitly. We name what each tool is good and bad at, and we earn a commission only if you sign up, at no cost to you."}}]}</script>
