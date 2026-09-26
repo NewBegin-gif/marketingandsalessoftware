@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 92 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-25.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 93 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-09-26.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (92) — canonical versions
+## Reviews (93) — canonical versions
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
 - [AgentNest Review (2026): Free Tier, Then $19/mo](https://marketingandsalessoftware.com/agentnest-review.html): AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no review
@@ -105,6 +105,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Skip To Checkout Review (2026): Free, and It Hides Your Funnel](https://marketingandsalessoftware.com/skip-to-checkout-review.html): Skip To Checkout: Free, and free is the only plan. The cart skip blinds the measurement you would use to judge it.
 - [Smarty Discounts Review (2026): $9.99/mo Is the Entry Price](https://marketingandsalessoftware.com/smarty-discounts-review.html): Smarty Discounts: Forever Free costs nothing, Lite is $9.99 a month or $99.99 a year. Add to that what the app needs to do its job.
 - [Social Bar Review (2026): The Free Plan Is Not For Live Stores](https://marketingandsalessoftware.com/social-bar-review.html): Social Bar: The Monthly Plan is $4.99 a month, or $41.88 a year which the listing presents as a 30 percent saving, after a 7-day free trial.
+- [SoftSync Review (2026): A Per-Seat CRM Where Pro Stops at Five People](https://marketingandsalessoftware.com/softsync-review.html): SoftSync: Pro is $29 per seat a month billed yearly or $39 billed monthly. Pro stops at five team members per workspace.
 - [Spiky.ai Review (2026): Free Tier, Then $15/mo](https://marketingandsalessoftware.com/spiky-ai-review.html): Spiky.ai: On annual billing Plus is $15, Pro $24 and Premium $40 per user per month. The number to check first is the meeting cap, not the price.
 - [Stackable Review (2026): From $19.99/mo, Checked Sep 2026](https://marketingandsalessoftware.com/stackable-review.html): Stackable: Unlimited is $99.99 a month, or $999.99 a year on the same 17%. The two halves of the pitch are priced five times apart.
 - [Stamped Review (2026): From $23/mo, Checked Sep 2026](https://marketingandsalessoftware.com/stamped-review.html): Stamped: Reviews, at $23/month at the 200-order step and $99/month at 1,000 orders. The $798/month figure that circulates for the full suite is real.
