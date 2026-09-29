@@ -130,7 +130,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Warn Review (2026): Checkout Blocking Is Shopify Plus Only](https://marketingandsalessoftware.com/warn-review.html): Warn: Premium is $6.99 a month or $41.94 a year. The app is called Warn: Warnings Checkout Blocks.
 - [ZoomInfo Review (2026): Renewals Rise 10-20% a Year](https://marketingandsalessoftware.com/zoominfo-review.html): ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year, climbing once seats. The contract is the most-cited frustration.
 
-## Free calculators (15)
+## Free calculators (16)
 - [Free A/B Test Significance Calculator (2026)](https://marketingandsalessoftware.com/tools/ab-test-calculator/)
 - [Free A/B Test Sample Size Calculator (2026)](https://marketingandsalessoftware.com/tools/ab-test-sample-size-calculator/)
 - [Free CAC & LTV Calculator (2026)](https://marketingandsalessoftware.com/tools/cac-ltv-calculator/)
@@ -144,6 +144,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Free Pricing Tier Revenue Calculator (2026)](https://marketingandsalessoftware.com/tools/pricing-tier-calculator/)
 - [Free Readability Checker (Flesch Score, 2026)](https://marketingandsalessoftware.com/tools/readability-checker/)
 - [Free ROAS Calculator (2026)](https://marketingandsalessoftware.com/tools/roas-calculator/)
+- [Test a CRM or email tool before you buy](https://marketingandsalessoftware.com/tools/software-test-drive/)
 - [Free URL Slug Generator (2026)](https://marketingandsalessoftware.com/tools/url-slug-generator/)
 - [Free UTM Link Builder (2026)](https://marketingandsalessoftware.com/tools/utm-builder/)
 
