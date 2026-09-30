@@ -120,16 +120,33 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
-<div><label>Ad spend</label><input type="number" id="ro-s" value="1000" min="0"></div>
-<div><label>Revenue from ads</label><input type="number" id="ro-r" value="4000" min="0"></div>
-<div><label>Gross margin % (optional)</label><input type="number" id="ro-m" value="" min="0" max="100" step="1" placeholder="e.g. 40"></div></div>
-<div id="ro-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="/tools/roas-calculator/" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">AIBuilder Marketplace</span></a></p></div><script>
-function roCalc(){var s=+document.getElementById('ro-s').value,r=+document.getElementById('ro-r').value,mg=(+document.getElementById('ro-m').value||0)/100,o=document.getElementById('ro-out');
-if(!(s>0)){o.innerHTML='<p class="muted">Enter your ad spend.</p>';return;}var roas=r/s,h;
-if(mg>0&&mg<=1){var contrib=r*mg-s,be=1/mg;h='<p class="big '+(contrib>=0?'sig-y':'sig-n')+'">'+roas.toFixed(2)+'x</p><p class="muted">At '+(mg*100).toFixed(0)+'% gross margin the break-even ROAS is '+be.toFixed(2)+'x. Contribution after ads: <b>'+(contrib>=0?'+':'\u2212')+Math.abs(contrib).toLocaleString(undefined,{maximumFractionDigits:0})+'</b> ('+r.toLocaleString()+' \u00d7 '+(mg*100).toFixed(0)+'% \u2212 '+s.toLocaleString()+'). Overheads and fulfilment still come out of that.</p>';}
-else{h='<p class="big">'+roas.toFixed(2)+'x</p><p class="muted">Revenue per unit of ad spend, not profit. Whether '+roas.toFixed(2)+'x is good depends on your margin: at 25% margin a 4x ROAS only covers the ads. Enter your gross margin to see the break-even.</p>';}
-o.innerHTML=h;gtag&&gtag('event','tool_use',{event_label:'roas'});}
-['ro-s','ro-r','ro-m'].forEach(function(id){document.getElementById(id).addEventListener('input',roCalc);});roCalc();</script><!--sister-net-start-->
-<nav aria-label="Sister sites" style="display:block;max-width:1100px;margin:28px auto 0;padding:16px 20px 4px;border-top:1px solid rgba(128,128,128,.22);font-size:.8rem;line-height:2;text-align:center;opacity:.8"><span style="display:block;text-transform:uppercase;letter-spacing:.12em;font-size:.66rem;opacity:.7;margin-bottom:4px">Part of the network</span><a href="https://aibuildermarketplace.com/?utm_source=marketingandsalessoftware&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">AI Builder Marketplace</a> <span style="opacity:.4">&middot;</span> <a href="https://officesoftwaremarketplace.com/?utm_source=marketingandsalessoftware&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">Office Software</a> <span style="opacity:.4">&middot;</span> <a href="https://theweeklyaiedge.com/?utm_source=marketingandsalessoftware&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">The Weekly AI Edge</a> <span style="opacity:.4">&middot;</span> <a href="https://theweekly2pctedge.com/?utm_source=marketingandsalessoftware&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">The Weekly 2% Edge</a> <span style="opacity:.4">&middot;</span> <a href="https://zerotouchsupport.com/?utm_source=marketingandsalessoftware&utm_medium=footer_net&utm_campaign=cross_brand" target="_blank" rel="nofollow noopener" style="color:inherit;text-decoration:underline;white-space:nowrap">ZeroTouch Support</a><span style="display:block;margin-top:6px;font-size:.72rem;opacity:.65">Six sites, one owner &mdash; all built and run by <a href="https://aibuildermarketplace.com/about/?utm_source=marketingandsalessoftware&utm_medium=footer_net&utm_campaign=network_owner" rel="nofollow noopener" target="_blank" style="color:inherit">Daniel Haket</a>.</span></nav>
-<!--sister-net-end-->
-</body></html>
+<div><label>Ad spend</label><input type="number" id="ro-s" value="1000" min="0" step="any" inputmode="decimal"></div>
+<div><label>Revenue from ads</label><input type="number" id="ro-r" value="4000" min="0" step="any" inputmode="decimal"></div>
+<div><label>Gross margin % (optional)</label><input type="number" id="ro-m" value="" min="0" max="100" step="any" inputmode="decimal" placeholder="e.g. 40"></div></div>
+<div id="ro-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/roas-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
+function roasKern(sRaw,rRaw,mRaw){
+function lees(v,naam,max){v=(v==null?'':String(v)).trim();if(v==='')return{leeg:true};var n=Number(v);
+if(!isFinite(n))return{fout:naam+' must be a number.'};if(n<0)return{fout:naam+' cannot be negative.'};
+if(n>max)return{fout:naam+' cannot be more than '+max.toLocaleString('en-US')+'.'};return{n:n};}
+var s=lees(sRaw,'Ad spend',1e12),r=lees(rRaw,'Revenue from ads',1e15),m=lees(mRaw,'Gross margin',100);
+var f=[s,r,m].filter(function(x){return x.fout;}).map(function(x){return x.fout;});
+if(f.length)return{status:'ongeldig',fouten:f};
+if(s.leeg||r.leeg)return{status:'ontbreekt',velden:[s.leeg?'ad spend':null,r.leeg?'revenue from ads':null].filter(Boolean)};
+if(s.n===0)return{status:'geen_uitgaven'};
+var u={status:'ok',roas:r.n/s.n,spend:s.n,revenue:r.n,marge:null};
+if(!m.leeg){u.marge=m.n/100;u.naAds=r.n*u.marge-s.n;u.breakEven=u.marge>0?1/u.marge:null;}
+return u;}
+function roCalc(){
+function raw(id){var e=document.getElementById(id);return e.validity&&e.validity.badInput?'not a number':e.value;}
+function g(x){return x.toLocaleString(undefined,{maximumFractionDigits:2});}
+var o=document.getElementById('ro-out'),u=roasKern(raw('ro-s'),raw('ro-r'),raw('ro-m')),h;
+if(u.status==='ongeldig'){h='<p class="sig-n">'+u.fouten.join(' ')+'</p>';}
+else if(u.status==='ontbreekt'){h='<p class="muted">Enter your '+u.velden.join(' and ')+' to calculate ROAS. An empty field is not read as zero.</p>';}
+else if(u.status==='geen_uitgaven'){h='<p class="muted">Ad spend is 0, so there is no ROAS to calculate: ROAS divides revenue by ad spend.</p>';}
+else{h='<p class="big'+(u.marge!==null&&u.marge>0?(u.naAds>=0?' sig-y':' sig-n'):'')+'">'+u.roas.toFixed(2)+'x</p>';
+if(u.marge===null){h+='<p class="muted">Revenue per unit of ad spend, as credited to your ads: not profit. Add your gross margin to see the break-even ROAS.</p>';}
+else if(u.marge===0){h+='<p class="muted">At 0% gross margin no ROAS covers the ad spend: the sales leave nothing to pay for the ads.</p>';}
+else{h+='<p class="muted">At '+g(u.marge*100)+'% gross margin the break-even ROAS is '+u.breakEven.toFixed(2)+'x. Gross margin left after ad spend: <b>'+(u.naAds>=0?'+':'\u2212')+g(Math.abs(u.naAds))+'</b> ('+g(u.revenue)+' \u00d7 '+g(u.marge*100)+'% \u2212 '+g(u.spend)+'). That is before overheads and any costs your margin figure leaves out, so it is not net profit.</p>';}}
+o.innerHTML=h;
+if(u.status==='ok'&&!window.__roGemeten&&typeof gtag==='function'){window.__roGemeten=1;try{gtag('event','tool_use',{event_label:'roas'});}catch(e){}}}
+['ro-s','ro-r','ro-m'].forEach(function(id){document.getElementById(id).addEventListener('input',roCalc);});roCalc();</script></body></html>
