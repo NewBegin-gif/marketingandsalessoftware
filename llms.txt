@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 108 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-01.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 109 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-01.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (108) — canonical versions
+## Reviews (109) — canonical versions
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
 - [AgentNest Review (2026): Free Tier, Then $19/mo](https://marketingandsalessoftware.com/agentnest-review.html): AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no review
@@ -67,6 +67,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [DropGenius Review (2026): Billing Complaints and Pricing](https://marketingandsalessoftware.com/dropgenius-review.html): DropGenius — Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
 - [Easy Advanced Translations Review (2026): Bring Your Own API Key](https://marketingandsalessoftware.com/easy-advanced-translations-review.html): Easy Advanced Translations: Four tiers, all monthly. The 'free AI' is heavily quota-limited — 50 products on Free, up to 800 on Pro.
 - [Easy Bundles Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/easy-bundles-review.html): Easy Bundles: The free plan is free to install and covers up to $500 of bundle sales a month. The pricing is tied to the thing the app is supposed to 
+- [EcomXray Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/ecomxray-review.html): EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
 - [Essential Announcement Bar Review (2026): The Marquee Is Paid](https://marketingandsalessoftware.com/essential-announcement-bar-review.html): Essential Announcement Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The bar the listing leads with is not on the free plan
 - [Essential Countdown Timer Bar Review (2026): Mind the View Cap](https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html): Essential Countdown Timer Bar: Four plans priced on monthly timer views. The free plan is smaller than it looks, because of what counts as a view.
 - [Essential Free Shipping Bar Review (2026): The Cart Bar Is Paid](https://marketingandsalessoftware.com/essential-free-shipping-bar-review.html): Essential Free Shipping Bar: Four plans priced on monthly booster views. Cart-page boosters start on Essential at $14.99 a month.
