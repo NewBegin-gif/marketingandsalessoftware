@@ -35,7 +35,7 @@
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/DNBeZl8r8fU/hqdefault.jpg</video:thumbnail_loc>
       <video:title>AgencyAnalytics Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Two honest snags. Cost scales linearly with clients — great at 5, pricey at 50+. And the most-cited complaint is connector reliability: data sources disconnect and the platform doesn&#x27;t always flag the failure clearly. Solo or small-data setups get little value from it.</video:description>
+      <video:description>Cost scales linearly with clients — great at 5, pricey at 50+. The most-cited complaint is connector reliability: data sources disconnect and the platform doesn&#x27;t always flag the failure clearly. Solo or small-data setups get little value from it.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/DNBeZl8r8fU</video:player_loc>
     <video:publication_date>2026-07-09T08:00:00+00:00</video:publication_date>
     </video:video>
@@ -135,6 +135,16 @@ And the billing unit is defined by the party doing the billing. You pay per &#x2
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/ava-ai-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/gH0jqxj9Usc/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Ava AI Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The monthly price is a minutes allowance, not a flat fee — every minute past the bucket bills at $0.07 to $0.10, so a busy support line can cost far more than the headline. And keep the vendor&#x27;s marketing at arm&#x27;s length: Ava launched in September 2025 with just six App Store reviews, and the promoted 21–24x ROAS figures are the vendor&#x27;s own, not independently verified. There is no free plan, only a 7-day trial.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/gH0jqxj9Usc</video:player_loc>
+    <video:publication_date>2026-09-23T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/beefree-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/M9xUcg1q_SE/hqdefault.jpg</video:thumbnail_loc>
@@ -176,6 +186,18 @@ Two smaller inconsistencies worth noticing, because they tell you how carefully 
       <video:description>The honest catch is that pricing tracks your ad spend, so a scaling advertiser&#x27;s bill rises with their budget: Pro alone ladders from $99 to $1,799 a month between a $10,000 and a $500,000 ceiling, and past $500,000 only Enterprise is left. Check the annual arithmetic against their own FAQ, which promises ‘12 months for the price of 10’ while the page charges eleven — $540 for Essential and $1,090 for Pro at the entry tier. It&#x27;s also a power tool: rule-based automation across Meta, Google, TikTok and Snapchat rewards advertisers who know what to automate, and can amplify mistakes if your rules are wrong. For hands-on performance marketers, it&#x27;s a serious time-saver.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/COLMJ2S-ei0</video:player_loc>
     <video:publication_date>2026-08-14T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/bitscale-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/lUBMni8OCmg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Bitscale Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free tier is real and needs no card, which makes Bitscale unusually easy to judge for yourself before paying. What to check during that trial is not the feature list but your own burn rate, and Bitscale&#x27;s credit table tells you the range in advance: one to twelve credits for every email or phone the waterfall finds, depending on how many providers you let it try. That is the whole budget question. The same 15,000 credits on Growth are 15,000 enriched contacts at one credit and 1,250 at twelve, so the plan you buy matters less than the depth you configure. Run fifty real records on the free 200 credits, read the meter before and after, and multiply by your monthly volume -- that number, not the plan price, is your bill.
+
+One free-tier number is worth holding against the other. The plan table gives Free a 50,000-row grid, while Bitscale&#x27;s own onboarding mail says the free plan scores up to 200 rows at a time -- and both are true, because a Score column, which grades every row against an ideal-customer profile you describe in plain English, is an AI enrichment at one to two credits a run. The grid is not the ceiling, the 200 credits are. Finding the names draws on the separate pool of 2,000 search credits, so building the list is the cheap half; asking the product to judge it is the half that runs out.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/lUBMni8OCmg</video:player_loc>
+    <video:publication_date>2026-09-25T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -243,6 +265,26 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/clay-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ASw2VK0kHCQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Clay Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two honest catches: a steep learning curve (expect 2–4 weeks, many teams need a dedicated Clay expert), and credits that are hard to forecast at scale. It&#x27;s an enrichment engine, not a sender — you still need Instantly, Lemlist or Outreach to actually email.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ASw2VK0kHCQ</video:player_loc>
+    <video:publication_date>2026-07-24T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/cloro-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xA9Wnr5jNfM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Cloro Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free tier is a sampler, not a trial of the real thing: 500 credits is about 100 async ChatGPT answers at the 5-credit rate we were actually charged, and their table lists 7 for a full response. Fewer, if you call it synchronously -- and one concurrent job means you queue. Anyone running a daily visibility check across a hundred keywords burns through it in about two days. Read the credit table before the price table -- the same $100 buys 250,000 credits, which is 35,700 full ChatGPT calls or 62,500 Perplexity ones, so your engine mix decides your bill more than your plan does. And nothing carries: their FAQ, read 17 September 2026, states that unused credits expire at the end of every cycle, so a quiet month is money gone rather than headroom for a busy one.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/xA9Wnr5jNfM</video:player_loc>
+    <video:publication_date>2026-09-13T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/close-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/80fyaMRLuMg/hqdefault.jpg</video:thumbnail_loc>
@@ -250,6 +292,36 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
       <video:description>The built-in calling is the draw, but call and SMS credits stack on top of the seat price — a &#x27;$99&#x27; plan can effectively cost ~$160/user once a rep dials 50+ times a day. Great for call-heavy teams, pricey if you barely dial.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/80fyaMRLuMg</video:player_loc>
     <video:publication_date>2026-07-24T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/code-bulk-discounts-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NLi0VbwuvnM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Code Bulk Discounts Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Read the free plan&#x27;s number twice, because the word doing the work is &#x27;lifetime&#x27;: it is 500 codes in total, not 500 a month. One influencer drop or one email segment can spend the whole allowance in an afternoon, and after that the only way on is $14.99 a month — so the free tier is a sample, not a plan. What the app does is also narrower than the word &#x27;discounts&#x27; suggests. It takes a discount you have already created and multiplies it into unique codes you export as a CSV. It does not create the discount rule, does not send the codes to anyone, and does not report which ones were redeemed, so it sits between your discount settings and your email or SMS tool and needs both of those to be worth anything. The one critical review on the listing shows what that costs in practice: when a merchant&#x27;s parent discount broke after an unrelated change to their stack, every code generated from it went inactive and they learned about it from customers rather than from the app. The developer&#x27;s answer is the right one to remember — the rules and logic belong to the parent discount, not to Code Bulk — but it means nothing in this app will tell you that a batch has stopped working. The 5.0 rating also rests on 41 reviews, read 16 September 2026, which is a thin record next to the app&#x27;s peers.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/NLi0VbwuvnM</video:player_loc>
+    <video:publication_date>2026-09-27T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/cognism-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GjtO74m0ePg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Cognism Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>No price, no credit allowance, and a five-seat minimum on both named plans. That combination means the smallest deal is five seats of something you cannot price, so budget conversations start with a sales call rather than a number. The credit model is the part to nail down: one credit reveals one contact, so your real cost per usable lead is the credit price divided by your connect rate, and neither figure is published. Before the call, work out how many contacts a month you actually reveal — that is the only number that lets you judge the quote you get. And it is worth asking whether unused credits roll over, because nothing on the page says.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/GjtO74m0ePg</video:player_loc>
+    <video:publication_date>2026-08-07T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/consentmo-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ZmHCrAm91ao/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Consentmo Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Read the ladder before you budget $10 for this. The two things the listing leads with — web accessibility and a smart region-specific banner — are not on Standard; they start at Plus, $37 a month, which is 3.7 times the entry price. A Shopify Plus store that wants a banner on the checkout needs Enterprise at $64, and so does anything headless or on Hydrogen. The accessibility side is a widget and a scanner: it overlays controls and flags issues, but it does not change the theme markup underneath, which is where an accessibility audit actually looks — treat it as a first layer, not as a remediation. And the free tier puts Consentmo&#x27;s own branding on the banner your visitors see first.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ZmHCrAm91ao</video:player_loc>
+    <video:publication_date>2026-09-28T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -263,6 +335,40 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/diginius-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NVadTeRv7Bo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Diginius Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>All-in-one marketing dashboards live or die on data depth per module. Diginius bundles PPC, SEO, lead intelligence and reporting affordably, but specialists — a dedicated SEO suite, a dedicated PPC optimizer — go deeper in their lanes. So buy it as consolidation for a lean team, not as a replacement for expert-grade tooling in your primary channel. Verify the integrations you depend on (especially Microsoft Ads, its historical strength) in the trial.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/NVadTeRv7Bo</video:player_loc>
+    <video:publication_date>2026-07-23T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/dondy-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/vFXqTS8UvAE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Dondy Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free plan is a chat button. It is a decent chat button, and conversations through it are unlimited. But none of the marketing this app is named for is in it. Automated cart recovery, campaigns and the official API begin at $79.99 a month, and the $6.99 tier in between only lets you send those same messages by hand.
+
+You will also get two bills. Dondy charges the subscription; Meta charges per conversation on the WhatsApp Business API. Dondy can only tell you the rate starts at $0.0158 or $0.0126, because the real figure depends on the country you are messaging and the type of conversation. A thousand one-click messages a month are included on the two top tiers; past that, your monthly total is not knowable from this listing, and a campaign to a large segment is exactly the kind of thing that produces a surprise. Model it against your own list size and destination countries before you send one.
+
+The rest is Meta&#x27;s rulebook, not Dondy&#x27;s. Opt-in, message templates and sender quality are governed on WhatsApp&#x27;s side, so approval and reach are not things this app can promise you whatever you pay it. The review record is strong — 823 reviews, 92% at the top rating, and the 21 one-star reports have not grown while 49 reviews were added since August — and a misfired broadcast on this channel is still a block rather than an unsubscribe.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/vFXqTS8UvAE</video:player_loc>
+    <video:publication_date>2026-09-19T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/drip-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/cMO8Z_W8oeo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Drip Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The word “unlimited” quietly expires. At the prices most small shops pay, the send allowance really is uncapped. But the switch has an exact address: unlimited holds to 30,000 people, and from 30,001 the bullet becomes a hard number — 390,000 sends there, 600,000 at 50,000 people, twelve per contact per month. Drip never flags the switch. If you run a daily-deal or high-frequency list, do the arithmetic before you migrate: twelve sends per contact is generous for a monthly newsletter and tight for anything that mails several times a week. The second thing to price in is service. The card looks the same at every level, but two lines on it are not: you cannot talk to anyone in chat until $99/month, and free migration and personalized onboarding only appear from 15,001 people ($249). Below those thresholds it is email support and your own move, which is a real difference on the day a broken automation is sending to the wrong segment.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/cMO8Z_W8oeo</video:player_loc>
+    <video:publication_date>2026-09-11T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/dripify-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/q5p_gkUVgPI/hqdefault.jpg</video:thumbnail_loc>
@@ -270,6 +376,72 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
       <video:description>Understand what you are buying before the price matters: LinkedIn prohibits this entire product category. Its User Agreement bans using &#x27;bots or other unauthorized automated methods&#x27; to &#x27;send or redirect messages&#x27;, and its prohibited-software page says members using such tools &#x27;risk having their accounts restricted or shut down&#x27;. There is no carve-out for cloud tools or low volumes, and Dripify is not an outlier here — every competitor sits on the same side of that line. Dripify&#x27;s own documentation is candid about the consequence, warning that LinkedIn &#x27;may issue warnings, temporary restrictions, or even permanent bans&#x27;, and it publishes a recovery procedure for exactly that scenario. Two things follow. First, the advertised ceiling is not a working speed: the app allows up to 75 connection requests a day, while Dripify&#x27;s own setup guide tells beginners to run 10 to 15, and brand-new accounts 2 to 5, building up 10 to 20 percent a week. Anyone buying on the headline number is buying capacity they are told not to use. Second, Activity Control sits on the $79 Advanced tier. It is the feature Dripify names as its best protection, and it adjusts your pace automatically. On Basic and Pro, safe pacing is your own manual responsibility. And when a vendor writes that a feature &#x27;makes sure your LinkedIn account won&#x27;t get flagged&#x27;, read that as a claim about a third party&#x27;s enforcement decisions that no vendor can actually guarantee.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/q5p_gkUVgPI</video:player_loc>
     <video:publication_date>2026-07-24T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/dripshipper-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/upHAgh2JxdI/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Dripshipper Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Read the ladder before you climb it. Starter already carries unlimited orders, unlimited products and automatic fulfilment — the whole product, in other words. Professional at $99 adds live monthly training, priority support and a success manager; Elite at $197 adds monthly one-on-one coaching on top. You are buying people, not capability: nothing above Starter makes the coffee ship faster or cost less per bag. The annual rate is the move worth noticing in the other direction, since $240 a year against $30 a month is a third off the same tier. Beyond that the model is narrow by design — one product category, roasted and shipped from their own US facilities in 3-5 business days, with no route to source elsewhere or negotiate the per-order cost.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/upHAgh2JxdI</video:player_loc>
+    <video:publication_date>2026-09-15T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/dropgenius-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Ehpuile3-pg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>DropGenius Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>We have to be blunt here: the dominant theme in DropGenius’s public buyer reviews is unauthorised charges continuing after cancellation with no route to a refund, and some reviewers report never reaching a dashboard to cancel at all, with support emails bouncing back undeliverable. An AI-generated store in 30 seconds is also just a starting template — the product selection, marketing and margins remain entirely your problem. If you proceed: pay attention to cancellation mechanics from day one, screenshot everything, and treat the Renewal Radar as mandatory equipment.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Ehpuile3-pg</video:player_loc>
+    <video:publication_date>2026-07-25T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/easy-advanced-translations-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/uhiAONDkS2o/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Easy Advanced Translations Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The &#x27;free AI&#x27; is heavily quota-limited — 50 products on Free, up to 800 on Pro — so a genuinely multilingual catalogue pushes you either to a paid tier or to your own OpenAI/DeepSeek key, where you pay token costs separately on top of the subscription. Auto-translation of new or changed content is reserved for the higher plans. And the track record is thin: 5.0 stars but only nine reviews, the app launched in July 2025, and it carries no &#x27;Built for Shopify&#x27; badge — cheap and promising, but unproven.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/uhiAONDkS2o</video:player_loc>
+    <video:publication_date>2026-09-24T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/easy-bundles-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/fDF3iG5bN9k/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Easy Bundles Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The pricing is tied to the thing the app is supposed to grow. A revenue meter reads as generous at the bottom — $500 of bundle sales a month free is a real trial, not a crippled one — but it means every tier upgrade is triggered by the app working, and the published ladder stops at $10,000 a month with no stated overage. A store doing well on bundles has to ask what comes next rather than read it, and that is the wrong moment to be negotiating. Maturity is not the concern here: the app has been on the App Store since 15 September 2022 and carried 4.9 stars over 1,216 reviews on 4 September 2026 and 1,298 on 19 September, at the same average. The concern is where the money goes as you succeed. Two smaller things: the features most merchants picture when they think bundles are all paid: the guided single- and multi-step build-your-own-box builders sit on Essential at $29, and subscription bundles, add-ons and free gifts on Growth at $49 — none of them on the free plan, and the recent reviews that praise the app most warmly also praise the support team by name, which is a compliment to people rather than to a product that never needs them.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/fDF3iG5bN9k</video:player_loc>
+    <video:publication_date>2026-09-27T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/ecomxray-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jUFE-SwicQo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>EcomXray Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The split between the two tiers is unusually clean, and worth seeing clearly: everything this app is described as doing, the margins, the net units, the restock advice, is free. The $29 buys editing, not insight. If you are happy making changes in the Shopify admin you already have, the free plan is the whole product and the paid one is a convenience layer over it.
+
+The track record is the real caveat, and it has not moved. The app launched on 20 July 2026 and still had no reviews at all when we checked on 8 September, seven weeks later. Nothing is known about how it behaves at scale, how it handles a catalogue in the tens of thousands, or how quickly support answers, because nobody has said so in public.
+
+And its numbers are only as good as your cost prices. Gross margin comes out of Shopify&#x27;s own cost-per-item field, so if that field is empty or stale across your catalogue, the margin column is decoration. Fill the cost prices in first, then judge the app.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/jUFE-SwicQo</video:player_loc>
+    <video:publication_date>2026-09-18T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/essential-loyalty-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/vOYw6tUnDv8/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Essential Loyalty Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two things to read closely before you pay. The meter is honest — loyalty-influenced orders, not all orders — and that is genuinely in your favour, but it also means you cannot work out your tier from your order count. A store doing 3,000 orders a month with little repeat business may sit on Free; one doing 800 with a loyal base may not. Measure your repeat and referral orders for a month before you choose.
+
+The second is an oddity on the listing itself. The free plan advertises an &#x27;Advanced loyalty point program&#x27; while Starter at $10 advertises a &#x27;Free loyalty point program&#x27;, which read literally means the paid tier offers less on that line. It is almost certainly a labelling slip rather than a real downgrade, but it is the kind of line worth confirming with support before you upgrade for it.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/vOYw6tUnDv8</video:player_loc>
+    <video:publication_date>2026-09-20T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -293,6 +465,32 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/fast-bundle-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QiBQjzH5mCI/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Fast Bundle Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The most important thing about this app is not on its App Store listing. On 17 July 2026 Fast Bundle detected what its own status page calls a security attack; Shopify removed the app from the App Store as a precaution and deactivated it on existing stores, so merchants found it simply gone. It was restored to limited visibility on 30 July and fully searchable again on 3 August, after Shopify reviewed an incident report and a third-party vulnerability and penetration test. The vendor states its investigation and testing found no indication that any customer, store or shopper data was accessed, exposed or leaked, and that 2,405 stores had reinstalled by early August. Shopify&#x27;s own words, quoted on that page, are that the app “has been restored to limited visibility”.
+
+Nobody outside the process can verify what was reached, and neither the vendor nor Shopify has published the technical detail. What is verifiable is the shape of the disruption: a storefront-facing app pulled without warning, deactivated on live stores, and roughly two weeks coming back. If your bundles carry your average order value, that is the risk you are underwriting — not because it is likely to recur, but because it has happened once and the app sits in the path to checkout.
+
+The review record needs reading with that date in mind. 5.0 from 3,031 reviews is exceptional, and the breakdown is 3,000 at five stars against 19 at one. But most of that history predates July 2026, and Shopify app ratings skew high because merchants are prompted for them. What an average cannot tell you is how a vendor handles an incident, and on that the status page is the better evidence: dated, specific, quoting Shopify directly, and correcting its own earlier estimates in public. That is a good sign about communication rather than about security.
+
+One practical hazard came out of the outage and has not gone away. While the app was delisted, other apps renamed themselves to include “Fast Bundle” — the vendor names Fast </video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/QiBQjzH5mCI</video:player_loc>
+    <video:publication_date>2026-09-22T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/feedyio-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TSmdvJlPx2U/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Feedyio Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two gates decide your bill and neither is about how much value the feeds create. The first is catalogue size: the ladder counts products and variants, and it runs further than the Shopify listing suggests — the listing stops at Pro ($29.99, 6,000 products) and says additional plans are available, while the vendor&#x27;s own pricing page publishes five more tiers up to $119.99 for 65,000 products. The second is freshness: the free tier updates products once a day and hourly updates start at $9.99, which matters when stock moves faster than a day. Multi-market and multi-language feeds only appear at $19.99. The app is also younger and smaller than the shelf leaders: launched 16 May 2022 by happyapps.cz in Prague, with 115 reviews against thousands for the established Google Shopping feed apps. And the standout integrations — Heureka, Zboží.cz, Árukereső, Glami, Favi, Kaufland — are Central and Eastern European channels; that is the app&#x27;s real edge, but it is not an edge if you only sell through Google and Meta.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/TSmdvJlPx2U</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/grapeleads-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/wS-dE1naSS4/hqdefault.jpg</video:thumbnail_loc>
@@ -300,6 +498,16 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
       <video:description>You are billed per result, not per usable lead: one credit opens the search and one more is charged for every business it returns, so a broad filter burns credits whether or not the results are worth calling. The packs are small enough that this is cheap to test ($28 for 50 credits) but it is the wrong shape if you want volume prospecting at a predictable monthly cost — there is no subscription at all. The site also still 404s its own /pricing link while the real list sits at /buy-credits/, which is an odd look for a tool sold to web professionals. And the niche (Google-Maps businesses without websites) is the real product: judge the data on one pack before you go further.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/wS-dE1naSS4</video:player_loc>
     <video:publication_date>2026-07-13T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/grapevine-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/e7JlyYfEqqg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Grapevine Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The flat price is the whole pricing page, which cuts both ways. There is no free tier and no small plan, so from day fifteen the app costs $25 a month whether it collects four responses or forty thousand — a low-volume store pays the same as a high-volume one, and several of the nearest alternatives do publish a free plan. The second thing to weigh is access rather than price: the listing&#x27;s data section asks for customer data including sensitive, device and activity data, plus orders, staff accounts and the online store, which is a lot of reach for a survey tool and worth reading the privacy policy over. The evidence base is otherwise good for a Shopify app — launched 17 August 2017 by Union Works Apps in London, and 222 reviews on 10 September 2026 of which 215 are five-star and none below four.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/e7JlyYfEqqg</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -328,6 +536,54 @@ One more thing worth knowing before you start on Free. The free tier is genuinel
       <video:description>Three honest notes. Subscriber-based pricing counts everyone on your list — cold subscribers cost the same as fans, so prune before you price. The free plan changed shape in 2026: it now runs to 10,000 subscribers rather than 1,000 (re-verified 2026-09-02), but Visual Automations and email sequences came out of it, so the free tier sends and captures without automating anything — what puts you on Creator at $39/mo, or $33/mo paid yearly, is wanting a welcome sequence rather than list growth. And the 35% price hike in 2025 changed the value math: the free tier is still arguably the best in creator email, but paid tiers now deserve comparison shopping rather than default loyalty. The creator-first features (tip jars, paid newsletters, recommendations) remain the real differentiator.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/DLl9Lio1EXY</video:player_loc>
     <video:publication_date>2026-07-09T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/kite-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/LtiXJ6F8vLE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Kite Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>&#x27;Free to install&#x27; is doing a lot of work on this listing. The free plan covers the first 50 discount orders a month, and the same panel says $29 a month is billed once you pass them — so it is a threshold with an invoice behind it, not a free tier you can settle on. A store running one decent promotion will cross 50 discounted orders in days and be on Starter money without choosing to upgrade. The second catch is written on the plans themselves: Free and Starter are both labelled &#x27;Not for Shopify Advanced and Plus&#x27;, so if you are on either of those Shopify plans your real entry price is the $49 Growth tier, not the $29 the listing leads with. And the feature most likely to sell the app to a large merchant — free gifts added at checkout — is marked Plus only and sits in the $99 Pro tier, which means the Plus stores it is built for pay $1,188 a year to reach it.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/LtiXJ6F8vLE</video:player_loc>
+    <video:publication_date>2026-09-28T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/koongo-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/LdQ6VW08sGU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Koongo Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The headline price is a base, not a bill. Each paid plan includes 1,000 items, 5 feeds, two marketplace wizards and 100 orders a month, and the listing says plainly that surcharges apply for extras used across all four of those dimensions. For a store with a real catalogue selling on several European marketplaces, every one of those limits is one you pass in week one. Price your own numbers on koongo.com&#x27;s surcharge table before you take $39 seriously.
+
+The two pricing pages also do not quote the same bill. The App Store lists $39, $79 and $119 and bills in USD. koongo.com lists €35, €69 and €99 and states that all prices exclude VAT. Depending on where you trade and how you are registered, those are meaningfully different amounts for the same plan, and nothing on either page reconciles them.
+
+Then the record, which is the most useful thing on this listing. 4.4 from 98 reviews is the lowest average in this category among the apps Shopify shows beside it, and the breakdown explains why: 84 five-star ratings sit alongside six one-star ones. The critical reviews are specific rather than vague, which makes them worth reading in full. In July 2026 a Belgian merchant described a repricer set to Monitoring Mode that still blocked updates to live Bol offers because of MinimumPrice errors, so a delivery-promise change never reached the marketplace. In January 2026 a UK merchant described unresolved integration errors on OnBuy and a refused refund, with Koongo replying publicly that they had reached out several times without response. Neither is disqualifying on its own. Together they describe an app whose complexity is real and whose marketplace integrations sometimes need support to untangle — which is consistent with the vendor&#x27;s own listing offering personal onboarding for complex setups.
+
+One more line to read before you install: the listing states the app views sensitive customer data as well as device and activity data, and can view and edit products, orders and custom</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/LdQ6VW08sGU</video:player_loc>
+    <video:publication_date>2026-09-21T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/kumo-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/uK69nCwvo28/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Kumo Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Five stars over nine reviews is not a track record, and the age makes that worse rather than better. The app launched on 21 November 2024, so it has had close to two years on the App Store to collect them. Nine reviews in that window is a small installed base, and a small installed base is what decides whether an app is still maintained in 2028 — the rating tells you the nine are happy, not that the app is safe to build a wholesale channel on.
+
+The second plan is a trap for anyone who reads the ladder as a feature ladder. PLUS costs twice B2B and the three things it adds — company registration, catalog assignment, checkout integration — are all labelled Shopify Plus on the listing itself. On a standard Shopify plan the extra $15 a month buys nothing you can switch on.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/uK69nCwvo28</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/langshop-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/bivnRKoKjxA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>LangShop Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two things sit awkwardly next to each other in the plan table. The headline promise is &#x27;unlimited words&#x27;, but every tier caps how many products you may translate and how many languages you may run, so the meter you actually pay is catalogue size. And the named engines that the listing leads with — OpenAI, DeepL Pro, Google Cloud Translation — are a Standard-tier feature at $40 a month; below that you get limited manual and AI translation. The Shopify listing also understates the ladder: it stops at Advanced and links to &#x27;more pricing plans&#x27;, while the vendor&#x27;s pricing page publishes Pro at $120, Enterprise at $250 and Unlimited at $500 — and API access, which no listing tier mentions, starts at Pro. The app is old enough to judge (launched 15 September 2016, developer Aheadworks) and most of its 480 reviews are positive, but 23 of them are one-star, and the recent negative ones are specific rather than vague: a Slovak store reporting that metafield translations ignore both the AI store context and the glossary rules, and a Swedish store of almost three years reporting that products duplicated from another product carry the wrong translation across. If metafields or duplicated products are central to your catalogue, test exactly that during the trial.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/bivnRKoKjxA</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -388,6 +644,26 @@ One more thing worth knowing before you start on Free. The free tier is genuinel
       <video:description>The tiers gate on two axes at once — members AND tracked pages — so either one forces the upgrade: Starter buys one person just two pages. AI insights are metered per month per tier, and the ‘unlimited traffic’ promise carries a fair-use asterisk. If you run a whole content site, count your pages before you count on the price.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/hD0L3geUMyY</video:player_loc>
     <video:publication_date>2026-07-15T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/parallel-ai-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/AeFunBG-510/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Parallel AI Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free tier is genuinely free -- 50 credits, no card -- and it is the only way to answer the question the pricing page leaves open. Data credits are priced per unit, but platform credits are not: nowhere does the page say what a content run, an agent conversation or an outreach step costs, and those are the actions the plan is sold on. So spend those 50 credits on the workflow you would actually buy this for and read Usage &amp; Billing, which tracks consumption by feature, model and timestamp. Until you have that number, 2,000 credits a month is a quantity without a unit.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/AeFunBG-510</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/partnerstack-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/IJlXfkQv4O0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>PartnerStack Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The reporting counts clicks and calls them customers. A record in the Partner API&#x27;s customers endpoint is a tracked click, not a signup: on 29 July 2026 a single bare curl against one tracking link at 07:09:01 UTC produced a customer record at 07:09:02, with no browser, no account and has_paid false. Read that endpoint&#x27;s length as signups and you will report volume that never existed. The second half of the problem is that there is no referring-URL field anywhere in the partnership data, so you can see that a link was clicked and never learn which of your pages earned it — which is exactly the thing you need to decide what to write next.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/IJlXfkQv4O0</video:player_loc>
+    <video:publication_date>2026-09-23T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -455,6 +731,30 @@ One more figure to handle carefully: the 41% average increase in ROAS on their h
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/seokart-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/f1OEPyvVD4c/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>SEOKart Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Every plan, free included, lists free SEO consultancy, and it is worth knowing what sits next to it. seokart.com sells a managed SEO service at $799, $1,299 and $1,949 a month (read 14 September 2026). That is a separate, optional service rather than a tier of the app, and a free consultation is the natural place for a conversation about it to start. The evidence base is decent rather than deep: 69 reviews on 12 September 2026, launched 4 June 2020, developer Activant Solutions Pvt Ltd in Jaipur. The 5.0 average hides the shape — 67 five-star reviews and two one-star, with nothing in between. Then the two limits that decide whether this is the right tool. The rank tracker checks monthly on Free and weekly on Pro and above, so it is a trend line, not a daily rank check, and 100 tracked keywords is what every Shopify plan card publishes, but that is not the ceiling: the vendor&#x27;s own configurator at seokart.com/pricing sells 200 to 500 tracked keywords as a priced step, $10 a month per extra 100 on a 1,000-product store and $20 a step on a 10,000-product one (read 15 September 2026). And one-click AI optimisation writes meta titles and descriptions in bulk: that is the whole appeal. This review is researched rather than hands-on, so take the next line as general practice with any bulk AI writer and not as something we watched SEOKart produce -- budget a pass for reading what it wrote on your best-selling pages before you let Cruise Control run unattended. The app also needs access to products, store analytics and the Online Store, plus blog contributor data.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/f1OEPyvVD4c</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/scarcity-ai-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zuRlrYlY4NA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Scarcity.AI Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>All three read real data, which is worth saying before anything else — the low stock counter shows inventory levels and the visitors counter reads unique visitors, live traffic and product views. Nothing here invents a number.
+
+But the visitors counter carries two settings that shape which true number a shopper sees. It can show the counter only after a set number of views, so a quiet product simply displays nothing rather than a small figure. And the time frame is yours to set, so &#x27;twelve people viewed this&#x27; can mean twelve in five minutes or twelve since yesterday, presented identically. Neither setting fabricates anything; together they let you present a true number that a reasonable shopper would read as something else.
+
+That distinction is where the legal line sits. The FTC treats false urgency and scarcity as deceptive practice under section 5 of the FTC Act, and the examples in its dark-patterns guidance are close to these mechanics: a low-stock claim when stock is plentiful, or a cart-activity figure well above the real one. The test is whether a reasonable consumer would be misled about a material fact. That test does not apply to the app; it applies to how you configure it, which means the compliance question lands on your desk rather than the developer&#x27;s.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/zuRlrYlY4NA</video:player_loc>
+    <video:publication_date>2026-09-21T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/seller-investigators-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/4y9s3OuCsWc/hqdefault.jpg</video:thumbnail_loc>
@@ -475,6 +775,16 @@ One more figure to handle carefully: the 41% average increase in ROAS on their h
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/signitic-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ivUQWwWuQpo/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Signitic Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The homepage sells deployment &#x27;without going through IT&#x27;, and Signitic&#x27;s own help centre contradicts that on every path in. Connecting Google Workspace is possible only from the Super Admin profile, and if that admin ever changes you have to reconnect or call support. Microsoft 365 needs an Azure Active Directory administrator account. Rolling out the Outlook add-in — the fuller of the two Microsoft options — needs a Microsoft 365 Global Administrator plus the Exchange Administrator role carrying the ReadWriteMailbox permission, must not be installed by end users themselves, and can take up to 72 hours to appear in people&#x27;s Outlook. Marketing does keep the keys afterwards, which is the real promise; it does not get them without IT first. The add-in also needs a Microsoft 365 Outlook licence at version 16.0.14026.20000 or later, so Outlook 2013 to 2021 and Apple Mail fall back to the Signitic agent, which pushes plain signatures instead.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/ivUQWwWuQpo</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/similarweb-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/yCoBSgtFR98/hqdefault.jpg</video:thumbnail_loc>
@@ -485,6 +795,36 @@ One more figure to handle carefully: the 41% average increase in ROAS on their h
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/skip-to-checkout-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/3alljDGN7qA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Skip To Checkout Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The cart skip blinds the measurement you would use to judge it. The vendor&#x27;s own help article confirms that bypassing Add To Cart and Start Checkout makes your add-to-cart rate read lower, and recommends watching overall sales trends instead — so the feature is sold on conversion while switching off the funnel that would show it. Skipping the cart also bypasses the page where shipping thresholds, discount codes and cart upsells normally work. For a free widget the permissions are broad: view and edit customers, products, store analytics, Shopify Functions and the online store, plus customer device and activity data. And because there is no paid tier there is no support contract behind it; what you get is the vendor&#x27;s goodwill, which a six-year run and a 4.6 average suggest is real, but is not something you can buy more of. The app also carries at least three different names across the listing, the help centre index and its own setup article, which makes it harder to know what you are running.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/3alljDGN7qA</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/smarty-discounts-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/aqgz1taJO9g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Smarty Discounts Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The evidence base is thin. The app launched on 14 January 2025 and carries six reviews as of 4 September 2026 — all five stars, but six is not a track record, and the vendor, Neezon, is a small developer in Ho Chi Minh City rather than a company with a support contract behind it. The listing is unusually candid about what that means at the bottom of the ladder: the free plan&#x27;s own feature list says low support. Add to that what the app needs to do its job. The data-access panel says it reads customer data flagged as sensitive and can view and edit customers, products, discounts and the Online Store, which is the access any discount engine needs but is still broad. And because the ladder gates discount types rather than volume, the plan you land on is decided by the one rule you cannot live without: if the campaign you have in mind needs time-period scheduling or free shipping on a single rule, you are on Pro at $25.99 regardless of how few discounts you run.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/aqgz1taJO9g</video:player_loc>
+    <video:publication_date>2026-09-27T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/social-bar-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2oSZvczWq30/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Social Bar Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>This is a styling subscription, and the listing&#x27;s own framing oversells it: social icons and share buttons build no trust on their own, and &#x27;boost sales with social proof&#x27; is a claim the app has no way to support. The free plan is free in a way that will not help you, since it is restricted to development and partner stores, so any live store is on $4.99 a month or $41.88 a year for something most themes already do in the footer. The 5.0 average deserves reading rather than trusting: two of the three reviews on the listing were written after 11 and 13 minutes of use and praise setup rather than results, while the one longer-running reviewer reports that icon placement is limited and the app is tricky to figure out at first. And more than 80 platform options mainly tempts you to advertise accounts you no longer maintain.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/2oSZvczWq30</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/spiky-ai-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/4OWXaW-zQWQ/hqdefault.jpg</video:thumbnail_loc>
@@ -492,6 +832,16 @@ One more figure to handle carefully: the 41% average increase in ROAS on their h
       <video:description>The number to check first is the meeting cap, not the price. Plus and Pro both stop at 30 meetings per user per month, so the step from $15 to $24 buys features, not capacity. A rep taking two calls a day passes 30 in three weeks, which pushes you to Premium at $40 — nearly triple the entry price — for volume rather than capability. Price this from your team&#x27;s actual call count and you will land on the right tier; price it from the feature table and you will not.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/4OWXaW-zQWQ</video:player_loc>
     <video:publication_date>2026-09-02T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/stackable-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9ku0RE91sXQ/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Stackable Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The two halves of the pitch are priced five times apart. Discount stacking — order, collection and shipping discounts redeemed with a single code — is the $19.99 Growth plan, the one the listing labels &#x27;For Non-Plus&#x27;. The checkout upsells and linked discounts the app leads with sit in the $99.99 Unlimited tier only, so a merchant who came for the upsells is reading $1,199.88 a year rather than $239.88. There is no free plan to settle whether the stacking alone lifts an order, so the seven-day trial is the entire evaluation. One more thing to check before you commit: the Website link on the listing, www.stkbl.app, now redirects to the documentation for Discount Kit — a different, pricier Optizio app — and that documentation does not mention Stackable anywhere (checked 6 September 2026). For an app that launched on 13 October 2020 and has collected 54 App Store reviews since, ask support where the current documentation lives before the trial clock starts.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/9ku0RE91sXQ</video:player_loc>
+    <video:publication_date>2026-09-27T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -521,6 +871,16 @@ Finally, the data access. The listing states the app views customer device and a
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/super-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/3ubzu9wWGtA/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Super Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>If you are on Shopify Plus, the price block on the listing is not the one you pay from — the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article. Beyond that, this vendor moves prices without announcing it. On 24 August 2026 another Effective Apps title, TnC, carried a ladder we had verified the day before; twenty-four hours later every tier had gone up with no change to the feature lists. Treat any price for this developer that is older than the day you read it as a guess, this one included. The review base is broad and middling: 4.7 over 254 reviews on 12 September 2026, 227 of them five-star but seven at one star, on an app listed since 17 August 2020. The app reads customer device and activity data and can view and edit products, orders and the Online Store. And be honest about what it sells. Gift wrap lifts average order value at the margin, so the app has to clear $9.99 to $24.99 a month in extra gift revenue before it pays for itself — and the revenue reporting that would tell you whether it does only arrives on Pro at $19.99.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/3ubzu9wWGtA</video:player_loc>
+    <video:publication_date>onbekendT08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/vtR-adcv1iY/hqdefault.jpg</video:thumbnail_loc>
@@ -532,6 +892,22 @@ The second meter has no published rate at all. Basic gives you 100 AI metadata c
 And the free tier is a demonstration rather than a plan: 50 products for bulk alt text and file names, 30 images a day, and the SEO audit and LLMs.txt limited to basic pages. Any real catalogue is on a paid tier within a week, which is fine as long as you know that going in.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/vtR-adcv1iY</video:player_loc>
     <video:publication_date>2026-09-18T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/tnc-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/iMaahdaCmLM/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>TnC Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Start with the badge at the top of the listing, because it is the one thing on this page that misleads. “Free plan available” is displayed twice, and the free plan is Development Stores — for development and partner stores only, with payment activated on upgrade. A store that takes real orders has no free tier here. It is the same shape as this developer&#x27;s Blocky and TiXel listings, where the advertised free plan is also development stores rather than a working free tier, so read it as a house pattern rather than an oversight.
+
+Second, the App Store&#x27;s pricing table is incomplete. The vendor&#x27;s own help-centre article lists a Plus Plan at $19.99 a month, Shopify Plus only, and describes it as the plan that shows the checkbox in the actual checkout page. The App Store listing shows four plans and not that one. The same article answers its own hidden-fees question with “No. All pricing is transparent and listed above”, which is true of that article and not of the listing most buyers will read first. If you are on Plus and you want consent captured in checkout rather than in the cart, the price is nearly three times the headline.
+
+Third, the feature that makes the app defensible costs extra, and what it costs is not stable. Basic at $6.99 shows the checkbox; it does not record when anyone ticked it. Consent-date logging starts on Advanced at $10.99. Across our three readings the step from checkbox to audit trail has been $3, then $5, and is now $4, with identical feature lists every time and no note on the listing about any of the changes. For an app whose pitch is chargebacks and legal risk, an audit trail as a paid upgrade is worth knowing before you compare $6.99 against anything else.
+
+Fourth, be clear about what this can and cannot enforce. On a store that is not on Shopify Plus the checkbox lives in the cart and on express-checkout buttons, not inside Shopify&#x27;s checkout, because Shopify does not open that page to apps below Plus. The listing is honest about the sur</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/iMaahdaCmLM</video:player_loc>
+    <video:publication_date>2026-09-22T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -562,6 +938,16 @@ And the free tier is a demonstration rather than a plan: 50 products for bulk al
       <video:description>The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension&#x27;s reliability.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/umeHrWWuM3c</video:player_loc>
     <video:publication_date>2026-07-26T08:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/nocrm-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/uVseJ8ui6sk/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>noCRM Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The pitch is that salespeople hate CRMs, and the answer is a tool built around the next action rather than the form. What the plan table shows is that almost everything a sales team needs to work that way sits on the top tier. Two-way email sync is Dream at €33 a user; on Starter and on Expert, email is BCC only, which means you copy noCRM on outgoing mail and read replies elsewhere. WhatsApp lead creation and conversation sync are Dream. The VoIP integrations the homepage leads with — CloudTalk, JustCall, Aircall, power dialling, call recording, transcripts — are Dream. Roles and permissions, lead assignment, team goal tracking and team performance reports are Dream. Internal automations are Dream. noCRM&#x27;s own FAQ calls Expert &quot;the best fit for most teams&quot;, and Expert has no team management in it at all. So the honest way to read the ladder is that Starter and Expert are versions for one person — a lead list with follow-ups, and then the same thing without the caps — while the product the marketing describes starts at €33 a user a month on annual billing, or €39 monthly. That is three times the entry price, and it is the number to budget from if more than one person is selling. Two smaller things. Starter is restricted to new customers, so it is not a tier you can fall back to when a year on Expert turns out to be more than you needed. And there is no free plan behind the trial: 15 days, or 30 if you hand over a card first.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/uVseJ8ui6sk</video:player_loc>
+    <video:publication_date>2026-09-28T08:00:00+00:00</video:publication_date>
     </video:video>
   </url>
 </urlset>
