@@ -129,10 +129,10 @@ body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div c
 <div class="row"><div><label for="u-norm">Normalise</label><select id="u-norm"><option value="1" selected>lower-case, spaces to _</option><option value="0">keep as typed</option></select></div>
 <div><label for="u-preset">Presets (saved in your browser)</label><select id="u-preset"><option value="">&mdash; pick a preset &mdash;</option></select></div></div>
 <label for="u-out" style="margin-top:14px">Your tracking URL</label>
-<input type="text" id="u-out" class="out" readonly>
+<input aria-label="Result" type="text" id="u-out" class="out" readonly>
 <button class="btn" id="u-copy">Copy</button> <button class="btn ghost" id="u-save">Save as preset</button> <button class="btn ghost" id="u-del" hidden>Delete preset</button>
 <details style="margin-top:14px"><summary>History &mdash; your last 25 links, kept in this browser only</summary><div id="u-hist" style="font-size:.85rem;margin-top:8px"></div></details>
-<p class="note">Presets and history live in your browser (localStorage); nothing is sent to us. Tools like utm.io charge for exactly this.</p></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/utm-builder/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; UTM Link Builder &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
+<p class="note">Presets and history live in your browser (localStorage); nothing is sent to us. Tools like utm.io charge for exactly this.</p></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/utm-builder/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; UTM Link Builder &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
 var U_IDS=['u-url','u-src','u-med','u-cmp','u-trm','u-cnt'];
 function uLoad(k,d){try{return JSON.parse(localStorage.getItem(k))||d;}catch(e){return d;}}
 function uSave(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}

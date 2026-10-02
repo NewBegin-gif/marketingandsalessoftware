@@ -120,11 +120,32 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
-<div><label>Visitors</label><input type="number" id="cv-v" value="1000" min="1"></div>
-<div><label>Conversions</label><input type="number" id="cv-c" value="35" min="0"></div></div>
-<div id="cv-out" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/conversion-rate-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; Conversion Rate Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
-function cvCalc(){var v=+document.getElementById('cv-v').value,c=+document.getElementById('cv-c').value,o=document.getElementById('cv-out');
-if(!(v>0)){o.innerHTML='<p class="muted">Enter your visitors.</p>';return;}var r=c/v*100;
-o.innerHTML='<p class="big">'+r.toFixed(2)+'%</p><p class="muted">conversion rate \u00b7 '+c+' of '+v+' visitors converted.</p>';
+<div><label for="cv-v">Visitors (or sessions)</label><input type="number" id="cv-v" value="1000" min="1" step="1"></div>
+<div><label for="cv-c">Converted visitors (or sessions)</label><input type="number" id="cv-c" value="35" min="0" step="1"></div></div>
+<p class="muted" style="margin:6px 0 0;font-size:.85rem">Count each visitor (or session) once, however often it converted. Conversion events per visitor is a different measure, and that one can go above 100%.</p>
+<div id="cv-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/conversion-rate-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; Conversion Rate Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>function veldPoort(outId,ids,wis){
+var o=document.getElementById(outId),fout=[],leeg=[],w={};
+ids.forEach(function(id){var e=document.getElementById(id);if(!e)return;
+var lb=document.querySelector('label[for="'+id+'"]')||(e.previousElementSibling&&e.previousElementSibling.tagName==='LABEL'?e.previousElementSibling:null);
+var naam=(lb?lb.textContent:(e.getAttribute('aria-label')||id)).replace(/\s*\([^)]*\)\s*$/,'').trim();
+if(e.validity&&e.validity.badInput){fout.push(naam+' must be a number.');return;}
+var raw=String(e.value).trim();if(raw===''){if(!e.hasAttribute('data-optional'))leeg.push(naam);return;}
+var n=Number(raw),mn=e.getAttribute('min'),mx=e.getAttribute('max');
+if(!isFinite(n)){fout.push(naam+' must be a number.');return;}
+if(e.getAttribute('step')==='1'&&Math.floor(n)!==n){fout.push(naam+' must be a whole number.');return;}
+if(mn!==null&&mn!==''&&n<Number(mn)){fout.push(Number(mn)===0?naam+' cannot be negative.':naam+' cannot be less than '+Number(mn).toLocaleString('en-US')+'.');return;}
+if(mx!==null&&mx!==''&&n>Number(mx)){fout.push(naam+' cannot be more than '+Number(mx).toLocaleString('en-US')+'.');return;}
+w[id]=n;});
+if(!fout.length&&!leeg.length)return w;
+(wis||[]).forEach(function(x){var e=document.getElementById(x);if(e)e.innerHTML='';});
+o.innerHTML=fout.length?'<p class="sig-n" style="grid-column:1/-1;margin:0">'+fout.join(' ')+'</p>'
+:'<p class="muted" style="grid-column:1/-1;margin:0">Fill in '+leeg.join(', ')+' to see the result. An empty field is not read as zero.</p>';
+return null;}
+
+function cvCalc(){var w=veldPoort('cv-out',['cv-v','cv-c']);if(!w)return;
+var v=w['cv-v'],c=w['cv-c'],o=document.getElementById('cv-out');
+if(c>v){o.innerHTML='<p class="sig-n">Converted visitors cannot be more than visitors: '+c.toLocaleString('en-US')+' of '+v.toLocaleString('en-US')+' is not possible when each one is counted once. Counting every conversion event instead? Then events divided by visitors is conversions per visitor, not a conversion rate.</p>';return;}
+var r=c/v*100;
+o.innerHTML='<p class="big">'+r.toFixed(2)+'%</p><p class="muted">conversion rate \u00b7 '+c.toLocaleString('en-US')+' of '+v.toLocaleString('en-US')+' visitors (or sessions) converted.</p>';
 gtag&&gtag('event','tool_use',{event_label:'conversion_rate'});}
 ['cv-v','cv-c'].forEach(function(id){document.getElementById(id).addEventListener('input',cvCalc);});cvCalc();</script></body></html>

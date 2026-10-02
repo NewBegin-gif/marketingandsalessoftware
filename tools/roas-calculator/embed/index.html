@@ -120,10 +120,10 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
 body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
-<div><label>Ad spend</label><input type="number" id="ro-s" value="1000" min="0" step="any" inputmode="decimal"></div>
-<div><label>Revenue from ads</label><input type="number" id="ro-r" value="4000" min="0" step="any" inputmode="decimal"></div>
-<div><label>Gross margin % (optional)</label><input type="number" id="ro-m" value="" min="0" max="100" step="any" inputmode="decimal" placeholder="e.g. 40"></div></div>
-<div id="ro-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/roas-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
+<div><label for="ro-s">Ad spend</label><input type="number" id="ro-s" value="1000" min="0" step="any" inputmode="decimal"></div>
+<div><label for="ro-r">Revenue from ads</label><input type="number" id="ro-r" value="4000" min="0" step="any" inputmode="decimal"></div>
+<div><label for="ro-m">Gross margin % (optional)</label><input type="number" id="ro-m" value="" min="0" max="100" step="any" inputmode="decimal" placeholder="e.g. 40"></div></div>
+<div id="ro-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/roas-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
 function roasKern(sRaw,rRaw,mRaw){
 function lees(v,naam,max){v=(v==null?'':String(v)).trim();if(v==='')return{leeg:true};var n=Number(v);
 if(!isFinite(n))return{fout:naam+' must be a number.'};if(n<0)return{fout:naam+' cannot be negative.'};
