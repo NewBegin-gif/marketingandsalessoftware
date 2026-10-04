@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 115 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-04.
+> All 116 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-04.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -225,6 +225,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/ecomxray-review.html
 - Verdict: EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
 - Price: (re-verified 8 September 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products.
+
+## Essent Preorder Back in Stock
+- Review: https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html
+- Verdict: Essent Preorder Back in Stock: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials. The plans are cheap until a launch works.
+- Price: (read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock notifications a month. Free covers 25 pre-orders and 300 back-in-stock notifications a month,…
 
 ## Essential Announcement Bar
 - Review: https://marketingandsalessoftware.com/essential-announcement-bar-review.html
