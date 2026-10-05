@@ -83,8 +83,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Beehiiv
 - Review: https://marketingandsalessoftware.com/beehiiv-review.html
-- Verdict: Beehiiv: At 10,000 subscribers Scale is $109/mo or $1,151 a year; at 50,000 it is $249/mo or $2,629 a year. Next to Substack it's more to learn.
-- Price: (re-verified 2026-08-16 from beehiiv's own machine-readable pricing file at beehiiv.com/pricing.md, which states USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv takes 0%, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Launch is $0 up to 2,500 subscribers with unlimited sends.
+- Verdict: Beehiiv: Free is $0 up to 2,500 subscribers with unlimited sends. Next to Substack it's more to learn.
+- Price: (re-verified 2026-10-05 on beehiiv.com/pricing, prices in USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv shows a 0% take rate, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Free is $0 up to 2,500 subscribers with unlimited sends.
 
 ## BidX
 - Review: https://marketingandsalessoftware.com/bidx-review.html
