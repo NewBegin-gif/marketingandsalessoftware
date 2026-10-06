@@ -119,11 +119,204 @@ footer{border-top:1px solid var(--border);padding:24px;text-align:center;color:v
 .dg-tool-txt b{color:var(--text);font-size:.95rem}
 .dg-tool-d{color:var(--text2);font-size:.8rem;line-height:1.4;margin-top:2px}
 .dg-arrow{color:var(--accent);font-weight:800;flex-shrink:0}
-body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><div class="tool"><div class="row">
-<div><label for="ro-s">Ad spend</label><input type="number" id="ro-s" value="1000" min="0" step="any" inputmode="decimal"></div>
-<div><label for="ro-r">Revenue from ads</label><input type="number" id="ro-r" value="4000" min="0" step="any" inputmode="decimal"></div>
-<div><label for="ro-m">Gross margin % (optional)</label><input type="number" id="ro-m" value="" min="0" max="100" step="any" inputmode="decimal" placeholder="e.g. 40"></div></div>
-<div id="ro-out" aria-live="polite" style="margin-top:16px"></div></div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/roas-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
+body{padding:6px 10px}.wrap{padding:0;max-width:none}</style></head><body><div class="wrap"><style id="pl-css">
+.pl{width:min(1200px,calc(100vw - 32px));margin:22px 0 26px calc(50% - min(600px,50vw - 16px));color:var(--text);font-size:15px;line-height:1.5}
+.pl *{box-sizing:border-box}
+.pl [hidden]{display:none !important}
+.pl-scn{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+.pl-scn button{flex:1 1 150px;display:flex;flex-direction:column;align-items:flex-start;gap:2px;text-align:left;min-height:58px;padding:9px 14px;border-radius:13px;border:1px solid var(--border);background:var(--card);color:var(--text2);font:inherit;cursor:pointer;margin:0;transition:border-color .15s,background .15s}
+.pl-scn button span{font-size:.74rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.pl-scn button b{font-size:1.02rem;color:var(--text);font-variant-numeric:tabular-nums;font-weight:700}
+.pl-scn button[aria-selected=true]{border-color:var(--accent);background:linear-gradient(180deg,color-mix(in srgb,var(--accent) 14%,var(--card2)),var(--card));box-shadow:0 10px 26px -18px var(--accent)}
+.pl-scn button[aria-selected=true] span{color:var(--accent)}
+.pl-grid{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:20px;align-items:start}
+.pl-panel{background:linear-gradient(180deg,var(--card2),var(--card));border:1px solid var(--border);border-radius:18px;box-shadow:0 1px 0 rgba(255,255,255,.04) inset,0 24px 50px -30px rgba(0,0,0,.7)}
+.pl-in{padding:18px 20px 20px}
+.pl-res{position:sticky;top:72px;padding:20px 22px 22px;overflow:hidden}
+.pl-res::before{content:"";position:absolute;inset:-40% -20% auto auto;width:70%;height:90%;background:radial-gradient(closest-side,color-mix(in srgb,var(--accent) 22%,transparent),transparent);pointer-events:none}
+.pl-res>*{position:relative}
+.pl-h{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:0 0 12px}
+.pl p.pl-k,.pl .pl-k{font-size:.74rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--text2);margin:0;display:flex;align-items:center;gap:8px}
+.pl-k::before{content:"";width:6px;height:6px;border-radius:2px;background:var(--accent)}
+.pl-chip{font-size:.74rem;font-weight:700;padding:3px 10px;border-radius:999px;background:color-mix(in srgb,#f59e0b 14%,transparent);border:1px solid color-mix(in srgb,#f59e0b 45%,transparent);color:#fcd34d;white-space:nowrap}
+.pl-f{margin:0 0 14px;min-width:0}
+.pl label{display:block;font-size:.84rem;font-weight:600;color:var(--text);margin:0 0 6px}
+.pl .pl-u{font-weight:400;color:var(--muted)}
+.pl .pl-hint{display:block;font-size:.78rem;color:var(--muted);margin:5px 0 0;line-height:1.4}
+.pl input[type=text],.pl select{width:100%;min-height:46px;background:var(--bg);border:1px solid var(--border);border-radius:11px;color:var(--text);padding:10px 13px;font:inherit;font-size:1rem;margin:0;font-variant-numeric:tabular-nums;transition:border-color .15s,box-shadow .15s}
+.pl select{appearance:none;background-image:linear-gradient(45deg,transparent 50%,var(--text2) 50%),linear-gradient(135deg,var(--text2) 50%,transparent 50%);background-position:calc(100% - 17px) 20px,calc(100% - 12px) 20px;background-size:5px 5px;background-repeat:no-repeat;padding-right:32px}
+.pl input:focus,.pl select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 28%,transparent)}
+.pl input[aria-invalid=true]{border-color:#f87171;box-shadow:0 0 0 3px rgba(248,113,113,.18)}
+.pl :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.pl-two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.pl-adv{border-top:1px solid var(--border);margin-top:4px;padding-top:12px}
+.pl-adv summary{cursor:pointer;font-weight:700;font-size:.9rem;color:var(--text);list-style:none;display:flex;align-items:center;gap:8px;min-height:36px}
+.pl-adv summary::-webkit-details-marker{display:none}
+.pl-adv summary::before{content:"+";display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:6px;border:1px solid var(--border);color:var(--accent);font-weight:800}
+.pl-adv[open] summary::before{content:"–"}
+.pl-adv[open] summary{margin-bottom:10px}
+.pl-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:6px}
+.pl-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;padding:0 16px;border-radius:11px;border:1px solid var(--border);background:var(--card);color:var(--text);font:inherit;font-weight:700;font-size:.88rem;cursor:pointer;margin:0;transition:border-color .15s,transform .1s}
+.pl-btn:hover{border-color:var(--accent)}
+.pl-btn:active{transform:translateY(1px)}
+.pl-btn.prim{background:var(--accent);border-color:var(--accent);color:#fff;box-shadow:0 10px 24px -12px var(--accent)}
+.pl-btn.link{border:0;background:none;color:var(--accent);padding:0 4px;min-height:36px}
+.pl-btn[disabled]{opacity:.45;cursor:not-allowed}
+.pl p.pl-big{font-size:clamp(2.5rem,5.5vw,3.6rem);font-weight:800;letter-spacing:-.03em;line-height:1.05;margin:4px 0 4px;font-variant-numeric:tabular-nums;color:var(--text)}
+.pl-big small{font-size:.38em;font-weight:700;color:var(--text2);letter-spacing:0;margin-left:6px}
+.pl p.pl-sub{font-size:.92rem;color:var(--text2);margin:0 0 14px}
+.pl-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(128px,1fr));gap:10px;margin:0 0 14px}
+.pl-stat{background:color-mix(in srgb,var(--bg) 82%,transparent);border:1px solid var(--border);border-radius:13px;padding:11px 13px;min-height:72px}
+.pl-stat span{display:block;font-size:.76rem;color:var(--muted);font-weight:600;line-height:1.3}
+.pl-stat b{display:block;font-size:1.2rem;font-variant-numeric:tabular-nums;margin-top:3px;color:var(--text)}
+.pl-pos{color:#4ade80 !important}.pl-neg{color:#f87171 !important}
+.pl p.pl-note{font-size:.88rem;color:var(--text2);margin:0 0 10px;line-height:1.55}
+.pl-note b{color:var(--text)}
+.pl p.pl-msg{font-size:.95rem;color:var(--text2);padding:18px 0;min-height:120px}
+.pl p.pl-msg.err{color:#fca5a5}
+.pl-what{border-top:1px solid var(--border);padding-top:12px;margin-top:4px}
+.pl-what ul{list-style:none;margin:8px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+.pl-what li{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:8px 10px;font-size:.82rem;color:var(--text2);margin:0}
+.pl-what li b{display:block;color:var(--text);font-variant-numeric:tabular-nums;font-size:.95rem}
+.pl-acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.pl-cmp{margin-top:20px;padding:18px 20px}
+.pl-scroll{overflow-x:auto;margin:10px -4px 0;padding:0 4px}
+.pl-t{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:.9rem;min-width:420px}
+.pl-t th,.pl-t td{padding:9px 10px;border-bottom:1px solid var(--border);text-align:right;color:var(--text2);background:none}
+.pl-t th:first-child,.pl-t td:first-child{text-align:left;color:var(--muted);font-weight:600}
+.pl-t thead th{color:var(--text);font-size:.78rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;border-bottom:1.5px solid var(--text2)}
+.pl-t tr.pl-strong td{color:var(--text);font-weight:700}
+.pl-bars{display:grid;gap:9px;margin:4px 0 14px}
+.pl-bar{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;font-size:.85rem;color:var(--text2)}
+.pl-bar b{color:var(--text);font-variant-numeric:tabular-nums;font-weight:700}
+.pl-bar i{grid-column:1/-1;height:8px;border-radius:5px;background:var(--bg);overflow:hidden;display:block}
+.pl-bar i::after{content:"";display:block;height:100%;width:var(--w);background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 55%,#fff));border-radius:5px}
+.pl-steps{display:grid;gap:12px}
+.pl-step{border:1px solid var(--border);border-radius:14px;padding:12px 14px;background:color-mix(in srgb,var(--bg) 70%,transparent)}
+.pl-step-h{display:flex;gap:8px;align-items:center;margin-bottom:10px}
+.pl-step-h input{flex:1}
+.pl-x{width:40px;height:44px;border:1px solid transparent;border-radius:10px;background:none;color:var(--muted);font-size:1.25rem;cursor:pointer;margin:0}
+.pl-x:hover{color:#f87171;border-color:var(--border)}
+.pl-g3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.pl-g3 .pl-f{margin-bottom:0}
+.pl-toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:80;display:flex;gap:14px;align-items:center;background:#111827;color:#f9fafb;border:1px solid #374151;border-radius:12px;padding:10px 16px;box-shadow:0 18px 40px -12px rgba(0,0,0,.6);font-size:.9rem}
+.pl-toast[hidden]{display:none}
+.pl-toast button{background:none;border:0;color:#93c5fd;font:inherit;font-weight:800;cursor:pointer;min-height:36px;padding:0 6px;margin:0}
+.pl-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+@media (max-width:959px){.pl{width:auto;margin:18px 0 24px}.pl-grid{grid-template-columns:minmax(0,1fr)}.pl-res{position:relative;top:0}}
+@media (max-width:560px){.pl-two,.pl-g3{grid-template-columns:1fr 1fr}.pl-in,.pl-res,.pl-cmp{padding:16px}.pl-scn button{flex:1 1 30%;min-height:54px;padding:8px 10px}.pl-scn button b{font-size:.9rem}}
+@media (prefers-reduced-motion:reduce){.pl *{transition:none !important}}
+</style><div class="pl" id="ro-pl">
+<div class="pl-scn" role="tablist" aria-label="Scenarios">
+<button type="button" role="tab" aria-selected="true" data-i="0"><span>Current</span><b>–</b></button>
+<button type="button" role="tab" aria-selected="false" data-i="1"><span>Alternative</span><b>Add</b></button>
+<button type="button" role="tab" aria-selected="false" data-i="2"><span>My scenario</span><b>Add</b></button>
+</div>
+<div class="pl-grid">
+<section class="pl-panel pl-in" aria-label="Campaign figures">
+<div class="pl-h"><p class="pl-k" id="ro-scn-name">Current campaign</p><span class="pl-chip" id="ro-ex" hidden>Example figures</span></div>
+<div class="pl-two">
+<div class="pl-f"><label for="ro-s">Ad spend</label><input type="text" id="ro-s" value="1000" inputmode="decimal" autocomplete="off"></div>
+<div class="pl-f"><label for="ro-r">Revenue from ads</label><input type="text" id="ro-r" value="4000" inputmode="decimal" autocomplete="off"><span class="pl-hint">As credited to the ads by your ad platform or analytics.</span></div>
+</div>
+<div class="pl-f"><label for="ro-m">Gross margin <span class="pl-u">(%, optional)</span></label><input type="text" id="ro-m" value="40" inputmode="decimal" placeholder="e.g. 40" autocomplete="off"><span class="pl-hint">Revenue minus the direct cost of what you sold (goods, shipping, payment fees), as a share of revenue. Needed for break-even.</span></div>
+<details class="pl-adv"><summary>Other campaign costs and currency</summary>
+<div class="pl-two">
+<div class="pl-f"><label for="ro-o">Other campaign costs <span class="pl-u">(optional)</span></label><input type="text" id="ro-o" value="" inputmode="decimal" placeholder="e.g. 300" autocomplete="off"><span class="pl-hint">Agency fee, creative, tools for this campaign. Leave out anything already in your gross margin.</span></div>
+<div class="pl-f"><label for="ro-cur">Currency</label><select id="ro-cur"><option value="">No symbol</option><option value="€">€ Euro</option><option value="$">$ Dollar</option><option value="£">£ Pound</option></select></div>
+</div>
+</details>
+<div class="pl-row"><button type="button" class="pl-btn link" id="ro-copyfrom" hidden>Copy figures from Current</button><button type="button" class="pl-btn link" id="ro-clear">Clear this scenario</button></div>
+</section>
+<section class="pl-panel pl-res" aria-label="Result">
+<div class="pl-h"><p class="pl-k">Return on ad spend</p></div>
+<div id="ro-out" aria-live="polite"></div>
+<div class="pl-acts"><button type="button" class="pl-btn prim" id="ro-pdf">Download PDF report</button><button type="button" class="pl-btn" id="ro-copy">Copy summary</button><button type="button" class="pl-btn" id="ro-csv">Download CSV</button></div>
+</section>
+</div>
+<section class="pl-panel pl-cmp" id="ro-cmp" aria-label="Scenario comparison"></section>
+</div><p style="margin:10px 0 4px;font-size:.78rem;text-align:right"><a href="https://marketingandsalessoftware.com/tools/roas-calculator/?utm_source=embed&utm_medium=widget" target="_blank" rel="nofollow noopener" style="color:#8b93a7;text-decoration:none">&#9889; ROAS Calculator &mdash; free tool by <span style="color:#60a5fa">Marketing & Sales Software</span></a></p></div><script>
+// Gedeelde planner-hulpen (6 okt 2026): getallen lezen, opmaak, kopiëren, CSV, PDF-rapport, melding.
+window.PL=window.PL||(function(){
+"use strict";
+var FONT_R='https://cdn.jsdelivr.net/gh/googlefonts/roboto@v2.138/src/hinted/Roboto-Regular.ttf',FONT_B='https://cdn.jsdelivr.net/gh/googlefonts/roboto@v2.138/src/hinted/Roboto-Bold.ttf',fonts=null,timer=null;
+// Leest 1250.5, 1250,5, 1,250.50, 1.250,50 en 1 250,50. Eén scheidingsteken met precies drie cijfers erna is een
+// duizendtal (2.000 en 2,000 = 2000); met één of twee cijfers erna een decimaalteken. Leeg -> null; geen getal -> NaN.
+// De uitkomst toont het gelezen bedrag, zodat een andere lezing direct zichtbaar is.
+function num(v){
+ v=String(v==null?'':v).trim().replace(/[\s'’]/g,'');if(v==='')return null;
+ var c=v.lastIndexOf(','),d=v.lastIndexOf('.');
+ if(c>-1&&d>-1){v=c>d?v.replace(/\./g,'').replace(',','.'):v.replace(/,/g,'');}
+ else if(c>-1||d>-1){var s=c>-1?',':'.',p=v.split(s);v=(p.length===2&&p[1].length!==3)?p.join('.'):p.join('');}
+ if(!/^-?(\d+\.?\d*|\.\d+)(e[+-]?\d+)?$/i.test(v))return NaN;
+ var n=Number(v);return isFinite(n)?n:NaN;
+}
+function fmt(n,dec,sym){if(n==null||isNaN(n))return '–';var neg=n<0,s=Math.abs(n).toLocaleString('en-US',{minimumFractionDigits:dec!=null?dec:(Math.abs(n)%1?2:0),maximumFractionDigits:dec==null?2:dec});return (neg?'-':'')+(sym||'')+s;}
+function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function toast(msg){var t=document.getElementById('pl-toast');if(!t){t=document.createElement('div');t.id='pl-toast';t.className='pl-toast';t.setAttribute('role','status');t.setAttribute('aria-live','polite');document.body.appendChild(t);}
+ t.textContent=msg;t.hidden=false;clearTimeout(timer);timer=setTimeout(function(){t.hidden=true;},2600);}
+function copy(text){
+ function done(){toast('Copied to the clipboard');}
+ if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(done,fallback);}else fallback();
+ function fallback(){var a=document.createElement('textarea');a.value=text;a.setAttribute('readonly','');a.style.cssText='position:fixed;left:-9999px';document.body.appendChild(a);a.select();try{document.execCommand('copy');done();}catch(e){toast('Copy failed: select the text and copy it yourself');}a.remove();}
+}
+function csv(name,rows){
+ var s=rows.map(function(r){return r.map(function(c){c=String(c==null?'':c);return /[",\n;]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c;}).join(',');}).join('\r\n');
+ var b=new Blob(['﻿'+s],{type:'text/csv;charset=utf-8'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=name;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},500);
+}
+function b64(buf){var u=new Uint8Array(buf),s='';for(var i=0;i<u.length;i+=32768)s+=String.fromCharCode.apply(null,u.subarray(i,i+32768));return btoa(s);}
+function getFonts(){
+ if(fonts!==null)return Promise.resolve(fonts);
+ function one(u){return fetch(u).then(function(r){if(!r.ok)throw new Error('font');return r.arrayBuffer();}).then(b64);}
+ return Promise.all([one(FONT_R),one(FONT_B)]).then(function(x){fonts={r:x[0],b:x[1]};return fonts;},function(){fonts=false;return false;});
+}
+function loadJsPDF(){
+ if(window.jspdf&&window.jspdf.jsPDF)return Promise.resolve(window.jspdf.jsPDF);
+ return new Promise(function(ok,no){var s=document.createElement('script');s.src='https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js';s.onload=function(){ok(window.jspdf.jsPDF);};s.onerror=function(){no(new Error('The PDF library did not load. Check your connection and try again.'));};document.head.appendChild(s);});
+}
+// Rapport: o={file,title,sub,accent:'#4f46e5',blocks:[{h,table:{head:[],rows:[[...]],strong:[rowIdx]}}|{h,text}|{h,kv:[[k,v]]}],foot}
+function report(o,btn){
+ var lbl=btn&&btn.textContent;if(btn){btn.disabled=true;btn.textContent='Preparing PDF…';}
+ function klaar(){if(btn){btn.disabled=false;btn.textContent=lbl;}}
+ return loadJsPDF().then(function(J){return getFonts().then(function(f){
+  var doc=new J({unit:'mm',format:'a4'}),F='helvetica';
+  if(f){doc.addFileToVFS('Roboto-Regular.ttf',f.r);doc.addFont('Roboto-Regular.ttf','Roboto','normal');doc.addFileToVFS('Roboto-Bold.ttf',f.b);doc.addFont('Roboto-Bold.ttf','Roboto','bold');F='Roboto';}
+  var acc=hex(o.accent||'#4f46e5'),ink=[31,35,40],grey=[100,108,118],soft=[61,68,77],rule=[227,230,234],M=16,X=210-M,BOT=297-18,y=M;
+  function set(sz,b,c){doc.setFont(F,b?'bold':'normal');doc.setFontSize(sz);doc.setTextColor(c[0],c[1],c[2]);}
+  function page(){doc.addPage();y=M+4;}
+  doc.setFillColor(acc[0],acc[1],acc[2]);doc.rect(0,0,210,3.4,'F');
+  set(19,true,ink);doc.text(o.title,M,y+7);y+=12;
+  if(o.sub){set(9.5,false,grey);doc.splitTextToSize(o.sub,X-M).forEach(function(l){doc.text(l,M,y);y+=4.6;});}
+  y+=5;
+  o.blocks.forEach(function(b){
+   if(y+16>BOT)page();
+   set(8,true,acc);doc.text(String(b.h).toUpperCase(),M,y,{charSpace:.35});y+=5.5;
+   if(b.table){var head=b.table.head,n=head.length,first=n>2?62:90,w=(X-M-first)/Math.max(1,n-1);
+    function xr(i){return M+first+w*i;}
+    set(8,true,grey);head.forEach(function(h,i){if(i===0)doc.text(String(h),M,y);else doc.text(String(h),xr(i),y,{align:'right'});});
+    y+=2;doc.setDrawColor(ink[0],ink[1],ink[2]);doc.setLineWidth(.35);doc.line(M,y,X,y);y+=5;
+    b.table.rows.forEach(function(r,ri){
+     var strong=(b.table.strong||[]).indexOf(ri)>-1,lines=doc.splitTextToSize(String(r[0]),first-4);
+     if(y+lines.length*4.4>BOT){page();}
+     set(9.5,strong,strong?ink:soft);doc.text(lines,M,y);
+     set(9.5,strong,ink);for(var i=1;i<n;i++)doc.text(String(r[i]==null?'':r[i]),xr(i),y,{align:'right'});
+     y+=(lines.length-1)*4.4+2.4;doc.setDrawColor(rule[0],rule[1],rule[2]);doc.setLineWidth(.2);doc.line(M,y,X,y);y+=4.6;});
+    y+=4;}
+   if(b.kv){b.kv.forEach(function(p){if(y>BOT)page();set(9.5,false,grey);doc.text(String(p[0]),M,y);set(9.5,false,ink);doc.text(String(p[1]),X,y,{align:'right'});y+=5.2;});y+=3;}
+   if(b.text){set(9.5,false,soft);doc.splitTextToSize(b.text,X-M).forEach(function(l){if(y>BOT)page();doc.text(l,M,y);y+=4.7;});y+=4;}
+  });
+  var pages=doc.getNumberOfPages();for(var i=1;i<=pages;i++){doc.setPage(i);set(7.5,false,grey);doc.text(doc.splitTextToSize(o.foot||'',150)[0],M,297-9);doc.text('Page '+i+' of '+pages,X,297-9,{align:'right'});}
+  doc.save(o.file);
+  if(!f)toast('The PDF font did not load, so a standard font was used.');
+  klaar();
+ });}).catch(function(e){klaar();toast(e&&e.message||'The PDF could not be made.');});
+}
+function hex(h){h=String(h).replace('#','');return [parseInt(h.slice(0,2),16),parseInt(h.slice(2,4),16),parseInt(h.slice(4,6),16)];}
+function today(){var d=new Date(),M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];return d.getDate()+' '+M[d.getMonth()]+' '+d.getFullYear();}
+function accent(el){var c=getComputedStyle(el).getPropertyValue('--accent').trim();if(/^#[0-9a-f]{6}$/i.test(c))return c;var m=/rgba?\((\d+),\s*(\d+),\s*(\d+)/.exec(c);if(m)return '#'+[m[1],m[2],m[3]].map(function(x){return ('0'+(+x).toString(16)).slice(-2);}).join('');return '#4f46e5';}
+return {num:num,fmt:fmt,esc:esc,toast:toast,copy:copy,csv:csv,report:report,today:today,accent:accent};
+})();
+</script><script>
 function roasKern(sRaw,rRaw,mRaw){
 function lees(v,naam,max){v=(v==null?'':String(v)).trim();if(v==='')return{leeg:true};var n=Number(v);
 if(!isFinite(n))return{fout:naam+' must be a number.'};if(n<0)return{fout:naam+' cannot be negative.'};
@@ -136,17 +329,104 @@ if(s.n===0)return{status:'geen_uitgaven'};
 var u={status:'ok',roas:r.n/s.n,spend:s.n,revenue:r.n,marge:null};
 if(!m.leeg){u.marge=m.n/100;u.naAds=r.n*u.marge-s.n;u.breakEven=u.marge>0?1/u.marge:null;}
 return u;}
+// 6 okt 2026 (planner): getallen met komma of punt worden eerst genormaliseerd (PL.num); zonder PL (test, embed
+// zonder hulpscript) gaat de ruwe waarde naar de kern zoals voorheen. Extra kosten en scenario's zitten buiten de kern.
+function roNorm(v){if(!(window.PL&&window.PL.num))return v;var n=window.PL.num(v);return n===null?'':(isNaN(n)?'not a number':String(n));}
+function roExtraKosten(){var e=document.getElementById('ro-o');if(!e)return{n:0};var n=window.PL?window.PL.num(e.value):(e.value.trim()===''?null:Number(e.value));
+if(n===null)return{n:0};if(isNaN(n))return{fout:'Other campaign costs must be a number.'};if(n<0)return{fout:'Other campaign costs cannot be negative.'};return{n:n,gezet:true};}
 function roCalc(){
-function raw(id){var e=document.getElementById(id);return e.validity&&e.validity.badInput?'not a number':e.value;}
-function g(x){return x.toLocaleString(undefined,{maximumFractionDigits:2});}
-var o=document.getElementById('ro-out'),u=roasKern(raw('ro-s'),raw('ro-r'),raw('ro-m')),h;
-if(u.status==='ongeldig'){h='<p class="sig-n">'+u.fouten.join(' ')+'</p>';}
-else if(u.status==='ontbreekt'){h='<p class="muted">Enter your '+u.velden.join(' and ')+' to calculate ROAS. An empty field is not read as zero.</p>';}
-else if(u.status==='geen_uitgaven'){h='<p class="muted">Ad spend is 0, so there is no ROAS to calculate: ROAS divides revenue by ad spend.</p>';}
-else{h='<p class="big'+(u.marge!==null&&u.marge>0?(u.naAds>=0?' sig-y':' sig-n'):'')+'">'+u.roas.toFixed(2)+'x</p>';
-if(u.marge===null){h+='<p class="muted">Revenue per unit of ad spend, as credited to your ads: not profit. Add your gross margin to see the break-even ROAS.</p>';}
-else if(u.marge===0){h+='<p class="muted">At 0% gross margin no ROAS covers the ad spend: the sales leave nothing to pay for the ads.</p>';}
-else{h+='<p class="muted">At '+g(u.marge*100)+'% gross margin the break-even ROAS is '+u.breakEven.toFixed(2)+'x. Gross margin left after ad spend: <b>'+(u.naAds>=0?'+':'\u2212')+g(Math.abs(u.naAds))+'</b> ('+g(u.revenue)+' \u00d7 '+g(u.marge*100)+'% \u2212 '+g(u.spend)+'). That is before overheads and any costs your margin figure leaves out, so it is not net profit.</p>';}}
+function raw(id){var e=document.getElementById(id);return e.validity&&e.validity.badInput?'not a number':roNorm(e.value);}
+var c=document.getElementById('ro-cur'),sym=c?c.value:'';
+function g(x){var a=Math.abs(x);return (x<0?'−':'')+sym+a.toLocaleString('en-US',{minimumFractionDigits:a%1?2:0,maximumFractionDigits:2});}
+function pct(x){return x.toLocaleString('en-US',{maximumFractionDigits:2});}
+function st(k,v,cls){return '<div class="pl-stat"><span>'+k+'</span><b'+(cls?' class="'+cls+'"':'')+'>'+v+'</b></div>';}
+var o=document.getElementById('ro-out'),u=roasKern(raw('ro-s'),raw('ro-r'),raw('ro-m')),x=roExtraKosten(),h;
+if(u.status==='ok'&&x.fout)u={status:'ongeldig',fouten:[x.fout]};
+if(u.status==='ongeldig'){h='<p class="pl-msg err sig-n">'+u.fouten.join(' ')+'</p>';}
+else if(u.status==='ontbreekt'){h='<p class="pl-msg muted">Enter your '+u.velden.join(' and ')+' to calculate ROAS. An empty field is not read as zero.</p>';}
+else if(u.status==='geen_uitgaven'){h='<p class="pl-msg muted">Ad spend is 0, so there is no ROAS to calculate: ROAS divides revenue by ad spend.</p>';}
+else{
+ var ok=u.marge!==null&&u.marge>0,overig=x.n||0,naAlles=ok?u.naAds-overig:null,beAlles=ok?(u.spend+overig)/(u.marge*u.spend):null;
+ h='<p class="pl-big'+(ok?(naAlles>=0?' pl-pos':' pl-neg'):'')+'">'+u.roas.toFixed(2)+'x</p>';
+ h+='<p class="pl-sub">'+g(u.revenue)+' of revenue from '+g(u.spend)+' of ad spend.</p>';
+ if(u.marge===null){h+='<p class="pl-note">Revenue per unit of ad spend, as credited to your ads: not profit. Add your gross margin to see the break-even ROAS.</p>';}
+ else if(u.marge===0){h+='<p class="pl-note">At 0% gross margin no ROAS covers the ad spend: the sales leave nothing to pay for the ads.</p>';}
+ else{
+  var ruimte=beAlles>0?1-beAlles/u.roas:null;
+  h+='<div class="pl-stats">'+st('Break-even ROAS'+(overig?' incl. other costs':''),(overig?beAlles:u.breakEven).toFixed(2)+'x')
+   +st(overig?'Left after ads and other costs':'Gross margin left after ads',(naAlles>=0?'+':'')+g(naAlles),naAlles>=0?'pl-pos':'pl-neg')
+   +st(ruimte>=0?'Revenue could fall before break-even':'Revenue must rise to break even',(ruimte>=0?Math.floor(ruimte*1000)/10:Math.ceil((beAlles/u.roas-1)*1000)/10)+'%',ruimte>=0?'':'pl-neg')+'</div>';
+  h+='<p class="pl-note">At '+pct(u.marge*100)+'% gross margin the break-even ROAS is '+u.breakEven.toFixed(2)+'x. Gross margin left after ad spend: <b>'+(u.naAds>=0?'+':'−')+g(Math.abs(u.naAds))+'</b> ('+g(u.revenue)+' × '+pct(u.marge*100)+'% − '+g(u.spend)+')'+(overig?', and '+(naAlles>=0?'+':'−')+g(Math.abs(naAlles))+' after '+g(overig)+' of other campaign costs':'')+'. That is before overheads and any costs your margin figure leaves out, so it is not net profit.</p>';
+  var w=[-20,-10,10,20].map(function(p){var r=u.revenue*(1+p/100),n=r*u.marge-u.spend-overig;return '<li>Revenue '+(p>0?'+':'−')+Math.abs(p)+'%<b>'+(r/u.spend).toFixed(2)+'x · '+(n>=0?'+':'')+g(n)+'</b></li>';}).join('');
+  h+='<div class="pl-what"><p class="pl-k">If revenue moves, everything else equal</p><ul>'+w+'</ul></div>';
+ }
+}
 o.innerHTML=h;
+if(typeof window.roExtra==='function')window.roExtra(u);
 if(u.status==='ok'&&!window.__roGemeten&&typeof gtag==='function'){window.__roGemeten=1;try{gtag('event','tool_use',{event_label:'roas'});}catch(e){}}}
-['ro-s','ro-r','ro-m'].forEach(function(id){document.getElementById(id).addEventListener('input',roCalc);});roCalc();</script></body></html>
+['ro-s','ro-r','ro-m'].forEach(function(id){document.getElementById(id).addEventListener('input',roCalc);});roCalc();</script>
+<script>
+(function(){
+"use strict";
+var root=document.getElementById('ro-pl');if(!root||root.getAttribute('data-ready')||!window.PL)return;root.setAttribute('data-ready','1');
+var $=function(id){return document.getElementById(id);},PL=window.PL;
+var F=['ro-s','ro-r','ro-m','ro-o'],K=['s','r','m','o'],NAMES=['Current','Alternative','My scenario'];
+var S=[{s:'1000',r:'4000',m:'40',o:''},{s:'',r:'',m:'',o:''},{s:'',r:'',m:'',o:''}],act=0,EX=JSON.stringify(S[0]);
+function save(){F.forEach(function(f,i){S[act][K[i]]=$(f).value;});}
+function load(){F.forEach(function(f,i){$(f).value=S[act][K[i]];});}
+function sym(){return $('ro-cur').value;}
+function calc(sc){
+ var u=roasKern(roNorm(sc.s),roNorm(sc.r),roNorm(sc.m)),o=PL.num(sc.o);
+ if(u.status!=='ok')return u;if(o!==null&&(isNaN(o)||o<0))return {status:'ongeldig'};
+ u.overig=o||0;if(u.marge!==null&&u.marge>0){u.naAlles=u.naAds-u.overig;u.beAlles=(u.spend+u.overig)/(u.marge*u.spend);}return u;
+}
+function m(x){return x==null||isNaN(x)?'–':PL.fmt(x,null,sym());}
+function rows(){
+ var R=S.map(calc),cols=[];R.forEach(function(u,i){if(u.status==='ok')cols.push(i);});
+ var base=R[0].status==='ok'&&R[0].naAlles!=null?R[0].naAlles:null;
+ function row(lbl,fn){return [lbl].concat(cols.map(function(i){return fn(R[i],i);}));}
+ var out=[row('Ad spend',function(u){return m(u.spend);}),row('Revenue from ads',function(u){return m(u.revenue);}),
+  row('Gross margin',function(u){return u.marge==null?'–':PL.fmt(u.marge*100)+'%';}),row('Other campaign costs',function(u){return u.overig?m(u.overig):'–';}),
+  row('ROAS',function(u){return u.roas.toFixed(2)+'x';}),row('Break-even ROAS',function(u){return u.beAlles?u.beAlles.toFixed(2)+'x':'–';}),
+  row('Left after ads and other costs',function(u){return u.naAlles==null?'–':(u.naAlles>=0?'+':'')+m(u.naAlles);})];
+ if(base!==null&&cols.length>1)out.push(row('Difference vs Current',function(u,i){return i===0||u.naAlles==null?'–':(u.naAlles-base>=0?'+':'')+m(u.naAlles-base);}));
+ return {head:[''].concat(cols.map(function(i){return NAMES[i];})),rows:out,cols:cols,R:R};
+}
+function tabs(){
+ Array.prototype.forEach.call(root.querySelectorAll('.pl-scn button'),function(b,i){var u=calc(S[i]),leeg=!S[i].s&&!S[i].r;
+  b.setAttribute('aria-selected',i===act);b.querySelector('b').textContent=u.status==='ok'?u.roas.toFixed(2)+'x':(leeg?'Add':'–');});
+ $('ro-ex').hidden=!(act===0&&JSON.stringify(S[0])===EX);
+ $('ro-scn-name').textContent=NAMES[act]+(act===0?' campaign':'');
+ $('ro-copyfrom').hidden=act===0;
+}
+function compare(){
+ var T=rows(),c=$('ro-cmp');
+ if(!T.cols.length){c.innerHTML='<p class="pl-k">Compare scenarios</p><p class="pl-note" style="margin-top:8px">Fill in a scenario to see it here.</p>';}
+ else{c.innerHTML='<div class="pl-h"><p class="pl-k">Compare scenarios</p></div>'+(T.cols.length<2?'<p class="pl-note">Add an Alternative, for example a higher budget or a better margin, to see them side by side.</p>':'')+
+  '<div class="pl-scroll"><table class="pl-t"><thead><tr>'+T.head.map(function(h){return '<th scope="col">'+PL.esc(h)+'</th>';}).join('')+'</tr></thead><tbody>'+
+  T.rows.map(function(r){return '<tr'+(/^(ROAS|Left after)/.test(r[0])?' class="pl-strong"':'')+'><td>'+r.map(PL.esc).join('</td><td>')+'</td></tr>';}).join('')+'</tbody></table></div>';}
+ ['ro-pdf','ro-copy','ro-csv'].forEach(function(id){$(id).disabled=!T.cols.length;});
+}
+window.roExtra=function(){save();tabs();compare();};
+Array.prototype.forEach.call(root.querySelectorAll('.pl-scn button'),function(b,i){b.addEventListener('click',function(){save();act=i;load();roCalc();});});
+$('ro-o').addEventListener('input',roCalc);$('ro-cur').addEventListener('change',roCalc);
+$('ro-clear').addEventListener('click',function(){S[act]={s:'',r:'',m:'',o:''};load();roCalc();$('ro-s').focus();});
+$('ro-copyfrom').addEventListener('click',function(){S[act]=JSON.parse(JSON.stringify(S[0]));load();roCalc();$('ro-r').focus();});
+function url(){var l=document.querySelector('link[rel=canonical]');return (l&&l.href||location.href).replace(/\/embed\/?$/,'/');}
+$('ro-copy').addEventListener('click',function(){
+ var T=rows(),t=['ROAS calculation, '+PL.today(),''];
+ T.cols.forEach(function(i){var u=T.R[i];t.push(NAMES[i]+': ad spend '+m(u.spend)+', revenue '+m(u.revenue)+' → ROAS '+u.roas.toFixed(2)+'x'+
+  (u.beAlles?'; break-even '+u.beAlles.toFixed(2)+'x at '+PL.fmt(u.marge*100)+'% gross margin; '+(u.naAlles>=0?'+':'')+m(u.naAlles)+' left after ads'+(u.overig?' and other costs':'')+' (before overheads)':''));});
+ t.push('','Calculated with '+url());PL.copy(t.join('\n'));if(typeof gtag==='function')gtag('event','tool_download',{event_label:'roas_copy'});});
+$('ro-csv').addEventListener('click',function(){var T=rows();PL.csv('roas-scenarios.csv',[T.head.map(function(h){return h||'Metric';})].concat(T.rows));if(typeof gtag==='function')gtag('event','tool_download',{event_label:'roas_csv'});});
+$('ro-pdf').addEventListener('click',function(){
+ var T=rows();
+ PL.report({file:'roas-scenarios.pdf',title:'Campaign return: ROAS',accent:PL.accent(root),sub:'Calculated on '+PL.today()+' from the figures entered. Revenue is the revenue credited to the ads.',
+  blocks:[{h:'Scenarios',table:{head:T.head,rows:T.rows,strong:[4,6]}},
+   {h:'How it is calculated',text:'ROAS = revenue from ads ÷ ad spend. Break-even ROAS = 1 ÷ gross margin; with other campaign costs it is (ad spend + other costs) ÷ (gross margin × ad spend). Left after ads = revenue × gross margin − ad spend − other campaign costs.'},
+   {h:'What this leaves out',text:'Overheads, salaries, software and any cost your gross margin figure does not include, so the result is not net profit. Revenue credited to ads depends on the attribution model of your ad platform or analytics.'}],
+  foot:'ROAS calculator · '+url()+' · '+PL.today()},this);
+ if(typeof gtag==='function')gtag('event','tool_download',{event_label:'roas_pdf'});});
+roCalc();
+})();
+</script></body></html>
