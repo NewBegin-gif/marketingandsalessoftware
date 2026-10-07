@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 122 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-06.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 124 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-07.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (122) — canonical versions
+## Reviews (124) — canonical versions
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
 - [AgentNest Review (2026): Free Tier, Then $19/mo](https://marketingandsalessoftware.com/agentnest-review.html): AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no review
@@ -116,6 +116,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Pingtree Review (2026): From $199/mo, Overage After Close](https://marketingandsalessoftware.com/pingtree-review.html): Pingtree: Self Service is “From $199” per month with a free trial included. We get paid whether or not you ever spend a cent with them.
 - [Pipedrive Review (2026): From $14 a Seat, Billed a Year Up Front](https://marketingandsalessoftware.com/pipedrive-review.html): Pipedrive: Billed annually they are US$14, US$39, US$59 and US$79 per seat per month. Pipedrive manages what happens after a lead enters your pipeline
 - [Poptin Review (2026): The Recommended Plan Has No Price](https://marketingandsalessoftware.com/poptin-review.html): Poptin: Free is $0 forever with 1,000 unique visitors a month, one domain and unlimited poptins. The plan Poptin recommends does not have a price on i
+- [Positive User Review (2026): Annual Plans From €69, 60,000 Emails a Year](https://marketingandsalessoftware.com/positive-user-review.html): Positive User: Campaigns is €69 a month billed annually with 1 seat. Every plan stops at 60,000 emails a year, about 5,000 a month.
 - [Quartile Review (2026): No Price Anywhere on the Site](https://marketingandsalessoftware.com/quartile-review.html): Quartile: Budget for this one from a written quote, because nothing else exists. Everything about the sales motion here is a conversation.
 - [Rank Math Review (2026): PRO Excludes Client Sites](https://marketingandsalessoftware.com/rank-math-review.html): Rank Math: Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT. Don't pay until you hit those.
 - [Rapid Search Review (2026): $14 a Month, Metered on Visits](https://marketingandsalessoftware.com/rapid-search-review.html): Rapid Search: Basic 1 is $14 a month, or $140 a year, for 5,000 sessions and 100,000 products. The meter is your traffic, not your searches.
@@ -144,6 +145,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [TnC Review (2026): The Free Plan Is Dev Stores Only](https://marketingandsalessoftware.com/tnc-review.html): TnC: The annual prices are $67.10, $92.32 and $109.12. Start with the badge at the top of the listing, because it is the one thing on this page that m
 - [Track123 Review (2026): $9 for 300 Orders, Then 5 Cents Each](https://marketingandsalessoftware.com/track123-review.html): Track123: Three published plans plus Enterprise, priced on synced orders a month. The overage is the most expensive order on the ladder.
 - [Uniqode Review (2026): Cancel and the Codes Stop](https://marketingandsalessoftware.com/uniqode-review.html): Uniqode: The plan cards are rendered in the browser and carry no price in either reading. The tier jumps are steep and a lot is gated.
+- [UserTrail Review (2026): Heatmaps and Replays, Sessions Shared Across Sites](https://marketingandsalessoftware.com/usertrail-review.html): UserTrail: Basic is $39 a month billed yearly or $47 billed monthly. The session allowance is shared across all websites on a plan.
 - [VyReel Review (2026): Free for 5 Videos, Then $19 a Month](https://marketingandsalessoftware.com/vyreel-review.html): VyReel: The vendor site labels it Trial, $0 forever. The meter is clicks, and nobody says what happens when you run out.
 - [Warn Review (2026): Checkout Blocking Is Shopify Plus Only](https://marketingandsalessoftware.com/warn-review.html): Warn: Premium is $6.99 a month or $41.94 a year. The app is called Warn: Warnings Checkout Blocks.
 - [ZoomInfo Review (2026): Renewals Rise 10-20% a Year](https://marketingandsalessoftware.com/zoominfo-review.html): ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year, climbing once seats. The contract is the most-cited frustration.
