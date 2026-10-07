@@ -199,10 +199,10 @@ if(!(va>0&&vb>0)||ca<0||cb<0||ca>va||cb>vb){o.innerHTML='<p class="muted">Enter 
 var pa=ca/va,pb=cb/vb,pp=(ca+cb)/(va+vb),se=Math.sqrt(pp*(1-pp)*(1/va+1/vb));
 var z=se?(pb-pa)/se:0,pv=2*(1-ncdf(Math.abs(z))),up=pa?((pb-pa)/pa*100):0,sig=pv<0.05;
 var seD=Math.sqrt(pa*(1-pa)/va+pb*(1-pb)/vb),lo=(pb-pa-1.96*seD)*100,hi=(pb-pa+1.96*seD)*100,pvs=pv<0.0001?'&lt; 0.0001':pv.toFixed(4);
-o.innerHTML='<p>Control: <b>'+(pa*100).toFixed(2)+'%</b> &nbsp;|&nbsp; Variant: <b>'+(pb*100).toFixed(2)+'%</b></p>'
-+'<p class="big">'+(up>=0?'+':'')+up.toFixed(1)+'% <span class="muted" style="font-size:.9rem">relative uplift</span></p>'
-+'<p>p-value: <b>'+pvs+'</b> &nbsp;\u00b7&nbsp; 95% interval for the difference: <b>'+(lo>=0?'+':'')+lo.toFixed(2)+' to '+(hi>=0?'+':'')+hi.toFixed(2)+' points</b></p>'
-+'<p class="'+(sig?'sig-y':'sig-n')+'">'+(sig?'\u2714 Statistically significant at p &lt; 0.05 \u2014 the '+(pb>=pa?'variant':'control')+' did better in this sample; the p-value is not the probability that it is truly better':'\u2717 Not statistically significant at p &lt; 0.05 \u2014 judge it at the sample size you planned, not by running on until it turns green')+'</p>';
+o.innerHTML='<p>Control: <b data-k="Control rate">'+(pa*100).toFixed(2)+'%</b> &nbsp;|&nbsp; Variant: <b data-k="Variant rate">'+(pb*100).toFixed(2)+'%</b></p>'
++'<p class="big"><span data-k="Relative uplift">'+(up>=0?'+':'')+up.toFixed(1)+'%</span> <span class="muted" style="font-size:.9rem">relative uplift</span></p>'
++'<p>p-value: <b data-k="p-value">'+pvs+'</b> &nbsp;\u00b7&nbsp; 95% interval for the difference: <b data-k="95% interval (points)">'+(lo>=0?'+':'')+lo.toFixed(2)+' to '+(hi>=0?'+':'')+hi.toFixed(2)+' points</b></p>'
++'<p data-k="Conclusion" data-v="'+(sig?'Significant at p < 0.05 ('+(pb>=pa?'variant':'control')+' ahead)':'Not significant at p < 0.05')+'" class="'+(sig?'sig-y':'sig-n')+'">'+(sig?'\u2714 Statistically significant at p &lt; 0.05 \u2014 the '+(pb>=pa?'variant':'control')+' did better in this sample; the p-value is not the probability that it is truly better':'\u2717 Not statistically significant at p &lt; 0.05 \u2014 judge it at the sample size you planned, not by running on until it turns green')+'</p>';
 gtag&&gtag('event','tool_use',{event_label:'ab_calc'});}
 var va_=document.getElementById('va'),ca_=document.getElementById('ca'),vb_=document.getElementById('vb'),cb_=document.getElementById('cb');
 document.getElementById('ab-go').onclick=abCalc;abCalc();
@@ -328,6 +328,11 @@ function velden(){
 }
 function uitkomst(){
  var paren=[];
+ // Contract (zware audit 7 okt 2026, A07-01): een tool die zijn uitkomstvelden benoemt met data-k (en eventueel een
+ // korte waarde in data-v) krijgt precies die velden in scenario's, kopie en PDF. De generieke terugval hieronder
+ // bewaarde bij de A/B-tool alleen 'Result 10.00%' (de controlwaarde) en gooide uplift, p-waarde en conclusie weg.
+ var benoemd=[];res.forEach(function(r){Array.prototype.forEach.call(r.querySelectorAll('[data-k]'),function(e){benoemd.push([e.getAttribute('data-k'),(e.getAttribute('data-v')||e.textContent).replace(/\s+/g,' ').trim()]);});});
+ if(benoemd.length)return benoemd;
  res.forEach(function(r){
   var kaarten=r.querySelectorAll('.scv');
   if(kaarten.length){Array.prototype.forEach.call(kaarten,function(k){var n=k.querySelector('.scv-n'),v=k.querySelector('.scv-v');if(n&&v)paren.push([n.textContent.trim(),v.textContent.trim()]);});return;}
@@ -346,6 +351,7 @@ function uitkomst(){
 }
 function tekst(){var t=[naam+', '+PL.today(),''];velden().forEach(function(v){t.push(v[0]+': '+v[1]);});t.push('');uitkomst().forEach(function(p){t.push((p[0]?p[0]+': ':'')+p[1]);});
  var l=document.querySelector('link[rel=canonical]');t.push('','Calculated with '+((l&&l.href)||location.href).replace(/\/embed\/?$/,'/'));return t.join('\n');}
+window.__wsUitkomst=uitkomst;  // voor de regressiecontrole op scenariovelden (check_tool_scenarios.py)
 var acts=document.createElement('div');acts.className='ws-acts';
 acts.innerHTML=type==='calc'?'<button type="button" class="ws-b prim" data-a="pdf">Download PDF</button><button type="button" class="ws-b" data-a="copy">Copy result</button><button type="button" class="ws-b" data-a="save">Save as scenario</button>'
  :'<button type="button" class="ws-b" data-a="copy">Copy result</button>';

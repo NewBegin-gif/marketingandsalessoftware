@@ -54,7 +54,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Atria
 - Review: https://marketingandsalessoftware.com/atria-review.html
 - Verdict: Atria: Core is $129/mo, a stated $360 saving a year. Its edge is competitor ad intelligence plus creative generation in one place.
-- Price: (re-verified 2026-08-17 on their own pricing page, annual billing, which Atria advertises as 20% off) Core is $129/mo, a stated $360 saving a year. That covers 5 seats, 4,000 AI credits a month, 50 brands followed without AI insights, 5 connected ad accounts, $500K of ad spend analysed a month, 5GB of asset storage and 3 brand profiles.
+- Price: (re-verified 2026-08-17 and 2026-10-07 on their own pricing page, annual billing, which Atria advertises as 20% off) Core is $129/mo, a stated $360 saving a year. That covers 5 seats, 4,000 AI credits a month, 50 brands followed without AI insights, 5 connected ad accounts, $500K of ad spend analysed a month, 5GB of asset storage and 3 brand profiles.
 
 ## Attribuly
 - Review: https://marketingandsalessoftware.com/attribuly-review.html
@@ -288,13 +288,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Expandi
 - Review: https://marketingandsalessoftware.com/expandi-review.html
-- Verdict: Expandi: Business is $99 per month month-to-month; paying a year up front takes 20% off, which their own page describes as two months free.
-- Price: (re-verified 2026-08-17) 7-day free trial, no free plan. Business is $99 per month month-to-month; paying a year up front takes 20% off, which their own page describes as two months free, so roughly $79 a month equivalent.
+- Verdict: Expandi: Business is $99 per month month-to-month; paying a year up front takes 20% off, $79 a month equivalent. It's also LinkedIn automation.
+- Price: (re-verified 2026-08-17 and 2026-10-07) 7-day free trial, no free plan. Business is $99 per month month-to-month; paying a year up front takes 20% off, $79 a month equivalent.
 
 ## ExpertSender
 - Review: https://marketingandsalessoftware.com/expertsender-review.html
 - Verdict: ExpertSender: (2026) Quote-based with a documented floor. The $450/mo floor and the 30k-monthly-visits target make this an established-store tool.
-- Price: (re-verified 10 September 2026 on expertsender.com — on the home page, because the pricing page is gone: /pricing, /pricing-plans/ and /en/pricing/ all return 404) (2026) Quote-based with a documented floor: their home page says 'Start growing your eCommerce business from $450 USD', scaling with volume and channels, and they explicitly target stores with at least 30,000 unique monthly visits. No free tier — a…
+- Price: (re-verified 10 September 2026 and 7 October 2026 on expertsender.com — on the home page, because the pricing page is gone: /pricing, /pricing-plans/ and /en/pricing/ all return 404) (2026) Quote-based with a documented floor: their home page says 'Start growing your eCommerce business from $450 USD', scaling with volume and channels, and they explicitly target stores with at least 30,000 unique monthly visits.…
 
 ## Fast Bundle
 - Review: https://marketingandsalessoftware.com/fast-bundle-review.html
@@ -453,8 +453,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Pingtree
 - Review: https://marketingandsalessoftware.com/pingtree-review.html
-- Verdict: Pingtree: Self Service is “From $199” per month with a free trial included. We get paid whether or not you ever spend a cent with them.
-- Price: (2026-08-27, read on their own pricing page) Self Service is “From $199” per month with a free trial included, and Managed Services carries a starting cost of $2,500, “scoped with your account team”. That is a rebuilt price list: the six named tiers that were on this page in July are gone, and there are now two paths rather than six.
+- Verdict: Pingtree: Self Service is “From $499” per month with a free trial included. We get paid whether or not you ever spend a cent with them.
+- Price: (2026-10-07, read on their own pricing page) Self Service is “From $499” per month with a free trial included, and Managed Services carries a starting cost of $2,500, “scoped with your account team”. The Self Service floor read “From $199” on our 27 August and 1 September readings; our 1 October capture and the live page on 7 October both say $499, the figure the old Startup tier carried in July.
 
 ## Pipedrive
 - Review: https://marketingandsalessoftware.com/pipedrive-review.html
@@ -523,8 +523,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Seller Snap
 - Review: https://marketingandsalessoftware.com/seller-snap-review.html
-- Verdict: Seller Snap: Read them as $15,000 and $30,000 a month. Read the caps before you read the prices, because the caps are what you are actually buying.
-- Price: (re-verified 2026-08-26 on their own pricing page, both the monthly and the annual column; every figure below was read again on that date and none of them had moved since 24 Jul 2026) There are four tiers, and the axis that sets your price is capacity, not features. All four list the same six feature groups: Amazon & Walmart, AI repricing technology, min & max calculation, analytics, connectivity and integrations.
+- Verdict: Seller Snap: Starter is $100 a month on annual billing only. Read the caps before you read the prices, because the caps are what you are actually buying.
+- Price: (re-verified 2026-10-07 on their own pricing page, both the monthly and the annual column) There are four tiers, and the axis that sets your price is capacity, not features. Starter is $100 a month on annual billing only: 1,000 SKUs, one marketplace, one user and up to $15K a month in revenue.
 
 ## SEOKart
 - Review: https://marketingandsalessoftware.com/seokart-review.html
