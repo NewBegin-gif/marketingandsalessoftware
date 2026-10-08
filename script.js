@@ -44,7 +44,7 @@ const BUNDLES = {
 function _cardName(card){if(card._naam===undefined)card._naam=((card.querySelector('h3')||{}).textContent||'').trim();return card._naam;}
 function _cardMatch(card) {
     const base = _bundle ? (BUNDLES[_bundle].tools.indexOf(_cardName(card)) >= 0)
-                         : (_cat === 'All' || card.dataset.category === _cat);
+                         : (_cat === 'All' || (card.dataset.category || '').split('|').indexOf(_cat) > -1);  // 8 okt 2026: kaarten met twee categorieën vielen weg
     if (!base) return false;
     if (!_q) return true;
     if (card._zoek === undefined)
