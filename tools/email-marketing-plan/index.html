@@ -194,6 +194,8 @@ function kort(d){if(/monthly price for this step not in our notes/.test(d)&&!/ok
 function alles(k,i){return i.eis.every(function(e){var s=stat(req(k,'feature:'+e));return s==='documented'||s==='tested';});}
 function toon(i,d,p){
  var K=(d.candidates||[]).filter(function(k){return k.found;});
+ // tabelvolgorde: dollars op prijs, dan euro's op prijs, dan bandbreedtes, dan wat niet geprijsd is
+ var gr=function(k){return geprijsd(k)?0:eur(k)?1:bereik(k)?2:3;};K.sort(function(a,b){return (gr(a)-gr(b))||(((a.cost||{}).per_month||0)-((b.cost||{}).per_month||0));});
  var ok=K.filter(geprijsd).sort(function(a,b){return (alles(b,i)-alles(a,i))||(a.cost.per_month-b.cost.per_month);});
  var kern=ok[0]||null;
  var R=[{naam:'Your list ('+i.n.toLocaleString('en-US')+' contacts)',module:kern?kern.name+' · '+kern.cost.plan:null,status:kern?'documented':'uncovered',
