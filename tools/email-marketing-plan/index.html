@@ -129,7 +129,7 @@ document.addEventListener('click',function(e){if(!n.contains(e.target)){zetMeer(
 var DEKKING=(function(){
  var KAN={email:'Email',chat:'Website chat',phone:'Phone calls',marketplace:'Marketplace messages',social:'Social media DMs'};
  var MARKT=["edesk"];
- var LBL={documented:'Documented',unknown:'Not confirmed',separate:'Separate phone system',manual:'Manual, no new tool',uncovered:'Not covered'};
+ var LBL={documented:'Documented',tested:'Passed our test',unknown:'Not confirmed',separate:'Separate phone system',manual:'Manual, no new tool',uncovered:'Not covered'};
  function st(k,n){if(!k)return null;var r=(k.requirements||[]).filter(function(x){return x.requirement==='feature:'+n;})[0];return r?r.status:null;}
  function ok(s){return s==='documented'||s==='fits';}
  function woord(s){return ok(s)?'documented':s==='mentioned'?'mentioned, not documented':'not confirmed';}
@@ -155,7 +155,7 @@ var DEKKING=(function(){
  function somkop(R){var s=stand(R);return s==='complete'?'Total, known costs':s==='incomplete'?'Known subtotal · incomplete setup':'Known subtotal · coverage not confirmed';}
  function eenwachtrij(R){var m=R.map(function(r){return r.module;});return R.every(function(r){return r.status==='documented';})&&m.every(function(x){return x&&x===m[0];});}
  function som(mods){var s={};mods.forEach(function(k){if(k&&k.cost&&k.cost.per_month!=null){s[k.cost.currency]=(s[k.cost.currency]||0)+k.cost.per_month;}});return s;}
- function chip(s){return '<span class="st s-'+(s==='documented'?'documented':s==='uncovered'?'does_not_fit':'unknown')+'">'+LBL[s]+'</span>';}
+ function chip(s){return '<span class="st s-'+(s==='documented'||s==='tested'?'documented':s==='uncovered'?'does_not_fit':'unknown')+'">'+LBL[s]+'</span>';}
  function tabel(R,esc,kop){return '<div class="scroll"><table class="tabel dek"><thead><tr><th>'+(kop||'Channel')+'</th><th>Handled by</th><th>Status</th><th>What that means</th></tr></thead><tbody>'+
   R.map(function(r){return '<tr><td>'+esc(r.naam)+'</td><td>'+(r.module?esc(r.module):'—')+'</td><td>'+chip(r.status)+'</td><td><small>'+esc(r.uitleg)+'</small></td></tr>';}).join('')+'</tbody></table></div>';}
  return {KAN:KAN,rijen:rijen,stand:stand,somkop:somkop,eenwachtrij:eenwachtrij,som:som,tabel:tabel,chip:chip};
@@ -194,7 +194,7 @@ function toon(i,d,p){
  var R=[{naam:'Your list ('+i.n.toLocaleString('en-US')+' contacts)',module:kern?kern.name+' · '+kern.cost.plan:null,status:kern?'documented':'uncovered',
   uitleg:kern?geld(kern.cost.per_month)+' a month on '+(i.billing==='annual'?'annual billing (the per-month price the vendor shows)':'monthly billing')+', read from the vendor\'s own price ladder.':'None of the four publishes a price we hold for this list size on this billing term.'}];
  EISEN.forEach(function(e){if(i.eis.indexOf(e[0])<0)return;var r=kern?req(kern,'feature:'+e[0]):{},s=kern?stat(r):'';
-  R.push({naam:e[1],module:kern?kern.name+' · '+kern.cost.plan:null,status:!kern?'uncovered':(s==='documented'||s==='tested')?'documented':'unknown',
+  R.push({naam:e[1],module:kern?kern.name+' · '+kern.cost.plan:null,status:!kern?'uncovered':s==='tested'?'tested':s==='documented'?'documented':'unknown',
    uitleg:!kern?'No tool priced.':s==='tested'?'Passed in our own test of this tool.':s==='documented'?'On the vendor\'s own page for this plan.':
     (woord(r)==='not confirmed'?'Not confirmed for this plan.':'Not confirmed for this plan ('+woord(r)+').')+' Check it in the trial.'});});
  var h=KOP;
