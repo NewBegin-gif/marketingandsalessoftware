@@ -518,8 +518,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Reply.io
 - Review: https://marketingandsalessoftware.com/reply-io-review.html
-- Verdict: Reply.io: Three separate tracks, and the one you pick changes the arithmetic completely. The $89 is the Multichannel track on annual billing.
-- Price: (re-verified 2026-08-17 against Reply's own machine-readable plan breakdown) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is pay-as-you-go by active contacts: 1,000 for $49/mo, 2,000 for $59, 3,000 for $69, 5,000 for $89, 10,000 for $159, 25,000 for $259 and 50,000 for $459, with 100,000+ quoted.
+- Verdict: Reply.io: Month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. The $89 is the Multichannel track on annual billing.
+- Price: (re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts.
 
 ## SalesTarget.ai
 - Review: https://marketingandsalessoftware.com/salestarget-ai-review.html
@@ -654,4 +654,4 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ZoomInfo
 - Review: https://marketingandsalessoftware.com/zoominfo-review.html
 - Verdict: ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year, climbing once seats. The contract is the most-cited frustration.
-- Price: Sales-gated, and re-verified as such on 2026-08-17: no public rates, no monthly billing and no free plan, with the pricing URL refusing plain requests and neither of our monthly captures retrieving a figure. Contracts typically start around $15k and the median runs near $32k a year, climbing once seats, credits and add-ons (intent data, international coverage) stack up — but those are third-party figures, not…
+- Price: Sales-gated, re-verified on 2026-10-08: the pricing page now loads and names the packages (Sales: Professional, Copilot Advanced and Copilot Enterprise; Marketing: Demand with 75K included credits, ABM Lite, and ABM Enterprise with 150K included credits) but prints no amount, only a form to request pricing. There is no free plan; the Sales tiers carry a free-trial sign-up, the Marketing packages a demo.
