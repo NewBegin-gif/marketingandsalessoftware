@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 130 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-09.
+> All 131 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-10.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -23,8 +23,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AgentNest
 - Review: https://marketingandsalessoftware.com/agentnest-review.html
-- Verdict: AgentNest — Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Thirteen days old and no reviews.
-- Price: (read 2026-08-19 on apps.shopify.com/agentnest) Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view.
+- Verdict: AgentNest — Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view.
+- Price: (re-verified 2026-10-09 on apps.shopify.com/agentnest; first read 2026-08-19, no amount or allowance changed in between, though the listing now calls the app 'AgentNest - ChatGPT Ad Catalog' and pitches the scan as preparation for ChatGPT Ads) Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Free: unlimited catalogue scans, a catalogue readiness score,…
 
 ## Aira
 - Review: https://marketingandsalessoftware.com/aira-review.html
@@ -54,7 +54,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Atlas AI Store Builder
 - Review: https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html
 - Verdict: Atlas AI Store Builder: The listing says “Free to install”, but that is the development-store tier. The meter runs on your success, not your usage.
-- Price: (prices read 2026-08-18 on apps.shopify.com/dropshipt and helloatlas.io) The listing says “Free to install”, but that is the development-store tier. A real store runs on the All-in-One plan at $39 a month, billed in USD with a 7-day free trial.
+- Price: (re-verified 2026-10-09 on apps.shopify.com/dropshipt and helloatlas.io; first read 2026-08-18) The listing says “Free to install”, but that is the development-store tier. A real store runs on the All-in-One plan at $39 a month, billed in USD with a 7-day free trial.
 
 ## Atria
 - Review: https://marketingandsalessoftware.com/atria-review.html
@@ -73,8 +73,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AutoWrite
 - Review: https://marketingandsalessoftware.com/autowrite-review.html
-- Verdict: AutoWrite — Free: 10 posts, 10 images, 1 workflow, basic SEO. The honest thing to say about this one is that there is nothing to judge yet.
-- Price: (read 2026-08-19 in a browser on apps.shopify.com/autowrite, because the plan table renders client-side and a plain fetch returns nothing) Four tiers, metered on posts, images and workflows per month. Free: 10 posts, 10 images, 1 workflow, basic SEO.
+- Verdict: AutoWrite — One conflict remains: the vendor's own FAQ on autowrite.blog, read 9 October 2026, says the Free plan includes 3 blog posts a month.
+- Price: (re-verified 2026-10-09 on apps.shopify.com/autowrite, no amount changed; first read 2026-08-19 in a browser, because the plan table then rendered client-side) Four tiers, metered on posts, images and workflows per month. Free: 10 posts, 10 images, 1 workflow, basic SEO.
 
 ## Ava AI
 - Review: https://marketingandsalessoftware.com/ava-ai-review.html
@@ -346,6 +346,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Gelato+ is $29.99 a month, or $19.99 a month billed annually. The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee.
 - Price: (re-read 2026-09-23 on gelato.com/subscription-plans in a browser session, every figure unchanged since 26 August; the site serves a bot challenge that our capture cannot pass, so there is no dated screenshot beside this) Free is $0 forever with two connected stores and two account users. Gelato+ is $29.99 a month, or $19.99 a month billed annually, and lifts both of those to unlimited while adding…
 
+## GeoStock
+- Review: https://marketingandsalessoftware.com/geostock-review.html
+- Verdict: GeoStock: Two plans, no free tier. Know what this is before you buy it: despite the name it is a storefront widget, not an inventory system.
+- Price: (re-verified 2026-09-20 on apps.shopify.com/product-inventory-information) Two plans, no free tier. Base Plan $9.99 a month and Plus Plan $29.99 a month, both with a 14-day free trial, billed in USD every 30 days.
+
 ## GrapeLeads
 - Review: https://marketingandsalessoftware.com/grapeleads-review.html
 - Verdict: GrapeLeads: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51).
@@ -364,7 +369,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## HubSpot
 - Review: https://marketingandsalessoftware.com/hubspot-review.html
 - Verdict: HubSpot: Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Three numbers on this pricing page are not what they look like.
-- Price: (2026-08-18, read in a live browser on their own marketing pricing page, USD view) Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Starter is advertised at $7 per seat a month against a list price of $20 per seat a month, under a banner reading “Save up to 65% on Starter — new customers only, select offers available for a limited time”.
+- Price: (re-verified 2026-10-09 in a live browser on their own marketing and CRM pricing pages, USD view; first read 2026-08-18, no amount changed in between) Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Starter is advertised at $7 per seat a month against a list price of $20 per seat a month, under a banner reading “Save up to 65% on Starter — new customers only, select offers available…
 
 ## Influencer Hero
 - Review: https://marketingandsalessoftware.com/influencer-hero-review.html
@@ -608,8 +613,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Tapita SEO Optimizer
 - Review: https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html
-- Verdict: Tapita SEO Optimizer: +$5 on the Shopify Grow plan, +$30 on Advanced and +$60 on Shopify Plus. The price on the listing is a Shopify-Basic price.
-- Price: (read 2026-08-21 on apps.shopify.com/google-seo-schema-meta-data) Three tiers. Free: SEO audit and LLMs.txt on basic pages, unlimited on-page SEO audit, essential JSON-LD schemas, and image compression 900 a month capped at 30 a day.
+- Verdict: Tapita SEO Optimizer: Premium $49.99 a month or $509.88 a year, also 15% ($509.88 against $599.88). The price on the listing is a Shopify-Basic price.
+- Price: (read 2026-10-09 on apps.shopify.com/google-seo-schema-meta-data) Three tiers. Free: SEO audit and LLMs.txt on basic pages, unlimited on-page SEO audit, essential JSON-LD schemas, image compression 900 a month capped at 30 a day, bulk and AI metadata optimisation, bulk image alt text and file names for 50 products, instant page speed and 24/7 support chat for common SEO issues.
 
 ## Timesact Preorder
 - Review: https://marketingandsalessoftware.com/timesact-preorder-review.html
