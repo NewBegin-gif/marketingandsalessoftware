@@ -35,7 +35,7 @@ const categoryInfo = {
 // Zoek × categorie: substring-match op naam (h3) + beschrijving (p) + categorie.
 let _cat = 'All', _q = '', _bundle = null;
 const BUNDLES = {
- outbound:{label:'Cold Outreach Machine',desc:'Find, enrich and close leads at scale.',tools:['Clay','Reply.io','Close','Salesmessage']},
+ outbound:{label:'Cold Outreach Machine',desc:'Find, enrich and close leads at scale.',tools:['Clay','Reply.io','lemlist','Close']},
  content:{label:'Content & Social',desc:'Create and schedule across every channel.',tools:['Later','SocialBee','AdCreative.ai','Beehiiv']},
  emailcrm:{label:'Email & CRM',desc:'Capture, nurture and convert from one place.',tools:['Brevo','ActiveCampaign','folk','Nutshell']}
 };
@@ -43,7 +43,7 @@ const BUNDLES = {
 // style.display-writes gaf dat 145 ms per toetsaanslag op MSS. textContent + cache.
 function _cardName(card){if(card._naam===undefined)card._naam=((card.querySelector('h3')||{}).textContent||'').trim();return card._naam;}
 function _cardMatch(card) {
-    const base = _bundle ? (BUNDLES[_bundle].tools.indexOf(_cardName(card)) >= 0)
+    const base = _bundle ? (BUNDLES[_bundle].tools.some(t => t.toLowerCase() === _cardName(card).toLowerCase()))  /* 10 okt 2026: 'RunPod' tegen catalogusnaam 'Runpod' */
                          : (_cat === 'All' || (card.dataset.category || '').split('|').indexOf(_cat) > -1);  // 8 okt 2026: kaarten met twee categorieën vielen weg
     if (!base) return false;
     if (!_q) return true;
