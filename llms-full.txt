@@ -28,8 +28,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Aira
 - Review: https://marketingandsalessoftware.com/aira-review.html
-- Verdict: Aira is €149 per user a month, billed monthly, for the company database, AI prospecting, monitoring and on-demand research.
-- Price: (read 2026-08-26 on aira.app/pricing) Aira is €149 per user a month, billed monthly, for the company database, AI prospecting, monitoring and on-demand research. Aira Connect starts at €499 a month, billed annually, and adds CRM enrichment and live signals on the accounts already in HubSpot, Salesforce or Pipedrive.
+- Verdict: Aira Connect at €499 a month, billed annually (€5,988 a year). The honest checks: independent review coverage is still thin.
+- Price: (re-verified 2026-10-10 on aira.app/pricing) Aira now sells one product on its pricing page: Aira Connect at €499 a month, billed annually (€5,988 a year). That includes all 14 markets, unlimited users, every CRM integration (HubSpot, Salesforce, Pipedrive and MS Dynamics), API and MCP access, and 1,000 companies synced to your CRM; above 1,000 the page offers volume pricing without printing an amount.
 
 ## AISDR
 - Review: https://marketingandsalessoftware.com/aisdr-review.html
@@ -203,8 +203,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Crazy Egg
 - Review: https://marketingandsalessoftware.com/crazy-egg-review.html
-- Verdict: Crazy Egg: Three plans, all billed annually, with a 30-day free trial and — in the vendor's words — no overages, ever. The entry plan is thin on recordings.
-- Price: (2026-08-21, read on their own pricing page) Three plans, all billed annually, with a 30-day free trial and — in the vendor's words — no overages, ever. Analytics starts at $29/month and scales on tracked pageviews across 5,000, 50,000, 150,000, 500,000 and 1,000,000 a month, starting at 50 recordings.
+- Verdict: Crazy Egg: A Free plan, no card required, covers web analytics, instant heatmaps, conversion analytics and surveys.
+- Price: (read 2026-10-10 on crazyegg.com/pricing, in a browser and by plain fetch, both showing the same ladder) Four plans, all billed annually, each with a 30-day free trial and, in the vendor's words, no overages, ever. Starter is $29 a month: 5,000 tracked pageviews, 5 heatmap reports and 50 recordings a month, with 6 months of recordings storage.
 
 ## Diginius
 - Review: https://marketingandsalessoftware.com/diginius-review.html
@@ -498,8 +498,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Poptin
 - Review: https://marketingandsalessoftware.com/poptin-review.html
-- Verdict: Poptin: Free is $0 forever with 1,000 unique visitors a month, one domain and unlimited poptins. The plan Poptin recommends does not have a price on it.
-- Price: (read 18 September 2026 in a live browser on poptin.com/pricing, in both product modes and both billing cycles, with the in-app billing page at app.popt.in checked alongside it) The page opens with a question — “What are you looking for?” — and the answer changes the whole ladder. Pick Poptins, the popup product, and every tier carries a figure.
+- Verdict: Poptin: Free is $0 forever with 1,000 unique visitors a month, one domain and unlimited poptins. Poptin sells two products behind one toggle.
+- Price: (re-verified 10 October 2026 in a live browser on poptin.com/pricing, in both product modes; first read 18 September 2026, with the in-app billing page at app.popt.in checked alongside it) The page opens with a question — “What are you looking for?” — and the answer changes the whole ladder. Pick Poptins, the popup product, and the ladder is priced by visitors.
 
 ## Positive User
 - Review: https://marketingandsalessoftware.com/positive-user-review.html
@@ -544,7 +544,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Scarcity.AI
 - Review: https://marketingandsalessoftware.com/scarcity-ai-review.html
 - Verdict: Scarcity.AI: The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores.
-- Price: (read 2026-08-22 on apps.shopify.com, across all three listings) These are three separate apps from one developer, each installed and billed on its own. The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores, meaning development and partner stores only rather than a working free plan.
+- Price: (read 2026-10-10 on apps.shopify.com, across all three listings) These are three separate apps from one developer, each installed and billed on its own. The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores, meaning development and partner stores only rather than a working free plan.
 
 ## Selleasy
 - Review: https://marketingandsalessoftware.com/selleasy-review.html
@@ -613,8 +613,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Storista
 - Review: https://marketingandsalessoftware.com/storista-review.html
-- Verdict: Storista: AI-generated UGC video at roughly $1 to $4 a render, free to start with a $19 a month Pro plan. Same company, same name, unrelated ladders.
-- Price: (read 2026-08-23 on apps.shopify.com/storista-stories, listed as “Storista Shoppable Video UGC”) Four tiers. Free covers 10 videos with unlimited views, TikTok Shop and Shop app integration, GEO/SEO optimisation and the Carousel and Spotlight widgets, and it keeps Storista branding on the widget.
+- Verdict: Storista: Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok. The rating deserves its detail.
+- Price: (read 2026-10-10 on apps.shopify.com/storista-stories, listed as “Storista Shoppable Videos UGC”, and on storista.io/pricing) Four tiers. Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; the FAQ on storista.io/pricing still says the free plan covers 10 videos, so the vendor's own pages disagree on the free cap.
 
 ## Super
 - Review: https://marketingandsalessoftware.com/super-review.html
