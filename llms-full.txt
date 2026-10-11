@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 134 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-11.
+> All 136 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-11.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -34,12 +34,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AISDR
 - Review: https://marketingandsalessoftware.com/aisdr-review.html
 - Verdict: AISDR: Solo is $250/mo or $2,400/yr for a sales team of one. Autonomous AI outreach is only as good as your targeting, list quality and messaging guardrails.
-- Price: (re-verified 2026-09-09 on AiSDR's own pricing page) There are three published plans. Solo is $250/mo or $2,400/yr for a sales team of one: 200 AI-researched contacts a month, 1 user, 1 domain, 3 mailboxes, month-to-month.
+- Price: (re-verified 2026-10-11 on AiSDR's own pricing page) There are three published plans. Solo is $250/mo or $2,400/yr for a sales team of one: 200 AI-researched contacts a month, 1 user, 1 domain, 3 mailboxes, 1 LinkedIn account, month-to-month.
 
 ## AISQ
 - Review: https://marketingandsalessoftware.com/aisq-review.html
-- Verdict: AISQ: Squirrly SEO is billed monthly and renews at the same price. AISQ (the Squirrly family) evolves its pricing and product names often.
-- Price: (2026-08-30, read on plugin.squirrly.co/wordpress-seo-pricing) Squirrly SEO is billed monthly and renews at the same price. Free $0.
+- Verdict: AISQ: PRO is now $19.99 per month (purchased annually). AISQ (the Squirrly family) evolves its pricing and product names often.
+- Price: (re-read 2026-10-11 on plugin.squirrly.co/wordpress-seo-pricing) Free $0. PRO is now $19.99 per month (purchased annually); our 30 August reading showed $9.99 a month.
 
 ## AltText.ai
 - Review: https://marketingandsalessoftware.com/alttext-ai-review.html
@@ -651,6 +651,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Uniqode: The plan cards are rendered in the browser and carry no price in either reading. The tier jumps are steep and a lot is gated.
 - Price: (re-verified 2026-09-13 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month.
 
+## Upsell & Cross Sell - AW
+- Review: https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html
+- Verdict: Upsell & Cross Sell - AW: StartUp Upsell is $29.99 a month or $299 a year (the listing says save 17%). The meter is recommendation clicks.
+- Price: (read 2026-10-11 on the Shopify App Store listing apps.shopify.com/cross-sell and on the developer's own pricing page csell.io/pricing, USD; the listing says all charges are billed in USD and recurring charges every 30 days) Upsell & Cross Sell by Aheadworks is priced by recommendation clicks and by the number of store locations it may appear in. The Free Upsell Plan is $0: cross-sells and upsells in 2 locations,…
+
 ## UserTrail
 - Review: https://marketingandsalessoftware.com/usertrail-review.html
 - Verdict: UserTrail: Basic is $39 a month billed yearly or $47 billed monthly. The session allowance is shared across all websites on a plan.
@@ -660,6 +665,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/vendoo-review.html
 - Verdict: Vendoo: Free £0 for 5 items, Simple £16.99 a month for 125, Plus £27.99 for 250 and Pro £49.99 for 600, with 6 marketplaces.
 - Price: (read 2026-10-08 on vendoo.co/pricing from a US connection, USD, with both the monthly and the yearly toggle) Vendoo sells three self-serve plans for resellers. Starter is $14.99 a month billed monthly or $12.49 a month billed yearly: unlimited items, all marketplaces, sale detection and auto-delisting, listing templates, importing, delist and relist, analytics and the iOS and Android app, with no PhotoRoom…
+
+## Vify Order Printer
+- Review: https://marketingandsalessoftware.com/vify-order-printer-review.html
+- Verdict: Vify Order Printer: Premium is $29.99 a month or $299 a year and adds more templates, custom invoices and quotes, a custom sender email, commercial invoices.
+- Price: (read 2026-10-11 on the Shopify App Store listing apps.shopify.com/vify-order-printer, USD; the listing says recurring charges are billed every 30 days) Four plans. Free: freely customised templates, the 50 latest orders, PDF invoice download for customers on the storefront, auto-detected address formats, draft orders and 24/7 support.
 
 ## VyReel
 - Review: https://marketingandsalessoftware.com/vyreel-review.html
