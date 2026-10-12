@@ -639,7 +639,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Tapita SEO Optimizer
 - Review: https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html
 - Verdict: Tapita SEO Optimizer: Premium $49.99 a month or $509.88 a year, also 15% ($509.88 against $599.88). The price on the listing is a Shopify-Basic price.
-- Price: (read 2026-10-09 on apps.shopify.com/google-seo-schema-meta-data) Three tiers. Free: SEO audit and LLMs.txt on basic pages, unlimited on-page SEO audit, essential JSON-LD schemas, image compression 900 a month capped at 30 a day, bulk and AI metadata optimisation, bulk image alt text and file names for 50 products, instant page speed and 24/7 support chat for common SEO issues.
+- Price: (read 2026-10-09 and re-read 2026-10-12 on apps.shopify.com/google-seo-schema-meta-data, English listing) Three tiers. Free: SEO audit and LLMs.txt on basic pages, unlimited on-page SEO audit, essential JSON-LD schemas, image compression 900 a month capped at 30 a day, bulk and AI metadata optimisation, bulk image alt text and file names for 50 products, instant page speed and 24/7 support chat for common SEO issues.
 
 ## Timesact Preorder
 - Review: https://marketingandsalessoftware.com/timesact-preorder-review.html
