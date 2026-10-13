@@ -143,8 +143,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CallRail
 - Review: https://marketingandsalessoftware.com/callrail-review.html
-- Verdict: CallRail — Usage past the included allowance is metered: extra local numbers $3 each, local minutes $0.06, toll-free numbers $5.
-- Price: Four plans, read on callrail.com/pricing on 5 September 2026, each 'plus usage': Lead Tracking $55 a month, Lead Tracking Complete $105, Lead Conversion $165 and Lead Conversion Complete $215; on yearly billing the same four read $50, $95, $150 and $195 a month (read 6 September 2026; the page states “Save up to 10% with a yearly plan”). Voice Assist (the AI answering agent) is a separate add-on from $95 a month…
+- Verdict: CallRail: On yearly billing the same four read $50, $95, $150 and $195 a month (the page states 'Save up to 10% with a yearly plan').
+- Price: Four plans, read on callrail.com/pricing on 13 October 2026 in a live browser, each 'plus additional usage': Lead Tracking $55 a month, Lead Tracking Complete $105, Lead Conversion $165 and Lead Conversion Complete $215; on yearly billing the same four read $50, $95, $150 and $195 a month (the page states 'Save up to 10% with a yearly plan'). Every plan includes 5 local numbers, 250 local minutes and 25 text…
 
 ## Campaign Monitor
 - Review: https://marketingandsalessoftware.com/campaign-monitor-review.html
@@ -428,8 +428,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## LangShop
 - Review: https://marketingandsalessoftware.com/langshop-review.html
-- Verdict: LangShop: Basic is $10 a month or $100 a year. The named engines that the listing leads with — OpenAI, DeepL Pro, Google Cloud Translation.
-- Price: (read 2026-09-10 on apps.shopify.com/langshop and langshop.app/pricing) Seven published tiers, billed in USD. The Shopify listing shows only the first four and links to 'more pricing plans'; the vendor's own pricing page prices the rest.
+- Verdict: LangShop — Standard is $40 a month or $400 a year: ten languages, 2,000 products, automatic sync of 50 new items. The headline promise is 'unlimited words'.
+- Price: (read 2026-10-13 on apps.shopify.com/langshop and langshop.app/pricing) Seven published tiers, billed in USD. The Shopify listing shows only the first four and links to more pricing plans; the vendor's own pricing page prices the rest.
 
 ## Later
 - Review: https://marketingandsalessoftware.com/later-review.html
