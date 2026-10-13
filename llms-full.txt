@@ -629,7 +629,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Spiky.ai
 - Review: https://marketingandsalessoftware.com/spiky-ai-review.html
 - Verdict: Spiky.ai: On annual billing Plus is $15, Pro $24 and Premium $40 per user per month. The number to check first is the meeting cap, not the price.
-- Price: (re-verified 28 Aug 2026 on their own pricing page; unchanged since 31 Jul 2026) Read across both billing toggles. There is a genuine free tier, capped at 3 meetings per user per month.
+- Price: (re-verified 13 October 2026 on spiky.ai/en/pricing; unchanged since 31 Jul 2026) Read across both billing toggles. There is a genuine free tier, capped at 3 meetings per user per month.
 
 ## Stackable
 - Review: https://marketingandsalessoftware.com/stackable-review.html
