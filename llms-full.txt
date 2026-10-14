@@ -63,8 +63,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Attribuly
 - Review: https://marketingandsalessoftware.com/attribuly-review.html
-- Verdict: Attribuly: A free plan that covers the first $1,000 of recovered email revenue, then Capture at $450 a month and Recapture at $500.
-- Price: (re-verified 2026-09-13 on apps.shopify.com/attribuly; every amount unchanged since 2026-08-18) A free plan that covers the first $1,000 of recovered email revenue, then Capture at $450 a month and Recapture at $500, both with a 14-day free trial. All charges in USD, billed every 30 days.
+- Verdict: Attribuly: A free plan that recovers the first $1,000 of email revenue for free, then two paid plans. The pricing has moved within two months.
+- Price: (re-read 2026-10-14 on apps.shopify.com/attribuly and attribuly.com/pricing-retention/; the plan ladder changed after 13 September 2026) A free plan that recovers the first $1,000 of email revenue for free, then two paid plans, each with a 7-day free trial (it was 14 days in September). ReCapture is now $100 a month plus a 10% revenue share: the vendor's pricing page sets the monthly fee at the larger of $100 or…
 
 ## Aura
 - Review: https://marketingandsalessoftware.com/aura-review.html
@@ -609,7 +609,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## SEOKart
 - Review: https://marketingandsalessoftware.com/seokart-review.html
 - Verdict: SEOKart: Pro is $20 a month or $216 a year for 1,000 products with 100 tracked keywords checked weekly. Every plan, free included, lists free SEO consultancy.
-- Price: (price read 2026-09-12, re-verified 2026-09-15) Two publishers, and they do not publish the same ladder. The Shopify listing, https://apps.shopify.com/seokart, bills in USD and recurs every 30 days through Shopify, with four fixed tiers.
+- Price: (price read 2026-09-12, re-verified 2026-09-15 and again unchanged on 2026-10-14) Two publishers, and they do not publish the same ladder. The Shopify listing, https://apps.shopify.com/seokart, bills in USD and recurs every 30 days through Shopify, with four fixed tiers.
 
 ## Signitic
 - Review: https://marketingandsalessoftware.com/signitic-review.html
