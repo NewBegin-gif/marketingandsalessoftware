@@ -489,7 +489,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## noCRM
 - Review: https://marketingandsalessoftware.com/nocrm-review.html
 - Verdict: noCRM: The page opens on annual billing, where Starter is €11, Expert €22 and Dream €33 per user a month. The pitch is that salespeople hate CRMs.
-- Price: (read 9 September 2026 on www.nocrm.io/pricing, in both billing modes) Three per-seat tiers and no free plan. The page opens on annual billing, where Starter is €11, Expert €22 and Dream €33 per user a month; switch the toggle to monthly and the same tiers are €19, €29 and €39.
+- Price: (read 9 September 2026 and re-read 14 October 2026 on www.nocrm.io/pricing, in both billing modes; unchanged) Three per-seat tiers and no free plan. The page opens on annual billing, where Starter is €11, Expert €22 and Dream €33 per user a month; switch the toggle to monthly and the same tiers are €19, €29 and €39.
 
 ## Nutshell
 - Review: https://marketingandsalessoftware.com/nutshell-review.html
