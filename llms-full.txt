@@ -404,7 +404,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## InboxAlly
 - Review: https://marketingandsalessoftware.com/inboxally-review.html
 - Verdict: InboxAlly: Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly'. Built for serious senders.
-- Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit, and unchanged on 2026-09-29) Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly': Starter $149/mo (100 seed emails/day, 1 sender profile), Plus $645/mo (500/day, 5 profiles), Premium $1,190/mo (1,000/day, 10 profiles), Enterprise custom (custom volume,…
+- Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit, and unchanged on 2026-09-29 and 2026-10-14) Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly': Starter $149/mo (100 seed emails/day, 1 sender profile), Plus $645/mo (500/day, 5 profiles), Premium $1,190/mo (1,000/day, 10 profiles), Enterprise custom (custom…
 
 ## Influencer Hero
 - Review: https://marketingandsalessoftware.com/influencer-hero-review.html
@@ -529,7 +529,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pingtree
 - Review: https://marketingandsalessoftware.com/pingtree-review.html
 - Verdict: Pingtree: Self Service is “From $499” per month with a free trial included. We get paid whether or not you ever spend a cent with them.
-- Price: (2026-10-07, read on their own pricing page) Self Service is “From $499” per month with a free trial included, and Managed Services carries a starting cost of $2,500, “scoped with your account team”. The Self Service floor read “From $199” on our 27 August and 1 September readings; our 1 October capture and the live page on 7 October both say $499, the figure the old Startup tier carried in July.
+- Price: (2026-10-07, read on their own pricing page; unchanged on 2026-10-15) Self Service is “From $499” per month with a free trial included, and Managed Services carries a starting cost of $2,500, “scoped with your account team”. The Self Service floor read “From $199” on our 27 August and 1 September readings; our 1 October capture and the live page on 7 October both say $499, the figure the old Startup tier carried…
 
 ## Pipedrive
 - Review: https://marketingandsalessoftware.com/pipedrive-review.html
@@ -604,7 +604,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Seller Snap
 - Review: https://marketingandsalessoftware.com/seller-snap-review.html
 - Verdict: Seller Snap: Starter is $100 a month on annual billing only. Read the caps before you read the prices, because the caps are what you are actually buying.
-- Price: (re-verified 2026-10-07 on their own pricing page, both the monthly and the annual column) There are four tiers, and the axis that sets your price is capacity, not features. Starter is $100 a month on annual billing only: 1,000 SKUs, one marketplace, one user and up to $15K a month in revenue.
+- Price: (re-verified 2026-10-07 on their own pricing page, both the monthly and the annual column; unchanged on 2026-10-15) There are four tiers, and the axis that sets your price is capacity, not features. Starter is $100 a month on annual billing only: 1,000 SKUs, one marketplace, one user and up to $15K a month in revenue.
 
 ## Sender
 - Review: https://marketingandsalessoftware.com/sender-review.html
