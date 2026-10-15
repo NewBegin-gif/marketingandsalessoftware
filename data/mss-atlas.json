@@ -200,7 +200,7 @@
    "entry_price": "€499",
    "entry_price_terms": "a month, billed annually (€5,988 a year)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-10 on aira.app/pricing) Aira now sells one product on its pricing page: Aira Connect at €499 a month, billed annually (€5,988 a year). That includes all 14 markets, unlimited users, every CRM integration (HubSpot, Salesforce, Pipedrive and MS Dynamics), API and MCP access, and 1,000 companies synced to your CRM; above 1,000 the page offers volume pricing without printing an amount. The €149 per user a month plan we read in July and August is no longer on the pricing page, the homepage or the about page. A 5-day free trial is offered. Prices are in euros.",
+   "price_note": "(re-verified 2026-10-15 on aira.app/pricing; first read in this form 2026-10-10) Aira now sells one product on its pricing page: Aira Connect at €499 a month, billed annually (€5,988 a year). That includes all 14 markets, unlimited users, every CRM integration (HubSpot, Salesforce, Pipedrive and MS Dynamics), API and MCP access, and 1,000 companies synced to your CRM. Above that the page prints a flat rate: €28 a month per extra 1,000 companies from 1,001 to 50,000, and 'Contact sales' above 50,000 (read 15 October 2026; on 10 October we did not see the amount). The €149 per user a month plan we read in July and August is no longer on the pricing page, the homepage or the about page. A 5-day free trial is offered. Prices are in euros.",
    "flags": [
     {
      "flag": "per_seat",
@@ -208,12 +208,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
-   "first_observed_at": "2026-10-10"
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "AISDR",
@@ -1274,7 +1274,7 @@
    "entry_price": "$14",
    "entry_price_terms": "per month at 1,000 contacts, but automation starts on Advanced at $35/mo",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-05 on campaigner.com/pricing) Campaigner prices by contact count and bills per account, not per user: a slider sets the tier and there is no separate monthly/annual toggle. Two self-serve plans: Essentials from $14 a month at 1,000 contacts ($38 at 5,000, $158 at 25,000, $409 at 100,000) and Advanced from $35 a month at 1,000 contacts ($70 at 5,000, $258 at 25,000, $649 at 100,000), plus a quote-only Custom tier. Essentials excludes automation workflows and conversion tracking but includes the REST API, webhooks and SFTP; landing pages, sub-accounts and white-label are Custom only. SMS/MMS is not bundled into any plan: pay-as-you-go from $0.009 per message, sold through sales. Reputation Defender is an add-on at 20% of plan cost. The 30-day trial is full-feature but takes a card and auto-charges when it ends. History: until July 2026 the page carried a Starter/Essential/Advanced ladder at about $59, $179 and $649 a month; the current ladder starts far lower and moves with the contact count. Read again on 9 October 2026 on campaigner.com/pricing-plans (the old /pricing page now redirects there), with the contact slider and no billing toggle: Essentials $14 at 1,000, $24 at 2,500, $38 at 5,000, $72 at 10,000, $109 at 15,000, $138 at 20,000, $158 at 25,000, $188 at 30,000, $238 at 40,000, $287 at 50,000, $339 at 60,000, $349 at 70,000, $369 at 80,000, $389 at 90,000, $409 at 100,000; Advanced $35 at 1,000, $47 at 2,500, $70 at 5,000, $124 at 10,000, $192 at 15,000, $235 at 20,000, $258 at 25,000, $288 at 30,000, $347 at 40,000, $398 at 50,000, $449 at 60,000, $499 at 70,000, $549 at 80,000, $599 at 90,000, $649 at 100,000 contacts, each '/ mo'.",
+   "price_note": "(re-read 2026-09-05 on campaigner.com/pricing) Campaigner prices by contact count and bills per account, not per user: a slider sets the tier and there is no separate monthly/annual toggle. Two self-serve plans: Essentials from $14 a month at 1,000 contacts ($38 at 5,000, $158 at 25,000, $409 at 100,000) and Advanced from $35 a month at 1,000 contacts ($70 at 5,000, $258 at 25,000, $649 at 100,000), plus a quote-only Custom tier. Essentials excludes automation workflows and conversion tracking but includes the REST API, webhooks and SFTP; landing pages, sub-accounts and white-label are Custom only. SMS/MMS is not bundled into any plan: pay-as-you-go from $0.009 per message, sold through sales. Reputation Defender is an add-on at 20% of plan cost. The 30-day trial is full-feature but takes a card and auto-charges when it ends. History: until July 2026 the page carried a Starter/Essential/Advanced ladder at about $59, $179 and $649 a month; the current ladder starts far lower and moves with the contact count. Read again on 9 October 2026 on campaigner.com/pricing-plans (the old /pricing page now redirects there), with the contact slider and no billing toggle: Essentials $14 at 1,000, $24 at 2,500, $38 at 5,000, $72 at 10,000, $109 at 15,000, $138 at 20,000, $158 at 25,000, $188 at 30,000, $238 at 40,000, $287 at 50,000, $339 at 60,000, $349 at 70,000, $369 at 80,000, $389 at 90,000, $409 at 100,000; Advanced $35 at 1,000, $47 at 2,500, $70 at 5,000, $124 at 10,000, $192 at 15,000, $235 at 20,000, $258 at 25,000, $288 at 30,000, $347 at 40,000, $398 at 50,000, $449 at 60,000, $499 at 70,000, $549 at 80,000, $599 at 90,000, $649 at 100,000 contacts, each '/ mo'. Re-read 15 October 2026 on campaigner.com/pricing-plans in the served page at its default of 1,000 contacts: Essentials $14 and Advanced $35 a month, unchanged, with a USD/CAD currency switch; the FAQ still says the 30-day trial is full-feature and that you cancel through customer support.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1282,7 +1282,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "addons_extra",
@@ -1290,11 +1290,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-09-05"
   },
   {
@@ -2375,15 +2375,15 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "Quote-only since our October reading. Re-read 7 October 2026 on expertise.ai/pricing: the page no longer shows a single amount. Three tiers, each behind a 'Book a demo' button: Premier (Sales Agent, CX Agent and Custom Agents, 'for teams ready to move from experimentation to real, repeatable AI workflows'), Enterprise (everything in Premier plus dedicated infrastructure or a VPS, open-weight model support and private deployment options) and Unlimited (everything in Enterprise plus unlimited usage, forward-deployed engineers and data residency). The FAQ says pricing is based on your workflows, integrations, infrastructure and deployment requirements. The Free Preview is gone from the page, and so are the separately priced booking system and Expertise Assistant. Our 1 September capture still carried the old ladder; our 1 October capture had no amounts at all. The last ladder Expertise AI published itself, read 3 September 2026: Free Preview at no cost (1 AI agent, 10 conversations, up to 50 training materials); Business at $2,000/mo on both monthly and yearly billing, with conversations for websites up to 50,000 monthly visitors, up to 500 training materials, visitor intelligence, proactive live chat and 2-way sync in HubSpot, 3 playbooks, a webhook, implementation by their team, and Voice AI with 300 minutes a month and $0.25 per minute after that; Enterprise on quote. Before that, in July, there was a Growth tier at $500/mo and Business was $1,250. The booking system was free or $30/mo ($24 billed yearly) and the Expertise Assistant free or $50/mo per user ($40 billed yearly). Treat those figures as the yardstick to hold a quote against, not as a current offer.",
+   "price_note": "Quote-only since our October reading. Re-read 7 October 2026 on expertise.ai/pricing: the page no longer shows a single amount. Three tiers, each behind a 'Book a demo' button: Premier (Sales Agent, CX Agent and Custom Agents, 'for teams ready to move from experimentation to real, repeatable AI workflows'), Enterprise (everything in Premier plus dedicated infrastructure or a VPS, open-weight model support and private deployment options) and Unlimited (everything in Enterprise plus unlimited usage, forward-deployed engineers and data residency). The FAQ says pricing is based on your workflows, integrations, infrastructure and deployment requirements. The Free Preview is gone from the page, and so are the separately priced booking system and Expertise Assistant. Our 1 September capture still carried the old ladder; our 1 October capture had no amounts at all. The last ladder Expertise AI published itself, read 3 September 2026: Free Preview at no cost (1 AI agent, 10 conversations, up to 50 training materials); Business at $2,000/mo on both monthly and yearly billing, with conversations for websites up to 50,000 monthly visitors, up to 500 training materials, visitor intelligence, proactive live chat and 2-way sync in HubSpot, 3 playbooks, a webhook, implementation by their team, and Voice AI with 300 minutes a month and $0.25 per minute after that; Enterprise on quote. Before that, in July, there was a Growth tier at $500/mo and Business was $1,250. The booking system was free or $30/mo ($24 billed yearly) and the Expertise Assistant free or $50/mo per user ($40 billed yearly). Treat those figures as the yardstick to hold a quote against, not as a current offer. Re-read 15 October 2026: still no amount on the page, the same three tiers behind 'Book a demo', no free preview; the FAQ now adds that Unlimited means 'there is no credit limit on your plan' and that every plan includes the Sales, CX and Custom Agents.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Premier, Enterprise and Unlimited all route to Book a demo (read 7 Oct 2026); the last published Business rate was $2,000/mo (3 Sep 2026)",
+     "evidence": "No published price: Premier, Enterprise and Unlimited all route to Book a demo (read 7 and 15 Oct 2026); the last published Business rate was $2,000/mo (3 Sep 2026)",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "per_seat",
@@ -2391,7 +2391,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "usage_metered",
@@ -2399,11 +2399,11 @@
      "evidence_excerpt": "The last ladder Expertise AI published itself, read 3 September 2026: Free Preview at no cost (1 AI agent, 10 conversations, up to 50 training materials); Business at $2,000/mo on both monthly and ye…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": null
   },
   {
@@ -3151,7 +3151,7 @@
    "entry_price": "$39",
    "entry_price_terms": "Creator · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-02) The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms, unlimited email broadcasts, audience tagging and segmentation, and digital products and subscriptions. Kit renamed the old Newsletter plan to Free and took automation out of it: Visual Automations and email sequences are now Creator-and-above, and Kit's affiliate briefing of 2 September 2026 adds that new free accounts open with a 14-day Creator trial and that accounts already on the Newsletter plan keep what they had. Creator is $39/mo billed monthly, or $33/mo billed yearly ($390 a year, saving $78), and adds unlimited Visual Automations, unlimited email sequences, Kit MCP, SMS marketing and branding removal. Pro — the tier that adds Subscriber Signals, engagement analytics, deliverability reporting, a newsletter referral system and unlimited users — is $79/mo billed monthly, or $66/mo billed yearly ($790 a year, saving $158). Paying yearly saves 17%. Every paid price on the page is quoted for 1,000 email subscribers and Kit bills by list size, so read the tier for your own list before you budget. Paid plans open with a 14-day free trial without a card, and migrations are free. Read again on 9 October 2026 with the slider, step by step. Creator billed monthly: $39 up to 1,000, $59 up to 3,000, $89 up to 5,000, $119 up to 8,000, $139 up to 10,000, $169 up to 15,000, $189 up to 20,000, $199 up to 25,000, $259 up to 35,000, $319 up to 45,000, $379 up to 55,000, $439 up to 65,000, $499 up to 75,000, $559 up to 85,000, $619 up to 95,000, $679 up to 105,000 subscribers; billed yearly, per month, at the same steps: $33, $50, $75, $100, $116, $141, $158, $166, $216, $266, $316, $366, $416, $466, $516, $566. Pro billed monthly at the same steps: $79, $99, $139, $169, $189, $249, $269, $279, $363, $447, $519, $591, $663, $735, $807, $879; billed yearly, per month: $66, $83, $116, $141, $158, $208, $225, $233, $303, $373, $433, $493, $553, $613, $673, $733. The page carried a 'LIMITED TIME PRO OFFER' banner on that reading; read again on 10 October 2026, the yearly view spells it out as an extra 25% off the first year of Pro billed yearly: $50/mo instead of $66, or $593 for the first year at 1,000 subscribers, and the plan renews at the standard rate after that first year. Creator showed no offer and stayed at $33/mo billed yearly ($390).",
+   "price_note": "(re-verified 2026-09-02) The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms, unlimited email broadcasts, audience tagging and segmentation, and digital products and subscriptions. Kit renamed the old Newsletter plan to Free and took automation out of it: Visual Automations and email sequences are now Creator-and-above, and Kit's affiliate briefing of 2 September 2026 adds that new free accounts open with a 14-day Creator trial and that accounts already on the Newsletter plan keep what they had. Creator is $39/mo billed monthly, or $33/mo billed yearly ($390 a year, saving $78), and adds unlimited Visual Automations, unlimited email sequences, Kit MCP, SMS marketing and branding removal. Pro — the tier that adds Subscriber Signals, engagement analytics, deliverability reporting, a newsletter referral system and unlimited users — is $79/mo billed monthly, or $66/mo billed yearly ($790 a year, saving $158). Paying yearly saves 17%. Every paid price on the page is quoted for 1,000 email subscribers and Kit bills by list size, so read the tier for your own list before you budget. Paid plans open with a 14-day free trial without a card, and migrations are free. Read again on 9 October 2026 with the slider, step by step. Creator billed monthly: $39 up to 1,000, $59 up to 3,000, $89 up to 5,000, $119 up to 8,000, $139 up to 10,000, $169 up to 15,000, $189 up to 20,000, $199 up to 25,000, $259 up to 35,000, $319 up to 45,000, $379 up to 55,000, $439 up to 65,000, $499 up to 75,000, $559 up to 85,000, $619 up to 95,000, $679 up to 105,000 subscribers; billed yearly, per month, at the same steps: $33, $50, $75, $100, $116, $141, $158, $166, $216, $266, $316, $366, $416, $466, $516, $566. Pro billed monthly at the same steps: $79, $99, $139, $169, $189, $249, $269, $279, $363, $447, $519, $591, $663, $735, $807, $879; billed yearly, per month: $66, $83, $116, $141, $158, $208, $225, $233, $303, $373, $433, $493, $553, $613, $673, $733. The page carried a 'LIMITED TIME PRO OFFER' banner on that reading; read again on 10 October 2026, the yearly view spells it out as an extra 25% off the first year of Pro billed yearly: $50/mo instead of $66, or $593 for the first year at 1,000 subscribers, and the plan renews at the standard rate after that first year. Creator showed no offer and stayed at $33/mo billed yearly ($390). Re-read 15 October 2026 at 1,000 subscribers in the default yearly view: unchanged, with Creator at $33/mo ($390 a year) and the Pro first-year offer still running at $50/mo ($593 for the first year, against $66/mo standard); the page's 'save $355 first year' is measured against twelve monthly payments of $79 ($948), and against the standard yearly $790 the saving is $197.",
    "flags": [
     {
      "flag": "renewal_jump",
@@ -3159,7 +3159,7 @@
      "evidence_excerpt": "The page carried a 'LIMITED TIME PRO OFFER' banner on that reading; read again on 10 October 2026, the yearly view spells it out as an extra 25% off the first year of Pro billed yearly: $50/mo instea…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "free_tier",
@@ -3167,11 +3167,11 @@
      "evidence_excerpt": "(re-verified 2026-09-02) The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms, unlimited email broadcasts, audience tagging and segmentation, and d…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-09-02"
   },
   {
@@ -6618,7 +6618,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-read 2026-09-19 on apps.shopify.com/tapita-ai-seo-blog-builder) The paid tier has left the listing. Where the page carried a Pro plan in August, it now publishes no plan block at all: the Pricing field in the header reads simply “Free”, the word Pricing appears exactly once on the whole page, and the only dollar figure anywhere on it belongs to a different app in the “More apps like this” rail. We checked that against the same developer's other listing in the same session — apps.shopify.com/google-seo-schema-meta-data renders its header as “Free plan available” and prints its full ladder — so this is the state of this listing rather than a page that failed to load. What that removes is everything a buyer could previously plan against: Pro at $9.99 a month on Shopify Basic rising to $14.99, $39.99 and $69.99 by Shopify plan, the $101.89 annual rate, the 250 monthly AI credits and the $0.06 charge for each credit beyond them. The free tier's own allowance is gone from the page too — the 50 non-recurring credits are no longer stated — so as the listing stands there is no published number for what the app gives you or what exceeding it costs. Read on the same day: the listing is titled Tapita SEO AI Blog Builder, carries Shopify's “Built for Shopify” badge, works with Shopify Admin and the developer's own Tapita SEO Optimizer & Speed, is offered in English only, and stands at 4.9 from 485 reviews — up from 450 in August — distributed 466 five-star, 13 four-star, 2 three-star, 1 two-star and 3 one-star.",
+   "price_note": "(re-read 2026-09-19 on apps.shopify.com/tapita-ai-seo-blog-builder, and again on 2026-10-15 with the same result: no plan block, the header Price field reads Free, and the only dollar figure on the page, $39 a month, belongs to another app in the “More apps like this” rail) The paid tier has left the listing. Where the page carried a Pro plan in August, it now publishes no plan block at all: the Pricing field in the header reads simply “Free”, the word Pricing appears exactly once on the whole page, and the only dollar figure anywhere on it belongs to a different app in the “More apps like this” rail. We checked that against the same developer's other listing in the same session — apps.shopify.com/google-seo-schema-meta-data renders its header as “Free plan available” and prints its full ladder — so this is the state of this listing rather than a page that failed to load. What that removes is everything a buyer could previously plan against: Pro at $9.99 a month on Shopify Basic rising to $14.99, $39.99 and $69.99 by Shopify plan, the $101.89 annual rate, the 250 monthly AI credits and the $0.06 charge for each credit beyond them. The free tier's own allowance is gone from the page too — the 50 non-recurring credits are no longer stated — so as the listing stands there is no published number for what the app gives you or what exceeding it costs. On 19 September the listing was titled Tapita SEO AI Blog Builder and stood at 4.9 from 485 reviews, up from 450 in August. Read on 15 October 2026 it has been renamed Tapita GEO Studio & AI Blog and now pitches being cited by ChatGPT and Gemini alongside ranking in Google. It still carries Shopify's “Built for Shopify” badge, works with Shopify Admin and the developer's own Tapita SEO Optimizer & Speed, is offered in English only, and stands at 4.9 from 488 reviews, distributed 469 five-star, 13 four-star, 2 three-star, 1 two-star and 3 one-star.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6626,7 +6626,7 @@
      "evidence_excerpt": "What that removes is everything a buyer could previously plan against: Pro at $9.99 a month on Shopify Basic rising to $14.99, $39.99 and $69.99 by Shopify plan, the $101.89 annual rate, the 250 mont…",
      "source_url": "https://apps.shopify.com/tapita-ai-seo-blog-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "free_tier",
@@ -6634,11 +6634,11 @@
      "evidence_excerpt": "We checked that against the same developer's other listing in the same session — apps.shopify.com/google-seo-schema-meta-data renders its header as “Free plan available” and prints its full ladder — …",
      "source_url": "https://apps.shopify.com/tapita-ai-seo-blog-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-09-19"
   },
   {
