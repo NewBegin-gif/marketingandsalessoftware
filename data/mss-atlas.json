@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 264,
-  "flags": 413,
+  "tools": 265,
+  "flags": 415,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -2977,10 +2977,10 @@
    "entry_price": "$149",
    "entry_price_terms": "per month (100 seed emails/day, 1 sender profile)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit, and unchanged on 2026-09-29) Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly': Starter $149/mo (100 seed emails/day, 1 sender profile), Plus $645/mo (500/day, 5 profiles), Premium $1,190/mo (1,000/day, 10 profiles), Enterprise custom (custom volume, unlimited profiles, dedicated deliverability experts). 10-day free trial, no card. No annual billing option is offered. Premium's sessions, more precisely than the previous dossier: a 1-hour setup/strategy session plus weekly 30-minute progress reviews. VENDOR SELF-CONTRADICTION, confirm before relying: the tier cards give Starter 'Email support' and reserve live chat for Plus and above, while the comparison table lower on the same page ticks 'Live chat support' and 'Dedicated CSM' for all four tiers including Starter. Phone & Zoom support, the setup session and the weekly reviews are consistently Premium-and-above in both places. Every plan includes IA Score, IA Reputation, Adaptive Autowarmup, the in-app IA Assistant, the full REST API, native CRM integrations and inbox placement testing. Re-read 2026-09-29: the page's own FAQ now goes further than either, saying email, live chat, phone and Zoom support are 'all standard' and a dedicated CSM is assigned on every plan, while the cards and the table still keep Phone & Zoom for Premium and above. The same FAQ says full reputation repair typically takes 4 to 8 weeks, so the 10-day trial is for judging fit rather than completing a warm-up.",
+   "price_note": "(price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit, and unchanged on 2026-09-29 and 2026-10-14) Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly': Starter $149/mo (100 seed emails/day, 1 sender profile), Plus $645/mo (500/day, 5 profiles), Premium $1,190/mo (1,000/day, 10 profiles), Enterprise custom (custom volume, unlimited profiles, dedicated deliverability experts). 10-day free trial, no card. No annual billing option is offered. Premium's sessions, more precisely than the previous dossier: a 1-hour setup/strategy session plus weekly 30-minute progress reviews. VENDOR SELF-CONTRADICTION, confirm before relying: the tier cards give Starter 'Email support' and reserve live chat for Plus and above, while the comparison table lower on the same page ticks 'Live chat support' and 'Dedicated CSM' for all four tiers including Starter. Phone & Zoom support, the setup session and the weekly reviews are consistently Premium-and-above in both places. Every plan includes IA Score, IA Reputation, Adaptive Autowarmup, the in-app IA Assistant, the full REST API, native CRM integrations and inbox placement testing. Re-read 2026-09-29: the page's own FAQ now goes further than either, saying email, live chat, phone and Zoom support are 'all standard' and a dedicated CSM is assigned on every plan, while the cards and the table still keep Phone & Zoom for Premium and above. The same FAQ says full reputation repair typically takes 4 to 8 weeks, so the 10-day trial is for judging fit rather than completing a warm-up.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-29",
+   "price_verified_at": "2026-10-14",
    "first_observed_at": "2026-08-31"
   },
   {
@@ -3466,40 +3466,40 @@
    "category": "Growth & Revenue",
    "domain": "leadpages.com",
    "review_url": "https://aibuildermarketplace.com/b2b/leadpages-review/",
-   "from_price_usd_mo": 8.0,
-   "entry_price": "$8",
-   "entry_price_terms": "per month billed annually ($10 monthly), 5 pages, 1 site",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "per month ($23 billed annually), 25 pages, 1 site",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 against Leadpages' own machine-readable pricing file, which still carries the same 2026-07-10 update date it had in August and September; USD) Two lines, six paid plans, no free plan, and a 7-day free trial that requires a credit card and converts unless you cancel. Publishing plans: Starter $10/mo or $8 billed annually ($96 a year), 5 pages, 1 site, no third-party integrations; Pro $29/mo or $23 annually ($276), 25 pages, 1 blog, API access; Business $49/mo or $39 annually ($468), 50 pages, 2 sites. None of those three include A/B testing. Optimization plans add testing and personalisation: Grow $99/mo or $79 annually ($948), unlimited pages, 4 sites, manual two-way A/B testing, dynamic text replacement and lead enrichment; Optimize $199/mo or $159 annually ($1,908), 6 sites, up to four variants, Smart Traffic, heatmaps and auto-personalisation; Scale $399/mo or $319 annually ($3,828), 10 sites, auto-optimisation, cross-page learning, role-based access and 10 seats. Annual billing is 20% off across the board. No plan has a traffic cap. Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the largest pack. One caveat for buyers outside the US: read from a European connection on 3 October 2026, the pricing page itself switched to euros, and the two optimisation tiers cost more there than the USD list suggests — Grow €115 a month (€91.67 billed annually) and Optimize €229 (€183.33), against $99 and $199. Starter, Pro, Business and Scale showed the same numerals in euros as in dollars.",
+   "price_note": "(re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise, no free plan, and a 7-day free trial that requires a credit card and converts unless you cancel. Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access; Business $49/mo or $39 annually ($468), 50 pages, 2 sites and lead export. Neither includes A/B testing. Testing and optimisation plans: Grow $99/mo or $79 annually ($948), unlimited pages, 4 sites, manual two-way A/B testing, dynamic text replacement, lead enrichment and anonymous traffic detection; Optimize $199/mo or $159 annually ($1,908), 6 sites, 3 seats, up to four variants, Smart Traffic, heatmaps and auto-personalisation; Scale $399/mo or $319 annually ($3,828), 10 sites, 10 seats, auto-optimisation, cross-page learning, role-based access and audit logs. Enterprise is priced by sales. Annual billing is 20% off. No plan has a traffic cap. Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credit pack. For buyers outside the US: read from a European connection on 15 October 2026, the pricing page shows euros, with Pro at €29 and Business at €49 but Grow at €115 and Optimize at €229 a month, against $99 and $199. That page shows Pro, Business, Grow and Optimize as plan cards and names Scale only in its FAQ.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the largest pack.",
-     "evidence_excerpt": null,
+     "evidence": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credit pack.",
+     "evidence_excerpt": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credi…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "addons_extra",
-     "evidence": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the largest pack.",
-     "evidence_excerpt": null,
+     "evidence": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credit pack.",
+     "evidence_excerpt": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credi…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing is 20% off across the board.",
+     "evidence": "Annual billing is 20% off.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
-   "first_observed_at": "2026-10-03"
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "LearnWorlds",
@@ -4595,7 +4595,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(2026-10-07, read on their own pricing page) Self Service is “From $499” per month with a free trial included, and Managed Services carries a starting cost of $2,500, “scoped with your account team”. The Self Service floor read “From $199” on our 27 August and 1 September readings; our 1 October capture and the live page on 7 October both say $499, the figure the old Startup tier carried in July. The page itself was rebuilt between July and August: the six named tiers that were on it in July are gone, and there are now two paths rather than six. Self Service is the whole platform driven by Pingtree Copilot, with core usage — leads, pings, clicks and storage — included each month, overage billed after month close, unlimited users on role-based access, and validations and throughput added as volume climbs. Managed Services is a scoped engagement priced on volume, markets and complexity: implementation, integrations and workflow design are included, along with a dedicated Solutions Engineer, ongoing account optimisation, priority support with SLAs where required, and optional retainers for media, creative and ad ops. There is also an “Explore Pingtree Free” entry straight into the app. No overage rate is published on the page, and the trial no longer carries a stated length — in July it said 14 days.",
+   "price_note": "(2026-10-07, read on their own pricing page; unchanged on 2026-10-15) Self Service is “From $499” per month with a free trial included, and Managed Services carries a starting cost of $2,500, “scoped with your account team”. The Self Service floor read “From $199” on our 27 August and 1 September readings; our 1 October capture and the live page on 7 October both say $499, the figure the old Startup tier carried in July. The page itself was rebuilt between July and August: the six named tiers that were on it in July are gone, and there are now two paths rather than six. Self Service is the whole platform driven by Pingtree Copilot, with core usage — leads, pings, clicks and storage — included each month, overage billed after month close, unlimited users on role-based access, and validations and throughput added as volume climbs. Managed Services is a scoped engagement priced on volume, markets and complexity: implementation, integrations and workflow design are included, along with a dedicated Solutions Engineer, ongoing account optimisation, priority support with SLAs where required, and optional retainers for media, creative and ad ops. There is also an “Explore Pingtree Free” entry straight into the app. No overage rate is published on the page, and the trial no longer carries a stated length — in July it said 14 days.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4603,11 +4603,11 @@
      "evidence_excerpt": "Self Service is the whole platform driven by Pingtree Copilot, with core usage — leads, pings, clicks and storage — included each month, overage billed after month close, unlimited users on role-base…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-07"
   },
   {
@@ -5663,7 +5663,7 @@
    "entry_price": "$100",
    "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-07 on their own pricing page, both the monthly and the annual column) There are four tiers, and the axis that sets your price is capacity, not features. Starter is $100 a month on annual billing only: 1,000 SKUs, one marketplace, one user and up to $15K a month in revenue. Accelerator is $250 month to month or $212 a month paid annually, billed $2,544 a year: the same 1,000 SKUs, three users, up to $30K a month in revenue, and it adds Walmart, Amazon Business B2B repricing and an onboarding specialist. Standard is $500 month to month or $425 a month paid annually, billed $5,100 a year: 15,000 SKUs, three users, no revenue cap, a dedicated account manager and multi-store support. Custom, above Standard, is quote-only. The annual Accelerator rate went up between our September and October readings: it was $175 a month with a $900 yearly saving, and it is now $212 with a saving the page puts at $446 (its own figures give $456). The monthly rates and both Standard figures did not move, so annual billing now takes about 15 percent off Accelerator and Standard alike, where it used to take 30 percent off the smaller plan. What each step buys is still lopsided: Accelerator doubles your revenue ceiling and leaves the SKU count alone, and Standard does the reverse — fifteen times the catalogue with the ceiling removed. So the middle tier is for turnover and the top tier is for range, and a shop that needs neither is paying for the other one. The page now prints the revenue ceilings per month ('Up to $15K/mo revenue'), which matches what Seller Snap told us in writing on 24 Jul 2026. Walmart is no longer on every plan: the Accelerator card reads 'Everything in Starter, plus Walmart, B2B repricing and onboarding specialist'. Every tier carries a 15-day trial with no credit card. Seller Snap confirmed to us in writing on 24 Jul 2026 that readers coming through our link get 10% off for their first three months; it runs through the link, there is no code to enter. The banner offering a first month for $1 'when you subscribe before 2026', which we flagged as expired in August, was still in our 1 October capture but is gone from the page we read on 7 October.",
+   "price_note": "(re-verified 2026-10-07 on their own pricing page, both the monthly and the annual column; unchanged on 2026-10-15) There are four tiers, and the axis that sets your price is capacity, not features. Starter is $100 a month on annual billing only: 1,000 SKUs, one marketplace, one user and up to $15K a month in revenue. Accelerator is $250 month to month or $212 a month paid annually, billed $2,544 a year: the same 1,000 SKUs, three users, up to $30K a month in revenue, and it adds Walmart, Amazon Business B2B repricing and an onboarding specialist. Standard is $500 month to month or $425 a month paid annually, billed $5,100 a year: 15,000 SKUs, three users, no revenue cap, a dedicated account manager and multi-store support. Custom, above Standard, is quote-only. The annual Accelerator rate went up between our September and October readings: it was $175 a month with a $900 yearly saving, and it is now $212 with a saving the page puts at $446 (its own figures give $456). The monthly rates and both Standard figures did not move, so annual billing now takes about 15 percent off Accelerator and Standard alike, where it used to take 30 percent off the smaller plan. What each step buys is still lopsided: Accelerator doubles your revenue ceiling and leaves the SKU count alone, and Standard does the reverse — fifteen times the catalogue with the ceiling removed. So the middle tier is for turnover and the top tier is for range, and a shop that needs neither is paying for the other one. The page now prints the revenue ceilings per month ('Up to $15K/mo revenue'), which matches what Seller Snap told us in writing on 24 Jul 2026. Walmart is no longer on every plan: the Accelerator card reads 'Everything in Starter, plus Walmart, B2B repricing and onboarding specialist'. Every tier carries a 15-day trial with no credit card. Seller Snap confirmed to us in writing on 24 Jul 2026 that readers coming through our link get 10% off for their first three months; it runs through the link, there is no code to enter. The banner offering a first month for $1 'when you subscribe before 2026', which we flagged as expired in August, was still in our 1 October capture but is gone from the page we read on 7 October.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -5671,11 +5671,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.sellersnap.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-07"
   },
   {
@@ -6528,6 +6528,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": "2026-09-19"
+  },
+  {
+   "name": "SurFox AI",
+   "category": "Sales & CRM",
+   "domain": "getsurfox.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/surfox-ai-review/",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "Starter · per account per month, billed monthly in advance",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 in a live browser on getsurfox.com/pricing with its FAQ, the home page and the terms of service last updated 22 September 2026) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active campaigns and 1 user, with the core AI, knowledge-base upload and Google and Outlook calendar booking, but no conversation learning. Growth is $597 a month: 10,000 messages, 500 website chats, 400 voice minutes and 5 users, plus conversation learning from the last 100 conversations, A/B testing, Zapier and a Chrome extension for lead capture. Growth Plus is $1,497 a month: 25,000 messages, 2,000 chats, 1,000 voice minutes, 15 users, learning from the last 1,000 conversations, multiple personas, unlimited knowledge-base uploads, white-glove onboarding and a dedicated success manager. Scale is $2,497 a month: 40,000 messages, 5,000 chats, 2,000 voice minutes and 15 or more users with the same features. A message is any text in the conversation, yours or the lead's; the page puts a conversation at about 4 to 8 messages. When you near the message limit you are emailed and can buy a top-up, at a price the page does not publish. Voice minutes over the bucket are billed automatically at $0.25 a minute. Website chats pause when the allowance runs out. There are no setup fees and no annual plans; the FAQ says annual options may come later, and the terms reserve annual billing for custom enterprise agreements. You can cancel any time with 24 hours' notice, with no refund for a partial month. Every plan carries a 30-day money-back guarantee whose clock starts when your carrier (A2P) registration is approved, not at payment, and which pays out only if you sent at least 80% of your monthly messages and the AI demonstrably failed at its core tasks.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The pricing page says only inbound calls count as voice minutes, while the terms say minutes are measured for outbound and inbound calls, and overage is billed automatically.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.getsurfox.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "There are no setup fees and no annual plans; the FAQ says annual options may come later, and the terms reserve annual billing for custom enterprise agreements.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.getsurfox.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "SurveySparrow",
