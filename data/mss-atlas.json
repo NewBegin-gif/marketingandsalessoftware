@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 265,
-  "flags": 415,
+  "flags": 416,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -220,24 +220,32 @@
    "category": "Growth & Revenue",
    "domain": "aisdr.com",
    "review_url": "https://aibuildermarketplace.com/b2b/aisdr-review/",
-   "from_price_usd_mo": 250.0,
-   "entry_price": "$250",
-   "entry_price_terms": "a month (or $2,400 a year), 1 user",
+   "from_price_usd_mo": null,
+   "entry_price": "$1.50",
+   "entry_price_terms": "per person contacted (charged daily, no subscription)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-11 on AiSDR's own pricing page) There are three published plans. Solo is $250/mo or $2,400/yr for a sales team of one: 200 AI-researched contacts a month, 1 user, 1 domain, 3 mailboxes, 1 LinkedIn account, month-to-month. Explore is $900/mo or $8,640/yr (800 contacts a month, unlimited users, 2 domains, 6 mailboxes, 5 LinkedIn accounts), and Scale $2,500/mo or $24,000/yr (2,500 contacts a month, unlimited users, 6 domains, 18 mailboxes, 20 LinkedIn accounts). Annual billing takes 20% off. Explore and Scale carry a quarterly commitment, paid in advance; Solo runs month to month. Managed service is extra: +$149 per campaign on Explore, or fully managed from +$2,500/mo on Scale. The page no longer mentions an Enterprise plan; our 9 September reading listed Enterprise as custom. Priced by contact volume rather than by seat above Solo.",
+   "price_note": "(re-verified 2026-10-15 on aisdr.com/pricing and AiSDR's plain-text pricing reference for AI assistants, aisdr.com/pricing-for-llms, marked 'Last updated: 2026-10-15') AiSDR has replaced its published plan ladder with two routes. Pay as you go: $1.50 per person contacted, charged daily for the people contacted that day, with no subscription, no monthly fee, no contract and no sales call. You pick a pace of 5, 10 or 20 people a day, which the page itself works out as $7.50, $15 or $30 a day, and research, lists and writing are included in the $1.50. The reference says campaigns start from as little as $3; another FAQ on the main pricing page says from $7.50. Team plans are for teams contacting 1,000+ people a month: priced on volume with 'up to 40% lower price per contact', no amount published, billed monthly from the day you sign up on a quarterly or annual contract, with annual 20% cheaper than quarterly. Each team plan includes a monthly contact limit; extra contacts are bought in the app at a price the page does not publish. Add-ons: warmed-up mailbox $33 per mailbox setup, per-campaign managed service $149 per campaign, fully managed service $2,500 per month. Historical: until at least 11 October 2026 AiSDR published Solo at $250/mo, Explore at $900/mo and Scale at $2,500/mo; none of those plans appears on either page on 15 October 2026.",
    "flags": [
     {
-     "flag": "annual_lock",
-     "evidence": "Annual billing takes 20% off.",
+     "flag": "addons_extra",
+     "evidence": "Add-ons: warmed-up mailbox $33 per mailbox setup, per-campaign managed service $149 per campaign, fully managed service $2,500 per month.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-10-15"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Team plans are for teams contacting 1,000+ people a month: priced on volume with 'up to 40% lower price per contact', no amount published, billed monthly from the day you sign up on a quarterly or annual contract, with annual 20% cheaper than quarterly.",
+     "evidence_excerpt": "Team plans are for teams contacting 1,000+ people a month: priced on volume with 'up to 40% lower price per contact', no amount published, billed monthly from the day you sign up on a quarterly or an…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
-   "first_observed_at": "2026-10-11"
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "AISQ",
@@ -4364,7 +4372,7 @@
    "entry_price": "$29",
    "entry_price_terms": "a month for two pages, with annual billing marked Save 20%",
    "pricing_status": "public",
-   "price_note": "(read 10 September 2026 on getpagepulse.io — the plans sit on the home page under the #pricing anchor; /pricing itself returns 404.) Five tiers, and the meter is pages plus AI insights rather than people. Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month. Starter $29: 2 pages, unlimited collaborators, 90 days retention, conversion tracking, 100 AI insights. Growth $79: 5 pages, unlimited collaborators, 2 heatmaps, a year of retention, 250 AI insights. Pro $129: 10 pages, unlimited collaborators, 5 heatmaps, three years of retention, cross-domain conversions, 750 AI insights. Scale $199: 20 pages, 10 members, 15 heatmaps and 1,500 AI insights — the only tier that names a number of people. Annual billing is marked Save 20%. The footnote under the table reads 'Designed for real-world usage. Subject to fair use.', which is the asterisk on the unlimited-traffic promise.",
+   "price_note": "(re-verified 15 October 2026 on getpagepulse.io, all five tiers unchanged since our 10 September 2026 reading — the plans sit on the home page under the #pricing anchor; /pricing itself returns 404.) Five tiers, and the meter is pages plus AI insights rather than people. Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month. Starter $29: 2 pages, unlimited collaborators, 90 days retention, conversion tracking, 100 AI insights. Growth $79: 5 pages, unlimited collaborators, 2 heatmaps, a year of retention, 250 AI insights. Pro $129: 10 pages, unlimited collaborators, 5 heatmaps, three years of retention, cross-domain conversions, 750 AI insights. Scale $199: 20 pages, 10 members, 15 heatmaps and 1,500 AI insights — the only tier that names a number of people. Annual billing is marked Save 20%. The footnote under the table reads 'Designed for real-world usage. Subject to fair use. Extremely high or sustained usage may require a custom High Volume plan.', which is the asterisk on the unlimited-traffic promise.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4372,7 +4380,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-23"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "annual_lock",
@@ -4380,7 +4388,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-23"
+     "verified_at": "2026-10-15"
     },
     {
      "flag": "free_tier",
@@ -4388,11 +4396,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-23"
+     "verified_at": "2026-10-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-23",
+   "price_verified_at": "2026-10-15",
    "first_observed_at": null
   },
   {
