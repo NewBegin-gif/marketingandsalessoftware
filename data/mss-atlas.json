@@ -5956,7 +5956,7 @@
    "entry_price": "$125",
    "entry_price_terms": "per month on annual billing ($199 monthly) for one user",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-25 on their own pricing page) The entrepreneur plans are published: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Intel & SEO & AEO, and $542 for Competitive Intel, SEO & AEO & Ads — or $199, $399 and $649 respectively on monthly billing, each for a single user. Included history differs by plan and is easy to miss: 3 months on the entry plan, 6 months on the two above it. What is not published is the business and enterprise tab: it carries no figure at all and routes every tier to 'Talk to sales' for a custom package, and the FAQ repeats that premium features require one. A free trial is offered without a stated length. Up to 37 months of data history is sold as an add-on rather than an inclusion, and API access is either standalone or inside a custom package.",
+   "price_note": "(re-verified 2026-10-16 on their own pricing page; first read 2026-08-25) The entrepreneur plans are published: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Intel & SEO & AEO, and $542 for Competitive Intel, SEO & AEO & Ads — or $199, $399 and $649 respectively on monthly billing, each for a single user. Included history differs by plan and is easy to miss: 3 months on the entry plan, 6 months on the two above it. What is not published is the business and enterprise tab: it carries no figure at all and routes every tier to 'Talk to sales' for a custom package, and the FAQ repeats that premium features require one. A free trial is offered without a stated length. Up to 37 months of data history is sold as an add-on rather than an inclusion, and API access is either standalone or inside a custom package.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -5964,20 +5964,20 @@
      "evidence_excerpt": null,
      "source_url": "https://www.similarweb.com/packages/web/?type=Individuals",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-29"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "annual_lock",
-     "evidence": "(read 2026-08-25 on their own pricing page) The entrepreneur plans are published: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Intel & SEO & AEO, and $542 for Competitive Intel, SEO & AEO & Ads — or $199, $399 and $649 respectively on monthly billing, each for a single user.",
-     "evidence_excerpt": "(read 2026-08-25 on their own pricing page) The entrepreneur plans are published: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Intel & SEO & AEO, and $542 for C…",
+     "evidence": "(re-verified 2026-10-16 on their own pricing page; first read 2026-08-25) The entrepreneur plans are published: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Intel & SEO & AEO, and $542 for Competitive Intel, SEO & AEO & Ads — or $199, $399 and $649 respectively on monthly billing, each for a single user.",
+     "evidence_excerpt": "(re-verified 2026-10-16 on their own pricing page; first read 2026-08-25) The entrepreneur plans are published: $125 per month on annual billing for Competitive Intelligence, $333 for Competitive Int…",
      "source_url": "https://www.similarweb.com/packages/web/?type=Individuals",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-29"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-29",
-   "first_observed_at": "2026-08-25"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Skip To Checkout",
