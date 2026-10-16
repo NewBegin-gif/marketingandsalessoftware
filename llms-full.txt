@@ -564,7 +564,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Rank Math
 - Review: https://marketingandsalessoftware.com/rank-math-review.html
 - Verdict: Rank Math: Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT. Don't pay until you hit those.
-- Price: (read 2026-08-26 on rankmath.com/pricing) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, against list prices of €8.99, €27.99 and €64.99. Pro covers unlimited personal sites and 500 keywords; Business 100 client sites and 10,000 keywords; Agency 500 sites and 50,000.
+- Price: (re-verified 2026-10-16 on rankmath.com/pricing with its FAQ; first read 2026-08-26) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, renewing at €8.99, €27.99 and €64.99 a month plus taxes; the higher figure is the renewal rate, not a comparison price. Pro covers unlimited personal sites and 500 keywords; Business 100 client sites and 10,000 keywords; Agency 500…
 
 ## Rapid Search
 - Review: https://marketingandsalessoftware.com/rapid-search-review.html

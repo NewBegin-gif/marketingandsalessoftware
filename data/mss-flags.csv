@@ -281,8 +281,9 @@ PushOwl,usage_metered,"The bundles are push-first: every paid tier still caps in
 PushOwl,free_tier,Basic is $0 and covers 500 emails and 500 web push notifications a month with no SMS credits.,2026-07,2026-10-04,
 Pythago,usage_metered,meter: unit · connected stores,2026-07,2026-09-22,
 Quartile,quote_only,"No published price: quartile.com/pricing mirrors the homepage with no tier or rate card, only a Request Demo CTA (read 11 Sep 2026)",2026-07,2026-10-13,
-Rank Math,usage_metered,"The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",2026-07,2026-08-26,
-Rank Math,free_tier,"The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",2026-07,2026-08-26,
+Rank Math,usage_metered,"The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",2026-07,2026-10-16,
+Rank Math,renewal_jump,"(re-verified 2026-10-16 on rankmath.com/pricing with its FAQ; first read 2026-08-26) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, renewing at €8.99, €27.99 and €64.99 a month plus taxes; the higher figure is the renewal rate, not a comparison price.",2026-07,2026-10-16,
+Rank Math,free_tier,"The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",2026-07,2026-10-16,
 Rapid Search,usage_metered,meter: unit · sessions,2026-07,2026-09-26,https://apps.shopify.com/rapid-search
 Rapid Search,annual_lock,The listing quotes annual billing as a 17% saving and only for the three Basic tiers.,2026-07,2026-09-26,https://apps.shopify.com/rapid-search
 Rapid Search,free_tier,"Free covers 2,000 monthly sessions and 5,000 products with email support, and the search carries Rapid Search branding.",2026-07,2026-09-26,https://apps.shopify.com/rapid-search

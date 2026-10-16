@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 266,
-  "flags": 415,
+  "flags": 416,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -5049,7 +5049,7 @@
    "entry_price": "€7.99",
    "entry_price_terms": "a month billed annually, excl",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on rankmath.com/pricing) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, against list prices of €8.99, €27.99 and €64.99. Pro covers unlimited personal sites and 500 keywords; Business 100 client sites and 10,000 keywords; Agency 500 sites and 50,000. The euros are not a European quirk of our reading: we checked from a US connection and the storefront still priced in euros, so an American pays in euros too and carries whatever their card charges to convert.",
+   "price_note": "(re-verified 2026-10-16 on rankmath.com/pricing with its FAQ; first read 2026-08-26) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, renewing at €8.99, €27.99 and €64.99 a month plus taxes; the higher figure is the renewal rate, not a comparison price. Pro covers unlimited personal sites and 500 keywords; Business 100 client sites and 10,000 keywords; Agency 500 sites and 50,000. The 30-day refund policy covers new purchases only, not renewals, and the 15-day Content AI trial that comes with each plan turns into a paid plan unless you cancel it before it ends. The euros are not a European quirk of our reading: we checked from a US connection and the storefront still priced in euros, so an American pays in euros too and carries whatever their card charges to convert.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5057,7 +5057,15 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-26"
+     "verified_at": "2026-10-16"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "(re-verified 2026-10-16 on rankmath.com/pricing with its FAQ; first read 2026-08-26) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, renewing at €8.99, €27.99 and €64.99 a month plus taxes; the higher figure is the renewal rate, not a comparison price.",
+     "evidence_excerpt": "(re-verified 2026-10-16 on rankmath.com/pricing with its FAQ; first read 2026-08-26) Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT, renewing at €8.99…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "free_tier",
@@ -5065,12 +5073,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-26"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-26",
-   "first_observed_at": "2026-08-26"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Rapid Search",
