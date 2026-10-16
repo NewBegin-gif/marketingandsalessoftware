@@ -248,8 +248,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Easy Advanced Translations
 - Review: https://marketingandsalessoftware.com/easy-advanced-translations-review.html
-- Verdict: Easy Advanced Translations: Four tiers, all monthly. The 'free AI' is heavily quota-limited — 50 products on Free, up to 800 on Pro.
-- Price: (verified 2026-08-28 on apps.shopify.com/advanced-translation) Four tiers, all monthly. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles).
+- Verdict: Easy Advanced Translations: Four tiers, all monthly and billed in USD. The 'free AI' is quota-limited — 50 products on Free, up to 3,000 on Pro.
+- Price: (re-verified 2026-10-16 on apps.shopify.com/advanced-translation) Four tiers, all monthly and billed in USD. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language.
 
 ## Easy Bundles
 - Review: https://marketingandsalessoftware.com/easy-bundles-review.html
