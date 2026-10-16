@@ -1992,20 +1992,20 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(verified 2026-08-28 on apps.shopify.com/advanced-translation) Four tiers, all monthly. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles). Starter is $4.99, Basic $14.99 and Pro $29.99, each raising the free-AI quota (100, 400 and 800 products respectively) — or, again, unlimited if you supply your own key. The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier.",
+   "price_note": "(re-verified 2026-10-16 on apps.shopify.com/advanced-translation) Four tiers, all monthly and billed in USD. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language. Starter is $4.99 (400 products, 400 metafields and 50 articles; up to 3 languages), Basic $14.99 (1,500 products and metafields, 150 articles; AI for 10 languages) and Pro $29.99 (3,000 products and metafields, 300 articles; AI for 20 languages) — or, again, unlimited if you supply your own key. Beyond the built-in quota the paid plans switch to pay-as-you-go with a spend limit you set. The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per use.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "meter: unit · products, metafields, variants and articles",
-     "evidence_excerpt": null,
+     "evidence": "The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per use.",
+     "evidence_excerpt": "The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per u…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-28"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-28",
-   "first_observed_at": "2026-08-28"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Easy Bundles",
