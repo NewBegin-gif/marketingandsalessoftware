@@ -2912,7 +2912,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/iconosquare-review/",
    "from_price_usd_mo": null,
    "entry_price": "€9",
-   "entry_price_terms": "Starter… · per month billed yearly (EUR 11 month to month) for 3 profiles, 1 user…",
+   "entry_price_terms": "Starter… · per month billed yearly for 3 profiles, 1 user and 30 posts a month",
    "pricing_status": "public",
    "price_note": "(price re-verified 2026-10-03) Read on iconosquare.com/pricing (now served at /plans-and-pricing) from a Netherlands connection, with both billing toggles. Free covers 2 social profiles, 1 user and 10 posts a month per profile, with one month of analytics history. Starter now carries a profile selector: €9 a month billed yearly (€11 month to month) for up to 3 profiles, or €15 (€18) for up to 5, with 1 user and 30 posts a month. Launch is €33 billed yearly (€39 monthly) for 5 profiles, 1 user and 100 posts. Scale, badged Most popular, is the first tier with 3 users, unlimited posts, one group and two years of history, and it is priced by profile count: €69 billed yearly (€83 monthly) for 5 profiles, €119 (€143) for 10, €169 (€203) for 15 and €219 (€263) for 20. Custom starts at €116 billed yearly or €139 month to month and covers 5 to unlimited profiles and 1 or unlimited users, with white-label reporting, API access and personalised onboarding. The page puts the yearly saving at €24 on 3-profile Starter (€36 on 5), €72 on Launch, €168 on 5-profile Scale and €276 on Custom. The ladder has been rebuilt twice since our 26 August reading over a US connection, which listed Launch $39, Scale $79 and an Excel tier at $139: by mid-September Excel had folded into Custom and Starter had appeared below Launch, and by 3 October Starter and Scale had each gained a profile selector, so Scale now reaches 20 profiles before Custom is needed. The profile count is the dial that moves the price, so a quote taken at five says little about what a team managing twenty will pay.",
    "flags": [
@@ -4169,17 +4169,17 @@
    "review_url": "https://aibuildermarketplace.com/b2b/nutshell-review/",
    "from_price_usd_mo": 13.0,
    "entry_price": "$13",
-   "entry_price_terms": "per user a month, annual billing (monthly billing about 15% higher)",
+   "entry_price_terms": "per user a month on annual billing ($19 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17) Five CRM tiers on annual billing: Foundation $13, Growth $25, Pro $42, Business $59 and Enterprise $79 per user a month, with monthly billing about 15% higher (the page states the saving per tier as $6 to $10 a month per user). Unlimited contacts and full API access come with every tier, which is the unusual part — most CRMs ration one or both. Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month.",
+   "price_note": "(re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Business $59 or $67, and Enterprise $79 or $89. The page's 'Save 15%' badge fits Pro alone: on its own figures annual billing saves 31.6% on Foundation ($6 of $19), 21.9% on Growth, 14.3% on Pro, 11.9% on Business and 11.2% on Enterprise. Unlimited contacts and full API access come with every tier, which is the unusual part — most CRMs ration one or both — though Foundation is capped at 100 open leads. Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month. The trial is 14 days without a card, and plan changes and cancellations take effect at the next billing cycle.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-08-17) Five CRM tiers on annual billing: Foundation $13, Growth $25, Pro $42, Business $59 and Enterprise $79 per user a month, with monthly billing about 15% higher (the page states the saving per tier as $6 to $10 a month per user).",
-     "evidence_excerpt": "(re-verified 2026-08-17) Five CRM tiers on annual billing: Foundation $13, Growth $25, Pro $42, Business $59 and Enterprise $79 per user a month, with monthly billing about 15% higher (the page state…",
+     "evidence": "(re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Business $59 or $67, and Enterprise $79 or $89.",
+     "evidence_excerpt": "(re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Bus…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-05"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "addons_extra",
@@ -4187,20 +4187,20 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-05"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "annual_lock",
-     "evidence": "(re-verified 2026-08-17) Five CRM tiers on annual billing: Foundation $13, Growth $25, Pro $42, Business $59 and Enterprise $79 per user a month, with monthly billing about 15% higher (the page states the saving per tier as $6 to $10 a month per user).",
-     "evidence_excerpt": "(re-verified 2026-08-17) Five CRM tiers on annual billing: Foundation $13, Growth $25, Pro $42, Business $59 and Enterprise $79 per user a month, with monthly billing about 15% higher (the page state…",
+     "evidence": "(re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Business $59 or $67, and Enterprise $79 or $89.",
+     "evidence_excerpt": "(re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Bus…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-05"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-05",
-   "first_observed_at": "2026-08-17"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Omneky",
@@ -5206,7 +5206,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/reply-io-review/",
    "from_price_usd_mo": 49.0,
    "entry_price": "$49",
-   "entry_price_terms": "Email Volume… · per user per month billed annually, by active contacts…",
+   "entry_price_terms": "Email Volume… · per user per month billed annually, by active contacts",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts. Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,000, with 200,000 and up quoted; month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live data credits. AI SDR (Jason) runs $500, $800 or $1,000 a month billed annually at Starter (1,000, 2,000 or 3,000 contacts) and $1,500 or $3,000 at Growth (5,000 or 10,000), $800 to $5,000 month to month, with Enterprise quoted. Agency Core starts at $210/month and Agency AI SDR at $500 per client. Add-ons on top of the Email track: LinkedIn automation $69/month per account, calls and SMS $29/month per account, AI/live-data credits from $39/month and email validation from $20/month. Each mailbox beyond the number a plan includes also needs a $29/month email account seat on top of the mailbox price.",
    "flags": [
