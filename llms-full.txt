@@ -504,7 +504,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Nutshell
 - Review: https://marketingandsalessoftware.com/nutshell-review.html
 - Verdict: Nutshell — Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month. Full API access is included on every plan.
-- Price: (re-verified 2026-08-17) Five CRM tiers on annual billing: Foundation $13, Growth $25, Pro $42, Business $59 and Enterprise $79 per user a month, with monthly billing about 15% higher (the page states the saving per tier as $6 to $10 a month per user). Unlimited contacts and full API access come with every tier, which is the unusual part — most CRMs ration one or both.
+- Price: (re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Business $59 or $67, and Enterprise $79 or $89. The page's 'Save 15%' badge fits Pro alone: on its own figures annual billing saves 31.6% on Foundation ($6 of $19), 21.9% on Growth, 14.3% on Pro, 11.9% on Business and…
 
 ## Omneky
 - Review: https://marketingandsalessoftware.com/omneky-review.html
