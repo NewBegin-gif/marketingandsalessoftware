@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 266,
-  "flags": 416,
+  "flags": 415,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -133,9 +133,9 @@
    "domain": "agencyanalytics.com",
    "review_url": "https://aibuildermarketplace.com/b2b/agencyanalytics-review/",
    "from_price_usd_mo": null,
-   "entry_price": null,
-   "entry_price_terms": null,
-   "pricing_status": "see_details",
+   "entry_price": "$20",
+   "entry_price_terms": "per client a month, billed annually ($25 month to month); above 25 clients it is a quote",
+   "pricing_status": "public",
    "price_note": "One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (a 25-client agency pays $500/mo; past that it is a quote). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly the advertised \"Save 20% annually\". Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits. Past 25 clients the vendor quotes instead of publishing (re-verified 2026-09-11).",
    "flags": [
     {
@@ -201,16 +201,7 @@
    "entry_price_terms": "a month, billed annually (€5,988 a year)",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-15 on aira.app/pricing; first read in this form 2026-10-10) Aira now sells one product on its pricing page: Aira Connect at €499 a month, billed annually (€5,988 a year). That includes all 14 markets, unlimited users, every CRM integration (HubSpot, Salesforce, Pipedrive and MS Dynamics), API and MCP access, and 1,000 companies synced to your CRM. Above that the page prints a flat rate: €28 a month per extra 1,000 companies from 1,001 to 50,000, and 'Contact sales' above 50,000 (read 15 October 2026; on 10 October we did not see the amount). The €149 per user a month plan we read in July and August is no longer on the pricing page, the homepage or the about page. A 5-day free trial is offered. Prices are in euros.",
-   "flags": [
-    {
-     "flag": "per_seat",
-     "evidence": "The €149 per user a month plan we read in July and August is no longer on the pricing page, the homepage or the about page.",
-     "evidence_excerpt": null,
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
-    }
-   ],
+   "flags": [],
    "researched": "2026-07",
    "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-15"
