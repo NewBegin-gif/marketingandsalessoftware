@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 265,
+  "tools": 266,
   "flags": 416,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -622,7 +622,7 @@
    "entry_price": "$29",
    "entry_price_terms": "a month, includes 100 call minutes, then $0.10 a minute overage",
    "pricing_status": "public",
-   "price_note": "(verified 2026-08-28 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over. The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats. Estimate your monthly call minutes before you compare — at heavy volume the effective bill can sit well above the tier price.",
+   "price_note": "(verified 2026-10-16 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over. The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats. Estimate your monthly call minutes before you compare — at heavy volume the effective bill can sit well above the tier price.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -630,12 +630,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-28"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-28",
-   "first_observed_at": "2026-08-28"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "AWeber",
@@ -6459,10 +6459,10 @@
    "entry_price": "$49",
    "entry_price_terms": "per month ($470/yr)",
    "pricing_status": "public",
-   "price_note": "(verified 2026-08-28 on apps.shopify.com/supaeasy and supaeasy.com/pricing, and unchanged when re-read on 2026-09-29) A free plan plus three paid monthly tiers, each with a 7-day trial. The catch is in the free plan: it works only on a development store, not a live one. Premium is $49 a month ($470 a year), Advanced is $99 a month ($950 a year) and Ultimate is $399 a month ($3,830 a year). The headline feature — the AI Functions Generator, which writes a function from a plain-language description — does not appear until Advanced at $99, alongside the Scripts Editor, the Functions Wizard and the Scripts Migrator, and the App Store listing prices AI credits for it separately: $25 per 50, $40 per 100 or $149 per 500. So using SupaEasy the way it markets itself, on a live store, realistically starts at $99 a month.",
+   "price_note": "(verified 2026-08-28 on apps.shopify.com/supaeasy and supaeasy.com/pricing; re-verified 2026-10-16 on both) A free plan plus three paid monthly tiers; Premium and Advanced carry a 7-day trial, and neither page lists a trial for Ultimate. The catch is in the free plan: it works only on a development store, not a live one. Premium is $49 a month ($470 a year), Advanced is $99 a month ($950 a year) and Ultimate is $399 a month ($3,830 a year). The headline feature — the AI Functions Generator, which writes a function from a plain-language description — does not appear until Advanced at $99, alongside the Scripts Editor, the Functions Wizard and the Scripts Migrator, and the App Store listing prices AI credits for it separately: $25 per 50, $40 per 100 or $149 per 500. So using SupaEasy the way it markets itself, on a live store, realistically starts at $99 a month.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-29",
+   "price_verified_at": "2026-10-16",
    "first_observed_at": "2026-08-28"
   },
   {
@@ -6512,6 +6512,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-24",
    "first_observed_at": null
+  },
+  {
+   "name": "Superlines",
+   "category": "Growth & Revenue",
+   "domain": "superlines.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/superlines-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-10-16 in a browser on superlines.io/pricing, For brands tab, monthly and yearly view, prices shown in euros; the terms say VAT is added where required) Three self-service plans and Enterprise: Starter 79 € a month for 50 tracked prompts and 1 brand, 3 answer engines of your choice and 1 month of history; Pro 199 € a month for 150 prompts, 3 brands, data exports, monthly site audits and 2 months of history; Growth 379 € a month for 300 prompts, 7 brands, API access, weekly site audits, 6 months of history and priority support. Billed yearly the cards show 69 €, 175 € and 333 € a month, labelled Save 12%. Enterprise is custom priced, with up to 10 answer engines, 400+ prompts, unlimited brands, all-time history and SSO/SAML. Every tier lists unlimited seats and every self-service card a 7-day free trial. The agency tab lists the same price points with 5, 10 and 20 client brands. The terms say fees are non-refundable except under the warranty remedy, and paid subscriptions renew automatically unless you give 30 days' written notice.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "Surfer (SurferSEO)",
