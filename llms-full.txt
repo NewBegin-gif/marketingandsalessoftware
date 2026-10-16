@@ -683,8 +683,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SurFox AI
 - Review: https://marketingandsalessoftware.com/surfox-ai-review.html
-- Verdict: SurFox AI: Four monthly plans, priced by message volume rather than seats. The money-back guarantee reads as unconditional on the pricing page.
-- Price: (read 2026-10-15 in a live browser on getsurfox.com/pricing with its FAQ, the home page and the terms of service last updated 22 September 2026) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active campaigns and 1 user, with the core AI, knowledge-base upload and…
+- Verdict: SurFox AI: Growth Plus is $1,497 a month. Billing starts at signup, but you cannot send a text until US carriers approve your A2P registration.
+- Price: (re-verified 2026-10-16 on getsurfox.com/pricing and the terms of service, still dated 22 September 2026, after SurFox aligned the two pages; first read 2026-10-15 in a live browser with the FAQ and the home page) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active…
 
 ## Tapita SEO Optimizer
 - Review: https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html

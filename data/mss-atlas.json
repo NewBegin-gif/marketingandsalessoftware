@@ -4372,35 +4372,35 @@
    "entry_price": "$29",
    "entry_price_terms": "a month for two pages, with annual billing marked Save 20%",
    "pricing_status": "public",
-   "price_note": "(re-verified 15 October 2026 on getpagepulse.io, all five tiers unchanged since our 10 September 2026 reading — the plans sit on the home page under the #pricing anchor; /pricing itself returns 404.) Five tiers, and the meter is pages plus AI insights rather than people. Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month. Starter $29: 2 pages, unlimited collaborators, 90 days retention, conversion tracking, 100 AI insights. Growth $79: 5 pages, unlimited collaborators, 2 heatmaps, a year of retention, 250 AI insights. Pro $129: 10 pages, unlimited collaborators, 5 heatmaps, three years of retention, cross-domain conversions, 750 AI insights. Scale $199: 20 pages, 10 members, 15 heatmaps and 1,500 AI insights — the only tier that names a number of people. Annual billing is marked Save 20%. The footnote under the table reads 'Designed for real-world usage. Subject to fair use. Extremely high or sustained usage may require a custom High Volume plan.', which is the asterisk on the unlimited-traffic promise.",
+   "price_note": "(re-read 16 October 2026 on getpagepulse.io/#pricing in both billing states; the page opens on Annual billing, marked Save 20%. Our earlier readings of 10 September and 15 October gave the annual-billing figures without saying so, and wrote 'unlimited traffic' where the cards now say 'Traffic included'. /pricing itself returns 404.) Five tiers, metered on pages, heatmaps and AI insights. Free $0: 1 page, traffic included, unlimited collaborators, 14 days of data retention and 15 AI insights a month. Starter $36 a month billed monthly, or $29 a month billed annually: 2 pages, 90 days retention, conversion tracking, 100 AI insights. Growth $99 monthly or $79 annually: 5 pages, 2 heatmaps, a year of retention, 250 AI insights. Pro $149 monthly or $129 annually: 10 pages, 5 heatmaps, three years of retention, cross-domain conversions, 750 AI insights. Scale $249 monthly or $199 annually: 20 pages, 10 members, 15 heatmaps and 1,500 AI insights. The Free to Pro cards list unlimited collaborators (people invited to view pages); the FAQ adds that you only pay for workspace members, who manage pages and settings. The footnote reads 'Designed for real-world usage. Subject to fair use. Extremely high or sustained usage may require a custom High Volume plan.'",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "AI insights are metered per month per tier, and the ‘unlimited traffic’ promise carries a fair-use asterisk.",
+     "evidence": "/pricing itself returns 404.) Five tiers, metered on pages, heatmaps and AI insights.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing is marked Save 20%.",
+     "evidence": "(re-read 16 October 2026 on getpagepulse.io/#pricing in both billing states; the page opens on Annual billing, marked Save 20%.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "free_tier",
-     "evidence": "Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.",
+     "evidence": "Free $0: 1 page, traffic included, unlimited collaborators, 14 days of data retention and 15 AI insights a month.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-15",
+   "price_verified_at": "2026-10-16",
    "first_observed_at": null
   },
   {
@@ -6552,15 +6552,15 @@
    "entry_price": "$49",
    "entry_price_terms": "Starter · per account per month, billed monthly in advance",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-15 in a live browser on getsurfox.com/pricing with its FAQ, the home page and the terms of service last updated 22 September 2026) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active campaigns and 1 user, with the core AI, knowledge-base upload and Google and Outlook calendar booking, but no conversation learning. Growth is $597 a month: 10,000 messages, 500 website chats, 400 voice minutes and 5 users, plus conversation learning from the last 100 conversations, A/B testing, Zapier and a Chrome extension for lead capture. Growth Plus is $1,497 a month: 25,000 messages, 2,000 chats, 1,000 voice minutes, 15 users, learning from the last 1,000 conversations, multiple personas, unlimited knowledge-base uploads, white-glove onboarding and a dedicated success manager. Scale is $2,497 a month: 40,000 messages, 5,000 chats, 2,000 voice minutes and 15 or more users with the same features. A message is any text in the conversation, yours or the lead's; the page puts a conversation at about 4 to 8 messages. When you near the message limit you are emailed and can buy a top-up, at a price the page does not publish. Voice minutes over the bucket are billed automatically at $0.25 a minute. Website chats pause when the allowance runs out. There are no setup fees and no annual plans; the FAQ says annual options may come later, and the terms reserve annual billing for custom enterprise agreements. You can cancel any time with 24 hours' notice, with no refund for a partial month. Every plan carries a 30-day money-back guarantee whose clock starts when your carrier (A2P) registration is approved, not at payment, and which pays out only if you sent at least 80% of your monthly messages and the AI demonstrably failed at its core tasks.",
+   "price_note": "(re-verified 2026-10-16 on getsurfox.com/pricing and the terms of service, still dated 22 September 2026, after SurFox aligned the two pages; first read 2026-10-15 in a live browser with the FAQ and the home page) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active campaigns and 1 user, with the core AI, knowledge-base upload and Google and Outlook calendar booking, but no conversation learning. Growth is $597 a month: 10,000 messages, 500 website chats, 400 voice minutes and 5 users, plus conversation learning from the last 100 conversations, A/B testing, Zapier and a Chrome extension for lead capture. Growth Plus is $1,497 a month: 25,000 messages, 2,000 chats, 1,000 voice minutes, 15 users, learning from the last 1,000 conversations, multiple personas, unlimited knowledge-base uploads, white-glove onboarding and a dedicated success manager. Scale is $2,497 a month: 40,000 messages, 5,000 chats, 2,000 voice minutes and 15 or more users with the same features. A message is any text in the conversation, yours or the lead's; the page puts a conversation at about 4 to 8 messages. When you near the message limit you are emailed and can buy a top-up, at a price the page does not publish. Both inbound and outbound calls count toward the voice minutes, and minutes over the bucket are billed automatically at $0.25 a minute. Website chats pause when the allowance runs out. There are no setup fees and no annual plans; the FAQ says annual options may come later, and the terms reserve annual billing for custom enterprise agreements. You can cancel any time with 24 hours' notice, with no refund for a partial month. Every plan carries a 30-day money-back guarantee whose clock starts when your carrier (A2P) registration is approved, not at payment, and which pays out only if you sent at least 80% of your monthly messages and the AI demonstrably failed at its core tasks; the pricing page now states the 80% condition itself and adds “Conditions apply, see terms” with a link to the terms.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The pricing page says only inbound calls count as voice minutes, while the terms say minutes are measured for outbound and inbound calls, and overage is billed automatically.",
+     "evidence": "Inbound and outbound calls both count as voice minutes, and overage is billed automatically.",
      "evidence_excerpt": null,
      "source_url": "https://www.getsurfox.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-10-16"
     },
     {
      "flag": "annual_lock",
@@ -6568,12 +6568,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.getsurfox.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-10-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-15",
-   "first_observed_at": "2026-10-15"
+   "price_verified_at": "2026-10-16",
+   "first_observed_at": "2026-10-16"
   },
   {
    "name": "SurveySparrow",
