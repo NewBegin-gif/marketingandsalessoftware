@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 266,
-  "flags": 416,
+  "flags": 415,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4491,20 +4491,11 @@
    "from_price_usd_mo": null,
    "entry_price": null,
    "entry_price_terms": null,
-   "pricing_status": "quote_only",
-   "price_note": "(read 2026-08-26 on partnerstack.com/pricing) There is no public price at any tier. PartnerStack publishes three plans — Launch, Growth and Enterprise — and every one of them carries a Book your demo button where the number would be; /plans is a 404. What the page does publish is what moves between tiers, and it is unusually specific. Launch gives you affiliate link tracking OR lead and deal registration — you pick one — plus marketplace access, partner payments built for B2B sales cycles, onboarding and enablement tooling, CRM integrations and their AI and MCP connector. Growth adds deeper integration support, a learning-management solution, partner challenges and incentives, MDF management and payments, and segmentation by performance or strategy. Enterprise is the only tier with full access to link tracking AND both registration motions at once, and adds custom workflows, a designated CSM with semi-annual business reviews, partner introductions and priority support. So the meter is not seats or volume as far as the page will say — it is which partner motions you are allowed to run, and the choice between tracking and registration on the entry tier is the line worth reading twice.",
-   "flags": [
-    {
-     "flag": "quote_only",
-     "evidence": "No published price: Launch, Growth and Enterprise all route to Book your demo and /plans is a 404 (read 26 Aug 2026)",
-     "evidence_excerpt": null,
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-27"
-    }
-   ],
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-08-26 on partnerstack.com/pricing) There is no public price at any tier. PartnerStack publishes three plans — Launch, Growth and Enterprise — and every one of them carries a Book your demo button where the number would be; /plans is a 404. What the page does publish is what moves between tiers, and it is unusually specific. Launch gives you affiliate link tracking OR lead and deal registration — you pick one — plus marketplace access, partner payments built for B2B sales cycles, onboarding and enablement tooling, CRM integrations and their AI and MCP connector. Growth adds deeper integration support, a learning-management solution, partner challenges and incentives, MDF management and payments, and segmentation by performance or strategy. Enterprise is the only tier with full access to link tracking AND both registration motions at once, and adds custom workflows, a designated CSM with semi-annual business reviews, partner introductions and priority support. So the ladder the page shows is a ladder of partner motions rather than seats — its FAQ says you can invite as many internal users as you need — and the choice between tracking and registration on the entry tier is the line worth reading twice. The same FAQ adds that the quote itself is based on your partner program size, feature needs and level of support, and is confirmed during the demo.\n\nRe-read on 16 October 2026, together with PartnerStack's standard SaaS Agreement (partnerstack.com/legal/saas-agreement), which says what the pricing page does not. The fee has two parts: an annual Subscription Fee set out in the Order Form and due when you sign, plus a monthly fee calculated as a share of the commissions your partners earn that month, at one rate for partners you bring yourself and another for partners PartnerStack refers to you. Neither rate is published. Unless the Order Form says otherwise, fees are paid in advance in US dollars and cannot be cancelled or refunded, and you also cover the payment provider's transaction costs. The term renews automatically for another year unless either side gives written notice at least 60 days before it ends, and the annual Subscription Fees for a renewal term increase by 7% over the previous period. When the agreement ends you have 30 days to log in and download your data before the account goes inactive. A signed Order Form or addendum overrides these default terms, and the agreement also lets an Order Form set user or usage limits despite the unlimited-users line in the FAQ, so the renewal uplift, the notice window and the commission rates are the three things to get in writing in your own order.",
+   "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-27",
+   "price_verified_at": "2026-10-16",
    "first_observed_at": "2026-08-26"
   },
   {

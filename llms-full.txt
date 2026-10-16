@@ -513,8 +513,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## PagePulse
 - Review: https://marketingandsalessoftware.com/pagepulse-review.html
-- Verdict: PagePulse — Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
-- Price: (re-verified 15 October 2026 on getpagepulse.io, all five tiers unchanged since our 10 September 2026 reading — the plans sit on the home page under the #pricing anchor; /pricing itself returns 404.) Five tiers, and the meter is pages plus AI insights rather than people. Free $0: 1 page, unlimited traffic, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
+- Verdict: PagePulse — Free $0: 1 page, traffic included, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
+- Price: (re-read 16 October 2026 on getpagepulse.io/#pricing in both billing states; the page opens on Annual billing, marked Save 20%. Our earlier readings of 10 September and 15 October gave the annual-billing figures without saying so, and wrote 'unlimited traffic' where the cards now say 'Traffic included'.
 
 ## Parallel AI
 - Review: https://marketingandsalessoftware.com/parallel-ai-review.html
