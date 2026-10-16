@@ -8310,9 +8310,9 @@
   "pw_soort": "held"
  },
  "GCheck": {
-  "price": "$19.95",
-  "price_note": "Basic · per year, per background check, current county of residence only",
-  "verified": "2026-09-29",
+  "price": "$18.95",
+  "price_note": "Basic · per background check, current county of residence only",
+  "verified": "2026-10-16",
   "catch": "The pricing page reads like self-serve and is not.",
   "best": "US employers running a steady number of hires, especially in healthcare, nonprofits, education and staffing."
  },
