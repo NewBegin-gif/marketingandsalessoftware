@@ -159,7 +159,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Capsule
 - Review: https://marketingandsalessoftware.com/capsule-review.html
 - Verdict: Capsule: The free tier covers two users and 250 contacts. Capsule's simplicity is the product: it deliberately does less than the CRM giants.
-- Price: (price page re-read 2026-09-11) The free tier covers two users and 250 contacts, and every paid card is quoted per user a month with a 14-day trial that needs no card. Read over a US connection on 26 August the annual figures were US$18 for Starter, US$36 for Growth and US$54 for Advanced, with contacts as the rungs: 250, 30,000, 60,000 and 120,000.
+- Price: (price page re-read 2026-10-17 from the Netherlands, annual billing; first US reading 2026-08-26) The free tier covers two users and 250 contacts, and every paid card is quoted per user a month with a 14-day trial that needs no card. Read over a US connection on 26 August the annual figures were US$18 for Starter, US$36 for Growth and US$54 for Advanced, with contacts as the rungs: 250, 30,000, 60,000 and 120,000.
 
 ## CarouselBot
 - Review: https://marketingandsalessoftware.com/carouselbot-review.html
@@ -178,8 +178,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Claap
 - Review: https://marketingandsalessoftware.com/claap-review.html
-- Verdict: Claap — Pro is €24 per license a month billed yearly or €30 monthly: unlimited recordings, 1,000 minutes a month. The four tiers sell two different products.
-- Price: (read 2026-09-04 on claap.io/pricing, both billing toggles and the full comparison table; re-verified 2026-09-08) Licenses are priced per license per month in euros. The only dollar figure on the page belongs to an add-on rather than a plan: a tooltip offers the Power Recorder, which adds unlimited recording length to any paid seat for $20 per seat a month.
+- Verdict: Claap: Pro is €24 or $32 per license a month billed yearly, €30 or $40 monthly. The four tiers sell two different products.
+- Price: (re-read 2026-10-17 on claap.io/pricing, plan cards, FAQ and the full comparison table; first read 2026-09-04) Licenses are priced per license per month, and the page now prints dollars beside euros. Basic is €0: 10 videos per user, 300 minutes of recording in total rather than per month, calendar and conference-call sync, basic AI summary, the Chrome recorder extension, a collaborative workspace and the Claap…
 
 ## Clay
 - Review: https://marketingandsalessoftware.com/clay-review.html
@@ -264,7 +264,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## EcomXray
 - Review: https://marketingandsalessoftware.com/ecomxray-review.html
 - Verdict: EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
-- Price: (re-verified 8 September 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products.
+- Price: (re-verified 17 October 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products.
 
 ## Essent Preorder Back in Stock
 - Review: https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html
@@ -499,7 +499,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Nextify.ai
 - Review: https://marketingandsalessoftware.com/nextify-ai-review.html
 - Verdict: Nextify.ai: Free is $0 for 50 credits a month, watermarked, on the basic models only. The plans are sold in videos and images.
-- Price: (read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter. Free is $0 for 50 credits a month, watermarked, on the basic models only, and the page sells that as up to 2 videos and 25 images.
+- Price: (read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter. Free is $0 for 50 credits…
 
 ## NiceJob
 - Review: https://marketingandsalessoftware.com/nicejob-review.html
