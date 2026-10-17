@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 148 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-16.
+> All 151 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-17.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -160,6 +160,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/capsule-review.html
 - Verdict: Capsule: The free tier covers two users and 250 contacts. Capsule's simplicity is the product: it deliberately does less than the CRM giants.
 - Price: (price page re-read 2026-09-11) The free tier covers two users and 250 contacts, and every paid card is quoted per user a month with a 14-day trial that needs no card. Read over a US connection on 26 August the annual figures were US$18 for Starter, US$36 for Growth and US$54 for Advanced, with contacts as the rungs: 250, 30,000, 60,000 and 120,000.
+
+## CarouselBot
+- Review: https://marketingandsalessoftware.com/carouselbot-review.html
+- Verdict: CarouselBot — Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document.
+- Price: (read 2026-10-17 in a browser on carouselbot.app/pricing, Monthly and Annual views; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited…
 
 ## Circle
 - Review: https://marketingandsalessoftware.com/circle-review.html
@@ -421,6 +426,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Intelis: Basic $49 a month or $490 a year, a 17% saving. The ladder counts variants, not products, and that is where stores get caught.
 - Price: (re-verified 8 September 2026 on apps.shopify.com/ecoprice-analytics, intelis.ai/pricing and the Intelis homepage; listing and pricing page re-read 1 October 2026, unchanged) Four tiers on the Shopify listing, priced by how many products or variants you track, each with a 14-day free trial. Basic $49 a month or $490 a year, a 17% saving: up to 100 products or variants, Google Shopping competitor monitoring, AI…
 
+## Kartra
+- Review: https://marketingandsalessoftware.com/kartra-review.html
+- Verdict: Kartra: The $119 plan is now called Starter and the $229 plan Growth. If your core need is polished course delivery, Kajabi's creator features are stronger.
+- Price: (re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the same.
+
 ## Kit
 - Review: https://marketingandsalessoftware.com/kit-review.html
 - Verdict: Kit: The free plan is $0/mo and covers up to 10,000 email subscribers, with unlimited landing pages and forms.
@@ -510,6 +520,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/omneky-review.html
 - Verdict: Omneky: Standard is $99 a month with 1,000 credits, 3 brands and 3 seats. Lite allows one brand, one seat and one connected ad channel.
 - Price: (read 2026-10-09 in a browser render of the pricing section on omneky.com, USD, monthly view; omneky.com/pricing itself rendered empty) Lite is $29 a month with 200 credits a month, 1 brand, 1 team seat and 1 connected ad channel, plus insights, AI product image and video generation, the ad and campaign launcher and brand rules. Standard is $99 a month with 1,000 credits, 3 brands and 3 seats, and adds…
+
+## OutSends
+- Review: https://marketingandsalessoftware.com/outsends-review.html
+- Verdict: OutSends: Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. The cards do not name their currency.
+- Price: (read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts.
 
 ## PagePulse
 - Review: https://marketingandsalessoftware.com/pagepulse-review.html
