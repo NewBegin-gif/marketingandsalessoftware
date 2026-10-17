@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 266,
-  "flags": 415,
+  "tools": 268,
+  "flags": 418,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1343,6 +1343,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-07",
    "first_observed_at": "2026-09-11"
+  },
+  {
+   "name": "CarouselBot",
+   "category": "Marketing",
+   "domain": "carouselbot.app",
+   "review_url": "https://aibuildermarketplace.com/b2b/carouselbot-review/",
+   "from_price_usd_mo": 10.0,
+   "entry_price": "$10",
+   "entry_price_terms": "Creator · billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-17 in a browser on carouselbot.app/pricing, Monthly and Annual views; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited carousels, 3 card sets, 3 batches and 10 documents a month, up to 5,000 words per document, no watermark. Pro is $30 a month, or $249 a year (shown as $20.75 a month): unlimited card sets, batches and documents, up to 10,000 words per document. The annual cards cross out $120 and $360, twelve monthly payments. Business is a starting price of $50 a month for agencies and teams, adding bulk creation from up to 50 URLs; its final price and billing are not stated. The FAQ offers a 7-day money-back guarantee on all paid plans, requested by email; after cancelling you keep access until the billing period ends, then drop to Free, and saved work stays in your library.",
+   "flags": [
+    {
+     "flag": "annual_lock",
+     "evidence": "Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited carousels, 3 card sets, 3 batches and 10 documents a month, up to 5,000 words per document, no watermark.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.carouselbot.app/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
   },
   {
    "name": "ChatGPT AI Product Description",
@@ -4355,6 +4379,38 @@
    "first_observed_at": "2026-09-06"
   },
   {
+   "name": "OutSends",
+   "category": "Sales & CRM",
+   "domain": "outsends.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/outsends-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "Starter · billed monthly, excluding VAT",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts. Pro is $49 for 100,000 emails and 50,000 contacts, 1 seat, 50 AI credits a day and 10 warm-up accounts. Growth is $99 for 200,000 emails and 100,000 contacts, 1 seat, 100 credits and 20 warm-up accounts. Team / Agency is $199 for 350,000 emails, 200,000 contacts, 10 team seats, 200 credits and 50 warm-up accounts. Starter keeps logs for 30 days, the others for 60. Above that, Custom starts at $300 a month for 300K to 2M+ emails at $1.00 per 1,000 emails. Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout. Monthly plans start with a 14-day free trial. The terms say paid fees are non-refundable unless the law requires otherwise, and a cancellation takes effect at the end of the billing period.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts.",
+     "evidence_excerpt": null,
+     "source_url": "https://outsends.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout.",
+     "evidence_excerpt": null,
+     "source_url": "https://outsends.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
+  },
+  {
    "name": "PagePulse",
    "category": "Marketing",
    "domain": "getpagepulse.io",
@@ -4605,27 +4661,27 @@
    "category": "Growth & Revenue",
    "domain": "pipedrive.com",
    "review_url": "https://aibuildermarketplace.com/b2b/pipedrive-review/",
-   "from_price_usd_mo": 14.0,
-   "entry_price": "$14",
-   "entry_price_terms": "Lite, per seat · per seat a month billed annually",
+   "from_price_usd_mo": null,
+   "entry_price": "€14",
+   "entry_price_terms": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat a…",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on pipedrive.com/pricing over a US connection; the monthly column below is our 2026-08-16 reading from the EU) Four seat-based plans. Billed annually they are US$14, US$39, US$59 and US$79 per seat per month — which is one payment of $168, $468, $708 or $948 per seat per year, since Pipedrive charges the year up front. The page advertises that annual billing saves up to 42%. Read from the Netherlands the same column reads €14, €39, €59 and €79: the numbers do not convert, they are simply reprinted with a different symbol, so a European pays materially more for the same seat. We could not get the monthly column to render from the US on three attempts, so this is the annual view only — by Pipedrive's own 42% figure, paying month to month costs meaningfully more. The trial is 14 days with no credit card, though the affiliate landing page our own link leads to advertised 30 days, with LeadBooster, Smart Docs and Projects included, when we followed it on 3 September 2026. LeadBooster, Projects, Campaigns, Web Visitors and Smart Docs are optional paid add-ons on top, from €13.33 for Campaigns up to €41 for Web Visitors — and those add-ons are where a Pipedrive bill usually stops matching the number you picked off this page.",
+   "price_note": "(re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front. Billed monthly the same plans are €24, €49, €79 and €99 per seat. The page advertises that annual billing saves up to 42%. The numbers do not convert between currencies, they are reprinted with a different symbol, so a European pays materially more for the same seat. The public trial is 14 days with no credit card; the affiliate landing page our own link leads to advertised 30 days when we followed it on 3 September 2026. Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50. Pipedrive's help pages say LeadBooster, Projects and Smart Docs are included on Premium and Ultimate and can be bought on Lite and Growth, while Campaigns and Web Visitors are always extra. The terms make all fees non-refundable, and a cancelled account stays usable until the end of the billing cycle.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "Billed annually they are US$14, US$39, US$59 and US$79 per seat per month — which is one payment of $168, $468, $708 or $948 per seat per year, since Pipedrive charges the year up front.",
-     "evidence_excerpt": null,
+     "evidence": "Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front.",
+     "evidence_excerpt": "Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges t…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-26"
+     "verified_at": "2026-10-17"
     },
     {
      "flag": "addons_extra",
-     "evidence": "LeadBooster, Projects, Campaigns, Web Visitors and Smart Docs are optional paid add-ons on top, from €13.33 for Campaigns up to €41 for Web Visitors — and those add-ons are where a Pipedrive bill usually stops matching the number you picked off this page.",
-     "evidence_excerpt": "LeadBooster, Projects, Campaigns, Web Visitors and Smart Docs are optional paid add-ons on top, from €13.33 for Campaigns up to €41 for Web Visitors — and those add-ons are where a Pipedrive bill usu…",
+     "evidence": "Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50.",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-26"
+     "verified_at": "2026-10-17"
     },
     {
      "flag": "annual_lock",
@@ -4633,12 +4689,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-08-26"
+     "verified_at": "2026-10-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-08-26",
-   "first_observed_at": "2026-08-26"
+   "price_verified_at": "2026-10-17",
+   "first_observed_at": "2026-10-17"
   },
   {
    "name": "Pippit",
