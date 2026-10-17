@@ -45,12 +45,12 @@ Buzz.ai,Sales & CRM,buzz.ai,79.0,per_seat|usage_metered,https://aibuildermarketp
 CallRail,Growth & Revenue,callrail.com,55.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/callrail-review/,2026-07,$55,"a month (plus usage), or $50 a month billed yearly",public,2026-10-13
 Campaign Monitor,Growth & Revenue,campaignmonitor.com,,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/campaign-monitor-review/,2026-07,€12.30,per month (€10.80 billed annually) up to 500 contacts,public,2026-10-09
 Campaigner,Growth & Revenue,campaigner.com,14.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/campaigner-review/,2026-07,$14,"per month at 1,000 contacts, but automation starts on Advanced at $35/mo",public,2026-10-15
-Capsule,Growth & Revenue,capsulecrm.com,,per_seat|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/capsule-review/,2026-07,,,see_details,2026-09-07
+Capsule,Growth & Revenue,capsulecrm.com,,per_seat|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/capsule-review/,2026-07,,,see_details,2026-10-17
 CarouselBot,Marketing,carouselbot.app,10.0,annual_lock,https://aibuildermarketplace.com/b2b/carouselbot-review/,2026-07,$10,Creator · billed monthly,public,2026-10-17
 ChatGPT AI Product Description,Design & Content,profitoniumapps.com,19.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/chatgpt-ai-product-description-review/,2026-07,$19,"Basic · per month for 2,000 credits, billed in USD every 30 days",public,2026-09-20
 Circle,Growth & Revenue,circle.so,89.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/circle-review/,2026-07,$89,Professional · per month billed annually ($129 billed monthly),public,2026-10-12
 CiteRoute,Marketing,citeroute.com,79.0,usage_metered,https://aibuildermarketplace.com/b2b/citeroute-review/,2026-07,$79,"Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",public,2026-10-13
-Claap,Sales & CRM,claap.io,,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/claap-review/,2026-07,€24,"Pro · per month, annual",public,2026-09-08
+Claap,Sales & CRM,claap.io,32.0,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/claap-review/,2026-07,$32,per month,public,2026-10-17
 Clay,Growth & Revenue,clay.com,167.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/clay-review/,2026-07,$167,"entry paid plan, from… · billed monthly",public,2026-09-14
 Cloro,Marketing,cloro.dev,30.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/cloro-review/,2026-07,$30,"Lite · per month for 37,500 credits",public,2026-09-17
 Close,Growth & Revenue,close.com,19.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/close-review/,2026-07,$19,"Solo, per user · per month, billed month to month",public,2026-09-12
@@ -70,7 +70,7 @@ DropGenius,Growth & Revenue,dropgenius.com,24.0,annual_lock,https://aibuildermar
 Dynasort,E-commerce,dynasort.io,99.0,,https://aibuildermarketplace.com/b2b/dynasort-review/,2026-07,$99,"Basic · per month for 25 sorted collections and 100,000 serves",public,2026-10-03
 Easy Advanced Translations,E-commerce,northwest.dev,,usage_metered,https://aibuildermarketplace.com/b2b/easy-advanced-translations-review/,2026-07,,,see_details,2026-10-16
 Easy Bundles,E-commerce,skailama.com,,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/easy-bundles-review/,2026-07,$29,"Essential · per month, or $299 a year",public,2026-09-19
-EcomXray,E-commerce,ecomxray.io,29.0,free_tier,https://aibuildermarketplace.com/b2b/ecomxray-review/,2026-07,$29,"Pro · per month for in-place product editing, SEO fields and automatic…",public,2026-09-08
+EcomXray,E-commerce,ecomxray.io,29.0,free_tier,https://aibuildermarketplace.com/b2b/ecomxray-review/,2026-07,$29,"Pro · per month for in-place product editing, SEO fields and automatic…",public,2026-10-17
 EmailListVerify,Marketing,emaillistverify.com,,usage_metered,https://aibuildermarketplace.com/b2b/emaillistverify-review/,2026-07,,,see_details,2026-09-19
 EngageBay,Sales & CRM,engagebay.com,14.99,per_seat|free_tier,https://aibuildermarketplace.com/b2b/engagebay-review/,2026-07,$14.99,"All-in-One Basic, per… · per user per month on monthly billing",public,2026-10-05
 Essent Preorder Back in Stock,E-commerce,essential-apps.com,4.95,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/essent-preorder-back-in-stock-review/,2026-07,$4.95,"Lite · per month for 100 pre-orders and 1,000 back-in-stock notifications…",public,2026-10-04
@@ -142,7 +142,7 @@ Moosend,Marketing,moosend.com,7.0,usage_metered|addons_extra,https://aibuilderma
 MX AI,Design & Content,effectify.io,2.99,,https://aibuildermarketplace.com/b2b/mx-ai-review/,2026-07,$2.99,"Monthly Plan · per month for the whole app, with no usage tier above it",public,2026-10-03
 NameRobot,Design & Content,namerobot.com,,,https://aibuildermarketplace.com/b2b/namerobot-review/,2026-07,$19,"NameScore, 1 NameReport · one-time, excluding VAT, shown as an offer against a regular $39",public,2026-10-07
 Nexis CRO,E-commerce,nexiscro.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/nexis-cro-review/,2026-07,$9,"Pro · per month, or $99 a year",public,2026-10-03
-Nextify.ai,Marketing,nextify.ai,,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/nextify-ai-review/,2026-07,$21,Starter · per month billed annually at $244 a year,public,2026-09-07
+Nextify.ai,Marketing,nextify.ai,29.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/nextify-ai-review/,2026-07,$29,per month,public,2026-10-17
 NiceJob,Growth & Revenue,nicejob.com,75.0,addons_extra,https://aibuildermarketplace.com/b2b/nicejob-review/,2026-07,$75,per month,public,2026-10-13
 noCRM,Sales & CRM,nocrm.io,,per_seat|annual_lock,https://aibuildermarketplace.com/b2b/nocrm-review/,2026-07,€11,Starter · per user per month on annual billing,public,2026-10-14
 Notify Me,Growth & Revenue,notify-me.io,9.9,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/notify-me-review/,2026-07,$9.90,"per month or $95/yr, first month discounted to $3.96",public,2026-09-23
