@@ -553,8 +553,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Pipedrive
 - Review: https://marketingandsalessoftware.com/pipedrive-review.html
-- Verdict: Pipedrive: Billed annually they are US$14, US$39, US$59 and US$79 per seat per month. Pipedrive manages what happens after a lead enters your pipeline.
-- Price: (read 2026-08-26 on pipedrive.com/pricing over a US connection; the monthly column below is our 2026-08-16 reading from the EU) Four seat-based plans. Billed annually they are US$14, US$39, US$59 and US$79 per seat per month — which is one payment of $168, $468, $708 or $948 per seat per year, since Pipedrive charges the year up front.
+- Verdict: Pipedrive: Billed monthly the same plans are €24, €49, €79 and €99 per seat. Pipedrive manages what happens after a lead enters your pipeline.
+- Price: (re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168,…
 
 ## Poptin
 - Review: https://marketingandsalessoftware.com/poptin-review.html
