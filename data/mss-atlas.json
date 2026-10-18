@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 268,
-  "flags": 418,
+  "tools": 270,
+  "flags": 419,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1063,6 +1063,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-13",
    "first_observed_at": null
+  },
+  {
+   "name": "Brand24",
+   "category": "Marketing",
+   "domain": "brand24.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/brand24-review/",
+   "from_price_usd_mo": 199.0,
+   "entry_price": "$199",
+   "entry_price_terms": "Individual · per month, billed annually",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-18 in a browser on brand24.com/prices in the monthly and annual view, USD) Five plans, priced per month. Individual is $249 a month billed monthly or $199 a month billed annually: 3 keywords, 2K mentions a month, 1 user, updates every 12 hours. Team is $349 or $299: 7 keywords, 10k mentions, unlimited users, hourly updates and chat support. Pro is $499 or $399: 12 keywords, 40K mentions, real-time updates, AI Events Detection, the AI Brand Assistant, and AI Insights and AI Topics for 2 projects. Business is $699 or $599: 25 keywords, 100K mentions, AI Insights for 5 projects, a Client Success Lead and advanced reports. Enterprise starts at $1,499 a month billed annually, with custom keyword and mention limits and the AI Visibility module. API access is sold at an additional fee of $149; the page does not say for what period. The annual toggle advertises 'Up to 3 months free'. There is no free plan; the 14-day trial needs no credit card. The pricing FAQ offers a 30-day money-back guarantee, excluding custom plans and deals negotiated with the sales team, says you can cancel at any time, and says you are never charged more than your plan's price if you exceed its limits.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-18",
+   "first_observed_at": "2026-10-18"
   },
   {
    "name": "Brandye",
@@ -6677,6 +6692,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-26",
    "first_observed_at": "2026-09-26"
+  },
+  {
+   "name": "Tapform",
+   "category": "Growth & Revenue",
+   "domain": "tapform.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/tapform-review/",
+   "from_price_usd_mo": 4.99,
+   "entry_price": "$4.99",
+   "entry_price_terms": "Unlimited · billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-18 in a browser on tapform.com/pricing in the monthly and yearly view; the page shows $ without naming a currency) Two plans. Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage, 15+ templates, the embed code and email lead notifications. Unlimited is $4.99 a month billed monthly: unlimited leads, forms, workspaces, team members, domains and storage. Switching the toggle to Yearly, which carries a 'Save 50%' badge, shows Unlimited as $29.99 'per month, billed yearly' next to a struck-through $4.99; that does not add up as a saving and the page gives no yearly invoice total, so we do not quote a yearly price. New accounts get a 14-day trial with full access to the plan's features. The pricing page says that when it ends you choose a plan or continue on Free; the terms say you are charged automatically unless you cancel. The terms allow a refund request within 14 calendar days of the first subscription purchase, processed through LemonSqueezy.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage, 15+ templates, the embed code and email lead notifications.",
+     "evidence_excerpt": null,
+     "source_url": "https://tapform.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-18",
+   "first_observed_at": "2026-10-18"
   },
   {
    "name": "Tapita AI SEO Blog Builder",
