@@ -1672,44 +1672,44 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(2026-09-17, re-read on their own pricing page) No prices are shown. Two named plans, Standard and Pro, both stated to include 5 seats, with everything routed to 'Talk to sales' and 'Get a personalised quote'. The model is credit-based — their own wording is that 1 credit equals 1 revealed contact — with credits included in the subscription per seat, but no allowance is published. Their FAQ adds that a redeemed contact stays usable for the length of the contract and only costs a second credit if that person changes jobs, and that additional credits can be purchased at any point. CRM Enrichment is sold standalone or as an add-on; Data-as-a-Service is priced by volume, delivery method and the fields required, and its API route requires a prospecting seat.",
+   "price_note": "(2026-10-19, re-read on their own pricing page) No prices are shown, and the packages and the credit model are as we read them on 17 September 2026. Sales prospecting comes in two named packages, Standard and Pro, both stated to include 5 seats, with everything routed to 'Talk to sales', 'Book a demo' or 'Get a personalised quote'. The model is credit-based — their own wording is that 1 credit equals 1 revealed contact, and that credits are used to reveal, enrich or export a contact — with an allocation included per seat, but no allowance is published. Their FAQ adds that a redeemed contact stays usable for the length of the contract and only costs a second credit if that person changes jobs, and that additional credits can be purchased at any point; the same credits work across the prospecting platform, Enrich and the API. MCP & API access, marked New, is ticked for both Standard and Pro in the comparison table. CRM Enrichment is sold standalone or as an add-on to either package. Data-as-a-Service no longer has its own section: the FAQ now says only that CRM Enrichment and Data-as-a-Service are priced on subscription structure, usage and delivery requirements. The older wording, priced by volume, delivery method and the fields required with an API route that needs a prospecting seat, is from our 17 September 2026 reading and is no longer on the page.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Standard and Pro both route to Talk to sales / a personalised quote, with no credit allowance or amount stated (read 17 Sep 2026)",
+     "evidence": "No published price: Standard and Pro both route to Talk to sales / a personalised quote, with no credit allowance or amount stated (read 17 Sep and 19 Oct 2026)",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "per_seat",
-     "evidence": "The model is credit-based — their own wording is that 1 credit equals 1 revealed contact — with credits included in the subscription per seat, but no allowance is published.",
-     "evidence_excerpt": null,
+     "evidence": "The model is credit-based — their own wording is that 1 credit equals 1 revealed contact, and that credits are used to reveal, enrich or export a contact — with an allocation included per seat, but no allowance is published.",
+     "evidence_excerpt": "The model is credit-based — their own wording is that 1 credit equals 1 revealed contact, and that credits are used to reveal, enrich or export a contact — with an allocation included per seat, but n…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "usage_metered",
-     "evidence": "The model is credit-based — their own wording is that 1 credit equals 1 revealed contact — with credits included in the subscription per seat, but no allowance is published.",
+     "evidence": "(2026-10-19, re-read on their own pricing page) No prices are shown, and the packages and the credit model are as we read them on 17 September 2026.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "addons_extra",
-     "evidence": "CRM Enrichment is sold standalone or as an add-on; Data-as-a-Service is priced by volume, delivery method and the fields required, and its API route requires a prospecting seat.",
+     "evidence": "CRM Enrichment is sold standalone or as an add-on to either package.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-17",
-   "first_observed_at": "2026-09-17"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "Consentmo",
@@ -3357,10 +3357,10 @@
    "entry_price": "$15",
    "entry_price_terms": "B2B · per month with unlimited pricing rules",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-16 on apps.shopify.com/b2b-wholesale-tools) Two plans and no free tier: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. B2B carries the whole working app — wholesale pricing, volume pricing, customer registration forms and the approval workflow — and pricing rules are unlimited rather than metered, so the ladder is not a volume ladder. PLUS adds exactly three things, and all three are Shopify Plus features: company registration, product catalog assignment and checkout integration. If you are not on Shopify Plus, the $30 tier has nothing to sell you. The app is Built for Shopify, launched on 21 November 2024, and shows 5.0 stars over 9 reviews.",
+   "price_note": "(read 2026-09-16 on apps.shopify.com/b2b-wholesale-tools; re-verified 2026-10-19, unchanged) Two plans and no free tier: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. B2B carries the whole working app — wholesale pricing, volume pricing, customer registration forms and the approval workflow — and pricing rules are unlimited rather than metered, so the ladder is not a volume ladder. PLUS adds exactly three things, and all three are Shopify Plus features: company registration, product catalog assignment and checkout integration. If you are not on Shopify Plus, the $30 tier has nothing to sell you. The app is Built for Shopify, launched on 21 November 2024, and shows 5.0 stars over 9 reviews.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-16",
+   "price_verified_at": "2026-10-19",
    "first_observed_at": "2026-09-16"
   },
   {
@@ -6003,7 +6003,7 @@
    "entry_price": "€1",
    "entry_price_terms": "Standard · per user per month, minimum 20 licences",
    "pricing_status": "public",
-   "price_note": "(price read 2026-09-14) Signitic's own pricing page, read in euros from a European connection, carries three tiers. Free covers organisations up to 19 employees and gives one signature template, one banner campaign, and a Signitic badge at the bottom of every signature that the plan does not let you remove. The paid tier — the card the page marks Most popular — is €1 per user with a minimum of 20 licences, and it is where the caps come off: unlimited signature templates, unlimited banner campaigns, a custom subdomain for deliverability, multi-entity segmentation, A/B testing with click statistics, and no badge. That card prints the euro and the word user but never a period; the ROI calculator further down the same page settles it, pricing 100 employees at 1 200 € a year, which is twelve euros per user per year — so the euro is monthly, and the 20-licence minimum puts the real floor at twenty euros a month. The third tier is Custom and carries no public figure: advanced permission management, campaign targeting from CRM lists, HRIS/SFTP integration, vCard digital business cards and a dedicated support team all sit behind a quote. Registered non-profits are offered 50% off subject to an eligibility check.",
+   "price_note": "(price read 2026-09-14; re-verified 2026-10-19 on signitic.com/en/pricing, unchanged) Signitic's own pricing page, read in euros from a European connection, carries three tiers. Free covers organisations up to 19 employees and gives one signature template, one banner campaign, and a Signitic badge at the bottom of every signature that the plan does not let you remove. The paid tier — the card the page marks Most popular — is €1 per user with a minimum of 20 licences, and it is where the caps come off: unlimited signature templates, unlimited banner campaigns, a custom subdomain for deliverability, multi-entity segmentation, A/B testing with click statistics, and no badge. That card prints the euro and the word user but never a period; the ROI calculator further down the same page settles it, pricing 100 employees at 1 200 € a year, which is twelve euros per user per year — so the euro is monthly, and the 20-licence minimum puts the real floor at twenty euros a month. The third tier is Custom and carries no public figure: advanced permission management, campaign targeting from CRM lists, HRIS/SFTP integration, vCard digital business cards and a dedicated support team all sit behind a quote. Registered non-profits are offered 50% off subject to an eligibility check.",
    "flags": [
     {
      "flag": "per_seat",
@@ -6011,11 +6011,11 @@
      "evidence_excerpt": "The paid tier — the card the page marks Most popular — is €1 per user with a minimum of 20 licences, and it is where the caps come off: unlimited signature templates, unlimited banner campaigns, a cu…",
      "source_url": "https://www.signitic.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-16"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-16",
+   "price_verified_at": "2026-10-19",
    "first_observed_at": "2026-09-14"
   },
   {
