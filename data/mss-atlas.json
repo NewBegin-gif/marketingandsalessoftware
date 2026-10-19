@@ -6068,11 +6068,11 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-09-18 on apps.shopify.com/cart-auto-update) Free, and free is the only plan. The listing carries no pricing table at all: no paid tier, no usage meter and no surcharge tied to your Shopify plan. The app has been on the App Store since 29 November 2019 and carries Shopify's Built for Shopify badge, which is the store's own bar for performance, design and integration. One of the 34 reviews alleges being billed twice, which is worth knowing about an app the listing prices at nothing; we cannot verify that claim from the outside, and the listing shows no charge to make.",
+   "price_note": "(re-verified 2026-10-19 on apps.shopify.com/cart-auto-update, where the listing now names the app PF: Skip To Checkout/Skip Cart; first read 2026-09-18) Free, and free is the only plan. The listing carries no pricing table at all: no paid tier, no usage meter and no surcharge tied to your Shopify plan. The app has been on the App Store since 29 November 2019 and carries Shopify's Built for Shopify badge, which is the store's own bar for performance, design and integration. One of the 34 reviews on the listing on 18 September (36 on 19 October) alleges being billed twice, which is worth knowing about an app the listing prices at nothing; we cannot verify that claim from the outside, and the listing shows no charge to make.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-18",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "Smartli",
@@ -6131,11 +6131,11 @@
    "entry_price": "$4.99",
    "entry_price_terms": "a month or $41.88 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-18 on apps.shopify.com/sticky-social-media-icons-bar) Two plans, and the free one is not the one you will be on. Development is free but the listing limits it explicitly to development and partner stores, with billing activated on upgrade — so a real storefront does not run on it. The Monthly Plan is $4.99 a month, or $41.88 a year which the listing presents as a 30 percent saving, after a 7-day free trial. All charges are billed in USD and recurring charges are invoiced every 30 days. The app has been on the App Store since 27 April 2020 and carries Shopify's Built for Shopify badge.",
+   "price_note": "(re-verified 2026-10-19 on apps.shopify.com/sticky-social-media-icons-bar; first read 2026-09-18) Two plans, and the free one is not the one you will be on. Development is free but the listing limits it explicitly to development and partner stores, with billing activated on upgrade — so a real storefront does not run on it. The Monthly Plan is $4.99 a month, or $41.88 a year which the listing presents as a 30 percent saving, after a 7-day free trial. All charges are billed in USD and recurring charges are invoiced every 30 days. The app has been on the App Store since 27 April 2020 and carries Shopify's Built for Shopify badge.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-18",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "SocialBee",
@@ -6319,22 +6319,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/stampezee-review/",
    "from_price_usd_mo": 29.99,
    "entry_price": "$29.99",
-   "entry_price_terms": "Stamp Lite · per month for 2 branches and 3 stamp cards, with 17% advertised off the…",
+   "entry_price_terms": "Stamp Lite · per month for 1 branch and 1 active stamp card, with a 14-day free trial",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-30 on stampezee.com/en/pricing from a US exit) Four tiers, all now named and priced on the public page. Stamp Start free: 1 branch, 1 stamp card, up to 100 customers or 100 stamps, whichever comes first. Stamp Lite $29.99/month: 2 branches, 3 stamp cards, unlimited customers and stamps, signup rewards, EzeeCodes, birthday/anniversary/referral automations. Stamp Pro $49.99: 3 branches, 6 cards, spend-based stamping, tiered and exclusive rewards, 4 push notifications. Stamp Elite $99.99: 10 branches, 12 cards, scratch-card campaigns, email marketing, 1 custom stamp card design, dedicated account manager. The page advertises 17% off on the annual term but does not print the annual amounts. StampEzee prices by region and the European rates are materially lower, not just relabelled: the same page read from the Netherlands gives EUR 19.99, 39.99 and 69.99. Note the entry tier's own contradiction: the plan card frames Stamp Start as a 14-day free trial, the comparison table on the same page lists it as Free with no time limit.",
+   "price_note": "(re-verified 2026-10-19 on stampezee.com/en/pricing, the plan cards plus the plan data behind them) The free tier is gone from the page. Three paid plans, each now with a 14-day free trial, plus a custom-priced Enterprise Plan. Stamp Lite $29.99/month: 1 branch, 1 active stamp card, unlimited customers and stamps, signup rewards, EzeeCodes and Give Stamps, birthday/anniversary/referral automations, no push notifications. Stamp Pro $49.99: 3 branches, 4 cards, spend-based stamping, tiered and exclusive rewards, lapsed-customer automation, 5 push notifications, a VIP card completion path. Stamp Elite $99.99: 10 branches, 12 cards, 10 push notifications including location-based ones, scratch-card campaigns, email marketing, a custom stamp card design, an exclusive marketing package and a dedicated account manager. Enterprise Plan: custom pricing based on locations, scale, usage and business requirements, with custom branch, card and usage limits and advanced roles and permission controls. The annual term (“Save 17%”) is in the plan data rather than on the cards: $299.99, $499.99 and $999.99 a year, ten months' money. StampEzee prices by region: the same data lists EUR 19.99, 39.99 and 69.99 and GBP 14.99, 29.99 and 59.99 a month. What changed since the 30 August 2026 reading: Stamp Start (free: 1 branch, 1 card, up to 100 customers or 100 stamps) no longer appears, Stamp Lite went from 2 branches and 3 cards to 1 and 1, Stamp Pro from 6 cards to 4, and the push allowances on Lite, Pro and Elite moved from 1, 4 and 8 to 0, 5 and 10. The monthly and annual prices did not change.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "Stamp Start free: 1 branch, 1 stamp card, up to 100 customers or 100 stamps, whichever comes first.",
+     "evidence": "(re-verified 2026-10-19 on stampezee.com/en/pricing, the plan cards plus the plan data behind them) The free tier is gone from the page.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-08-30"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "StoreSEO",
