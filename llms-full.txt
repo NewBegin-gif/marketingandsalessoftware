@@ -213,8 +213,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Cognism
 - Review: https://marketingandsalessoftware.com/cognism-review.html
-- Verdict: Cognism: Two named plans, Standard and Pro, both stated to include 5 seats, with everything routed to 'Talk to sales' and 'Get a personalised quote'.
-- Price: (2026-09-17, re-read on their own pricing page) No prices are shown. Two named plans, Standard and Pro, both stated to include 5 seats, with everything routed to 'Talk to sales' and 'Get a personalised quote'.
+- Verdict: Cognism: The model is credit-based. No price, no credit allowance, and a five-seat minimum on both named plans.
+- Price: (2026-10-19, re-read on their own pricing page) No prices are shown, and the packages and the credit model are as we read them on 17 September 2026. Sales prospecting comes in two named packages, Standard and Pro, both stated to include 5 seats, with everything routed to 'Talk to sales', 'Book a demo' or 'Get a personalised quote'.
 
 ## Consentmo
 - Review: https://marketingandsalessoftware.com/consentmo-review.html
@@ -474,7 +474,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Kumo
 - Review: https://marketingandsalessoftware.com/kumo-review.html
 - Verdict: Kumo: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. Five stars over nine reviews is not a track record.
-- Price: (read 2026-09-16 on apps.shopify.com/b2b-wholesale-tools) Two plans and no free tier: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. B2B carries the whole working app — wholesale pricing, volume pricing, customer registration forms and the approval workflow — and pricing rules are unlimited rather than metered, so the ladder is not a volume ladder.
+- Price: (read 2026-09-16 on apps.shopify.com/b2b-wholesale-tools; re-verified 2026-10-19, unchanged) Two plans and no free tier: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. B2B carries the whole working app — wholesale pricing, volume pricing, customer registration forms and the approval workflow — and pricing rules are unlimited rather than metered, so the ladder is not…
 
 ## Landingi
 - Review: https://marketingandsalessoftware.com/landingi-review.html
@@ -659,7 +659,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Signitic
 - Review: https://marketingandsalessoftware.com/signitic-review.html
 - Verdict: Signitic's own pricing page, read in euros from a European connection, carries three tiers. The homepage sells deployment 'without going through IT'.
-- Price: (price read 2026-09-14) Signitic's own pricing page, read in euros from a European connection, carries three tiers. Free covers organisations up to 19 employees and gives one signature template, one banner campaign, and a Signitic badge at the bottom of every signature that the plan does not let you remove.
+- Price: (price read 2026-09-14; re-verified 2026-10-19 on signitic.com/en/pricing, unchanged) Signitic's own pricing page, read in euros from a European connection, carries three tiers. Free covers organisations up to 19 employees and gives one signature template, one banner campaign, and a Signitic badge at the bottom of every signature that the plan does not let you remove.
 
 ## Similarweb
 - Review: https://marketingandsalessoftware.com/similarweb-review.html

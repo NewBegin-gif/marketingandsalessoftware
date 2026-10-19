@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 270,
-  "flags": 419,
+  "flags": 420,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1532,27 +1532,27 @@
    "category": "Growth & Revenue",
    "domain": "clay.com",
    "review_url": "https://aibuildermarketplace.com/b2b/clay-review/",
-   "from_price_usd_mo": 167.0,
+   "from_price_usd_mo": null,
    "entry_price": "$167",
-   "entry_price_terms": "entry paid plan, from… · billed monthly",
+   "entry_price_terms": "Launch: smallest action… · per year, billed annually ($54 actions + $113 data credits a month)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-14 on their own pricing page; both billing terms read from the page markup, and no figure has moved since our August reading) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update. The free plan is real: 6,000 actions and 1,200 data credits a year, unlimited seats and tables, multi-provider waterfalls and Claygent, capped at 200 rows per table and with no phone enrichment. Launch is advertised at $167/mo but starts at $54/mo on annual billing or $60 monthly, and Growth at $446/mo but starts at $185/mo annually or $205 monthly — the headline is a configured volume, not the floor, so read the ladder rather than the card. Billed monthly the Launch action ladder runs $60, $150, $200, $290 and $540 for 15K, 40K, 60K, 100K and 200K actions a month; billed annually it runs $54, $135, $180, $261 and $486 a month for 180K, 480K, 720K, 1.2M and 2.4M actions a year. Growth starts one rung higher: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder. Data credits are a separate meter again — monthly from $125 for 2,500 credits up to $2,125 for 50,000, or annually from $113/mo for 30,000 a year up to $1,913/mo for 600,000. Annual billing saves 10%. Waterfall enrichment spends credits per lookup, so the credit meter rather than the plan is what decides the bill. One discrepancy is worth carrying to checkout, and it survived this reading: the plan FAQ at the bottom of the page describes Launch as “starting at $185/mo”, which is not the Launch floor of $54 but the Growth one. Enterprise is quote-only.",
+   "price_note": "(re-verified 2026-10-19 on clay.com/pricing; both billing terms read from the page markup, no figure has moved since our August reading, and our reading of the headline prices was corrected that day) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update. The free plan is real: 6,000 actions and 1,200 data credits a year, unlimited seats and tables, multi-provider waterfalls and Claygent, capped at 200 rows per table and with no phone enrichment. Launch is advertised at $167/mo and Growth at $446/mo, and the page's own figures show how those are built: the smallest action step plus the smallest data-credit step on annual billing ($54 + $113 = $167 for Launch, $185 + $261 = $446 for Growth). The plan FAQ's “starting at $185/mo” for Launch and “$495/mo” for Growth are the same pairs billed monthly ($60 + $125 and $205 + $290). The “Starts at $54/mo” and “$185/mo” lines on the cards price the action meter alone. The served page offers no data-credit step below 30,000 a year on Launch or 72,000 on Growth, and it does not say whether a plan can be bought with actions only. Our earlier reading treated $54 as the Launch floor, and that was wrong. Billed monthly the Launch action ladder runs $60, $150, $200, $290 and $540 for 15K, 40K, 60K, 100K and 200K actions a month; billed annually it runs $54, $135, $180, $261 and $486 a month for 180K, 480K, 720K, 1.2M and 2.4M actions a year. Growth starts one rung higher: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder. Data credits are a separate meter again — monthly from $125 for 2,500 credits up to $2,125 for 50,000, or annually from $113/mo for 30,000 a year up to $1,913/mo for 600,000. Annual billing saves 10%. Waterfall enrichment spends credits per lookup, so the credit meter rather than the plan is what decides the bill. Actions reset every cycle. Unused data credits on Launch and Growth bank up to twice the monthly amount, and top-ups on those plans cost 30% more than plan credits. Enterprise is quote-only.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-09-14 on their own pricing page; both billing terms read from the page markup, and no figure has moved since our August reading) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update.",
-     "evidence_excerpt": "(re-verified 2026-09-14 on their own pricing page; both billing terms read from the page markup, and no figure has moved since our August reading) Clay meters two things separately — actions and data…",
+     "evidence": "(re-verified 2026-10-19 on clay.com/pricing; both billing terms read from the page markup, no figure has moved since our August reading, and our reading of the headline prices was corrected that day) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update.",
+     "evidence_excerpt": "(re-verified 2026-10-19 on clay.com/pricing; both billing terms read from the page markup, no figure has moved since our August reading, and our reading of the headline prices was corrected that day)…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-14"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Launch is advertised at $167/mo but starts at $54/mo on annual billing or $60 monthly, and Growth at $446/mo but starts at $185/mo annually or $205 monthly — the headline is a configured volume, not the floor, so read the ladder rather than the card.",
-     "evidence_excerpt": "Launch is advertised at $167/mo but starts at $54/mo on annual billing or $60 monthly, and Growth at $446/mo but starts at $185/mo annually or $205 monthly — the headline is a configured volume, not …",
+     "evidence": "Launch is advertised at $167/mo and Growth at $446/mo, and the page's own figures show how those are built: the smallest action step plus the smallest data-credit step on annual billing ($54 + $113 = $167 for Launch, $185 + $261 = $446 for Growth).",
+     "evidence_excerpt": "Launch is advertised at $167/mo and Growth at $446/mo, and the page's own figures show how those are built: the smallest action step plus the smallest data-credit step on annual billing ($54 + $113 =…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-14"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "free_tier",
@@ -1560,12 +1560,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-14"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-14",
-   "first_observed_at": "2026-09-14"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "Cloro",
@@ -1576,15 +1576,15 @@
    "entry_price": "$30",
    "entry_price_terms": "Lite · per month for 37,500 credits",
    "pricing_status": "public",
-   "price_note": "(prices re-read 2026-09-17 on cloro.dev/pricing) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat. Paid runs Lite $30 (37,500 credits, $0.80 per 1k, 10 concurrent jobs), Hobby $100 (250,000, $0.40, 20 jobs) and Starter $250 (650,000, $0.39, 50 jobs). Above that come Growth $500 (1,350,000, $0.37, 75 jobs) and Business $1,000 (2,800,000, $0.36, 100 jobs). Four self-serve Enterprise steps follow: $2,000 for 5,871,025 credits at $0.34, $3,000 for 9,306,606 at $0.32, $4,000 for 12,756,261 at $0.31 and $5,000 for 16,391,783 at $0.31, where concurrency reaches 255. Seats are unlimited from Lite up. What a request costs varies by engine. ChatGPT full response is 7 credits, ChatGPT web search 5, Copilot 5, and AI Overview including the SERP 5. Perplexity, Grok, AI Mode and Gemini are 4, and Google Search and Google News 3 plus 2 per extra page. A synchronous call adds 2 credits on top of all of those. Perplexity stood at 3 credits when we read the same table on 17 August 2026. Grok is marked temporarily unavailable, with the page warning that requests to it fail. Credits do not roll over: unused credits expire at the end of the billing cycle, and at zero the API returns 403 until you upgrade or the cycle resets.",
+   "price_note": "(prices re-read 2026-10-19 on cloro.dev/pricing, unchanged since 2026-09-17 except that Grok has left the credit table) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat. Paid runs Lite $30 (37,500 credits, $0.80 per 1k, 10 concurrent jobs), Hobby $100 (250,000, $0.40, 20 jobs) and Starter $250 (650,000, $0.39, 50 jobs). Above that come Growth $500 (1,350,000, $0.37, 75 jobs) and Business $1,000 (2,800,000, $0.36, 100 jobs). Four self-serve Enterprise steps follow: $2,000 for 5,871,025 credits at $0.34, $3,000 for 9,306,606 at $0.32, $4,000 for 12,756,261 at $0.31 and $5,000 for 16,391,783 at $0.31, where concurrency reaches 255. Seats are unlimited from Lite up. What a request costs varies by engine. ChatGPT full response is 7 credits, ChatGPT web search 5, Copilot 5, and AI Overview including the SERP 5. Perplexity, AI Mode and Gemini are 4, and Google Search and Google News 3 plus 2 per extra page. A synchronous call adds 2 credits on top of all of those. Perplexity stood at 3 credits when we read the same table on 17 August 2026. Grok, listed at 4 credits and marked temporarily unavailable on 17 September, is no longer in the table as read on 19 October 2026. Credits do not roll over: unused credits expire at the end of the billing cycle, and at zero the API returns 403 until you upgrade or the cycle resets.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(prices re-read 2026-09-17 on cloro.dev/pricing) Credit-metered, and the credit table matters more than the plan price.",
+     "evidence": "(prices re-read 2026-10-19 on cloro.dev/pricing, unchanged since 2026-09-17 except that Grok has left the credit table) Credit-metered, and the credit table matters more than the plan price.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "free_tier",
@@ -1592,12 +1592,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-17",
-   "first_observed_at": "2026-09-17"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "Close",
@@ -1608,15 +1608,15 @@
    "entry_price": "$19",
    "entry_price_terms": "Solo, per user · per month, billed month to month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-12, read on their own pricing page) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August and 12 September 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling and enrichment credits included, and the page carries a 30-day money-back guarantee. AI credits are pooled per tier (500 a month on Solo, then 1,000, 1,500 and 2,000 per user up to 10,000, 15,000 and 20,000). Chloe, the AI sales agent Close now leads the page with, is free to access on every plan but spends those AI credits plus telephony as she works, so she is metered rather than included. Call minutes, SMS and dialer credits are billed separately and can meaningfully raise the real cost: outbound calls run about $0.02 a minute and phone lines start at about $1 a month. The Call Assistant add-on is $50 a month per organisation plus $0.02 a minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org. Premium Phone Numbers are listed as a feature with no price attached.",
+   "price_note": "(re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling and enrichment credits included, and the page carries a 30-day money-back guarantee. AI credits are pooled per tier (500 a month on Solo, then 1,000, 1,500 and 2,000 per user up to 10,000, 15,000 and 20,000). Chloe, the AI sales agent Close now leads the page with, is free to access on every plan but spends those AI credits plus telephony as she works, so she is metered rather than included. Call minutes, SMS and dialer credits are billed separately and can meaningfully raise the real cost: outbound calls run about $0.02 a minute and phone lines start at about $1 a month. The Call Assistant add-on is $50 a month per organisation plus $0.02 a minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org. Premium Phone Numbers are listed as a feature with no price attached.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-09-12, read on their own pricing page) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August and 12 September 2026.",
-     "evidence_excerpt": "(re-verified 2026-09-12, read on their own pricing page) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts…",
+     "evidence": "(re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026.",
+     "evidence_excerpt": "(re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "usage_metered",
@@ -1624,7 +1624,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-10-19"
     },
     {
      "flag": "addons_extra",
@@ -1632,12 +1632,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-10-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-12",
-   "first_observed_at": "2026-09-12"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "Code Bulk Discounts",
@@ -1968,11 +1968,20 @@
    "entry_price": "$30",
    "entry_price_terms": "Starter · per month, or $240 a year which works out at $20 a month",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-17 on apps.shopify.com/dripshipper, listed as “Dripshipper: Coffee & Tea”) Starter $30 a month, Professional $99 and Elite $197, each with a 14-day free trial — all three unchanged since 19 August 2026. Starter is also sold annually at $240 a year, which is $20 a month for the same tier, and it is the only tier with a published annual rate. The listing does spell out what the steps buy: Starter carries unlimited orders, unlimited products, automatic order fulfilment, a dedicated support team and 1-click product add; Professional adds live monthly training, priority support and a dedicated success manager; Elite adds monthly one-on-one coaching on top. Product and shipping cost is charged per order on top of the subscription. All charges are billed in USD and recur every 30 days. The listing now carries 159 reviews averaging 4.8, up from 142 averaging 4.7 on 19 August, distributed 130 / 14 / 7 / 4 / 4 from five down to one. Developer The Doughty Organization; the app launched 11 April 2018.",
-   "flags": [],
+   "price_note": "(re-read 2026-10-19 on apps.shopify.com/dripshipper, listed as “Dripshipper: Coffee & Tea”, and on dripshipper.io/pricing) Starter $30 a month, Professional $99 and Elite $197, each listed with a 14-day free trial — all three unchanged since 19 August 2026. The help centre's cancellation article (2 September 2026) contradicts that for Elite, saying it has no trial and bills immediately. Starter is also sold annually at $240 a year, which is $20 a month for the same tier, and it is the only tier with a published annual rate. The listing does spell out what the steps buy: Starter carries unlimited orders, unlimited products, automatic order fulfilment, a dedicated support team and 1-click product add; Professional adds live monthly training, priority support and a dedicated success manager; Elite adds monthly one-on-one coaching on top. Product and shipping cost is charged per order on top of the subscription, as a Dripshipper invoice rather than a deduction from your checkout. An FDA-Compliant Address Service is a separate $30 a month add-on. Dripshipper's own pricing page shows no annual rate; the $240 Starter annual appears on the App Store listing only. All charges are billed in USD and recur every 30 days. The listing now carries 159 reviews averaging 4.8, up from 142 averaging 4.7 on 19 August, distributed 130 / 14 / 7 / 4 / 4 from five down to one on 17 September; on 19 October the listing still showed 159 at 4.8, now with 131 five-star, 13 four-star and 8 three-star. Developer The Doughty Organization; the app launched 11 April 2018.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "An FDA-Compliant Address Service is a separate $30 a month add-on.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/dripshipper",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-19"
+    }
+   ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-17",
-   "first_observed_at": "2026-09-17"
+   "price_verified_at": "2026-10-19",
+   "first_observed_at": "2026-10-19"
   },
   {
    "name": "DropGenius",
