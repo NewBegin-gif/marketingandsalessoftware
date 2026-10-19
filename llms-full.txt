@@ -194,17 +194,17 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Clay
 - Review: https://marketingandsalessoftware.com/clay-review.html
 - Verdict: Clay: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder.
-- Price: (re-verified 2026-09-14 on their own pricing page; both billing terms read from the page markup, and no figure has moved since our August reading) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update. The free plan is real: 6,000 actions and…
+- Price: (re-verified 2026-10-19 on clay.com/pricing; both billing terms read from the page markup, no figure has moved since our August reading, and our reading of the headline prices was corrected that day) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August…
 
 ## Cloro
 - Review: https://marketingandsalessoftware.com/cloro-review.html
 - Verdict: Cloro: Free is $0 for 500 credits a month, one concurrent job and one seat. The free tier is a sampler, not a trial of the real thing.
-- Price: (prices re-read 2026-09-17 on cloro.dev/pricing) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat.
+- Price: (prices re-read 2026-10-19 on cloro.dev/pricing, unchanged since 2026-09-17 except that Grok has left the credit table) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat.
 
 ## Close
 - Review: https://marketingandsalessoftware.com/close-review.html
 - Verdict: Close: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually. The built-in calling is the draw.
-- Price: (re-verified 2026-09-12, read on their own pricing page) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August and 12 September 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling and enrichment credits included, and…
+- Price: (re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling…
 
 ## Code Bulk Discounts
 - Review: https://marketingandsalessoftware.com/code-bulk-discounts-review.html
@@ -253,8 +253,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Dripshipper
 - Review: https://marketingandsalessoftware.com/dripshipper-review.html
-- Verdict: Dripshipper: Starter $30 a month, Professional $99 and Elite $197, each with a 14-day free trial. Read the ladder before you climb it.
-- Price: (re-read 2026-09-17 on apps.shopify.com/dripshipper, listed as “Dripshipper: Coffee & Tea”) Starter $30 a month, Professional $99 and Elite $197, each with a 14-day free trial — all three unchanged since 19 August 2026. Starter is also sold annually at $240 a year, which is $20 a month for the same tier, and it is the only tier with a published annual rate.
+- Verdict: Dripshipper: Starter $30 a month, Professional $99 and Elite $197, each listed with a 14-day free trial. Read the ladder before you climb it.
+- Price: (re-read 2026-10-19 on apps.shopify.com/dripshipper, listed as “Dripshipper: Coffee & Tea”, and on dripshipper.io/pricing) Starter $30 a month, Professional $99 and Elite $197, each listed with a 14-day free trial — all three unchanged since 19 August 2026. The help centre's cancellation article (2 September 2026) contradicts that for Elite, saying it has no trial and bills immediately.
 
 ## DropGenius
 - Review: https://marketingandsalessoftware.com/dropgenius-review.html
