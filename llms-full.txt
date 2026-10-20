@@ -664,7 +664,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Sender
 - Review: https://marketingandsalessoftware.com/sender-review.html
 - Verdict: Sender: The Free Forever plan costs nothing, needs no card. The cheapest paid price only covers 500 subscribers, fewer than the 2,500 on the free plan.
-- Price: (read 2026-10-13 in a live browser on sender.net/pricing from a Netherlands connection, which shows euros, in both the annual and the monthly view with the FAQ opened; the US copy of the same page read the same night lists Standard at $108 a year, $75.60 the first year, and Professional at $180 a year, $126 the first year) Sender prices by the size of your list on a slider, and every figure here is for the lowest…
+- Price: (re-verified 2026-10-20; first read 2026-10-13 in a live browser on sender.net/pricing from a Netherlands connection, which shows euros, in both the annual and the monthly view with the FAQ opened; the US copy of the same page read the same night lists Standard at $108 a year, $75.60 the first year, and Professional at $180 a year, $126 the first year) Sender prices by the size of your list on a slider, and every…
 
 ## SEOKart
 - Review: https://marketingandsalessoftware.com/seokart-review.html
