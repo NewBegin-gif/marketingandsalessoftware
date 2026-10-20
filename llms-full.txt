@@ -649,7 +649,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Selleasy
 - Review: https://marketingandsalessoftware.com/selleasy-review.html
 - Verdict: Selleasy: Free up to 50 orders a month, $9 from 51 to 500, $19 from 501 to 1,000. The meter is your whole store, not the app.
-- Price: (prices read 2026-09-19 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/products/shopify-upsell-app-selleasy) Billed in USD. The App Store listing shows one ladder, Starter, and it is priced by your store's total monthly order count rather than by anything the app does: free up to 50 orders a month, $9 from 51 to 500, $19 from 501 to 1,000, and $29 above 1,000.
+- Price: (prices read 2026-09-19 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/products/shopify-upsell-app-selleasy; re-verified 2026-10-20 on logbase.io/selleasy/pricing) Billed in USD. The App Store listing shows one ladder, Starter, and it is priced by your store's total monthly order count rather than by anything the app does: free up to 50 orders a month, $9 from 51 to 500, $19 from 501 to 1,000, and…
 
 ## Seller Investigators
 - Review: https://marketingandsalessoftware.com/seller-investigators-review.html
