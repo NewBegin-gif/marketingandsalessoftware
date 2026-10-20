@@ -3024,10 +3024,10 @@
    "entry_price": "$2.99",
    "entry_price_terms": "a month, or $28.70 a year, 7-day trial",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-20 on apps.shopify.com/custom-falling-effect) Billed in USD, with recurring charges billed every 30 days. There are two plans and the cheaper one is almost certainly not for you: the Development plan is free, unlocks every feature, and the listing states its limit plainly — development and partner stores only, with billing activated on upgrade. A live shop is therefore on the paid plan from day one. Monthly Plan is $2.99 a month, or $28.70 a year with the annual saving the listing puts at 20%, and it carries the falling effect, the AI logo maker, custom image upload, appearance and density controls, the marquee logo slider, dozens of holiday presets, support for all themes and live chat support. A 7-day free trial applies to the paid plan. Effective Apps' own site, effectify.io, publishes no pricing page at all — /pricing and /apps both return 404, checked the same day, and the home page carries no prices — so unlike most Shopify apps there is no upper half of the ladder hiding on a vendor site. What the listing shows is the whole price record.",
+   "price_note": "(prices read 2026-09-20 on apps.shopify.com/custom-falling-effect; re-verified 2026-10-20 on the same listing, unchanged) Billed in USD, with recurring charges billed every 30 days. There are two plans and the cheaper one is almost certainly not for you: the Development plan is free, unlocks every feature, and the listing states its limit plainly — development and partner stores only, with billing activated on upgrade. A live shop is therefore on the paid plan from day one. Monthly Plan is $2.99 a month, or $28.70 a year with the annual saving the listing puts at 20%, and it carries the falling effect, the AI logo maker, custom image upload, appearance and density controls, the marquee logo slider, dozens of holiday presets, support for all themes and live chat support. A 7-day free trial applies to the paid plan. Effective Apps' own site, effectify.io, publishes no pricing page at all — /pricing and /apps both return 404, checked the same day, and the home page carries no prices — so unlike most Shopify apps there is no upper half of the ladder hiding on a vendor site. What the listing shows is the whole price record.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-20",
+   "price_verified_at": "2026-10-20",
    "first_observed_at": "2026-09-20"
   },
   {
@@ -5653,20 +5653,20 @@
    "entry_price": "$5.99",
    "entry_price_terms": "Pro · per month, or $49.99 a year (30% less)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-20 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus three paid tiers, unchanged since the readings of 18 August and 13 September 2026. Free: unlimited countries and IPs, last 1,000 visitor records, 500 blocked visitors a month. Pro $5.99 a month or $49.99 a year (30% less), Advanced $9.49 or $79.99 a year (30% less), Growth $49 or $490 a year (17% less). Trials are 3 days on Pro and Advanced and 7 days on Growth. Rating 4.6 from 95 ratings (78 five-star, four four-star, two three-star, one two-star, ten one-star). Listed as 'Country Blocker Fraud Securify' from siimple.ai, with Shopify's Built for Shopify badge and Shopify Flow actions and triggers.",
+   "price_note": "(re-verified 2026-10-20 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus three paid tiers, unchanged since the readings of 18 August, 13 September and 20 September 2026. Free: unlimited countries and IPs, last 1,000 visitor records, 500 blocked visitors a month. Pro $5.99 a month or $49.99 a year (30% less), Advanced $9.49 or $79.99 a year (30% less), Growth $49 or $490 a year (17% less). Trials are 3 days on Pro and Advanced and 7 days on Growth. Rating as read 20 September 2026: 4.6 from 95 ratings (78 five-star, four four-star, two three-star, one two-star, ten one-star). Listed as 'Country Blocker Fraud Securify' from siimple.ai, with Shopify's Built for Shopify badge and Shopify Flow actions and triggers.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-09-20 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus three paid tiers, unchanged since the readings of 18 August and 13 September 2026.",
+     "evidence": "(re-verified 2026-10-20 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus three paid tiers, unchanged since the readings of 18 August, 13 September and 20 September 2026.",
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/easy-block-customer-ip-country",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-20"
+     "verified_at": "2026-10-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-20",
-   "first_observed_at": "2026-09-20"
+   "price_verified_at": "2026-10-20",
+   "first_observed_at": "2026-10-20"
   },
   {
    "name": "Seel",
@@ -5729,11 +5729,11 @@
    "category": "Growth & Revenue",
    "domain": "logbase.io",
    "review_url": "https://aibuildermarketplace.com/b2b/selleasy-review/",
-   "from_price_usd_mo": 9.0,
-   "entry_price": "$9",
-   "entry_price_terms": "Starter Tier II · per month for 51-500 total store orders",
+   "from_price_usd_mo": 15.0,
+   "entry_price": "$15",
+   "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-19 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/products/shopify-upsell-app-selleasy) Billed in USD. The App Store listing shows one ladder, Starter, and it is priced by your store's total monthly order count rather than by anything the app does: free up to 50 orders a month, $9 from 51 to 500, $19 from 501 to 1,000, and $29 above 1,000. All four steps carry the same 18 upsell and cross-sell strategies, 50 free AI recommendations, free setup on a call and chat, email and Zoom support, with a 30-day free trial on the paid steps.\n\nLogbase's own pricing page adds two tiers the listing does not show. Pro is $49 a month or $499 a year — $42 a month, which the site says saves $89 — and lifts the order limit entirely while adding 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $99 a month or $1,009 a year — $84 a month, saving $179 — adding 2,500 AI recommendations a month, advanced customization, a rules engine, an AOV advisor and priority support. An Enterprise tier is quoted on request.",
+   "price_note": "(prices read 2026-09-19 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/products/shopify-upsell-app-selleasy; re-verified 2026-10-20 on logbase.io/selleasy/pricing) Billed in USD. The App Store listing shows one ladder, Starter, and it is priced by your store's total monthly order count rather than by anything the app does: free up to 50 orders a month, $9 from 51 to 500, $19 from 501 to 1,000, and $29 above 1,000. All four steps carry the same 18 upsell and cross-sell strategies, 50 free AI recommendations, free setup on a call and chat, email and Zoom support, with a 30-day free trial on the paid steps.\n\nLogbase's own pricing page adds two tiers the listing does not show. Pro is $49 a month or $499 a year — $42 a month, which the site says saves $89 — and lifts the order limit entirely while adding 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $99 a month or $1,009 a year — $84 a month, saving $179 — adding 2,500 AI recommendations a month, advanced customization, a rules engine, an AOV advisor and priority support. An Enterprise tier is quoted on request.\n\nRe-read on 20 October 2026, Logbase's dedicated pricing page at logbase.io/selleasy/pricing carries the same four-step Starter ladder by store orders (free to 50, $9 to 500, $19 to 1,000, $29 above) and the same Pro ($49, or $499 a year) and Max ($99, or $1,009 a year) figures, with a 30-day free trial on any plan and a yearly toggle labelled 15% off, which the figures bear out ($588 against $499, $1,188 against $1,009). The same page also prices Starter a second way: its plan cards and comparison table read 'Starts at $15 per month', or $153 billed yearly. The page does not reconcile the two, so check the charge Shopify shows at install.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5741,7 +5741,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-10-20"
     },
     {
      "flag": "free_tier",
@@ -5749,11 +5749,11 @@
      "evidence_excerpt": "Every Starter tier counts total store orders, so the free plan's 50-order ceiling is reached by any shop doing two orders a day whether or not a single upsell ever fired — and, read the other way, a …",
      "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-10-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-10-20",
    "first_observed_at": "2026-09-19"
   },
   {
