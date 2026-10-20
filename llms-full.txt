@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 157 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-20.
+> All 159 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-20.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -50,6 +50,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/amplemarket-review.html
 - Verdict: Amplemarket: The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase.
 - Price: (re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial.
+
+## Assortion
+- Review: https://marketingandsalessoftware.com/assortion-review.html
+- Verdict: Assortion has one feature set and charges by the size of your store. The price follows your total store orders.
+- Price: (read 2026-10-15 on assortion.com/pricing and the Shopify App Store listing apps.shopify.com/assortion, prices in USD) Assortion has one feature set and charges by the size of your store: the price depends on your total monthly store orders, not only the orders that include an upsell. 0 to 50 orders a month costs $9.99, 51 to 200 costs $19.99, 201 to 500 costs $34.99, 501 to 1,000 costs $59.99, 1,001 to 2,500…
 
 ## Atlas AI Store Builder
 - Review: https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html
@@ -440,6 +445,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/kartra-review.html
 - Verdict: Kartra: The $119 plan is now called Starter and the $229 plan Growth. If your core need is polished course delivery, Kajabi's creator features are stronger.
 - Price: (re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the same.
+
+## Kedra Checkout Rules & Upsells
+- Review: https://marketingandsalessoftware.com/kedra-checkout-rules-upsells-review.html
+- Verdict: Kedra Checkout Rules & Upsells: Starter is $6.99 a month, or $58.70 a year. The free plan runs a single rule with a single condition, and Starter only three.
+- Price: (read 2026-10-15 on the Shopify App Store listing apps.shopify.com/kedra-checkout-rules-1, prices in USD) Four plans, billed through your Shopify invoice. Free allows 1 active rule in total, of any type, with 1 condition per rule and 7 days of checkout analytics.
 
 ## Kit
 - Review: https://marketingandsalessoftware.com/kit-review.html
