@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 270,
-  "flags": 420,
+  "tools": 272,
+  "flags": 421,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -436,6 +436,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-01",
    "first_observed_at": null
+  },
+  {
+   "name": "Assortion",
+   "category": "E-commerce",
+   "domain": "assortion.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/assortion-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "0-50 orders · per month, set by total monthly store orders, not only orders with an…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on assortion.com/pricing and the Shopify App Store listing apps.shopify.com/assortion, prices in USD) Assortion has one feature set and charges by the size of your store: the price depends on your total monthly store orders, not only the orders that include an upsell. 0 to 50 orders a month costs $9.99, 51 to 200 costs $19.99, 201 to 500 costs $34.99, 501 to 1,000 costs $59.99, 1,001 to 2,500 costs $89.99, 2,501 to 5,000 costs $149.99 and more than 5,000 costs $199.99. The two top tiers overlap at exactly 5,000 orders on the page. The Shopify listing shows only the first three tiers and bills every 30 days. Development stores use the app for free with all features. Paid plans list a 14-day free trial, cart customization, upsells, product add-ons and live support. No annual price is shown.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "Atlas AI Store Builder",
@@ -3188,6 +3203,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-24",
    "first_observed_at": null
+  },
+  {
+   "name": "Kedra Checkout Rules & Upsells",
+   "category": "E-commerce",
+   "domain": "kedra.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/kedra-checkout-rules-upsells-review/",
+   "from_price_usd_mo": 6.99,
+   "entry_price": "$6.99",
+   "entry_price_terms": "Starter · billed monthly through the Shopify invoice in USD",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on the Shopify App Store listing apps.shopify.com/kedra-checkout-rules-1, prices in USD) Four plans, billed through your Shopify invoice. Free allows 1 active rule in total, of any type, with 1 condition per rule and 7 days of checkout analytics. Starter is $6.99 a month, or $58.70 a year, which the listing calls a 30% saving: 3 active rules in total, 3 conditions per rule and full checkout analytics. Starter Plus is $8.99 a month or $75.50 a year and adds post-purchase upsell offers. Unlimited is $12.99 a month or $109.10 a year, with unlimited checkout validation, payment and shipping, and shipping discount rules, and no limit on conditions per rule. Paid plans list a 7-day free trial. One inconsistency to know about: the listing counts the rule limit in total across all types, while Kedra's own pricing documentation describes it per rule type. The documentation also says stores that installed before 3 August 2026 keep unlimited rules.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan runs a single rule with a single condition, and Starter only three, and the listing and Kedra's own documentation disagree on whether that limit is per rule type or in total.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/kedra-checkout-rules-1",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "Kit",
