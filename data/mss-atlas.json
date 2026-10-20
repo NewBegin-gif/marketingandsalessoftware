@@ -4322,7 +4322,7 @@
    "entry_price": "$89",
    "entry_price_terms": "per month (4 AI channels, 50 prompts, 5 seats)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and again on 2026-09-28 against the vendor's own pricing page) Essentials $89/mo (4 AI channels, 50 prompts, 5 seats), Professional $349/mo (10 AI channels, 100 prompts), Enterprise from $899/mo with custom terms and volume. Annual billing is $890 and $3,490 a year respectively, which the page describes as two months free. There is a 7-day free trial with no credit card, after which the first paid month is half price — $45 instead of $89, or $175 instead of $349.",
+   "price_note": "(re-verified 2026-08-17, 2026-09-28 and again on 2026-10-20 against the vendor's own pricing page) Essentials $89/mo (4 AI channels, 50 prompts, 5 seats), Professional $349/mo (10 AI channels, 100 prompts), Enterprise from $899/mo with custom terms and volume. Annual billing is $890 and $3,490 a year respectively, which the page describes as two months free. There is a 7-day free trial with no credit card, after which the first paid month is half price — $45 instead of $89, or $175 instead of $349. The comparison table marks that first-month discount as not available on Enterprise.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -4330,11 +4330,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-10-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-10-20",
    "first_observed_at": "2026-08-17"
   },
   {
@@ -5828,23 +5828,23 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-10-13 in a live browser on sender.net/pricing from a Netherlands connection, which shows euros, in both the annual and the monthly view with the FAQ opened; the US copy of the same page read the same night lists Standard at $108 a year, $75.60 the first year, and Professional at $180 a year, $126 the first year) Sender prices by the size of your list on a slider, and every figure here is for the lowest step. The Free Forever plan costs nothing, needs no card, never expires and covers up to 2,500 subscribers and 15,000 emails a month for one seat, with newsletters, automation, landing pages, signup forms and popups and transactional emails; your emails and forms carry Sender branding. Standard is 8.03€ a month on monthly billing for up to 500 subscribers and 6,000 emails a month, with 3 seats, no branding, SMS, unlimited templates and landing pages, A/B testing and ecommerce reports. Professional is 13.39€ a month for the same 500 subscribers and 12,000 emails, with 10 seats, a monthly SMS credit, advanced automation and reports, priority support and a dedicated IP on request at no extra cost. Annual billing is the monthly price times twelve (96.39€ for Standard, 160.65€ for Professional), with 30% off the first year for first-time users: 67.47€ and 112.46€. Monthly email allowance on paid plans is 12 times your subscriber count on Standard and 24 times on Professional, with no daily sending limits. Enterprise is custom. A pay-as-you-go option sells credits without a subscription: 26€ for 5,000 emails. SMS is bought per message by destination country (0.108€ to the Netherlands on our reading). Prices exclude VAT. Every new account gets a 14-day Professional trial with no card, after which it falls back to Free.",
+   "price_note": "(re-verified 2026-10-20; first read 2026-10-13 in a live browser on sender.net/pricing from a Netherlands connection, which shows euros, in both the annual and the monthly view with the FAQ opened; the US copy of the same page read the same night lists Standard at $108 a year, $75.60 the first year, and Professional at $180 a year, $126 the first year) Sender prices by the size of your list on a slider, and every figure here is for the lowest step. The Free Forever plan costs nothing, needs no card, never expires and covers up to 2,500 subscribers and 15,000 emails a month for one seat, with newsletters, automation, landing pages, signup forms and popups and transactional emails; your emails and forms carry Sender branding. Standard is 8.01€ a month on monthly billing for up to 500 subscribers and 6,000 emails a month, with 3 seats, no branding, SMS, unlimited templates and landing pages, A/B testing and ecommerce reports. Professional is 13.36€ a month for the same 500 subscribers and 12,000 emails, with 10 seats, a monthly SMS credit, advanced automation and reports, priority support and, on plans of 20,000 subscribers and up, a dedicated IP on request at no extra cost. Annual billing is the monthly price times twelve (96.18€ for Standard, 160.30€ for Professional), with 30% off the first year for first-time users: 67.32€ and 112.21€. Monthly email allowance on paid plans is 12 times your subscriber count on Standard and 24 times on Professional, with no daily sending limits. Enterprise is custom. A pay-as-you-go option sells credits without a subscription: 26€ for 5,000 emails. SMS is bought per message by destination country (0.107€ to the Netherlands on our reading of 20 October 2026). Prices exclude VAT. Every new account gets a 14-day Professional trial with no card, after which it falls back to Free.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Professional is 13.39€ a month for the same 500 subscribers and 12,000 emails, with 10 seats, a monthly SMS credit, advanced automation and reports, priority support and a dedicated IP on request at no extra cost.",
-     "evidence_excerpt": "Professional is 13.39€ a month for the same 500 subscribers and 12,000 emails, with 10 seats, a monthly SMS credit, advanced automation and reports, priority support and a dedicated IP on request at …",
+     "evidence": "Professional is 13.36€ a month for the same 500 subscribers and 12,000 emails, with 10 seats, a monthly SMS credit, advanced automation and reports, priority support and, on plans of 20,000 subscribers and up, a dedicated IP on request at no extra cost.",
+     "evidence_excerpt": "Professional is 13.36€ a month for the same 500 subscribers and 12,000 emails, with 10 seats, a monthly SMS credit, advanced automation and reports, priority support and, on plans of 20,000 subscribe…",
      "source_url": "https://www.sender.net/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-10-20"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing is the monthly price times twelve (96.39€ for Standard, 160.65€ for Professional), with 30% off the first year for first-time users: 67.47€ and 112.46€.",
+     "evidence": "Annual billing is the monthly price times twelve (96.18€ for Standard, 160.30€ for Professional), with 30% off the first year for first-time users: 67.32€ and 112.21€.",
      "evidence_excerpt": null,
      "source_url": "https://www.sender.net/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-10-20"
     },
     {
      "flag": "free_tier",
@@ -5852,12 +5852,12 @@
      "evidence_excerpt": "The Free Forever plan costs nothing, needs no card, never expires and covers up to 2,500 subscribers and 15,000 emails a month for one seat, with newsletters, automation, landing pages, signup forms …",
      "source_url": "https://www.sender.net/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-10-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-10-20",
+   "first_observed_at": "2026-10-20"
   },
   {
    "name": "SEO Space",
@@ -6909,7 +6909,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-09-09 and re-read unchanged 2026-09-26 on tickettailor.com/pricing with the currency switched to USD) No subscription and no contract: pay-as-you-sell $0.85 a ticket, or prepaid credits from $0.70 down to $0.34 depending on volume — 100 credits (the minimum) cost $70, 500 cost $300, 1,000 cost $520 and 20,000 cost $6,800. Credits carry no time limit. Free events are free up to 5,000 tickets a year, the first five paid tickets cost nothing, and charities, B Corps, PTAs and not-for-profits get 50% off, as do very low-priced tickets. Seated tickets cost two credits rather than one. Prices switch across GBP, EUR, USD, AUD and CAD. Stripe, PayPal or Square fees apply separately and Ticket Tailor never touches the payment. Note one contradiction in their own FAQ: one answer puts the free-ticket allowance at 5,000 a year, another at 2,000.",
+   "price_note": "(re-verified 2026-09-09 and re-read unchanged 2026-09-26 on tickettailor.com/pricing with the currency switched to USD) No subscription and no contract: pay-as-you-sell $0.85 a ticket, or prepaid credits from $0.70 down to $0.34 depending on volume — 100 credits (the minimum) cost $70, 500 cost $300, 1,000 cost $520 and 20,000 cost $6,800. Credits carry no time limit. Free events are free up to 5,000 tickets a year, the first five paid tickets cost nothing, and charities, B Corps, PTAs and not-for-profits get 50% off, as do very low-priced tickets. Seated tickets cost two credits rather than one. Prices switch across GBP, EUR, USD, AUD and CAD. Stripe, PayPal or Square fees apply separately and Ticket Tailor never touches the payment. Note one contradiction in their own FAQ: one answer puts the free-ticket allowance at 5,000 a year, another at 2,000. Re-read on 2026-10-20, when the page served pounds rather than dollars: pay as you go £0.60 a ticket and prepaid from £0.22, both plus VAT, with no fees for up to 5,000 free tickets a year. The help centre's cost article, read the same day, adds the extras billed outside usage: white label at $49 a month (£39, €45) with a custom domain included, or a custom domain alone at $8 a month (£7).",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6917,11 +6917,11 @@
      "evidence_excerpt": "(re-verified 2026-09-09 and re-read unchanged 2026-09-26 on tickettailor.com/pricing with the currency switched to USD) No subscription and no contract: pay-as-you-sell $0.85 a ticket, or prepaid cre…",
      "source_url": "https://www.tickettailor.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-10-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-10-20",
    "first_observed_at": "2026-09-09"
   },
   {
