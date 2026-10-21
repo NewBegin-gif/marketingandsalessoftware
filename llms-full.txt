@@ -589,7 +589,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pickeasy
 - Review: https://marketingandsalessoftware.com/pickeasy-review.html
 - Verdict: Pickeasy: $215.99 for Smart, $323.99 for Premium and $647.99 for Custom. The rate features depend on something Pickeasy does not sell.
-- Price: (read 2026-09-27 on apps.shopify.com/order-delivery-date-time and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as total store orders, with date and time slots, order limits, preparation…
+- Price: (read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/order-delivery-date-time and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as total store orders, with date and…
 
 ## Pingtree
 - Review: https://marketingandsalessoftware.com/pingtree-review.html
@@ -629,7 +629,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Rapid Search
 - Review: https://marketingandsalessoftware.com/rapid-search-review.html
 - Verdict: Rapid Search: Basic 1 is $14 a month, or $140 a year, for 5,000 sessions and 100,000 products. The meter is your traffic, not your searches.
-- Price: (read 2026-09-26 on apps.shopify.com/rapid-search and on the vendor's own pricing page at rapidsearch.app/pricing) Every plan carries every feature; the tiers differ only in monthly sessions and catalogue size. The Shopify listing shows four tiers.
+- Price: (read 2026-09-26, re-read 2026-10-21 without changes, on apps.shopify.com/rapid-search and on the vendor's own pricing page at rapidsearch.app/pricing) Every plan carries every feature; the tiers differ only in monthly sessions and catalogue size. The Shopify listing shows four tiers.
 
 ## Redeemly
 - Review: https://marketingandsalessoftware.com/redeemly-review.html
@@ -764,7 +764,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Timesact Preorder
 - Review: https://marketingandsalessoftware.com/timesact-preorder-review.html
 - Verdict: Timesact Preorder: Free costs $0 and covers 20 orders a month on unlimited products. The Fixed price depends on your Shopify plan, not on what you use.
-- Price: (read 2026-09-25 on timesact.com/pages/pricing, including its volume selector and yearly toggle, and on the Shopify App Store listing apps.shopify.com/timesact-discount-pre-order, which shows the same figures) Two families of plans, all billed in USD through Shopify every 30 days with no transaction fees. Free costs $0 and covers 20 orders a month on unlimited products, unlimited email sending and sign-ups,…
+- Price: (read 2026-09-25, re-read 2026-10-21 without changes, on timesact.com/pages/pricing, including its volume selector and yearly toggle, and on the Shopify App Store listing apps.shopify.com/timesact-discount-pre-order, which shows the same figures) Two families of plans, all billed in USD through Shopify every 30 days with no transaction fees. Free costs $0 and covers 20 orders a month on unlimited products,…
 
 ## TnC
 - Review: https://marketingandsalessoftware.com/tnc-review.html
