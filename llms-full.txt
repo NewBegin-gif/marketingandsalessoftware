@@ -294,7 +294,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Essential Announcement Bar
 - Review: https://marketingandsalessoftware.com/essential-announcement-bar-review.html
 - Verdict: Essential Announcement Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The bar the listing leads with is not on the free plan.
-- Price: (read 2026-09-29 on apps.shopify.com/essential-announcement-bar, on essential-apps.com/announcement-bar and in the vendor's help articles on bar types and on views) Four plans priced on monthly bar views. Free covers up to 2,000 views a month with unlimited simple bars and unlimited rotating bars, each with a link or button.
+- Price: (read 2026-09-29 on apps.shopify.com/essential-announcement-bar, on essential-apps.com/announcement-bar and in the vendor's help articles on bar types and on views; plan prices, annual prices, view limits and the 7-day trial re-verified unchanged on the Shopify App Store listing on 2026-10-21) Four plans priced on monthly bar views. Free covers up to 2,000 views a month with unlimited simple bars and unlimited…
 
 ## Essential Countdown Timer Bar
 - Review: https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html
@@ -374,7 +374,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Frase
 - Review: https://marketingandsalessoftware.com/frase-review.html
 - Verdict: Frase: Starter $39/mo billed yearly against $49/mo monthly. The article quotas pinch if you publish at volume (overage docs bill each).
-- Price: (re-verified 2026-10-03 against Frase's own machine-readable pricing file frase.io/pricing.md and the pricing page; every plan price below was unchanged from our 17 August and 14 September readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a…
+- Price: (re-verified 2026-10-21 against Frase's own machine-readable pricing file frase.io/pricing.md; every plan price below was unchanged from our 17 August, 14 September and 3 October readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a month,…
 
 ## FullEnrich
 - Review: https://marketingandsalessoftware.com/fullenrich-review.html
@@ -578,8 +578,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Parallel AI
 - Review: https://marketingandsalessoftware.com/parallel-ai-review.html
-- Verdict: Parallel AI — Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card.
-- Price: (read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise…
+- Verdict: Parallel AI — Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card.
+- Price: (read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO,…
 
 ## PartnerStack
 - Review: https://marketingandsalessoftware.com/partnerstack-review.html

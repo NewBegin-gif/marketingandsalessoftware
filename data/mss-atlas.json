@@ -2245,7 +2245,7 @@
    "entry_price": "$6.99",
    "entry_price_terms": "Starter · per month for up to 20,000 bar views, or $67.08 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-29 on apps.shopify.com/essential-announcement-bar, on essential-apps.com/announcement-bar and in the vendor's help articles on bar types and on views) Four plans priced on monthly bar views. Free covers up to 2,000 views a month with unlimited simple bars and unlimited rotating bars, each with a link or button. Starter is $6.99 a month, or $67.08 a year at a stated 20% saving, for up to 20,000 views, and adds running-line (scrolling marquee) bars and icons, including your own uploaded icons. Essential is $9.99 a month or $95.88 a year for up to 50,000 views, and adds cart-page bars, scheduling, geolocation targeting and translations. Professional is $29.99 a month or $287.88 a year for unlimited views and every premium feature. Paid plans carry a 7-day free trial. A view is counted every time a bar is rendered: per page load, not per visitor, and two bars on one page count twice. There is no overage charge: past the limit you get an email, and if you do not upgrade within 3 days your bars are unpublished; views reset on the 1st of the month, but the help centre says the bars are not published again automatically. All charges are in USD, billed through Shopify every 30 days. Developer Essential Apps, with an address in Vilnius, Lithuania; the listing gives a launch date of 9 August 2023 and shows 1,302 reviews.",
+   "price_note": "(read 2026-09-29 on apps.shopify.com/essential-announcement-bar, on essential-apps.com/announcement-bar and in the vendor's help articles on bar types and on views; plan prices, annual prices, view limits and the 7-day trial re-verified unchanged on the Shopify App Store listing on 2026-10-21) Four plans priced on monthly bar views. Free covers up to 2,000 views a month with unlimited simple bars and unlimited rotating bars, each with a link or button. Starter is $6.99 a month, or $67.08 a year at a stated 20% saving, for up to 20,000 views, and adds running-line (scrolling marquee) bars and icons, including your own uploaded icons. Essential is $9.99 a month or $95.88 a year for up to 50,000 views, and adds cart-page bars, scheduling, geolocation targeting and translations. Professional is $29.99 a month or $287.88 a year for unlimited views and every premium feature. Paid plans carry a 7-day free trial. A view is counted every time a bar is rendered: per page load, not per visitor, and two bars on one page count twice. There is no overage charge: past the limit you get an email, and if you do not upgrade within 3 days your bars are unpublished; views reset on the 1st of the month, but the help centre says the bars are not published again automatically. All charges are in USD, billed through Shopify every 30 days. Developer Essential Apps, with an address in Vilnius, Lithuania; the listing gives a launch date of 9 August 2023 and shows 1,302 reviews.",
    "flags": [
     {
      "flag": "free_tier",
@@ -2253,11 +2253,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/essential-announcement-bar",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-29"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-29",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-29"
   },
   {
@@ -2707,7 +2707,7 @@
    "entry_price": "$39",
    "entry_price_terms": "per month billed yearly ($49 monthly), 1 seat, 1 site",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 against Frase's own machine-readable pricing file frase.io/pricing.md and the pricing page; every plan price below was unchanged from our 17 August and 14 September readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a month, Content Guard watching 10 pages. Professional $103/mo yearly against $129/mo monthly: 3 seats, 5 sites, 40 articles and 250 audit pages, extra seats $29/mo. Scale $239/mo yearly against $299/mo monthly: 5 seats, up to 10 domains, 100 articles and 1,000 audit pages, Content Guard watching 300 pages, extra seats $29/mo. The trial is 7 days with no credit card. FraseCMS hosting is included free up to 100,000 page views a month; Basic at $19/mo on top of a paid plan raises that to 250,000, drops the Frase badge and lets the blog sit on your own domain or a subdirectory, and Pro is $99/mo at a million page views, with $1.00 and $0.50 per extra 1,000 page views and a spend cap set at the base price by default. On Starter, Frase stops at the limit rather than billing you extra; on Professional and Scale you can switch on pay-as-you-go capacity, so there the sticker price is a floor rather than a ceiling: Professional adds $5 per extra article, $0.50 per audit page and $0.25 per AI prompt, Scale $4, $0.40 and $0.20. API, MCP and CLI requests are capped at 5,000, 20,000 and 50,000 a month on the three self-serve plans. Every plan also tracks how AI answers mention your brand (Frase calls it AI Visibility), daily and with alerts: Starter covers ChatGPT and Google AI, Professional adds Perplexity, and Scale adds Claude and Gemini (pricing and feature pages read 21 October 2026). How many prompts each plan tracks for this is not stated.",
+   "price_note": "(re-verified 2026-10-21 against Frase's own machine-readable pricing file frase.io/pricing.md; every plan price below was unchanged from our 17 August, 14 September and 3 October readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a month, Content Guard watching 10 pages. Professional $103/mo yearly against $129/mo monthly: 3 seats, 5 sites, 40 articles and 250 audit pages, extra seats $29/mo. Scale $239/mo yearly against $299/mo monthly: 5 seats, up to 10 domains, 100 articles and 1,000 audit pages, Content Guard watching 300 pages, extra seats $29/mo. The trial is 7 days with no credit card. FraseCMS hosting is included free up to 100,000 page views a month; Basic at $19/mo on top of a paid plan raises that to 250,000, drops the Frase badge and lets the blog sit on your own domain or a subdirectory, and Pro is $99/mo at a million page views, with $1.00 and $0.50 per extra 1,000 page views and a spend cap set at the base price by default. On Starter, Frase stops at the limit rather than billing you extra; on Professional and Scale you can switch on pay-as-you-go capacity, so there the sticker price is a floor rather than a ceiling: Professional adds $5 per extra article, $0.50 per audit page and $0.25 per AI prompt, Scale $4, $0.40 and $0.20. API, MCP and CLI requests are capped at 5,000, 20,000 and 50,000 a month on the three self-serve plans. Every plan also tracks how AI answers mention your brand (Frase calls it AI Visibility), daily and with alerts: Starter covers ChatGPT and Google AI, Professional adds Perplexity, and Scale adds Claude and Gemini (pricing and feature pages read 21 October 2026). How many prompts each plan tracks for this is not stated.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -2715,7 +2715,7 @@
      "evidence_excerpt": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button — it speeds up briefs, it doesn't replace the writing…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "addons_extra",
@@ -2723,12 +2723,12 @@
      "evidence_excerpt": "FraseCMS hosting is included free up to 100,000 page views a month; Basic at $19/mo on top of a paid plan raises that to 250,000, drops the Frase badge and lets the blog sit on your own domain or a s…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
-   "first_observed_at": "2026-10-03"
+   "price_verified_at": "2026-10-21",
+   "first_observed_at": "2026-10-21"
   },
   {
    "name": "FullEnrich",
@@ -5493,7 +5493,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month billed yearly ($39 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-14 and re-read unchanged 2026-09-27 on salesflare.com/pricing, per user a month) Three plans, and the page carries both billing terms plus a $/€ switch: Growth $39 a month or $29 billed annually, Pro $64 or $49, and Enterprise $124 or $99 with a minimum of five users. The euro column prints the same numerals — €39/€29, €64/€49, €124/€99 — so a European buyer pays the same figure in a different currency rather than a converted one. Our earlier reading called this “$29–99 per user” with Growth at about $29–39 and Pro at about $49. The range was right and the label was not: the low number in each pair is the annual rate and the high one is what month-to-month costs, and the five-seat floor on Enterprise never appeared. Lead credits are part of the ladder rather than an add-on — 5 on Growth, 100 on Pro, 250 on Enterprise. There is a 30-day free trial with no card. On that same page the vendor commits to no onboarding fees and to no caps on contacts, users, email templates, tracked emails, custom fields, workflows, dashboards or pipelines.",
+   "price_note": "(re-verified 2026-09-14, re-read unchanged 2026-09-27 and again on 2026-10-21 on salesflare.com/pricing, per user a month) Three plans, and the page carries both billing terms plus a $/€ switch: Growth $39 a month or $29 billed annually, Pro $64 or $49, and Enterprise $124 or $99 with a minimum of five users. The euro column prints the same numerals — €39/€29, €64/€49, €124/€99 — so a European buyer pays the same figure in a different currency rather than a converted one. Our earlier reading called this “$29–99 per user” with Growth at about $29–39 and Pro at about $49. The range was right and the label was not: the low number in each pair is the annual rate and the high one is what month-to-month costs, and the five-seat floor on Enterprise never appeared. Lead credits are part of the ladder rather than an add-on — 5 on Growth, 100 on Pro, 250 on Enterprise. There is a 30-day free trial with no card. On that same page the vendor commits to no onboarding fees and to no caps on contacts, users, email templates, tracked emails, custom fields, workflows, dashboards or pipelines.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5501,7 +5501,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "usage_metered",
@@ -5509,11 +5509,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-14"
   },
   {
