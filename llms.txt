@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 159 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-20.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 161 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-21.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -24,7 +24,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (159) — canonical versions
+## Reviews (161) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
@@ -80,6 +80,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Easy Advanced Translations Review (2026): Bring Your Own API Key](https://marketingandsalessoftware.com/easy-advanced-translations-review.html): Easy Advanced Translations: Four tiers, all monthly and billed in USD. The 'free AI' is quota-limited — 50 products on Free, up to 3,000 on Pro.
 - [Easy Bundles Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/easy-bundles-review.html): Easy Bundles: The free plan is free to install and covers up to $500 of bundle sales a month. The pricing is tied to the thing the app is supposed to 
 - [EcomXray Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/ecomxray-review.html): EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
+- [EliteCart Review (2026): Shopify Cart Drawer From $29.99/mo](https://marketingandsalessoftware.com/elitecart-review.html): EliteCart: Two published plans and one on request, with no free plan. The trial is 15 days on the listing and 14 on the pricing page.
 - [Essent Preorder Back in Stock Review (2026): 25 Free, Then $4.95](https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html): Essent Preorder Back in Stock: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials. The plans are cheap until a launch works.
 - [Essential Announcement Bar Review (2026): The Marquee Is Paid](https://marketingandsalessoftware.com/essential-announcement-bar-review.html): Essential Announcement Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The bar the listing leads with is not on the free plan
 - [Essential Countdown Timer Bar Review (2026): Mind the View Cap](https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html): Essential Countdown Timer Bar: Four plans priced on monthly timer views. The free plan is smaller than it looks, because of what counts as a view.
@@ -148,6 +149,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Quartile Review (2026): No Price Anywhere on the Site](https://marketingandsalessoftware.com/quartile-review.html): Quartile: Budget for this one from a written quote, because nothing else exists. Everything about the sales motion here is a conversation.
 - [Rank Math Review (2026): PRO Excludes Client Sites](https://marketingandsalessoftware.com/rank-math-review.html): Rank Math: Pro is €7.99 a month, Business €24.99 and Agency €54.99, each billed annually and excluding VAT. Don't pay until you hit those.
 - [Rapid Search Review (2026): $14 a Month, Metered on Visits](https://marketingandsalessoftware.com/rapid-search-review.html): Rapid Search: Basic 1 is $14 a month, or $140 a year, for 5,000 sessions and 100,000 products. The meter is your traffic, not your searches.
+- [Redeemly Review (2026): Shopify Cashback as Store Credit](https://marketingandsalessoftware.com/redeemly-review.html): Redeemly: Free covers 0 to 50 orders. The price follows every order your store takes, not the orders that earn cashback, and the higher tiers climb to
 - [Reditus Review (2026): Marketplace Needs $4,788/yr Plan](https://marketingandsalessoftware.com/reditus-review.html): Reditus: The published entry plan is Growth at $99/mo billed annually — $1,188 once a year. The advertised $99 is the annual-commitment rate.
 - [rePete Review (2026): No Subscription, 3% of What It Brings](https://marketingandsalessoftware.com/repete-review.html): RePete is free to install and takes a percentage of the sales it claims to have caused. Most Shopify apps stop charging more once you pass their top t
 - [Reply.io Review (2026): $89 Buys Unlimited Contacts](https://marketingandsalessoftware.com/reply-io-review.html): Reply.io: Month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. The $89 is the Multichannel track on annual billing.
