@@ -299,7 +299,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Essential Countdown Timer Bar
 - Review: https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html
 - Verdict: Essential Countdown Timer Bar: Four plans priced on monthly timer views. The free plan is smaller than it looks, because of what counts as a view.
-- Price: (read 2026-09-28 on apps.shopify.com/essential-countdown-timer, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers.
+- Price: (read 2026-09-28, re-read 2026-10-21 without changes, on apps.shopify.com/essential-countdown-timer, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers.
 
 ## Essential Free Shipping Bar
 - Review: https://marketingandsalessoftware.com/essential-free-shipping-bar-review.html
@@ -774,7 +774,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Track123
 - Review: https://marketingandsalessoftware.com/track123-review.html
 - Verdict: Track123: Three published plans plus Enterprise, priced on synced orders a month. The overage is the most expensive order on the ladder.
-- Price: (read 2026-09-27 on apps.shopify.com/track123 and in the vendor's pricing article on intercom.help/track123, dated 14 July 2026) Three published plans plus Enterprise, priced on synced orders a month; customer lookups are unlimited on every plan. Starter is free for 50 orders a month, and orders past that do not sync until the next billing cycle.
+- Price: (read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/track123 and in the vendor's pricing article on intercom.help/track123, dated 14 July 2026) Three published plans plus Enterprise, priced on synced orders a month; customer lookups are unlimited on every plan. Starter is free for 50 orders a month, and orders past that do not sync until the next billing cycle.
 
 ## Uniqode
 - Review: https://marketingandsalessoftware.com/uniqode-review.html
