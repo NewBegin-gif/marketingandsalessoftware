@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 272,
-  "flags": 421,
+  "tools": 274,
+  "flags": 422,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -2132,6 +2132,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-17",
    "first_observed_at": null
+  },
+  {
+   "name": "EliteCart",
+   "category": "E-commerce",
+   "domain": "elitecart.app",
+   "review_url": "https://aibuildermarketplace.com/b2b/elitecart-review/",
+   "from_price_usd_mo": 29.99,
+   "entry_price": "$29.99",
+   "entry_price_terms": "Essentials · per month, billed every 30 days through Shopify in USD",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on the Shopify App Store listing apps.shopify.com/elite-cart-upsell and elitecart.app/pricing, prices in USD) Two published plans and one on request, with no free plan. Essentials, called Essential on EliteCart's own pricing page, is $29.99 a month and includes 200 orders a month with one language and conversion analytics; above that the price scales with order volume, and the listing gives one example, an additional $10 for 500 orders. Professional is $79.99 a month, includes 500 orders a month and adds unlimited languages with AI translations, unlimited targeted upsell flows and custom HTML, CSS and AI sections; its example is an additional $20 for 750 orders. Enterprise is 'Contact us': everything in Professional plus an account manager, onboarding, no order limits, a custom SLA and annual plans. All charges are billed in USD, recurring and usage-based charges every 30 days through Shopify. The listing offers a 15-day free trial, while the pricing page says 14 days. The full volume ladder is not published, only the two examples.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "EmailListVerify",
@@ -5269,6 +5284,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": "2026-09-10"
+  },
+  {
+   "name": "Redeemly",
+   "category": "E-commerce",
+   "domain": "redeemly.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/redeemly-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "Startup · per month, billed every 30 days through Shopify in USD, set by the store's total…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on Redeemly's pricing article in its help centre, the Shopify App Store listing apps.shopify.com/cashback-redeemly and redeemly.ai; prices in USD) Redeemly has one product and charges by the size of your store: the price follows your store's total orders during each 30-day app billing cycle, and the help article says that count resets each cycle regardless of whether Redeemly is active in your store. Free covers 0 to 50 orders. Startup is $19 for 51 to 500 orders, Growth $29 for 501 to 800, Scaling $49 for 801 to 1,000, Advanced $79 for 1,001 to 1,200, Professional $99 for 1,200 to 1,500, Enterprise $149 for 1,500 to 1,800 and Elite $249 with unlimited orders. The table's boundaries overlap at 1,200 and 1,500 orders, and the Shopify listing only shows the first three tiers. Charges are billed in USD every 30 days through Shopify, and the terms say fees exclude taxes and are non-refundable except where the law requires otherwise or Redeemly agrees in writing. The trial length is inconsistent: when we looked again on 21 October 2026 the pricing article said 'You have a 10 day trial', while the homepage showed both a '25-day free trial' badge and '10 Days Free'; the listing shows the free plan without trial details. We found no annual price.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "Free covers 0 to 50 orders.",
+     "evidence_excerpt": null,
+     "source_url": "https://redeemlyhelpdesk.crisp.help/en/article/redeemly-pricing-1fa2xll/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "Reditus",
