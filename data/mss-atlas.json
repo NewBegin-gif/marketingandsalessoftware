@@ -703,7 +703,7 @@
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "Exports are metered at six a month, rather than the unlimited free tier its old reputation suggests.",
+     "evidence": "Exports are metered at six a month, rather than the unlimited free tier its old reputation suggests, and in our test on 21 October 2026 merely showing the HTML code used one of them (6 left became 5).",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -3077,11 +3077,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.influencer-hero.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": null
   },
   {
@@ -4656,10 +4656,10 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Starter · a month for one location with delivery, pickup and shipping slots…",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-27 on apps.shopify.com/order-delivery-date-time and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as total store orders, with date and time slots, order limits, preparation time and cut-off, blocked dates and times and zip-code validation; development stores have no limit. Starter is $9.99 a month and adds Shopify POS, slots for shipping, day-wise cut-off and product limits, product-specific fulfilment methods, preparation times and availability, and delivery rates by price and weight. Smart is $19.99 a month for up to four locations and adds rates by time, product and delivery speed, Google Calendar and Google Maps, a home-page zip-code checker and real-time inventory. Premium is $29.99 a month for 5 to 20 locations and adds multi-condition rates, rates by day of week, specific dates and location, and a checkout-page widget for Shopify Plus stores. The vendor's page adds a Custom tier at $59.99 a month for more than 20 locations and bespoke customisation, where the listing says to contact them. Yearly billing saves 10%: $215.99 for Smart, $323.99 for Premium and $647.99 for Custom, while Starter is $107.99 a year on the listing and $105.99 on the vendor's page. Paid tiers have a 14-day free trial. All charges are in USD through Shopify's billing, every 30 days.",
+   "price_note": "(read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/order-delivery-date-time and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as total store orders, with date and time slots, order limits, preparation time and cut-off, blocked dates and times and zip-code validation; development stores have no limit. Starter is $9.99 a month and adds Shopify POS, slots for shipping, day-wise cut-off and product limits, product-specific fulfilment methods, preparation times and availability, and delivery rates by price and weight. Smart is $19.99 a month for up to four locations and adds rates by time, product and delivery speed, Google Calendar and Google Maps, a home-page zip-code checker and real-time inventory. Premium is $29.99 a month for 5 to 20 locations and adds multi-condition rates, rates by day of week, specific dates and location, and a checkout-page widget for Shopify Plus stores. The vendor's page adds a Custom tier at $59.99 a month for more than 20 locations and bespoke customisation, where the listing says to contact them. Yearly billing saves 10%: $215.99 for Smart, $323.99 for Premium and $647.99 for Custom, while Starter is $107.99 a year on the listing and $105.99 on the vendor's page. Paid tiers have a 14-day free trial. All charges are in USD through Shopify's billing, every 30 days.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-27"
   },
   {
@@ -5214,7 +5214,7 @@
    "entry_price": "$14",
    "entry_price_terms": "Basic 1 · per month for 5,000 monthly sessions and 100,000 products, unbranded…",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-26 on apps.shopify.com/rapid-search and on the vendor's own pricing page at rapidsearch.app/pricing) Every plan carries every feature; the tiers differ only in monthly sessions and catalogue size. The Shopify listing shows four tiers. Free covers 2,000 monthly sessions and 5,000 products with email support, and the search carries Rapid Search branding. Basic 1 is $14 a month, or $140 a year, for 5,000 sessions and 100,000 products; Basic 2 is $27 a month, or $270 a year, for 12,000 sessions; Basic 3 is $39 a month, or $390 a year, for 25,000 sessions. The paid tiers are unbranded, add chat support and start with a 14-day free trial. The vendor's pricing slider continues past the listing: $59 a month for 45,000 sessions, $79 for 75,000, $129 for 130,000 and $199 for 500,000, all still capped at 100,000 products, and $349 a month for unlimited sessions and 1,000,000 products. The listing quotes annual billing as a 17% saving and only for the three Basic tiers. The vendor site says the trial needs no credit card and offers a refund within the first 30 days on a paid plan. All charges are in USD through Shopify's billing, every 30 days.",
+   "price_note": "(read 2026-09-26, re-read 2026-10-21 without changes, on apps.shopify.com/rapid-search and on the vendor's own pricing page at rapidsearch.app/pricing) Every plan carries every feature; the tiers differ only in monthly sessions and catalogue size. The Shopify listing shows four tiers. Free covers 2,000 monthly sessions and 5,000 products with email support, and the search carries Rapid Search branding. Basic 1 is $14 a month, or $140 a year, for 5,000 sessions and 100,000 products; Basic 2 is $27 a month, or $270 a year, for 12,000 sessions; Basic 3 is $39 a month, or $390 a year, for 25,000 sessions. The paid tiers are unbranded, add chat support and start with a 14-day free trial. The vendor's pricing slider continues past the listing: $59 a month for 45,000 sessions, $79 for 75,000, $129 for 130,000 and $199 for 500,000, all still capped at 100,000 products, and $349 a month for unlimited sessions and 1,000,000 products. The listing quotes annual billing as a 17% saving and only for the three Basic tiers. The vendor site says the trial needs no credit card and offers a refund within the first 30 days on a paid plan. All charges are in USD through Shopify's billing, every 30 days.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5222,7 +5222,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/rapid-search",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "annual_lock",
@@ -5230,7 +5230,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/rapid-search",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "free_tier",
@@ -5238,11 +5238,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/rapid-search",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-26"
   },
   {
@@ -6972,7 +6972,7 @@
    "entry_price": "$5",
    "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-25 on timesact.com/pages/pricing, including its volume selector and yearly toggle, and on the Shopify App Store listing apps.shopify.com/timesact-discount-pre-order, which shows the same figures) Two families of plans, all billed in USD through Shopify every 30 days with no transaction fees. Free costs $0 and covers 20 orders a month on unlimited products, unlimited email sending and sign-ups, unlimited coming-soon and low-stock states, and support, with Timesact branding on the storefront; the App Store card labels it Free (New Users). Flexible plans are usage-based: CORE Flexible starts at $5 a month for 10 orders and adds deposits, split payments, $0-down pre-orders, CSV upload, pre-order by product tag, SMS, 30 days of analytics and branding removal, at $0.20 per order past the volume you pick; PRO Flexible starts at $7 for 10 orders and adds market and location targeting, storewide automatic back-in-stock and low-stock, charge on fulfilment and analytics without a time window, at $0.30 per order past your volume. The volume selector on the pricing page lists CORE Flexible at $11 for 50 orders, $17 for 100, $37 for 250, $73 for 500 and $107 for 1,000, and PRO Flexible at $17, $27, $57, $87 and $127 for the same volumes. SMS costs from $0.02 a message for US numbers, only if you use it. Fixed plans cover unlimited orders at one price, marked as a limited-time deal, and the price follows your Shopify subscription: CORE Fixed is $23 a month on Basic Shopify, $47 on Grow, $73 on Advanced and $117 on Plus ($17, $37, $57 and $93 a month billed yearly; the listing puts the Basic yearly price at $204), and PRO Fixed is $27, $57, $87 and $147 ($21, $43, $67 and $117 billed yearly). A Merchandising add-on (hiding sold-out products, merchant alerts by email and Slack) is $10 a month on any plan, Free included.",
+   "price_note": "(read 2026-09-25, re-read 2026-10-21 without changes, on timesact.com/pages/pricing, including its volume selector and yearly toggle, and on the Shopify App Store listing apps.shopify.com/timesact-discount-pre-order, which shows the same figures) Two families of plans, all billed in USD through Shopify every 30 days with no transaction fees. Free costs $0 and covers 20 orders a month on unlimited products, unlimited email sending and sign-ups, unlimited coming-soon and low-stock states, and support, with Timesact branding on the storefront; the App Store card labels it Free (New Users). Flexible plans are usage-based: CORE Flexible starts at $5 a month for 10 orders and adds deposits, split payments, $0-down pre-orders, CSV upload, pre-order by product tag, SMS, 30 days of analytics and branding removal, at $0.20 per order past the volume you pick; PRO Flexible starts at $7 for 10 orders and adds market and location targeting, storewide automatic back-in-stock and low-stock, charge on fulfilment and analytics without a time window, at $0.30 per order past your volume. The volume selector on the pricing page lists CORE Flexible at $11 for 50 orders, $17 for 100, $37 for 250, $73 for 500 and $107 for 1,000, and PRO Flexible at $17, $27, $57, $87 and $127 for the same volumes. SMS costs from $0.02 a message for US numbers, only if you use it. Fixed plans cover unlimited orders at one price, marked as a limited-time deal, and the price follows your Shopify subscription: CORE Fixed is $23 a month on Basic Shopify, $47 on Grow, $73 on Advanced and $117 on Plus ($17, $37, $57 and $93 a month billed yearly; the listing puts the Basic yearly price at $204), and PRO Fixed is $27, $57, $87 and $147 ($21, $43, $67 and $117 billed yearly). A Merchandising add-on (hiding sold-out products, merchant alerts by email and Slack) is $10 a month on any plan, Free included.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6980,7 +6980,7 @@
      "evidence_excerpt": "Flexible plans are usage-based: CORE Flexible starts at $5 a month for 10 orders and adds deposits, split payments, $0-down pre-orders, CSV upload, pre-order by product tag, SMS, 30 days of analytics…",
      "source_url": "https://timesact.com/pages/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "addons_extra",
@@ -6988,7 +6988,7 @@
      "evidence_excerpt": null,
      "source_url": "https://timesact.com/pages/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "free_tier",
@@ -6996,11 +6996,11 @@
      "evidence_excerpt": "Free costs $0 and covers 20 orders a month on unlimited products, unlimited email sending and sign-ups, unlimited coming-soon and low-stock states, and support, with Timesact branding on the storefro…",
      "source_url": "https://timesact.com/pages/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-25",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-25"
   },
   {
