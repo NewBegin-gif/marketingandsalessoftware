@@ -2269,7 +2269,7 @@
    "entry_price": "$6.99",
    "entry_price_terms": "Starter · per month for up to 10,000 timer views, or $67.08 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-28 on apps.shopify.com/essential-countdown-timer, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers. Starter is $6.99 a month, or $67.08 a year at a stated 20% saving, for up to 10,000 views, and adds landing-page timers and scheduled and recurring timers. Essential is $9.99 a month or $95.88 a year for up to 50,000 views, and adds cart timers, email timers, placing timers by product tag and geo-targeting. Professional is $29.99 a month or $287.88 a year for unlimited views and every premium feature. Paid plans carry a 7-day free trial, and the vendor's own site adds a 30-day money-back guarantee. A view is counted every time a timer loads, not once per visitor. There is no overage charge: past the limit you get an email, and if you do not upgrade within 3 days every published timer is unpublished until views reset on the 1st of the month. All charges are in USD, billed through Shopify every 30 days. Developer Essential Apps, with an address in Vilnius, Lithuania; the listing gives a launch date of 10 February 2022 and shows 1,721 reviews.",
+   "price_note": "(read 2026-09-28, re-read 2026-10-21 without changes, on apps.shopify.com/essential-countdown-timer, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers. Starter is $6.99 a month, or $67.08 a year at a stated 20% saving, for up to 10,000 views, and adds landing-page timers and scheduled and recurring timers. Essential is $9.99 a month or $95.88 a year for up to 50,000 views, and adds cart timers, email timers, placing timers by product tag and geo-targeting. Professional is $29.99 a month or $287.88 a year for unlimited views and every premium feature. Paid plans carry a 7-day free trial, and the vendor's own site adds a 30-day money-back guarantee. A view is counted every time a timer loads, not once per visitor. There is no overage charge: past the limit you get an email, and if you do not upgrade within 3 days every published timer is unpublished until views reset on the 1st of the month. All charges are in USD, billed through Shopify every 30 days. Developer Essential Apps, with an address in Vilnius, Lithuania; the listing gives a launch date of 10 February 2022 and shows 1,721 reviews.",
    "flags": [
     {
      "flag": "free_tier",
@@ -2277,11 +2277,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/essential-countdown-timer",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-28"
   },
   {
@@ -2707,7 +2707,7 @@
    "entry_price": "$39",
    "entry_price_terms": "per month billed yearly ($49 monthly), 1 seat, 1 site",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 against Frase's own machine-readable pricing file frase.io/pricing.md and the pricing page; every plan price below was unchanged from our 17 August and 14 September readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a month, Content Guard watching 10 pages. Professional $103/mo yearly against $129/mo monthly: 3 seats, 5 sites, 40 articles and 250 audit pages, extra seats $29/mo. Scale $239/mo yearly against $299/mo monthly: 5 seats, up to 10 domains, 100 articles and 1,000 audit pages, Content Guard watching 300 pages, extra seats $29/mo. The trial is 7 days with no credit card. FraseCMS hosting is included free up to 100,000 page views a month; Basic at $19/mo on top of a paid plan raises that to 250,000, drops the Frase badge and lets the blog sit on your own domain or a subdirectory, and Pro is $99/mo at a million page views, with $1.00 and $0.50 per extra 1,000 page views and a spend cap set at the base price by default. On Starter, Frase stops at the limit rather than billing you extra; on Professional and Scale you can switch on pay-as-you-go capacity, so there the sticker price is a floor rather than a ceiling: Professional adds $5 per extra article, $0.50 per audit page and $0.25 per AI prompt, Scale $4, $0.40 and $0.20. API, MCP and CLI requests are capped at 5,000, 20,000 and 50,000 a month on the three self-serve plans.",
+   "price_note": "(re-verified 2026-10-03 against Frase's own machine-readable pricing file frase.io/pricing.md and the pricing page; every plan price below was unchanged from our 17 August and 14 September readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a month, Content Guard watching 10 pages. Professional $103/mo yearly against $129/mo monthly: 3 seats, 5 sites, 40 articles and 250 audit pages, extra seats $29/mo. Scale $239/mo yearly against $299/mo monthly: 5 seats, up to 10 domains, 100 articles and 1,000 audit pages, Content Guard watching 300 pages, extra seats $29/mo. The trial is 7 days with no credit card. FraseCMS hosting is included free up to 100,000 page views a month; Basic at $19/mo on top of a paid plan raises that to 250,000, drops the Frase badge and lets the blog sit on your own domain or a subdirectory, and Pro is $99/mo at a million page views, with $1.00 and $0.50 per extra 1,000 page views and a spend cap set at the base price by default. On Starter, Frase stops at the limit rather than billing you extra; on Professional and Scale you can switch on pay-as-you-go capacity, so there the sticker price is a floor rather than a ceiling: Professional adds $5 per extra article, $0.50 per audit page and $0.25 per AI prompt, Scale $4, $0.40 and $0.20. API, MCP and CLI requests are capped at 5,000, 20,000 and 50,000 a month on the three self-serve plans. Every plan also tracks how AI answers mention your brand (Frase calls it AI Visibility), daily and with alerts: Starter covers ChatGPT and Google AI, Professional adds Perplexity, and Scale adds Claude and Gemini (pricing and feature pages read 21 October 2026). How many prompts each plan tracks for this is not stated.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7042,7 +7042,7 @@
    "entry_price": "$9",
    "entry_price_terms": "Growth · per month for 300 synced orders, $0.05 per extra order on monthly…",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-27 on apps.shopify.com/track123 and in the vendor's pricing article on intercom.help/track123, dated 14 July 2026) Three published plans plus Enterprise, priced on synced orders a month; customer lookups are unlimited on every plan. Starter is free for 50 orders a month, and orders past that do not sync until the next billing cycle. Growth starts at $9 a month or $84 a year for 300 orders, with 700 orders at $19 ($180 a year) and 1,000 at $29 ($276 a year). Advanced starts at $49 a month or $468 a year for 2,000 orders and climbs through 3,000 ($69), 5,000 ($99), 7,000 ($129), 10,000 ($179), 15,000 ($249) and 20,000 ($299), then in $50 steps to $599 a month, or $5,748 a year, for 50,000 orders. Above 50,000 orders Enterprise is quoted on request. On monthly billing every order past the allowance costs $0.05; on annual billing there is no overage and new orders stop syncing until you upgrade. The Shopify listing shows only the first rung of Growth and of Advanced; the full ladder is in the pricing article. Growth and Advanced carry a 7-day free trial, once per store. All charges are in USD through Shopify's billing, every 30 days.",
+   "price_note": "(read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/track123 and in the vendor's pricing article on intercom.help/track123, dated 14 July 2026) Three published plans plus Enterprise, priced on synced orders a month; customer lookups are unlimited on every plan. Starter is free for 50 orders a month, and orders past that do not sync until the next billing cycle. Growth starts at $9 a month or $84 a year for 300 orders, with 700 orders at $19 ($180 a year) and 1,000 at $29 ($276 a year). Advanced starts at $49 a month or $468 a year for 2,000 orders and climbs through 3,000 ($69), 5,000 ($99), 7,000 ($129), 10,000 ($179), 15,000 ($249) and 20,000 ($299), then 25,000 ($349), 30,000 ($399), 35,000 ($449), 40,000 ($499) and 45,000 ($549), up to $599 a month, or $5,748 a year, for 50,000 orders. Above 50,000 orders Enterprise is quoted on request. On monthly billing every order past the allowance costs $0.05; on annual billing there is no overage and new orders stop syncing until you upgrade. The Shopify listing shows only the first rung of Growth and of Advanced; the full ladder is in the pricing article. Growth and Advanced carry a 7-day free trial, once per store. All charges are in USD through Shopify's billing, every 30 days.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7050,7 +7050,7 @@
      "evidence_excerpt": null,
      "source_url": "https://intercom.help/track123/en/articles/5920187-track123-pricing-plan",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "annual_lock",
@@ -7058,7 +7058,7 @@
      "evidence_excerpt": null,
      "source_url": "https://intercom.help/track123/en/articles/5920187-track123-pricing-plan",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-21"
     },
     {
      "flag": "free_tier",
@@ -7066,11 +7066,11 @@
      "evidence_excerpt": null,
      "source_url": "https://intercom.help/track123/en/articles/5920187-track123-pricing-plan",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
+   "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-27"
   },
   {
