@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 274,
-  "flags": 422,
+  "tools": 276,
+  "flags": 426,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1885,6 +1885,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-22",
    "first_observed_at": "2026-09-22"
+  },
+  {
+   "name": "Doba",
+   "category": "E-commerce",
+   "domain": "doba.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/doba-review/",
+   "from_price_usd_mo": 29.99,
+   "entry_price": "$29.99",
+   "entry_price_terms": "Limited · billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-22 on doba.com/pricing with the Monthly, Quarterly and Annually toggles; prices in USD) Doba sells four subscription tiers. Billed monthly, Limited is $29.99 a month, Basic $59.99, Standard $149.99 and Enterprise $299.99. Quarterly billing takes 5% off (Limited $28.67, Basic $57.00, Standard $142.67 a month) and annual billing 15% (Limited $25.50, Basic $51.00, Standard $127.50 a month); Enterprise is sold monthly or annually only. Basic has a 7-day trial and Standard a 5-day trial, each for US$0.99. The fees policy says the full fee of the chosen tier is charged automatically when the trial ends, and the terms limit trials to first-time users. The subscription is not the whole bill: the fees policy says product costs, shipping, drop or order handling fees and transaction charges are paid separately at the time of purchase. Paid add-ons such as the AI Store Builder renew on their own cycle. On refunds Doba's own pages disagree: the help centre says a full refund is issued automatically if you cancel within 72 hours of payment, the fees policy excludes trial subscriptions, and the terms say all fees, including subscription fees, are non-refundable.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Paid add-ons such as the AI Store Builder renew on their own cycle.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.doba.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-22"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Quarterly billing takes 5% off (Limited $28.67, Basic $57.00, Standard $142.67 a month) and annual billing 15% (Limited $25.50, Basic $51.00, Standard $127.50 a month); Enterprise is sold monthly or annually only.",
+     "evidence_excerpt": "Quarterly billing takes 5% off (Limited $28.67, Basic $57.00, Standard $142.67 a month) and annual billing 15% (Limited $25.50, Basic $51.00, Standard $127.50 a month); Enterprise is sold monthly or …",
+     "source_url": "https://www.doba.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-22"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-22",
+   "first_observed_at": "2026-10-22"
   },
   {
    "name": "Dondy",
@@ -4577,7 +4609,7 @@
    "entry_price": "$99",
    "entry_price_terms": "per month for 2,000 or $297/mo for 9,000",
    "pricing_status": "public",
-   "price_note": "(read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise deployment and dedicated support. Data credits are a different pool, bought once and never expiring, and they are the only part of the product priced per action: 1 data credit per lead or contact returned, 2 per matched enrichment lookup through the API or an agent, and a lookup that finds nothing is free. They run $25 for 500 down to $175 for 5,000, so between 5.0 and 3.5 cents a lead. The two pools expire differently, and the page says so in two places that sit far apart: plan credits 'reset on the 1st of each month', while purchased credit packs and data credits never expire. What the page never says is how many PLATFORM credits an action costs. Content generation, an agent conversation and an outreach step are all simply 'credits' with no published rate, so the 2,000 on Entrepreneur is a quantity without a unit until you have run your own work through it. Per credit the tiers differ by a third: 5.0 cents on Entrepreneur against 3.3 on Business, which is three times the price for four and a half times the credits. Running out has a tier-shaped answer -- the FAQ offers extra credit packages on the Business plan and the Pay-As-You-Go card offers top-ups, but Entrepreneur sits between them with no stated top-up route, so the $99 tier's answer to an empty meter appears to be the $297 one. Seats do not add capacity: every seat in a company shares one monthly pool, and extra seats are $15 a month ($12 annual). The add-ons are where the bill can outgrow the plan -- an extra company is $20 a month ($16 annual), an extra white-label instance $50, and anonymous website pixel identification runs $75, $250 or $500 a month for 500, 2,000 or 5,000 resolutions. On the free tier the limits are real: a 200k context window against 1M on every paid plan, 30 days of chat history instead of unlimited, no App Builder, and model access listed as 'Limited' with response times 'limited on bandwidth and availability'.",
+   "price_note": "(read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise deployment and dedicated support. Data credits are a different pool, bought once and never expiring, and they are the only part of the product priced per action: 1 data credit per lead or contact returned, 2 per matched enrichment lookup through the API or an agent, and a lookup that finds nothing is free. They run $25 for 500 down to $175 for 5,000, so between 5.0 and 3.5 cents a lead. The two pools expire differently, and the page says so in two places that sit far apart: plan credits 'reset on the 1st of each month', while purchased credit packs and data credits never expire. What the page never says is how many PLATFORM credits an action costs. Content generation, an agent conversation and an outreach step are all simply 'credits' with no published rate, so the 2,000 on Entrepreneur is a quantity without a unit until you have run your own work through it. Per credit the tiers differ by a third: 5.0 cents on Entrepreneur against 3.3 on Business, which is three times the price for four and a half times the credits. Running out has a tier-shaped answer -- the FAQ offers extra credit packages on the Business plan and the Pay-As-You-Go card offers top-ups, but Entrepreneur sits between them with no stated top-up route, so the $99 tier's answer to an empty meter appears to be the $297 one. Seats do not add capacity: every seat in a company shares one monthly pool, and extra seats are $15 a month ($12 annual). The add-ons are where the bill can outgrow the plan -- an extra company is $20 a month ($16 annual), an extra white-label instance $50, and anonymous website pixel identification runs $75, $250 or $500 a month for 500, 2,000 or 5,000 resolutions. On the free tier the limits are real: a 200k context window against 1M on every paid plan, 30 days of chat history instead of unlimited, no App Builder, and model access listed as 'Limited' with response times 'limited on bandwidth and availability'. Inside the app on 21 October 2026 the plan screen showed $99 and $297 a month on its annual billing tab ('save 20%'), totalling $1,188 and $3,564 a year (we did not read the monthly tab), and the free plan read 'Monthly credits 4 / 50' after an onboarding that cost 4 credits.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4596,9 +4628,17 @@
      "verified_at": "2026-09-16"
     },
     {
+     "flag": "annual_lock",
+     "evidence": "Inside the app on 21 October 2026 the plan screen showed $99 and $297 a month on its annual billing tab ('save 20%'), totalling $1,188 and $3,564 a year (we did not read the monthly tab), and the free plan read 'Monthly credits 4 / 50' after an onboarding that cost 4 credits.",
+     "evidence_excerpt": "Inside the app on 21 October 2026 the plan screen showed $99 and $297 a month on its annual billing tab ('save 20%'), totalling $1,188 and $3,564 a year (we did not read the monthly tab), and the fre…",
+     "source_url": "https://parallellabs.app/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-09-16"
+    },
+    {
      "flag": "free_tier",
-     "evidence": "Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise deployment and dedicated support.",
-     "evidence_excerpt": "Plan credits come with the subscription: Pay As You Go is $0 with 50 credits and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies,…",
+     "evidence": "Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise deployment and dedicated support.",
+     "evidence_excerpt": "Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 co…",
      "source_url": "https://parallellabs.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-16"
@@ -7072,6 +7112,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-27"
+  },
+  {
+   "name": "TrueReview",
+   "category": "Growth & Revenue",
+   "domain": "truereview.co",
+   "review_url": "https://aibuildermarketplace.com/b2b/truereview-review/",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "Starter · billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-15 on truereview.co/pricing with the Monthly and Yearly toggles, and on its help-centre price list for request add-ons) TrueReview has three plans. Starter is $49 a month, or $29 a month on a yearly plan ($348 a year); Small Business $99, or $59 yearly ($708); Premium $299, or $179 yearly ($2,148). The base plan cards show a dollar sign without a currency code; the add-on price list is labelled USD. Premium includes five locations; more are sold per location per month, $39 each for the first ten extra, then $35, $32 and $29 from the 31st, and add-on locations are billed monthly even when the plan is yearly. Extra review requests are sold as recurring packs, from $12 a month for 100 to $600 a month for 10,000; one-time purchases are billed at the default price without those discounts. The free trial lasts 14 days with up to 250 SMS and email requests, and the terms say all accounts require a valid credit card. Monthly and annual payments are non-refundable under the terms, and you must cancel at least 24 hours before renewal.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Premium includes five locations; more are sold per location per month, $39 each for the first ten extra, then $35, $32 and $29 from the 31st, and add-on locations are billed monthly even when the plan is yearly.",
+     "evidence_excerpt": "Premium includes five locations; more are sold per location per month, $39 each for the first ten extra, then $35, $32 and $29 from the 31st, and add-on locations are billed monthly even when the pla…",
+     "source_url": "https://www.truereview.co/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-15",
+   "first_observed_at": "2026-10-15"
   },
   {
    "name": "UENI",

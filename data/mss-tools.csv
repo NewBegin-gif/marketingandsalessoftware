@@ -64,6 +64,7 @@ Convert,Marketing,convert.com,399.0,usage_metered,https://aibuildermarketplace.c
 CrankWheel,Communication & Voice,crankwheel.com,29.0,free_tier,https://aibuildermarketplace.com/b2b/crankwheel-review/,2026-07,$29,"per month, 1 user, unlimited usage",public,2026-10-09
 Crazy Egg,Growth & Revenue,crazyegg.com,29.0,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/crazy-egg-review/,2026-07,$29,"per month billed annually (5,000 pageviews, 50 recordings)",public,2026-10-10
 Diginius,Growth & Revenue,diginius.com,75.0,usage_metered,https://aibuildermarketplace.com/b2b/diginius-review/,2026-07,$75,per month (USD),public,2026-09-22
+Doba,E-commerce,doba.com,29.99,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/doba-review/,2026-07,$29.99,Limited · billed monthly,public,2026-10-22
 Dondy,Marketing,dondy.net,6.99,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/dondy-review/,2026-07,$6.99,Pro · per month for the chat button and messages you send by hand,public,2026-09-18
 Drip,Marketing,drip.com,39.0,usage_metered,https://aibuildermarketplace.com/b2b/drip-review/,2026-07,$39,"2,500 contacts · per month",public,2026-09-17
 Dripify,Sales & CRM,dripify.com,39.0,per_seat|usage_metered,https://aibuildermarketplace.com/b2b/dripify-review/,2026-07,$39,Basic (per user) · per user per month billed annually,public,2026-10-10
@@ -159,7 +160,7 @@ Outgrow,Growth & Revenue,outgrow.co,22.0,annual_lock|free_tier,https://aibuilder
 OutSends,Sales & CRM,outsends.com,19.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/outsends-review/,2026-07,$19,"Starter · billed monthly, excluding VAT",public,2026-10-17
 PagePulse,Marketing,getpagepulse.io,29.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/pagepulse-review/,2026-07,$29,a month billed annually ($36 billed monthly) for two pages,public,2026-10-16
 Pangram,Operations & Workflow,pangram.com,20.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pangram-review/,2026-07,$20,per month ($15 billed yearly),public,2026-09-30
-Parallel AI,Growth & Revenue,parallellabs.app,99.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/parallel-ai-review/,2026-07,$99,"per month for 2,000 or $297/mo for 9,000",public,2026-09-16
+Parallel AI,Growth & Revenue,parallellabs.app,99.0,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/parallel-ai-review/,2026-07,$99,"per month for 2,000 or $297/mo for 9,000",public,2026-09-16
 PartnerStack,Marketing,partnerstack.com,,,https://aibuildermarketplace.com/b2b/partnerstack-review/,2026-07,,,see_details,2026-10-16
 Pecan AI,Growth & Revenue,pecan.ai,,quote_only,https://aibuildermarketplace.com/b2b/pecan-ai-review/,2026-07,,,quote_only,2026-09-29
 Pickeasy,E-commerce,logbase.io,9.99,,https://aibuildermarketplace.com/b2b/pickeasy-review/,2026-07,$9.99,"Starter · a month for one location with delivery, pickup and shipping slots…",public,2026-10-21
@@ -248,6 +249,7 @@ Timesact Preorder,E-commerce,timesact.com,5.0,usage_metered|addons_extra|free_ti
 TiXel,Marketing,effectify.io,,,https://aibuildermarketplace.com/b2b/tixel-review/,2026-07,$19.99,"Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a seven-day…",public,2026-09-18
 TnC,E-commerce,effectify.io,,,https://aibuildermarketplace.com/b2b/tnc-review/,2026-07,$6.99,"Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",public,2026-10-14
 Track123,E-commerce,track123.com,9.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/track123-review/,2026-07,$9,"Growth · per month for 300 synced orders, $0.05 per extra order on monthly…",public,2026-10-21
+TrueReview,Growth & Revenue,truereview.co,49.0,addons_extra,https://aibuildermarketplace.com/b2b/truereview-review/,2026-07,$49,Starter · billed monthly,public,2026-10-15
 UENI,Growth & Revenue,ueni.com,,,https://aibuildermarketplace.com/b2b/ueni-review/,2026-07,,,see_details,2026-09-26
 Unbounce,Growth & Revenue,unbounce.com,29.0,,https://aibuildermarketplace.com/b2b/unbounce-review/,2026-07,$29,"a month, or $22 billed yearly at 25% off",public,2026-10-03
 Uniqode,Growth & Revenue,uniqode.com,9.0,per_seat|addons_extra,https://aibuildermarketplace.com/b2b/uniqode-review/,2026-07,$9,per month (FAQ-stated minimum),public,2026-09-13
