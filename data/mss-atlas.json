@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 276,
-  "flags": 426,
+  "flags": 428,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -275,15 +275,32 @@
    "category": "Sales & CRM",
    "domain": "algomo.com",
    "review_url": "https://aibuildermarketplace.com/b2b/algomo-review/",
-   "from_price_usd_mo": 200.0,
-   "entry_price": "$200",
-   "entry_price_terms": "a month (no per-seat pricing)",
+   "from_price_usd_mo": 50.0,
+   "entry_price": "$50",
+   "entry_price_terms": "a month for 2,000 credits up to $4,300 for 200,000",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 on newmode.ai/pricing and the homepage) Plans start at $200 a month with no per-seat pricing - and that single sentence is still the entire public price list, unchanged since our July and August readings and again on 14 September and 3 October 2026. The pricing page carries exactly two plans, Growth and Enterprise, and both buttons say 'Let's chat' and 'Book call': no amount, no contact slider, no self-serve tier. Growth lists 1:1 personalized LinkedIn ads, AI-generated ad copy, website personalization, CRM integration and email support; Enterprise adds unlimited campaigns, custom integrations, a dedicated success manager, priority support and advanced analytics. What drives the price between the two is not published anywhere on the site, so the only figure a buyer can budget against is the $200 floor.",
-   "flags": [],
+   "price_note": "(re-read 2026-10-22 on algomo.com/pricing and its markdown version, algomo.com/pricing.md) Algomo now publishes a complete self-serve price list, and it replaces the single '$200 a month' starting price we had recorded since July. There are three plans. Free is $0 with 100 credits a month, one user, one workspace and one agent, and needs no credit card. Business is a ladder of fixed rungs rather than a slider: 2,000 credits for $50 a month, 4,000 for $100, 8,000 for $200, 16,000 for $400, 25,000 for $600, 40,000 for $950, 60,000 for $1,400, 80,000 for $1,850, 100,000 for $2,250, 150,000 for $3,300 and 200,000 for $4,300, each with up to five users on one workspace and one agent. A budget between two rungs buys the lower one. Paid yearly, every rung costs ten months: $500 a year at the bottom and $43,000 at the top, which the table shows as a 17% to 28% saving against the $50-per-2,000 base rate once the volume discount (4% at 25,000 credits, rising to 14% at 200,000) is added. Enterprise is 'Contact us' and adds unlimited users and agents, several workspaces, SSO, SLAs, a DPA, a security review and, only when a buyer's procurement asks for it, a contract that runs for a year. The unit behind every rung is the same on Free and Business: five credits for a conversation the agent helped with, five more for every further ten replies, nothing for a conversation that went nowhere, and a hundredth of a credit for each workflow step that calls an outside service or each knowledge-base lookup that finds something. Algomo's own estimate is that $50 covers about 400 useful conversations a month.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Free is $0 with 100 credits a month, one user, one workspace and one agent, and needs no credit card.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.algomo.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-22"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free is $0 with 100 credits a month, one user, one workspace and one agent, and needs no credit card.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.algomo.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-22"
+    }
+   ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
-   "first_observed_at": "2026-10-03"
+   "price_verified_at": "2026-10-22",
+   "first_observed_at": "2026-10-22"
   },
   {
    "name": "Alidrop",
@@ -3779,7 +3796,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) There is still no plan price. Pro is sold as attendee credits, bought as a yearly pack up front, with sessions up to 4 hours and unlimited team members; Enterprise is quote-only with sessions up to 12 hours. The rate depends on the currency you pick on the page, and the two are not conversions of each other: €2.50 per attendee in euros, $3.00 in dollars. Their own definition, worth reading twice because it decides your bill: one credit is spent for each unique participant, per session, over a 12-month period. Someone attending two different sessions costs 2 credits; the same person joining live and later watching the replay of that session counts once. Registrants who never show up cost nothing, and your own team members never consume credits. New since August: the FAQ now says what happens when the pack runs out — you get alerts as you approach the limit, and once you reach it new attendees cannot join a session until you move to a higher yearly tier. What still is not answered anywhere on the page is what becomes of credits you have not used at the twelve-month mark. On 30 September 2026 both rates read the same at the calculator's default of 400 credits (€2.50 and $3.00), the feature table capped live attendance at 3,000 per event on both Pro and Enterprise, and the unused-credit question was still unanswered.",
+   "price_note": "(re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) There is still no plan price. Pro is sold as attendee credits, bought as a yearly pack up front, with sessions up to 4 hours and unlimited team members; Enterprise is quote-only with sessions up to 12 hours. The rate depends on the currency you pick on the page, and the two are not conversions of each other: €2.50 per attendee in euros, $3.00 in dollars. Their own definition, worth reading twice because it decides your bill: one credit is spent for each unique participant, per session, over a 12-month period. Someone attending two different sessions costs 2 credits; the same person joining live and later watching the replay of that session counts once. Registrants who never show up cost nothing, and your own team members never consume credits. New since August: the FAQ now says what happens when the pack runs out — you get alerts as you approach the limit, and once you reach it new attendees cannot join a session until you move to a higher yearly tier. The pricing page itself does not say what becomes of credits you have not used at the twelve-month mark. On 30 September 2026 both rates read the same at the calculator's default of 400 credits (€2.50 and $3.00), the feature table capped live attendance at 3,000 per event on both Pro and Enterprise, and the pricing page still left the unused-credit question open. Re-read on 22 October 2026: the 400-credit default still showed €2.50 per attendee, Pro sessions still run up to 4 hours and Enterprise up to 12, and live attendance is still capped at 3,000 per event on both. Livestorm's help article on attendee credits, read the same day, settles the question the pricing page leaves open: unused credits do not roll over to the next billing period.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3787,11 +3804,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-10-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
+   "price_verified_at": "2026-10-22",
    "first_observed_at": "2026-09-05"
   },
   {
