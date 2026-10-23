@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 278,
-  "flags": 432,
+  "tools": 279,
+  "flags": 434,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -5604,6 +5604,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": "2026-09-01"
+  },
+  {
+   "name": "RoverLead",
+   "category": "Sales & CRM",
+   "domain": "roverlead.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/roverlead-review/",
+   "from_price_usd_mo": 149.0,
+   "entry_price": "$149",
+   "entry_price_terms": "Starter (per user) · per user per month, 5,000 credits",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-23 in the pricing section of roverlead.com; there is no separate pricing page, roverlead.com/pricing returns a 404; dollar amounts, the page does not name the currency) RoverLead has two self-serve plans, both priced per user. Starter is $149 per user a month (the page prints it as '$/149 /month/user') and includes 5,000 credits, 'Warm leads every morning', personalised outreach with safety pacing, Unibox intent classification with draft replies, and a CRM and MCP integration. Growth is $449 per user a month with 25,000 credits, '5x the leads volume', 'Up to 10 Signal Agents 24/7', white-glove onboarding and priority support with a customer success manager. Enterprise is 'Custom' through Contact Us and adds unlimited Signal Agents, team workspaces with routing rules, a dedicated CSM with an SLA, audit logs and security controls. Both self-serve plans start with '7-day Free Trials - No Card Required'. The page does not say what a credit buys, what happens when you run out, or whether there is an annual price.",
+   "flags": [
+    {
+     "flag": "per_seat",
+     "evidence": "Starter is $149 per user a month (the page prints it as '$/149 /month/user') and includes 5,000 credits, 'Warm leads every morning', personalised outreach with safety pacing, Unibox intent classification with draft replies, and a CRM and MCP integration.",
+     "evidence_excerpt": "Starter is $149 per user a month (the page prints it as '$/149 /month/user') and includes 5,000 credits, 'Warm leads every morning', personalised outreach with safety pacing, Unibox intent classifica…",
+     "source_url": "https://www.roverlead.com/#pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "Starter is $149 per user a month (the page prints it as '$/149 /month/user') and includes 5,000 credits, 'Warm leads every morning', personalised outreach with safety pacing, Unibox intent classification with draft replies, and a CRM and MCP integration.",
+     "evidence_excerpt": "Starter is $149 per user a month (the page prints it as '$/149 /month/user') and includes 5,000 credits, 'Warm leads every morning', personalised outreach with safety pacing, Unibox intent classifica…",
+     "source_url": "https://www.roverlead.com/#pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
   },
   {
    "name": "Salesflare",
