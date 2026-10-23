@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 276,
-  "flags": 428,
+  "tools": 278,
+  "flags": 432,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -166,7 +166,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/agentnest-review/",
    "from_price_usd_mo": 19.0,
    "entry_price": "$19",
-   "entry_price_terms": "Starter · per month for 100 successful automated fixes, billed in USD every…",
+   "entry_price_terms": "Starter · per month for 100 successful automated fixes, billed in USD…",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-09 on apps.shopify.com/agentnest; first read 2026-08-19, no amount or allowance changed in between, though the listing now calls the app 'AgentNest - ChatGPT Ad Catalog' and pitches the scan as preparation for ChatGPT Ads) Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view. Starter $19 a month: 100 successful automated fixes a month, one-click fixes for all eligible issues, product-level recommendations. Growth $49 a month: 1,000 fixes a month, revenue-priority catalogue insights, fix history and progress tracking. Scale $99 a month: 5,000 fixes a month, advanced revenue-priority insights and bulk catalogue fixes. All charges are billed in USD and recur every 30 days, and no tier shows a free trial. The billing unit is a 'successful automated fix', and the listing never defines it. Whether one fix is one product, one field on one product, or one alt text on one image is the difference between $19 covering a hundred products and a hundred images. It is also the only variable separating the three paid tiers. Developer Ecommerce Storez, 1255 23rd St NW, Washington DC; the app launched on 6 August 2026 and has no reviews at all.",
    "flags": [
@@ -461,7 +461,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/assortion-review/",
    "from_price_usd_mo": 9.99,
    "entry_price": "$9.99",
-   "entry_price_terms": "0-50 orders · per month, set by total monthly store orders, not only orders with an…",
+   "entry_price_terms": "0-50 orders · per month, set by total monthly store orders, not only orders…",
    "pricing_status": "public",
    "price_note": "(read 2026-10-15 on assortion.com/pricing and the Shopify App Store listing apps.shopify.com/assortion, prices in USD) Assortion has one feature set and charges by the size of your store: the price depends on your total monthly store orders, not only the orders that include an upsell. 0 to 50 orders a month costs $9.99, 51 to 200 costs $19.99, 201 to 500 costs $34.99, 501 to 1,000 costs $59.99, 1,001 to 2,500 costs $89.99, 2,501 to 5,000 costs $149.99 and more than 5,000 costs $199.99. The two top tiers overlap at exactly 5,000 orders on the page. The Shopify listing shows only the first three tiers and bills every 30 days. Development stores use the app for free with all features. Paid plans list a 14-day free trial, cart customization, upsells, product add-ons and live support. No annual price is shown.",
    "flags": [],
@@ -738,7 +738,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/beehiiv-review/",
    "from_price_usd_mo": 59.0,
    "entry_price": "$59",
-   "entry_price_terms": "Lite, up to… · billed monthly",
+   "entry_price_terms": "Lite… · billed monthly",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-05 on beehiiv.com/pricing, prices in USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv shows a 0% take rate, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Free is $0 up to 2,500 subscribers with unlimited sends. At up to 1,000 subscribers Lite is $59/mo billed monthly or $49/mo on yearly billing, Pro $109/mo or $95/mo yearly. At 10,000 subscribers Lite is $139/mo ($119 yearly) and Pro $239/mo ($199 yearly); at 50,000 Lite is $299/mo ($249) and Pro $469/mo ($399); at 100,000 Lite is $469/mo ($399) and Pro $699/mo ($599). Lite stops at 100,000 subscribers; Pro runs on to $999/mo billed monthly at 250,000+. Read again on 9 October 2026 with the slider, step by step (Free shows 'Unavailable' above 2,500 subscribers). Lite billed monthly: $59 at 1,000, $79 at 2,500, $109 at 5,000, $139 at 10,000, $199 at 25,000, $299 at 50,000, $389 at 75,000, $469 at 100,000; billed yearly, per month: $49, $69, $95, $119, $169, $249, $329, $399. Pro billed monthly: $109 at 1,000, $149 at 2,500, $199 at 5,000, $239 at 10,000, $349 at 25,000, $469 at 50,000, $589 at 75,000, $699 at 100,000, $799 at 150,000, $899 at 200,000, $999 at 250,000 (the last step reads '250,000+'); billed yearly, per month: $95, $129, $169, $199, $299, $399, $499, $599, $689, $779, $869.",
    "flags": [
@@ -762,7 +762,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/bidx-review/",
    "from_price_usd_mo": null,
    "entry_price": "€495",
-   "entry_price_terms": "Self Service Platform · per month PLUS an unpublished percentage of connected ad spend, net of…",
+   "entry_price_terms": "Self Service Platform · per month PLUS an unpublished percentage of connected ad spend…",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-13 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month. The tiers differ mainly in how much of a human you get. That is one monthly strategy call on Self Service, up to two calls and up to 10h of assistance a month on Managed Platform, and up to four calls and up to 32h on Managed Service. Amazon DSP is priced separately on the same page: Self Service €495/month and Managed Service €995/month, again plus a percentage of ad spend. Amazon Marketing Cloud is sold as reporting: €295 for the default report, custom reports quote-only. The Share of Voice add-on covers the first 100 keywords free and charges $250 a month per additional 500 keywords. All prices are net with VAT added on top, and the page states that plans are based on an annual commitment paid monthly; the FAQ adds that new customers can take a paid three-month proof-of-concept period first. Walmart Managed Service, high ad-spend volumes and large agencies are contact-sales. Sellers under €10,000 a month in ad spend are pointed to a separate product, BidX Essential, whose own landing page at get.bidx.io/essentials lists $195/month for up to $10K in monthly ad spend — a flat fee with no percentage attached.",
    "flags": [
@@ -1008,7 +1008,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/bold-upsell-review/",
    "from_price_usd_mo": 4.99,
    "entry_price": "$4.99",
-   "entry_price_terms": "Shopify Basic · per month, the price follows your Shopify plan: $24.99 on Grow, $74.99 on…",
+   "entry_price_terms": "Shopify Basic · per month, the price follows your Shopify plan: $24.99 on Grow…",
    "pricing_status": "public",
    "price_note": "(read 2026-10-06 on the Shopify App Store listing at apps.shopify.com/product-upsell, prices in USD) Four plans, and you do not choose between them: each is named after a Shopify plan, so the app costs what your store's own Shopify plan dictates. Shopify Basic is $4.99 a month, Shopify Grow $24.99, Shopify Advanced $74.99 and Shopify Plus $399.99. Each carries a 7-day free trial. The feature list is the same on the first three: Smart AI upsell offers, cart page and cart drawer offers, custom cross-sells and 'true' upsells, funnel offers, post-purchase offers, free gift offers, subscription offers and a rewards announcement bar. The Plus plan adds checkout offers, the only feature that appears on one card alone. The listing calls this flat-rate monthly pricing: nothing is metered on orders, views or the revenue the app generates. All charges are billed in USD, and recurring and usage-based charges are billed every 30 days.",
    "flags": [],
@@ -1118,7 +1118,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/brandye-review/",
    "from_price_usd_mo": 19.0,
    "entry_price": "$19",
-   "entry_price_terms": "Starter · per month for 200 quiz submissions and 500 chats a month, 30 days of…",
+   "entry_price_terms": "Starter · per month for 200 quiz submissions and 500 chats a month, 30 days…",
    "pricing_status": "public",
    "price_note": "(read 2026-10-02 on brandye.com/pricing and on apps.shopify.com/brandye-quiz-ai-recommendation) Every plan includes the product quiz, the AI shopping assistant and AI product questions; the tiers differ in how many quiz submissions and chats you get and how long your data is kept. Free covers up to 100 quiz submissions and 100 chats in total, lifetime rather than per month, with 15 days of data. Starter is $19 a month for 200 submissions and 500 chats a month with 30 days of data. Booster is $49 a month for 500 submissions and 1,500 chats with 60 days. Growth is $129 a month for 1,000 submissions and 3,000 chats with 90 days. Those four are the only plans on the Shopify listing, which shows yearly prices of $190 for Starter, $470.40 for Booster and $1,238.40 for Growth, and a 14-day free trial on each paid plan. The vendor's own pricing page adds two higher tiers the listing does not show: Scale at $249 a month for 2,500 submissions and 6,000 chats, and Brand at $599 a month for 6,000 submissions and 15,000 chats, both with 90 days of data, plus Enterprise on request; it advertises 20% off for yearly billing. We could not tell from either page whether Scale and Brand are billed through Shopify like the listed plans. Listed charges are in USD, billed through Shopify every 30 days. Developer Brandye SAS of Bussy-Saint-Georges, France; the listing gives a launch date of 10 September 2025 and shows 12 reviews, none of them critical.",
    "flags": [
@@ -2228,7 +2228,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/engagebay-review/",
    "from_price_usd_mo": 14.99,
    "entry_price": "$14.99",
-   "entry_price_terms": "All-in-One Basic, per… · per user per month on monthly billing",
+   "entry_price_terms": "All-in-One Basic… · per user per month on monthly billing",
    "pricing_status": "public",
    "price_note": "(price re-verified 2026-09-18 and again on 2026-10-05 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members. All-in-One suite per user/month on monthly billing: Basic $14.99 (500 contacts), Growth $64.99 (5,000 contacts, marketing automation), Pro $119.99 (10,000 contacts). The three rates have not moved since our August reading, but the Pro contact allowance has: the plan card now says 10,000 contacts where we recorded 50,000. A note beside it confirms that ceiling in the vendor's own words — “The Pro plan includes up to 10,000 contacts” — and directs anyone who needs more to schedule a call about expanding the limit. The published ceiling is a fifth of what it was, and everything above it is now a sales conversation rather than a price.\n\nRead the toggle before you read the number. The page defaults to a biennial ‘15% off’ display (Basic $12.74, Growth $55.24, Pro $101.99) with a yearly ‘8% off’ step in between ($13.79, $59.79, $110.39), so the friendly figure in the headline assumes you prepay two years. Single bays (Marketing or CRM & Sales) start at $11.04/user/mo on that same biennial display. One oddity worth knowing before you quote a number back to anyone: the page’s own title tag still advertises “Free to $99/Month”, and $99 is not a rate in any of the three billing columns.",
    "flags": [
@@ -2563,7 +2563,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/fast-bundle-review/",
    "from_price_usd_mo": 19.0,
    "entry_price": "$19",
-   "entry_price_terms": "Standard (1K) · per month on the App Store listing, or $180 a year, for up to $1,000 of…",
+   "entry_price_terms": "Standard (1K) · per month on the App Store listing, or $180 a year…",
    "pricing_status": "public",
    "price_note": "(read 2026-08-24 on apps.shopify.com/fast-bundle-product-bundles, listed as “FBP | Fast Bundle & Upsell App”, and on fastbundle.co/pricing) The meter here is not your catalogue, your traffic or your seats — it is the revenue your bundles themselves generate. The listing is free to install and shows four tiers. Development stores are free to install and free to run. Standard (1K) is $19 a month or $180 a year and covers up to $1,000 of monthly bundle sales. Standard (3K) is $49 a month or $468 a year for up to $3,000. Standard (10K) is $139 a month or $1,380 a year for up to $10,000. All three paid tiers carry a 7-day free trial and the same feature list: unlimited bundles, upsells and cross-sells, mix and match, volume-discount upsell, BOGO and Buy X Get Y, unlimited AI frequently-bought-together, product add-ons, 24/7 English support and the AI bundle image generator. The App Store states all charges are billed in USD and recur every 30 days.\n\nThe vendor's own pricing page adds a fifth tier the listing never shows: Enterprise at $299 a month or $2,988 a year, described as limitless monthly bundle revenue, with automatic bundle detection in the cart, Shopify POS integration, minor specialised customisations, priority onboarding with an account manager and a five-minute support target against Standard's thirty. That page also prices the annual commitments as effective monthly rates — $15, $39, $115 and $249 — under a “2-MONTHS FREE” label, and it is the only place the free plan is described in full: all six bundle types, 24/7 support, available to development stores and “eligible merchants”, and capped at $500 in bundle sales a month. Its comparison table shows what the free tier gives up: volume discounts and product add-ons on selected products only rather than collections or the whole catalogue, no AI frequently-bought-together across all products, no multilingual translation, no subscription-app integration, and a “Powered by Fast Bundle” credit left on your storefront.\n\nFast Bundle's own FAQ defines the metered revenue as sales through bundles, volume discounts, product add-ons, mix and match, Buy X Get Y, frequently bought together and other offers created with the app, and states that exceeding your plan's monthly bundle revenue limit means upgrading to keep campaigns running. Developer Fast Bundle, listed at 13353 Commerce Parkway, Unit 2353, Richmond, BC, Canada; the app launched on 26 November 2020, the vendor's site claims 22,400 merchants, and the listing carried 3,031 reviews at a 5.0 average at the time of writing. Re-read 10 October 2026 on the listing: the three Standard prices and annual rates are unchanged, the listing now offers an optional Auto Bundle Detection add-on at +$49 a month on each Standard tier, and it carried 3,535 reviews at a 5.0 average.",
    "flags": [
@@ -3164,7 +3164,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/intelis-review/",
    "from_price_usd_mo": null,
    "entry_price": "$49",
-   "entry_price_terms": "Basic · per month for up to 100 products or variants, or $490 a year, a…",
+   "entry_price_terms": "Basic · per month for up to 100 products or variants, or $490 a year…",
    "pricing_status": "public",
    "price_note": "(re-verified 8 September 2026 on apps.shopify.com/ecoprice-analytics, intelis.ai/pricing and the Intelis homepage; listing and pricing page re-read 1 October 2026, unchanged) Four tiers on the Shopify listing, priced by how many products or variants you track, each with a 14-day free trial. Basic $49 a month or $490 a year, a 17% saving: up to 100 products or variants, Google Shopping competitor monitoring, AI automatch for unlimited competitors, dynamic pricing, unlimited competitor URL tracking, reports, pricing history and chat support. Professional $179 a month or $1,790 a year: up to 1,000, adding variant tracking, sales analysis, live feed export, pricing strategy monitoring, an AI assistant and premium chat support. Premium $249 a month or $2,490 a year: up to 2,000, adding Shopify Markets support per market, Google Analytics integration and API access. Business $399 a month or $3,990 a year: up to 5,000, adding a custom labels feed for Google Merchant Center, MAP monitoring, a customised AI matching algorithm, pricing consultation, advanced analytics and A+ support. The vendor's own pages used to disagree with the listing above Premium -- on 21 August 2026 intelis.ai/pricing showed Business at $499 with a $4,990 annual rate and Enterprise at $849, while the homepage said $749. That is now resolved: on 8 September 2026 the pricing page and the homepage both show Business at $399 ($3,990 a year) and Enterprise at $749 ($7,490 a year) for up to 10,000 SKUs, matching the listing. The vendor's own pages count SKUs where the listing counts products or variants. All charges are billed in USD and recur every 30 days. Developer Intelis; the app launched 6 July 2021 and carries a 4.9 rating from 97 reviews on 1 October 2026 (101 on 8 September).",
    "flags": [
@@ -3964,19 +3964,19 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(price re-verified 2026-09-23 against marketerhire.com/pricing and the vendor's FAQ at marketerhire.com/faqs/all) No rates are published on the pricing page or in the FAQ. The pricing page says there is \"no plan to pick and no retainer to guess at\" and that after one call you are matched with a marketer \"at a budget you agreed to\". Published terms: a free consultation with no obligation, a match within 24-48 hours, a two-week refundable trial, and month-to-month billing you can cancel at any time. The FAQ adds how it works: engagements are structured as a monthly retainer, with the marketer working to agreed priorities and outcomes instead of tracked hours; you are billed at project kick-off; if the first person does not work out during the initial two weeks you are rematched with another candidate, as part of the Service Contract signed at the start; invoices are monthly and can be reviewed before they are processed, by card or ACH. The hiring form routes you by budget, either to a call with a Growth Manager or to a further job brief with a follow-up.",
+   "price_note": "(price re-verified 2026-09-23 against marketerhire.com/pricing and the vendor's FAQ at marketerhire.com/faqs/all; re-read 2026-10-23, same wording and still no rates) No rates are published on the pricing page or in the FAQ. The pricing page says there is \"no plan to pick and no retainer to guess at\" and that after one call you are matched with a marketer \"at a budget you agreed to\". Published terms: a free consultation with no obligation, a match within 24-48 hours, a two-week refundable trial, and month-to-month billing you can cancel at any time. The FAQ adds how it works: engagements are structured as a monthly retainer, with the marketer working to agreed priorities and outcomes instead of tracked hours; you are billed at project kick-off; if the first person does not work out during the initial two weeks you are rematched with another candidate, as part of the Service Contract signed at the start; invoices are monthly and can be reviewed before they are processed, by card or ACH. The hiring form routes you by budget, either to a call with a Growth Manager or to a further job brief with a follow-up.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No rates published; matched to a marketer 'at a budget you agreed to' after a call, billed as a monthly retainer (re-verified 23 Sep 2026)",
+     "evidence": "No rates published; matched to a marketer 'at a budget you agreed to' after a call, billed as a monthly retainer (re-verified 23 Oct 2026)",
      "evidence_excerpt": null,
      "source_url": "https://www.marketerhire.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-10-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-23",
+   "price_verified_at": "2026-10-23",
    "first_observed_at": "2026-09-23"
   },
   {
@@ -3988,19 +3988,27 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "Quote-based, and deliberately so (verified 6 September 2026 and again 25 September 2026 on their own site). Marketing 360 does publish a page called How Plans & Pricing Work, and it carries no prices at all: re-read 25 September 2026, the form that stands between you and a quote asks business name, industry, website, number of employees (1-2, 3-9 or 10+) and your name, email and phone, promises 'a 14-day free trial', and ends with a specialist reaching out with custom plans and pricing. The revenue bands the form used to ask for are gone. Reported core software runs around $395-$419/mo with marketing consultations, but design and custom website work are separate and can run from $2,000 into five figures, and managed ad services layer on top. This review carries no pricing screenshot rather than a placeholder. Get a full written quote.",
+   "price_note": "Quote-based, and deliberately so (verified on their own site on 6 September, 25 September and 23 October 2026). A site redesign moved the route: the old How Plans & Pricing Work page returned 404 on 23 October 2026, and the Get Plans & Pricing button now opens marketing360.com/get-started, a two-step form whose first step asks business name, industry, website and number of employees (1-2, 3-9 or 10+) before 'Continue to Plans & Pricing'. No figure appears before you submit it. The Terms of Service (last updated July 30, 2026) do publish the economics of the advertising side: Ad Credits cost $1.00 each, and on the default Model A plan 51% of each credit goes to the media buy while 49% is retained by Marketing 360 for campaign management and optimisation; on Marketing 360 Pro accounts the retained share is 25%; under Model B you buy ads in your own accounts and are invoiced 10% of the previous month's actual ad spend, which the terms recommend for clients spending more than $10,000 a month. Reported core software runs around $395-$419/mo with marketing consultations, but design and custom website work are separate and can run from $2,000 into five figures. This review carries no pricing screenshot rather than a placeholder. Get a full written quote.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "Quote-based, and deliberately so (verified 6 September 2026 and again 25 September 2026 on their own site).",
+     "evidence": "Quote-based, and deliberately so (verified on their own site on 6 September, 25 September and 23 October 2026).",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://www.marketing360.com/get-started",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-10-23"
+    },
+    {
+     "flag": "usage_metered",
+     "evidence": "The Terms of Service (last updated July 30, 2026) do publish the economics of the advertising side: Ad Credits cost $1.00 each, and on the default Model A plan 51% of each credit goes to the media buy while 49% is retained by Marketing 360 for campaign management and optimisation; on Marketing 360 Pro accounts the retained share is 25%; under Model B you buy ads in your own accounts and are invoiced 10% of the previous month's actual ad spend, which the terms recommend for clients spending more than $10,000 a month.",
+     "evidence_excerpt": "The Terms of Service (last updated July 30, 2026) do publish the economics of the advertising side: Ad Credits cost $1.00 each, and on the default Model A plan 51% of each credit goes to the media bu…",
+     "source_url": "https://www.marketing360.com/get-started",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-25",
+   "price_verified_at": "2026-10-23",
    "first_observed_at": null
   },
   {
@@ -4798,7 +4806,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/pipedrive-review/",
    "from_price_usd_mo": null,
    "entry_price": "€14",
-   "entry_price_terms": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat a…",
+   "entry_price_terms": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat…",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front. Billed monthly the same plans are €24, €49, €79 and €99 per seat. The page advertises that annual billing saves up to 42%. The numbers do not convert between currencies, they are reprinted with a different symbol, so a European pays materially more for the same seat. The public trial is 14 days with no credit card; the affiliate landing page our own link leads to advertised 30 days when we followed it on 3 September 2026. Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50. Pipedrive's help pages say LeadBooster, Projects and Smart Docs are included on Premium and Ultimate and can be bought on Lite and Growth, while Campaigns and Web Visitors are always extra. The terms make all fees non-refundable, and a cancelled account stays usable until the end of the billing cycle.",
    "flags": [
@@ -5495,6 +5503,62 @@
    "first_observed_at": null
   },
   {
+   "name": "Rewarx Studio AI",
+   "category": "E-commerce",
+   "domain": "rewarx.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/rewarx-studio-ai-review/",
+   "from_price_usd_mo": 29.9,
+   "entry_price": "$29.90",
+   "entry_price_terms": "Starter · per month on the Shopify App Store listing, billed in USD",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-23 on the Rewarx listing in the Shopify App Store; the listing says all charges are billed in USD) Rewarx's own pricing page shows no amounts, so the Shopify listing is the public price list. Free gives 10 AI product photo credits. Starter is $29.90 a month or $299 a year for 100 credits a month, Growth $54.90 a month or $549 a year for 200 credits, and Scale $129.90 a month or $1,299 a year for 500 credits; the annual price saves 17%. Credits are one pool for photos and video: the listing translates 100 credits into roughly 100 standard photos, or about 33 photos in 4K Ultra, or 5 cinematic videos. Starter removes the watermark; Scale adds batch templates and a dedicated support manager. The listing warns that external charges may be billed by Rewarx Limited separately from your Shopify invoice, and does not say whether unused credits roll over or what extra credits cost.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Free gives 10 AI product photo credits.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/rewarx-ai-product-photography",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free gives 10 AI product photo credits.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/rewarx-ai-product-photography",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
+  },
+  {
+   "name": "Riibase CRM",
+   "category": "Growth & Revenue",
+   "domain": "riibase.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/riibase-crm-review/",
+   "from_price_usd_mo": 9.9,
+   "entry_price": "$9.90",
+   "entry_price_terms": "Starter · flat monthly price for up to 5 users, 500 records and 5,000 AI credits",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-23 on riibase.com/pricing; dollar amounts, the page does not name the currency) Riibase prices its CRM per team, not per seat. Starter is $9.90 a month for up to 5 users, 500 records and 5,000 AI credits; Pro is $19.90 a month for up to 15 users, 5,000 records and 15,000 AI credits; Enterprise is $59.90 a month for up to 30 users, unlimited records and 25,000 AI credits. A banner calls these prices a price drop with the promotion ending in December 2026, and a second banner offers 25% off all plans with the code WELCOME25 before 31 December 2026; the page does not say whether the two combine or what the prices become afterwards. There is a 10-day free trial without a credit card. No annual price is shown, and no price for extra AI credits.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Starter is $9.90 a month for up to 5 users, 500 records and 5,000 AI credits; Pro is $19.90 a month for up to 15 users, 5,000 records and 15,000 AI credits; Enterprise is $59.90 a month for up to 30 users, unlimited records and 25,000 AI credits.",
+     "evidence_excerpt": "Starter is $9.90 a month for up to 5 users, 500 records and 5,000 AI credits; Pro is $19.90 a month for up to 15 users, 5,000 records and 15,000 AI credits; Enterprise is $59.90 a month for up to 30 …",
+     "source_url": "https://www.riibase.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-23"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-23",
+   "first_observed_at": "2026-10-23"
+  },
+  {
    "name": "Riverside",
    "category": "Growth & Revenue",
    "domain": "riverside.com",
@@ -5803,7 +5867,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/selixer-review/",
    "from_price_usd_mo": null,
    "entry_price": "$149",
-   "entry_price_terms": "Essence · per month for two user seats, one connected ad platform and a year of…",
+   "entry_price_terms": "Essence · per month for two user seats, one connected ad platform and a year…",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-09-19 on apps.shopify.com/selixer; unchanged since 10 September 2026) Three tiers, no free plan, each with a 14-day free trial. Essence $149 a month: two user seats, one connected ad platform, a year of historical data, the ad dashboard with campaigns and trends, stockout, overstock and dead-stock views, an inventory health score, 500 AI credits with top-ups from $25, and a site speed analyzer. Catalyst $299 a month adds four seats, two ad platforms and no date cap on history, the full True Profit waterfall, POAS, CAC and product-level ad revenue, per-product P&L and an SKU action matrix, a WhatsApp inbox with AI agent and campaigns, 50,000 emails a month with branded invoices, and 2,000 AI credits. Aether $399 a month adds eight seats, three ad platforms, all nine profit-leak detectors, multi-touch attribution and ad cohorts, demand forecasting and return on inventory, RFM scoring and retention cohorts, automations with 200,000 emails a month, and 3,000 AI credits. The listing publishes no annual rate, so all three are monthly. Charges are billed in USD, and the listing files recurring and usage-based charges together on the same 30-day cycle — the AI credits are the usage part, with top-ups starting at $25. Developer Akaame Export Private Limited; the app launched 19 May 2026 and carries a single App Store review. Two details on the same page as the plans: the entry card is labelled Essance while the Catalyst card's feature list calls the same tier Essence, and the App Store record still shows a single five-star review, from a merchant who had used the app for 15 days.",
    "flags": [
@@ -5898,7 +5962,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/sellfy-review/",
    "from_price_usd_mo": 29.0,
    "entry_price": "$29",
-   "entry_price_terms": "Starter, up to $10k in… · billed monthly",
+   "entry_price_terms": "Starter, up to $10k… · billed monthly",
    "pricing_status": "public",
    "price_note": "(re-verified 2026-09-07 and again 2026-09-30) Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year; Business $79 or $59, up to $50k; Premium $159 or $119, up to $200k; above that Sellfy quotes you. Yearly billing saves 25%, there is a 14-day trial, a 30-day money-back guarantee and no free tier. 0% transaction fees on every plan, though PayPal or Stripe still take roughly 2.9% + 30c per transaction. The revenue limits are soft: Sellfy's own pricing.md says the store is never suspended and you are never forced to upgrade, while the page's FAQ says you are expected to upgrade and that Sellfy may instead charge a 2% overage fee on revenue above the limit. Read in US dollars from a Netherlands connection.",
    "flags": [
@@ -7247,7 +7311,7 @@
    "review_url": "https://aibuildermarketplace.com/b2b/upsell-com-review/",
    "from_price_usd_mo": 9.99,
    "entry_price": "$9.99",
-   "entry_price_terms": "Growth · per month from the 51st order or $51 of upsell revenue up to 2,000 a…",
+   "entry_price_terms": "Growth · per month from the 51st order or $51 of upsell revenue…",
    "pricing_status": "public",
    "price_note": "(prices re-verified 2026-09-19 on upsell.com/pricing and on the Shopify listing apps.shopify.com/reconvert-upsell-cross-sell; both now show the same ladder, which replaces the $4.99/$9.99/$19.99 tiers we recorded on 2 September) Billed in USD. Every tier carries the same feature set — the vendor's own comparison says so in as many words, \"Every feature is included on every plan. Tiers differ by order volume and support\" — so you are buying volume and support, not features. Free: up to 50 monthly store orders or $50 of upsell revenue, whichever is hit first. Growth $9.99 a month: from 51 orders or $51 of upsell revenue, up to 2,000. Scale $199 a month, or $149 a month billed annually, up to 10,000. Elite $499 a month, or $399 a month billed annually, up to 20,000. Enterprise is quote-only above 20,000 and adds one invoice across multiple stores. The annual saving is 25% on both paid tiers; the Shopify listing renders it as \"$149/year and save 94%\", which is its own arithmetic and not what the vendor's page says. Two contradictions on upsell.com/pricing itself: the Scale card says \"Billed monthly\" while the comparison table one screen below says Scale is billed \"Annual only\", and the Growth card is labelled FREE above a volume list that runs to 2,000 orders, while the listing prices anything from the 51st order at $9.99. A 14-day free trial is offered on each paid tier. Checkout upsells remain Shopify Plus only.",
    "flags": [
