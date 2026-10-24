@@ -4170,10 +4170,10 @@
    "entry_price": "$19",
    "entry_price_terms": "NameScore, 1 NameReport · one-time, excluding VAT, shown as an offer against a regular $39",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-07 on namerobot.com in a browser render, USD) NameRobot sells several naming tools. NameScore checks a name and returns a NameReport; it is a one-time payment, not a subscription, priced per number of reports, excluding VAT and marked as an offer for commercial use only, each shown against a higher regular price: 1 report $19.00 (regular $39.00), 5 reports $49.00 ($99.00), 10 reports $75.00 ($149.00) and 100 reports $249.00 ($499.00). Namefruits, the AI name generator, is a one-time payment of $99 per naming project, with a free start where you collect words, rate examples and set preferences before paying for full access. The Naming Toolbox, with 100+ name generators and availability checks, is free to try; its premium membership is a subscription whose price is not printed on namerobot.com. Trademarkly, a trademark lookup, is described as free. The payment FAQ lists PayPal, credit card, invoice and SEPA on request, and says EU customers without a VAT ID pay VAT.",
+   "price_note": "(read 2026-10-07 on namerobot.com in a browser render, USD) NameRobot sells several naming tools. NameScore checks a name and returns a NameReport; it is a one-time payment, not a subscription, priced per number of reports, excluding VAT and marked as an offer for commercial use only, each shown against a higher regular price: 1 report $19.00 (regular $39.00), 5 reports $49.00 ($99.00), 10 reports $75.00 ($149.00) and 100 reports $249.00 ($499.00). Namefruits, the AI name generator, is a one-time payment of $99 per naming project, with a free start where you collect words, rate examples and set preferences before paying for full access. The Naming Toolbox, with 100+ name generators and availability checks, is free to try; its premium membership is a subscription whose price is not printed on namerobot.com. Trademarkly, a trademark lookup, is described as free. The payment FAQ lists PayPal, credit card, invoice and SEPA on request, and says EU customers without a VAT ID pay VAT. Re-read on 24 October 2026 with a plain fetch of namerobot.com/NameScore and the Namefruits page: the four NameScore offers and regular prices and the $99 Namefruits project price unchanged. The NameScore page now says flat rates are coming and asks interested buyers to get in touch; no flat-rate price is printed.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-10-24",
    "first_observed_at": "2026-10-07"
   },
   {
@@ -4383,22 +4383,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/omneky-review/",
    "from_price_usd_mo": 29.0,
    "entry_price": "$29",
-   "entry_price_terms": "Lite · monthly price",
+   "entry_price_terms": "Lite · billed monthly",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-09 in a browser render of the pricing section on omneky.com, USD, monthly view; omneky.com/pricing itself rendered empty) Lite is $29 a month with 200 credits a month, 1 brand, 1 team seat and 1 connected ad channel, plus insights, AI product image and video generation, the ad and campaign launcher and brand rules. Standard is $99 a month with 1,000 credits, 3 brands and 3 seats, and adds forecasting and budget planning, AI ad scoring, commercial-grade video, avatar videos, storyboards and clone video. Pro is $249 a month with 4,000 credits, 5 brands and 5 seats, and adds AI scoring with recommendations, long-form storyboard videos, character replacement and creative expert ad packages. Enterprise is custom and adds training on your first-party data, custom integrations, dedicated success, an SLA with IP assignment and media-buying services. All plans include a 7-day free trial and can be cancelled any time; yearly billing is said to save up to 20%, but we did not read the yearly prices. The page does not say how many credits an image or a video costs.",
+   "price_note": "(read 2026-10-24 on the pricing section of omneky.com, USD, monthly and yearly prices) Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat; it includes image ads in 12 ratios, short cinematic videos, the Agent and Automations, and Insights with Drilldown View. Standard is $99 a month or $79 a month billed yearly, with 1,000 credits, 3 brands and 3 seats, and adds commercials and professional video, UGC avatars (talking or with your product), clone video and clone image, and long-form avatar video. Pro is $249 a month or $199 a month billed yearly, with 4,000 credits, 5 brands and 5 seats: everything in Standard with four times its monthly credits. Enterprise is priced by sales and adds custom limits, committed pricing, a dedicated success manager, training, creative services, media buying and AI trained on your first-party data. Lite, Standard and Pro start with a 7-day free trial, and the paid plan starts when it ends. The page says yearly billing saves up to 20%; worked out, Lite's yearly rate is about 17% below its monthly price and Standard's and Pro's about 20%. Credit costs: 1K image ad 5, 4K image ad 10, avatar video with a product 20, short commercial up to 15 seconds 30, clone video 5 a second, connecting an ad account free. Top-ups never expire and are spent only after the monthly credits run out; the page gives no top-up price.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read 2026-10-09 in a browser render of the pricing section on omneky.com, USD, monthly view; omneky.com/pricing itself rendered empty) Lite is $29 a month with 200 credits a month, 1 brand, 1 team seat and 1 connected ad channel, plus insights, AI product image and video generation, the ad and campaign launcher and brand rules.",
-     "evidence_excerpt": "(read 2026-10-09 in a browser render of the pricing section on omneky.com, USD, monthly view; omneky.com/pricing itself rendered empty) Lite is $29 a month with 200 credits a month, 1 brand, 1 team s…",
+     "evidence": "(read 2026-10-24 on the pricing section of omneky.com, USD, monthly and yearly prices) Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat; it includes image ads in 12 ratios, short cinematic videos, the Agent and Automations, and Insights with Drilldown View.",
+     "evidence_excerpt": "(read 2026-10-24 on the pricing section of omneky.com, USD, monthly and yearly prices) Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat; i…",
      "source_url": "https://www.omneky.com/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-10-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
-   "first_observed_at": "2026-10-09"
+   "price_verified_at": "2026-10-24",
+   "first_observed_at": "2026-10-24"
   },
   {
    "name": "Omniseo",
