@@ -1,0 +1,5 @@
+Company,Contact Name,Contact Email,Contact Title,TestID,Lead Status
+AIBM Test Alpha,AIBM-001 Contact A,aibm001a@example.com,Buyer,AIBM-001,Potential
+AIBM Test Alpha,AIBM-001 Contact B,aibm001b@example.com,Manager,AIBM-001,Potential
+AIBM Test Beta,AIBM-002 Contact,aibm002@example.com,Owner,AIBM-002,Qualified
+AIBM Test Gamma,AIBM-003 Contact,aibm003@example.com,Analyst,AIBM-003,Bad Fit
