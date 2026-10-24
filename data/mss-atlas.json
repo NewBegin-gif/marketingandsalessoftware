@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 279,
+  "tools": 281,
   "flags": 434,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -1110,6 +1110,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-18",
    "first_observed_at": "2026-10-18"
+  },
+  {
+   "name": "Brandify",
+   "category": "SEO & Marketing",
+   "domain": "brandify.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/brandify-review/",
+   "from_price_usd_mo": 479.0,
+   "entry_price": "$479",
+   "entry_price_terms": "Starter · flat monthly service fee for one website and one primary business…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-24 on brandify.io/aeo/pricing/, brandify.io/brandify-reveal/pricing/, brandify.io/pricing/ and brandify.io/aeo/faq/) Brandify sells a service, not software you log in to and run. The SEO + AEO + GEO plans are monthly and month-to-month: Starter $479 improves one existing page a month, tracks up to 10 AI-search prompts and does up to 10 directory and citation listings; Growth $799 adds four new or substantially rewritten pages or blog posts a month, up to 50 prompts and up to 50 listings, and website redesign when needed within an agreed scope (redesign pages count toward the four); Dominance $1,599 raises that to eight pieces a month and 100 prompts and includes ChatGPT ads setup and management. Every plan includes Google Business Profile management for one primary profile, Google Analytics setup and review, social post concepts (4, 8 or 12 a month), a review-request kit and review replies (up to 5, 10 or 20 a month). Pricing assumes one website and one primary business entity; multi-location, franchise, ecommerce or enterprise sites may need a custom scope. Google Search management is $250 a month plus $250 setup on every plan, ChatGPT ads management the same on Starter and Growth, and ad spend is paid separately to the platform. Brandify Reveal, a visitor-attribution and identity-resolution platform, is $499 (Starter), $799 (Growth) or $1,199 (Pro) a month, with custom pricing for Enterprise and agencies; the page says it is priced as a platform, not per lead. Audience-first advertising (CTV, display, search, social, audio, geofencing) is quoted per campaign.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-24",
+   "first_observed_at": "2026-10-24"
   },
   {
    "name": "Brandye",
@@ -7249,6 +7264,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-15",
    "first_observed_at": "2026-10-15"
+  },
+  {
+   "name": "Try You",
+   "category": "E-commerce",
+   "domain": "tryyou.fly.dev",
+   "review_url": "https://aibuildermarketplace.com/b2b/try-you-review/",
+   "from_price_usd_mo": 0.04,
+   "entry_price": "$0.04",
+   "entry_price_terms": "Light · per usage, per successful try-on, no monthly fee",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-24 on the Shopify App Store listing apps.shopify.com/tryyou, the vendor site tryyou.fly.dev, its terms and its privacy policy) Free to install with 10 free try-ons, then pay per successful try-on with no monthly subscription. The price depends on the quality level you pick: Light $0.04 (1024 × 1536), Medium $0.12, Pro $0.19 (1024 × 1536), HD $0.37 and Ultra $0.58 (1536 × 2048, 2K). The vendor's own example: 100 try-ons cost about $4 on Light and $19 on Pro. Volume discounts go up to 50% off, down to $0.02 per try-on, but the thresholds are not published. You set a monthly spending cap between $5 and $10,000; failed try-ons are never billed; all charges go on your Shopify invoice in USD, and the terms say prices exclude tax. Uninstalling stops billing.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-24",
+   "first_observed_at": "2026-10-24"
   },
   {
    "name": "UENI",
