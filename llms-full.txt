@@ -583,8 +583,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Omneky
 - Review: https://marketingandsalessoftware.com/omneky-review.html
-- Verdict: Omneky: Standard is $99 a month with 1,000 credits, 3 brands and 3 seats. Lite allows one brand, one seat and one connected ad channel.
-- Price: (read 2026-10-09 in a browser render of the pricing section on omneky.com, USD, monthly view; omneky.com/pricing itself rendered empty) Lite is $29 a month with 200 credits a month, 1 brand, 1 team seat and 1 connected ad channel, plus insights, AI product image and video generation, the ad and campaign launcher and brand rules. Standard is $99 a month with 1,000 credits, 3 brands and 3 seats, and adds…
+- Verdict: Omneky: Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat. Credit costs per format are published.
+- Price: (read 2026-10-24 on the pricing section of omneky.com, USD, monthly and yearly prices) Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat; it includes image ads in 12 ratios, short cinematic videos, the Agent and Automations, and Insights with Drilldown View. Standard is $99 a month or $79 a month billed yearly, with 1,000 credits, 3 brands and 3 seats,…
 
 ## OutSends
 - Review: https://marketingandsalessoftware.com/outsends-review.html
