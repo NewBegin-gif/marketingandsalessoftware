@@ -5872,23 +5872,23 @@
    "domain": "securification.ai",
    "review_url": "https://aibuildermarketplace.com/b2b/securify-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$5.99",
-   "entry_price_terms": "Pro · per month, or $49.99 a year (30% less)",
+   "entry_price": "$19",
+   "entry_price_terms": "Pro · per month, or $159 a year",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-20 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus three paid tiers, unchanged since the readings of 18 August, 13 September and 20 September 2026. Free: unlimited countries and IPs, last 1,000 visitor records, 500 blocked visitors a month. Pro $5.99 a month or $49.99 a year (30% less), Advanced $9.49 or $79.99 a year (30% less), Growth $49 or $490 a year (17% less). Trials are 3 days on Pro and Advanced and 7 days on Growth. Rating as read 20 September 2026: 4.6 from 95 ratings (78 five-star, four four-star, two three-star, one two-star, ten one-star). Listed as 'Country Blocker Fraud Securify' from siimple.ai, with Shopify's Built for Shopify badge and Shopify Flow actions and triggers.",
+   "price_note": "(re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus two paid tiers. The listing changed after the reading of 20 October 2026: Pro rose from $5.99 to $19 a month, and the Advanced tier is gone. Free: unlimited country and IP blocking, 500 blocked visitors, up to 5 high-risk orders per 30 days, the last 1,000 visitor records and 7 days of analytics. Pro $19 a month or $159 a year (the card says save 30%): unlimited blocked visitors, up to 25 high-risk orders a month, the last 2,000 visitor records with export and 30 days of analytics. Growth $49 a month or $490 a year (save 17%): unlimited high-risk orders, AI-powered bot blocking, blocking risky emails at checkout and unlimited visitor logs. Both paid plans show a 7-day free trial. All charges are billed in USD every 30 days. Listed as 'Country Blocker Fraud Securify' from siimple.ai, with Shopify Flow actions and triggers.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-10-20 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus three paid tiers, unchanged since the readings of 18 August, 13 September and 20 September 2026.",
+     "evidence": "(re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus two paid tiers.",
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/easy-block-customer-ip-country",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-10-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
-   "first_observed_at": "2026-10-20"
+   "price_verified_at": "2026-10-25",
+   "first_observed_at": "2026-10-25"
   },
   {
    "name": "Seel",
