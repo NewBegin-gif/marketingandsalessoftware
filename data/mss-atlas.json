@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 281,
+  "tools": 283,
   "flags": 434,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -2793,6 +2793,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-10-21"
+  },
+  {
+   "name": "Froonze",
+   "category": "E-commerce",
+   "domain": "froonze.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/froonze-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-10-25 on the Shopify App Store listing apps.shopify.com/customer-accounts and on froonze.com/pricing, where we stepped through every plan in the price simulator) Froonze is one app with separate plugins, and each plugin is priced on its own, billed in USD through Shopify every 30 days. Loyalty: Free for shops with fewer than 100 orders a month, Advanced $10 a month up to 500 monthly orders (VIP tiers, referrals, points expiration, Shopify POS, integrations), Premium $30 up to 1,000 orders, Unlimited $60 with no order cap, mobile wallet cards for POS, the checkout extension for Shopify Plus stores and the API. Wishlist: Free, then $10, $20 and $40 by order volume. Reviews: $5, $10, $15 or $50. Accounts: $5, $10, $20 or $30. Forms: $6, $12 or $30 by features. A store running Loyalty and Wishlist on Advanced pays $20 a month. The 14-day free trial covers the whole app once, on first install, not each plugin. The pricing FAQ says plan changes and cancellations are prorated.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-25",
+   "first_observed_at": "2026-10-25"
   },
   {
    "name": "FullEnrich",
@@ -7525,6 +7540,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-11",
    "first_observed_at": "2026-10-11"
+  },
+  {
+   "name": "Visibility Mesh",
+   "category": "SEO & Marketing",
+   "domain": "visibilitymesh.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/visibility-mesh-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "Starter · per month, Shopify app billed every 30 days in USD",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-25 on the Shopify App Store listing apps.shopify.com/visibility-mesh and on the vendor's app page at visibilitymesh.com/pages/shopify-app) Three plans, billed in USD through Shopify every 30 days, each with a 7-day free trial that includes one full scan. Starter is $29 a month: every issue with step-by-step fixes, 12 rescans a month and a backlink audit of up to 30 links. Pro is $79: everything in Starter plus a deep catalog scan, a competitor benchmark, AI traffic tracking, a backlink audit of up to 150 links and 25 rescans a month. Growth is $179: everything in Pro plus approving and applying fixes from the app with undo, FAQ and blog content, a backlink audit of up to 500 links and a priority queue. The vendor also sells separate web audits outside the Shopify app; those are not part of these plans.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-25",
+   "first_observed_at": "2026-10-25"
   },
   {
    "name": "Vista Social",
