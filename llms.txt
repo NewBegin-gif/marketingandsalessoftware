@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 171 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-24.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 173 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-25.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -22,7 +22,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [How to Build a Content Engine That Compounds (AI Stack)](https://marketingandsalessoftware.com/build-content-engine.html): A blueprint for a content engine that runs without burning you out: the stack for research, creation, distribution and an audience you own —
 - [How to Build a Shopify Store That Sells (2026 Stack)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): A step-by-step blueprint for a Shopify/DTC store that converts: the exact stack — theme, products, landing pages, reviews and upsells — what
 
-## Reviews (171) — canonical versions
+## Reviews (173) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
 - [AgencyAnalytics Review (2026): Real Pricing, Real Limits](https://marketingandsalessoftware.com/agencyanalytics-review.html): AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clie
@@ -99,6 +99,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Flocksy Review (2026): Unlimited Queue, Capped Hours](https://marketingandsalessoftware.com/flocksy-review.html): Flocksy: The monthly ladder runs $1,699 to $5,899 a month. 'Unlimited' means unlimited queue, not unlimited throughput.
 - [folk Review (2026): Standard Has No Zapier, No API](https://marketingandsalessoftware.com/folk-review.html): folk: $30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly. One gap has closed and one has narrowed.
 - [Frase Review (2026): From $39/mo, Checked Oct 2026](https://marketingandsalessoftware.com/frase-review.html): Frase: Starter $39/mo billed yearly against $49/mo monthly. The article quotas pinch if you publish at volume (overage docs bill each).
+- [Froonze Review (2026): Shopify Loyalty and Wishlist, Free Under 100 Orders](https://marketingandsalessoftware.com/froonze-review.html): Froonze: Free, then $10, $20 and $40 by order volume. Modular pricing is cheap per plugin but adds up.
 - [FullEnrich Review (2026): A Phone Number Costs 10x](https://marketingandsalessoftware.com/fullenrich-review.html): FullEnrich: Credit-based, and credits are spent only when data is found and passes verification. The pay-on-success model is refreshingly honest.
 - [Gelato Review (2026): Gelato+ Pays Off at 7 Orders](https://marketingandsalessoftware.com/gelato-review.html): Gelato+ is $29.99 a month, or $19.99 a month billed annually. The free plan is genuinely usable, so the honest question is only whether Gelato+ earns 
 - [GeoStock Review (2026): From $9.99/mo, Checked Sep 2026](https://marketingandsalessoftware.com/geostock-review.html): GeoStock: Two plans, no free tier. Know what this is before you buy it: despite the name it is a storefront widget, not an inventory system.
@@ -191,6 +192,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [UserTrail Review (2026): Sessions Shared Across All Your Sites](https://marketingandsalessoftware.com/usertrail-review.html): UserTrail: Basic is $39 a month billed yearly or $47 billed monthly. The session allowance is shared across all websites on a plan.
 - [Vendoo Review (2026): $12.49 Crosslisting, Auto Offers on Pro](https://marketingandsalessoftware.com/vendoo-review.html): Vendoo: Free £0 for 5 items, Simple £16.99 a month for 125, Plus £27.99 for 250 and Pro £49.99 for 600, with 6 marketplaces.
 - [Vify Order Printer Review (2026): Free Stops at 50 Orders](https://marketingandsalessoftware.com/vify-order-printer-review.html): Vify Order Printer: Premium is $29.99 a month or $299 a year and adds more templates, custom invoices and quotes, a custom sender email, commercial in
+- [Visibility Mesh Review (2026): AI Search Audits for Shopify, From $29](https://marketingandsalessoftware.com/visibility-mesh-review.html): Visibility Mesh: Three plans, billed in USD through Shopify every 30 days, each with a 7-day free trial that includes one full scan.
 - [VyReel Review (2026): Free for 5 Videos, Then $19 a Month](https://marketingandsalessoftware.com/vyreel-review.html): VyReel: The vendor site labels it Trial, $0 forever. The meter is clicks, and nobody says what happens when you run out.
 - [Warn Review (2026): Checkout Blocking Is Shopify Plus Only](https://marketingandsalessoftware.com/warn-review.html): Warn: Premium is $6.99 a month or $41.94 a year. The app is called Warn: Warnings Checkout Blocks.
 - [ZoomInfo Review (2026): Renewals Rise 10-20% a Year](https://marketingandsalessoftware.com/zoominfo-review.html): ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year, climbing once seats. The contract is the most-cited frustration.
