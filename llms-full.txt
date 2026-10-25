@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 171 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-24.
+> All 174 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-25.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -10,6 +10,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/24-7pressrelease-review.html
 - Verdict: 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - Price: (read 2026-10-08 on 24-7pressrelease.com/pricing, USD, prices per release) Six plans, each paid per press release rather than by subscription. Simple Post is $29 and adds your news to their own website only, with no additional distribution.
+
+## ActiveCampaign
+- Review: https://marketingandsalessoftware.com/activecampaign-review.html
+- Verdict: ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
+- Price: (re-verified 2026-08-17 and again 2026-09-29 in the browser; the figures below are the 'starts at' prices on annual billing, before you pick a contact count) No free plan, trial only. There are four tiers.
 
 ## AdCreative.ai
 - Review: https://marketingandsalessoftware.com/adcreative-ai-review.html
@@ -385,6 +390,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/frase-review.html
 - Verdict: Frase: Starter $39/mo billed yearly against $49/mo monthly. The article quotas pinch if you publish at volume (overage docs bill each).
 - Price: (re-verified 2026-10-21 against Frase's own machine-readable pricing file frase.io/pricing.md; every plan price below was unchanged from our 17 August, 14 September and 3 October readings) The headline figure is the yearly rate; paying month to month costs about 25% more, and both are shown on the page. Starter $39/mo billed yearly against $49/mo monthly: 1 seat, 1 site, 10 articles and 50 audit pages a month,…
+
+## Froonze
+- Review: https://marketingandsalessoftware.com/froonze-review.html
+- Verdict: Froonze: Free, then $10, $20 and $40 by order volume. Modular pricing is cheap per plugin but adds up.
+- Price: (read 2026-10-25 on the Shopify App Store listing apps.shopify.com/customer-accounts and on froonze.com/pricing, where we stepped through every plan in the price simulator) Froonze is one app with separate plugins, and each plugin is priced on its own, billed in USD through Shopify every 30 days. Loyalty: Free for shops with fewer than 100 orders a month, Advanced $10 a month up to 500 monthly orders (VIP tiers,…
 
 ## FullEnrich
 - Review: https://marketingandsalessoftware.com/fullenrich-review.html
@@ -845,6 +855,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/vify-order-printer-review.html
 - Verdict: Vify Order Printer: Premium is $29.99 a month or $299 a year and adds more templates, custom invoices and quotes, a custom sender email, commercial invoices.
 - Price: (read 2026-10-11 on the Shopify App Store listing apps.shopify.com/vify-order-printer, USD; the listing says recurring charges are billed every 30 days) Four plans. Free: freely customised templates, the 50 latest orders, PDF invoice download for customers on the storefront, auto-detected address formats, draft orders and 24/7 support.
+
+## Visibility Mesh
+- Review: https://marketingandsalessoftware.com/visibility-mesh-review.html
+- Verdict: Visibility Mesh: Three plans, billed in USD through Shopify every 30 days, each with a 7-day free trial that includes one full scan.
+- Price: (read 2026-10-25 on the Shopify App Store listing apps.shopify.com/visibility-mesh and on the vendor's app page at visibilitymesh.com/pages/shopify-app) Three plans, billed in USD through Shopify every 30 days, each with a 7-day free trial that includes one full scan. Starter is $29 a month: every issue with step-by-step fixes, 12 rescans a month and a backlink audit of up to 30 links.
 
 ## VyReel
 - Review: https://marketingandsalessoftware.com/vyreel-review.html
