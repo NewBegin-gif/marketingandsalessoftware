@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 285,
+  "tools": 286,
   "flags": 439,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -144,7 +144,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-11"
+     "verified_at": "2026-10-26"
     },
     {
      "flag": "addons_extra",
@@ -152,11 +152,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-11"
+     "verified_at": "2026-10-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-11",
+   "price_verified_at": "2026-10-26",
    "first_observed_at": null
   },
   {
@@ -1893,6 +1893,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-10",
    "first_observed_at": "2026-10-10"
+  },
+  {
+   "name": "Design.com",
+   "category": "Design & Content",
+   "domain": "design.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/design-com-review/",
+   "from_price_usd_mo": 25.0,
+   "entry_price": "$25",
+   "entry_price_terms": "Starter (Logo Pack) · per month, the purchasing FAQ's 'typically' figure, not a checkout quote: Starter…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-26 in a browser on design.com/faqs/purchasing; design.com/pricing returns a 404 and there is no public price table) Design.com sells logo packages as a monthly or annual subscription, and every package includes one logo. The purchasing FAQ gives typical prices only: Starter (Logo Pack) typically US$25 a month, Value (Logo Pack + Website) typically US$34 a month, and Premium (Logo Pack + Website + More, adding the Link in Bio creator and digital business card maker) also printed as typically US$34 a month, the same figure as Value. The FAQ says annual plans give better rates without stating them, and that support can provide a discount code. The real price appears only at checkout, after you enter an email address to download a logo, so we could not read it. A free account gives access to free tools, but designs made with the AI tools cannot be downloaded without paying. Printing, domain names and professional design support cost extra. Payment is by card or PayPal in nine currencies (USD, AUD, GBP, EUR, INR, PHP, BRL, MXN, ZAR); other currencies are charged in US dollars.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-26",
+   "first_observed_at": "2026-10-26"
   },
   {
    "name": "Diginius",

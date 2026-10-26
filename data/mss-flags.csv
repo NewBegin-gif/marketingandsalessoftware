@@ -4,8 +4,8 @@ ActiveCampaign,annual_lock,"(re-verified 2026-08-17 and again 2026-09-29 in the 
 AdCreative.ai,usage_metered,"(re-verified 2026-08-15, read on their own homepage pricing table) Credit-metered, where one credit is one downloaded creative, and there is no free plan — only a 7-day trial with 10 credits.",2026-07,2026-09-13,
 Adwisely,usage_metered,"Both plans charge 10% of the ad spend Adwisely manages, with a monthly minimum that acts as a floor rather than a fee on top: $49 on Self-Serve and $249 on Concierge (managed).",2026-07,2026-09-27,
 AfterSell,usage_metered,"Three plans, each metered by monthly order volume, read on aftersell.com/pricing and on the Shopify App Store listing on 22 September 2026 (re-verified 22 September 2026 and again 27 September 2026).",2026-07,2026-09-27,https://apps.shopify.com/aftersell
-AgencyAnalytics,usage_metered,"Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits.",2026-07,2026-09-11,
-AgencyAnalytics,addons_extra,"Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits.",2026-07,2026-09-11,
+AgencyAnalytics,usage_metered,"Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits.",2026-07,2026-10-26,
+AgencyAnalytics,addons_extra,"Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits.",2026-07,2026-10-26,
 AgentNest,usage_metered,meter: unit · successful automated fixes,2026-07,2026-10-09,https://apps.shopify.com/agentnest
 AgentNest,free_tier,"Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view.",2026-07,2026-10-09,https://apps.shopify.com/agentnest
 AISDR,addons_extra,"Add-ons: warmed-up mailbox $33 per mailbox setup, per-campaign managed service $149 per campaign, fully managed service $2,500 per month.",2026-07,2026-10-15,
