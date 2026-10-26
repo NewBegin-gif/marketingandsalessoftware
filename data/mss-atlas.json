@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 283,
-  "flags": 434,
+  "tools": 285,
+  "flags": 439,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -2198,6 +2198,38 @@
    "first_observed_at": null
   },
   {
+   "name": "EditEngine",
+   "category": "E-commerce",
+   "domain": "bulkeditor.app",
+   "review_url": "https://aibuildermarketplace.com/b2b/editengine-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "Basic · per month, per store per 30 days on the Shopify App Store listing, billed in USD",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-26 on the EditEngine listing in the Shopify App Store; the listing says all charges are billed in USD, every 30 days) EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. What changes is how many products and collections one task may touch. Free: 100 products and 5 collections per task, with undo and unlimited Import Advanced. Basic: $9.99 a month or $99.99 a year, 500 products and 10 collections per task, plus metafields export. Standard: $19.99 a month or $199.99 a year, 10,000 products and 100 collections per task, and scheduled bulk edits. Pro: $49.99 a month or $499.99 a year, unlimited products and collections per task. The annual prices save 17%. Partner development stores get unlimited use for free. An optional Backup add-on is listed as $6.99 to $59.99 a month; the listing does not break that range down.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "An optional Backup add-on is listed as $6.99 to $59.99 a month; the listing does not break that range down.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/profitonium-bulk-product-edit",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-26"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-10-26 on the EditEngine listing in the Shopify App Store; the listing says all charges are billed in USD, every 30 days) EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks.",
+     "evidence_excerpt": "(read 2026-10-26 on the EditEngine listing in the Shopify App Store; the listing says all charges are billed in USD, every 30 days) EditEngine has a free plan and three paid plans, and every plan all…",
+     "source_url": "https://apps.shopify.com/profitonium-bulk-product-edit",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-26"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-26",
+   "first_observed_at": "2026-10-26"
+  },
+  {
    "name": "EliteCart",
    "category": "E-commerce",
    "domain": "elitecart.app",
@@ -3760,6 +3792,46 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-05",
    "first_observed_at": "2026-10-05"
+  },
+  {
+   "name": "Lensmor",
+   "category": "Growth & Revenue",
+   "domain": "lensmor.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/lensmor-review/",
+   "from_price_usd_mo": 499.0,
+   "entry_price": "$499",
+   "entry_price_terms": "Basic · flat price for a workspace of up to 5 seats with 35,000 credits a month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-26 on lensmor.com/pricing and Lensmor's billing policy in its help centre; dollar amounts, the pages do not name the currency) Lensmor sells credits. Every new account starts with 2,000 free credits, without a credit card. Basic is $499 a month or $4,990 a year, for 35,000 credits a month and a shared workspace of up to 5 seats; the credits reset every month, also on annual billing. Growth is $14,900 a year for 1,500,000 credits per annual term and up to 10 seats, with priority email and WhatsApp support. Enterprise is a custom annual agreement with API access and integrations. Active paid subscribers can buy add-on credits: 10,000 for $249, 25,000 for $549 or 60,000 for $1,199, valid for 12 months. What credits buy: unlocking an event's exhibitors and public-signal attendees costs 2,000 credits, full access including visitors 5,000 (or 3,000 to add visitors later), a returned email 15, a returned phone number 150, and a search by exhibitor 50 when it finds matches. Unused subscription credits do not roll over, and subscription fees are non-refundable.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(read 2026-10-26 on lensmor.com/pricing and Lensmor's billing policy in its help centre; dollar amounts, the pages do not name the currency) Lensmor sells credits.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.lensmor.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-26"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Active paid subscribers can buy add-on credits: 10,000 for $249, 25,000 for $549 or 60,000 for $1,199, valid for 12 months.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.lensmor.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-26"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Basic is $499 a month or $4,990 a year, for 35,000 credits a month and a shared workspace of up to 5 seats; the credits reset every month, also on annual billing.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.lensmor.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-26"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-26",
+   "first_observed_at": "2026-10-26"
   },
   {
    "name": "LettrLabs",
