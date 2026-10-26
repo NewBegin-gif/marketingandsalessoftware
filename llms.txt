@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 174 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-26.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 177 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-10-26.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -22,7 +22,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Build a Repeatable Content Workflow](https://marketingandsalessoftware.com/build-content-engine.html): Build a repeatable research, creation, distribution and newsletter workflow with reviewed tools, documented limits and dated evidence.
 - [Build a Shopify Store Workflow (2026)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): Plan a Shopify store workflow by task: theme, fulfilment, campaign pages, reviews and post-purchase offers, with documented fit and costs.
 
-## Reviews (174) — canonical versions
+## Reviews (177) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [ActiveCampaign Review (2026): From $15/mo, Checked Oct 2026](https://marketingandsalessoftware.com/activecampaign-review.html): ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
@@ -81,7 +81,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Easy Advanced Translations Review (2026): Bring Your Own API Key](https://marketingandsalessoftware.com/easy-advanced-translations-review.html): Easy Advanced Translations: Four tiers, all monthly and billed in USD. The 'free AI' is quota-limited — 50 products on Free, up to 3,000 on Pro.
 - [Easy Bundles Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/easy-bundles-review.html): Easy Bundles: The free plan is free to install and covers up to $500 of bundle sales a month. The pricing is tied to the thing the app is supposed to 
 - [EcomXray Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/ecomxray-review.html): EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
+- [EditEngine Review (2026): Shopify Bulk Editor, Free to $49.99](https://marketingandsalessoftware.com/editengine-review.html): EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. Undo covers supported in-app edit
 - [EliteCart Review (2026): Shopify Cart Drawer From $29.99/mo](https://marketingandsalessoftware.com/elitecart-review.html): EliteCart: Two published plans and one on request, with no free plan. The trial is 15 days on the listing and 14 on the pricing page.
+- [EngageBay Review (2026): Free Tier, Then $14.99 a User](https://marketingandsalessoftware.com/engagebay-review.html): EngageBay: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat. The meter is contacts AND seats at once: prices are per user.
 - [Essent Preorder Back in Stock Review (2026): 25 Free, Then $4.95](https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html): Essent Preorder Back in Stock: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials. The plans are cheap until a launch works.
 - [Essential Announcement Bar Review (2026): The Marquee Is Paid](https://marketingandsalessoftware.com/essential-announcement-bar-review.html): Essential Announcement Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The bar the listing leads with is not on the free plan
 - [Essential Countdown Timer Bar Review (2026): Mind the View Cap](https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html): Essential Countdown Timer Bar: Four plans priced on monthly timer views. The free plan is smaller than it looks, because of what counts as a view.
@@ -131,6 +133,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Leadpages Review (2026): No Free Tier, Checked Oct 2026](https://marketingandsalessoftware.com/leadpages-review.html): Leadpages — Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access.
 - [LearnWorlds Review (2026): $5 Per Enrollment on Starter](https://marketingandsalessoftware.com/learnworlds-review.html): LearnWorlds: Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee. The detail most people miss is Starter's $5-per-paid-enrollment fee.
 - [lemlist Review (2026): $69 Email, $109 a Seat Multichannel](https://marketingandsalessoftware.com/lemlist-review.html): lemlist: No free plan, 14-day trial. The per-seat plus per-email-account model makes total cost unpredictable as you scale.
+- [Lensmor Review (2026): Trade-Show Leads on Credits, From $499](https://marketingandsalessoftware.com/lensmor-review.html): Lensmor: 10,000 for $249, 25,000 for $549 or 60,000 for $1,199, valid for 12 months. The entry price is high: $499 a month for Basic.
 - [LettrLabs Review (2026): Quoted Per Piece, Not Monthly](https://marketingandsalessoftware.com/lettrlabs-review.html): LettrLabs: Premium is $399/month billed annually or $449 month-to-month. Direct mail only pays off with a tight list and a real offer.
 - [LifterLMS Review (2026): Free Core, Bundles Renew at $398 and Up](https://marketingandsalessoftware.com/lifterlms-review.html): LifterLMS: Earth is $199 for the first year, normally $398. Taking payments needs a paid bundle, and every bundle renews at twice the first-year price
 - [Livestorm Review (2026): €2.50 Per Attendee, Per Session](https://marketingandsalessoftware.com/livestorm-review.html): Livestorm: €2.50 per attendee in euros, $3.00 in dollars. The page publishes the per-attendee rate but never a total.

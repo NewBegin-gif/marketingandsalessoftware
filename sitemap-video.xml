@@ -403,16 +403,6 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
     </video:video>
   </url>
   <url>
-    <loc>https://marketingandsalessoftware.com/close-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/80fyaMRLuMg/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Close Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The built-in calling is the draw, but call and SMS credits stack on top of the seat price — a &#x27;$99&#x27; plan can effectively cost ~$160/user once a rep dials 50+ times a day. Great for call-heavy teams, pricey if you barely dial.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/80fyaMRLuMg</video:player_loc>
-    <video:publication_date>2026-07-24T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://marketingandsalessoftware.com/code-bulk-discounts-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/NLi0VbwuvnM/hqdefault.jpg</video:thumbnail_loc>
@@ -568,6 +558,16 @@ And its numbers are only as good as your cost prices. Gross margin comes out of 
       <video:description>There is no free plan, and beyond the included 200 or 500 orders the price scales with volume on a ladder EliteCart does not publish, only two examples. The trial is 15 days on the listing and 14 on the pricing page. Checkout add-ons need Shopify Plus and the $79.99 plan, and we found no cancellation or refund policy.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/1S-8DmG5-5A</video:player_loc>
     <video:publication_date>2026-10-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/engagebay-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/oOrf3UlAl9Y/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>EngageBay Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The meter is contacts AND seats at once: prices are per user, and each tier caps contacts — Basic’s 500 contacts fills fast, and the Growth jump is steep ($15 → $65 per user). The advertised ‘starts at $12.74’ assumes biennial prepay — two years upfront for the friendly number. Real automation only starts at Growth.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/oOrf3UlAl9Y</video:player_loc>
+    <video:publication_date>2026-07-16T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
@@ -1692,16 +1692,6 @@ The second thing to be clear about is what the app does and does not take off yo
       <video:description>One gap has closed and one has narrowed. folk now has a mobile app — the pricing table carries a Mobile app row ticked on all three plans — so the browser-only complaint is out of date. Automation is still uneven, but the picture moved in September: Zapier and Make stay Premium and Enterprise only, and so does the REST API, yet the table now carries an MCP row ticked on all three plans. Standard therefore does have a programmatic route — through an AI client rather than a workflow builder — and no plan shows a native multi-step workflow. Enrichment is capped at 500 a month on Standard and 1,000 on Premium, and email sequences need at least Premium.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/TD6Gw2rz5hk</video:player_loc>
     <video:publication_date>2026-08-25T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
-    <loc>https://marketingandsalessoftware.com/lemlist-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/umeHrWWuM3c/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>lemlist Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>The per-seat plus per-email-account model makes total cost unpredictable as you scale, and reviews flag support response times and the LinkedIn Chrome-extension&#x27;s reliability.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/umeHrWWuM3c</video:player_loc>
-    <video:publication_date>2026-07-26T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
