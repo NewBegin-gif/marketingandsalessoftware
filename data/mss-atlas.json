@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 287,
-  "flags": 439,
+  "flags": 440,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -6446,7 +6446,7 @@
    "entry_price": "$39",
    "entry_price_terms": "per month, monthly only (drops on annual billing)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-11 and re-read 2026-09-27 on smartli.ai/pricing; Monthly and Yearly tabs both unchanged since 5 Aug 2026) Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day free trial. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). Starter was $29/mo when we first checked, so the entry price has gone up.",
+   "price_note": "(re-verified 2026-09-11 and re-read 2026-09-27 on smartli.ai/pricing; Monthly and Yearly tabs both unchanged since 5 Aug 2026) Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day free trial. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). Starter was $29/mo when we first checked, so the entry price has gone up. Re-read on 27 October 2026 with a plain fetch: smartli.ai/pricing unchanged (monthly Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day trial; yearly Pro $24 billed $288, Empire $57 billed $684, Unicorn $79 billed $948, Starter absent). The Shopify App Store listing, now titled 'Smartli: AI Tools & SEO Writer', shows a Free plan card with 24/7 chat support above the same paid tiers, and says all charges are billed in USD every 30 days.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -6454,11 +6454,19 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-10-27"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The Shopify App Store listing, now titled 'Smartli: AI Tools & SEO Writer', shows a Free plan card with 24/7 chat support above the same paid tiers, and says all charges are billed in USD every 30 days.",
+     "evidence_excerpt": "The Shopify App Store listing, now titled 'Smartli: AI Tools & SEO Writer', shows a Free plan card with 24/7 chat support above the same paid tiers, and says all charges are billed in USD every 30 da…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
+   "price_verified_at": "2026-10-27",
    "first_observed_at": "2026-09-11"
   },
   {
