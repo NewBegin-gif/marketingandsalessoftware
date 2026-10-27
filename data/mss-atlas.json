@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 286,
+  "tools": 287,
   "flags": 439,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -1759,6 +1759,21 @@
    "first_observed_at": "2026-10-19"
   },
   {
+   "name": "Compass",
+   "category": "E-commerce",
+   "domain": "thecompassapp.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/compass-review/",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "Compass · per month, one plan with every feature, billed in USD every 30 days through…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-10-27 on the Compass listing in the Shopify App Store; the terms and privacy policy were read on 2026-10-15) Compass has a single plan with every feature included: $49 a month, or $490 a year, which the listing says saves 17%. There is a 14-day free trial and no free plan. The listing says all charges are billed in USD, every 30 days, through Shopify. Compass's site adds that there are no setup fees and that you can cancel at any time. We found no published refund policy, and no stated limit on Ask Compass questions, stores or ad accounts; the terms do say the AI assistant is for reasonable business use and that usage limits may be imposed.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-27",
+   "first_observed_at": "2026-10-27"
+  },
+  {
    "name": "Consentmo",
    "category": "E-commerce",
    "domain": "consentmo.com",
@@ -2976,20 +2991,20 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-09-12, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51). Bulk pricing is on request and signing up gives 20 free credits. Credits measure work, not leads: one credit starts a search and one more is charged for every filtered result, so a search that returns 20 matching businesses costs 21 credits. The vendor also states that unused credits carry a 50% bonus when its 2.0 app ships. Mind the URL — the price list lives at /buy-credits/ while the /pricing link 404s, which is how we had this down as unpriced until now. One rounding note: the page prints $0.54 per credit for the Startup pack, but $55 for 100 credits is $0.55 — their own figure is a cent optimistic.",
+   "price_note": "(re-verified 2026-10-27, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51). Bulk pricing is on request and signing up gives 20 free credits. Credits measure work, not leads: one credit starts a search and one more is charged for every filtered result, so a search that returns 20 matching businesses costs 21 credits. The vendor also states that unused credits carry a 50% bonus when its 2.0 app ships. Mind the URL — the price list lives at /buy-credits/ while the /pricing link 404s, which is how we had this down as unpriced until now. One rounding note: the page prints $0.54 per credit for the Startup pack, but $55 for 100 credits is $0.55 — their own figure is a cent optimistic.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-09-12, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51).",
-     "evidence_excerpt": "(re-verified 2026-09-12, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits (…",
+     "evidence": "(re-verified 2026-10-27, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51).",
+     "evidence_excerpt": "(re-verified 2026-10-27, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits (…",
      "source_url": "https://grapeleads.com/buy-credits/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-10-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-12",
-   "first_observed_at": "2026-09-12"
+   "price_verified_at": "2026-10-27",
+   "first_observed_at": "2026-10-27"
   },
   {
    "name": "Grapevine",
