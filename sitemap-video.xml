@@ -965,16 +965,6 @@ And automatic repricing is not a switch you leave alone. The matching is AI-driv
     </video:video>
   </url>
   <url>
-    <loc>https://marketingandsalessoftware.com/kit-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/DLl9Lio1EXY/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Kit Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Three honest notes. Subscriber-based pricing counts everyone on your list — cold subscribers cost the same as fans, so prune before you price. The free plan changed shape in 2026: it now runs to 10,000 subscribers rather than 1,000 (re-verified 2026-09-02), but Visual Automations and email sequences came out of it, so the free tier sends and captures without automating anything — what puts you on Creator at $39/mo, or $33/mo paid yearly, is wanting a welcome sequence rather than list growth. And the 35% price hike in 2025 changed the value math: the free tier is still arguably the best in creator email, but paid tiers now deserve comparison shopping rather than default loyalty. The creator-first features (tip jars, paid newsletters, recommendations) remain the real differentiator.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/DLl9Lio1EXY</video:player_loc>
-    <video:publication_date>2026-07-09T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://marketingandsalessoftware.com/kite-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/LtiXJ6F8vLE/hqdefault.jpg</video:thumbnail_loc>
@@ -1702,6 +1692,16 @@ The second thing to be clear about is what the app does and does not take off yo
       <video:description>One gap has closed and one has narrowed. folk now has a mobile app — the pricing table carries a Mobile app row ticked on all three plans — so the browser-only complaint is out of date. Automation is still uneven, but the picture moved in September: Zapier and Make stay Premium and Enterprise only, and so does the REST API, yet the table now carries an MCP row ticked on all three plans. Standard therefore does have a programmatic route — through an AI client rather than a workflow builder — and no plan shows a native multi-step workflow. Enrichment is capped at 500 a month on Standard and 1,000 on Premium, and email sequences need at least Premium.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/TD6Gw2rz5hk</video:player_loc>
     <video:publication_date>2026-08-25T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/involve-me-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7cIqRToMKIE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>involve.me Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The tier pages sell live funnels, but the meter that empties first is contacts. Start collects 300 contacts a month against 10,000 funnel visits — so a funnel converting at 3% hits the contact ceiling and the visit ceiling in the same week, and the next 200 contacts cost €8.33 on top. Those two meters appear only in the in-app comparison table; the public table publishes the AI-credit allowance but not visits or contacts. The free plan is documented in exactly one place, and not where you would look for it: the pricing FAQ caps it at 50 submissions or 500 visits a month and warns that your funnels lock until the next calendar month if you hit that without upgrading, while the plan cards say nothing at all about what it includes. We measured that part — 2 live funnels, involve.me branding, no team seats — and you only learn it by hitting the wall, because a free account has no usage panel: “Plans &amp; Billing” goes straight to the upgrade page. And the honest fundamental for any interactive-funnel tool: quizzes and calculators convert traffic you already have — they don&#x27;t create it, so validate on the free plan before the subscription outruns the pipeline.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/7cIqRToMKIE</video:player_loc>
+    <video:publication_date>2026-08-30T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
