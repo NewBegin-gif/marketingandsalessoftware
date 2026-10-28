@@ -836,15 +836,15 @@
    "entry_price": "$349",
    "entry_price_terms": "per month for 15,000 (Booster $799 for 50,000)",
    "pricing_status": "public",
-   "price_note": "(re-verified 13 September 2026 on bitscale.ai/pricing, extended on 11 September 2026 from inside a free account; every headline figure unchanged since 1 September 2026) The meter is credits. Free is $0 with 200 credits, no card required, capped at 20 action columns per grid and 50,000 rows. Growth is $349 a month for 15,000 credits, 30 action columns and 100,000 rows, with a two-way HubSpot integration and inbound integrations like RB2B, Factors and Vector. Booster is $799 for 50,000 credits and 50 action columns, adding curated scraping scripts, a private Slack channel and Salesforce integration. Enterprise is quote-only but publishes a floor most vendors hide: annual billing at $15,000 and above, adding SOC 2 and SSO, priority support, role-based team access and Snowflake pipelines. Annual billing takes 10% off. Two lines in the plan table change the arithmetic and are easy to miss. Credits roll over up to three times the plan allowance on Growth and Booster, and not at all on Free, so a quiet month is banked rather than lost. And a credit is spent only when a data provider returns a valid result -- the pricing FAQ says failed lookups, formula columns and CRM syncs are always free -- so a waterfall that finds nothing costs nothing. The page also contradicts itself twice: the comparison table gives all four tiers 100+ data sources while the Free card says 10+ B2B data sources, and the Growth and Booster cards both promise Unlimited Actions while the same page's table caps action columns per grid at 30 and 50. The step from Free to Growth is still the one to plan for: 200 credits to 15,000 with nothing in between, so the bill goes from nothing to $4,188 a year in one move. Monthly company and people search is metered separately at 2,000 on Free, 15,000 on Growth and 50,000 on Booster. Two things the pricing page does not tell you, both read on 11 September 2026. First, what a credit actually buys: Bitscale's own credit documentation prices a found email or phone number at one to twelve platform credits per successful result, depending on how many providers the waterfall is allowed to try, with an AI enrichment at one to two credits a run and a BitAgent website scrape at one. Calls that come in through the API cost nothing. Second, the free tier runs two meters rather than one, and the account screen shows both: 200 platform credits for enrichment and a separate 2,000 search credits for Find People and Find Companies, each resetting monthly. The upgrade panel inside the product also carries a Growth benefit the plan cards leave out -- three hours a quarter with a GTM engineer -- and states plainly what Free locks: credit rollover, more than 20 action columns per grid, the 100+ providers and the inbound integrations.",
+   "price_note": "(re-verified 28 October 2026 on bitscale.ai/pricing, extended on 11 September 2026 from inside a free account; every headline figure unchanged since 1 September 2026) The meter is credits. Free is $0 with 200 credits, no card required, capped at 20 action columns per grid and 50,000 rows. Growth is $349 a month for 15,000 credits, 30 action columns and 100,000 rows, with a two-way HubSpot integration and inbound integrations like RB2B, Factors and Vector. Booster is $799 for 50,000 credits and 50 action columns, adding curated scraping scripts, a private Slack channel and Salesforce integration. Enterprise is quote-only but publishes a floor most vendors hide: annual billing at $15,000 and above, adding SOC 2 and SSO, priority support, role-based team access and Snowflake pipelines. Annual billing takes 10% off. Two lines in the plan table change the arithmetic and are easy to miss. Credits roll over up to three times the plan allowance on Growth and Booster, and not at all on Free, so a quiet month is banked rather than lost. And a credit is spent only when a data provider returns a valid result -- the pricing FAQ says failed lookups, formula columns and CRM syncs are always free -- so a waterfall that finds nothing costs nothing. The page also contradicts itself twice: the comparison table gives all four tiers 100+ data sources while the Free card says 10+ B2B data sources, and the Growth and Booster cards both promise Unlimited Actions while the same page's table caps action columns per grid at 30 and 50. The step from Free to Growth is still the one to plan for: 200 credits to 15,000 with nothing in between, so the bill goes from nothing to $4,188 a year in one move. Monthly company and people search is metered separately at 2,000 on Free, 15,000 on Growth and 50,000 on Booster. Two things the pricing page does not tell you, both read on 11 September 2026. First, what a credit actually buys: Bitscale's own credit documentation prices a found email or phone number at one to twelve platform credits per successful result, depending on how many providers the waterfall is allowed to try, with an AI enrichment at one to two credits a run and a BitAgent website scrape at one. Calls that come in through the API cost nothing. Second, the free tier runs two meters rather than one, and the account screen shows both: 200 platform credits for enrichment and a separate 2,000 search credits for Find People and Find Companies, each resetting monthly. The upgrade panel inside the product also carries a Growth benefit the plan cards leave out -- three hours a quarter with a GTM engineer -- and states plainly what Free locks: credit rollover, more than 20 action columns per grid, the 100+ providers and the inbound integrations.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 13 September 2026 on bitscale.ai/pricing, extended on 11 September 2026 from inside a free account; every headline figure unchanged since 1 September 2026) The meter is credits.",
+     "evidence": "(re-verified 28 October 2026 on bitscale.ai/pricing, extended on 11 September 2026 from inside a free account; every headline figure unchanged since 1 September 2026) The meter is credits.",
      "evidence_excerpt": null,
      "source_url": "https://bitscale.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-13"
+     "verified_at": "2026-10-28"
     },
     {
      "flag": "annual_lock",
@@ -852,7 +852,7 @@
      "evidence_excerpt": null,
      "source_url": "https://bitscale.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-13"
+     "verified_at": "2026-10-28"
     },
     {
      "flag": "free_tier",
@@ -860,11 +860,11 @@
      "evidence_excerpt": null,
      "source_url": "https://bitscale.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-13"
+     "verified_at": "2026-10-28"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-13",
+   "price_verified_at": "2026-10-28",
    "first_observed_at": null
   },
   {
@@ -7444,7 +7444,7 @@
    "entry_price": "$9",
    "entry_price_terms": "per month (FAQ-stated minimum)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-13 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month. NEW since our August reading: the FAQ now prices one named tier, Core at $49/month, which it calls the best value -- it does not say where Core sits in the Starter, Lite, Pro, Plus and Business+ ladder the same FAQ uses elsewhere. A custom domain is a Plus add-on at $2,000 per domain per year. Your first digital business card is free, with extra seats on a Team plan at $6 per user per month; Business+ card pricing is custom. There is a 14-day free trial, and when it expires the dynamic codes made during it go inactive while static codes keep working (without account access). Billing is annual only, in USD, invoice billing is Business+ only, and there is a 30-day money-back guarantee. Third-party listings quote a $5 entry tier; that is not what Uniqode's own page says, and we are not repeating a Lite or Pro figure we could not read at the source.",
+   "price_note": "(re-verified 2026-10-28 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month. NEW since our August reading: the FAQ now prices one named tier, Core at $49/month, which it calls the best value -- it does not say where Core sits in the Starter, Lite, Pro, Plus and Business+ ladder the same FAQ uses elsewhere. A custom domain is a Plus add-on at $2,000 per domain per year. Your first digital business card is free, with extra seats on a Team plan at $6 per user per month; Business+ card pricing is custom. There is a 14-day free trial, and when it expires the dynamic codes made during it go inactive while static codes keep working (without account access). Billing is annual only, in USD, invoice billing is Business+ only, and there is a 30-day money-back guarantee. Third-party listings quote a $5 entry tier; that is not what Uniqode's own page says, and we are not repeating a Lite or Pro figure we could not read at the source.",
    "flags": [
     {
      "flag": "per_seat",
@@ -7452,7 +7452,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-13"
+     "verified_at": "2026-10-28"
     },
     {
      "flag": "addons_extra",
@@ -7460,12 +7460,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-13"
+     "verified_at": "2026-10-28"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-13",
-   "first_observed_at": "2026-09-13"
+   "price_verified_at": "2026-10-28",
+   "first_observed_at": "2026-10-28"
   },
   {
    "name": "Upsell & Cross Sell - AW",

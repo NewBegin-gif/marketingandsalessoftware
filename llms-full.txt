@@ -119,7 +119,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Bitscale
 - Review: https://marketingandsalessoftware.com/bitscale-review.html
 - Verdict: Bitscale: Free is $0 with 200 credits, no card required, capped at 20 action columns per grid and 50,000 rows. The free tier is real and needs no card.
-- Price: (re-verified 13 September 2026 on bitscale.ai/pricing, extended on 11 September 2026 from inside a free account; every headline figure unchanged since 1 September 2026) The meter is credits. Free is $0 with 200 credits, no card required, capped at 20 action columns per grid and 50,000 rows.
+- Price: (re-verified 28 October 2026 on bitscale.ai/pricing, extended on 11 September 2026 from inside a free account; every headline figure unchanged since 1 September 2026) The meter is credits. Free is $0 with 200 credits, no card required, capped at 20 action columns per grid and 50,000 rows.
 
 ## Bold Custom Pricing
 - Review: https://marketingandsalessoftware.com/bold-custom-pricing-review.html
@@ -864,7 +864,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Uniqode
 - Review: https://marketingandsalessoftware.com/uniqode-review.html
 - Verdict: Uniqode: The plan cards are rendered in the browser and carry no price in either reading. The tier jumps are steep and a lot is gated.
-- Price: (re-verified 2026-09-13 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month.
+- Price: (re-verified 2026-10-28 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month.
 
 ## Upsell & Cross Sell - AW
 - Review: https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html
