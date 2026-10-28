@@ -728,8 +728,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SalesTarget.ai
 - Review: https://marketingandsalessoftware.com/salestarget-ai-review.html
-- Verdict: SalesTarget.ai: Yearly $1,926, $3,636 and $7,740. The credit numbers on the plan cards shrink once you read the help centre's price list.
-- Price: (read 2026-10-01 on salestarget.ai/pricing, tab by tab, and in the help centre at help.salestarget.ai) Sold either as one bundle or module by module, priced per organisation rather than per seat; the help centre says every plan includes 3 team seats. All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (1 LinkedIn automation, 5,000 emails a month, 2,000 enrichment credits), Scale $319 (2…
+- Verdict: SalesTarget.ai: Sold either as one bundle or module by module. The credit numbers on the plan cards shrink once you read the price list.
+- Price: (re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed) Sold either as one bundle or module by module. All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Scale $319 (100,000 emails, 4,500…
 
 ## Scarcity.AI
 - Review: https://marketingandsalessoftware.com/scarcity-ai-review.html
