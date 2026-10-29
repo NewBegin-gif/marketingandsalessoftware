@@ -559,7 +559,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## LearnWorlds
 - Review: https://marketingandsalessoftware.com/learnworlds-review.html
 - Verdict: LearnWorlds: Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee. The detail most people miss is Starter's $5-per-paid-enrollment fee.
-- Price: (re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Starter $29/mo (or $24 annually) but with a $5 fee per paid enrollment — still the single most important number in this ladder; Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee; Learning Center $299/mo, or $249 annually; Corporate quoted. The High Volume tier we recorded in August is gone: the ladder is now Starter, Pro…
+- Price: (re-verified 2026-10-29 on their own pricing page, both billing toggles) Starter $49/mo (or $44 annually) with a $5 fee per paid enrollment — still the single most important number in this ladder; Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee; Learning Center $299/mo, or $249 annually; Corporate quoted. The High Volume tier we recorded in August is gone: the ladder is now Starter, Pro…
 
 ## lemlist
 - Review: https://marketingandsalessoftware.com/lemlist-review.html

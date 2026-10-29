@@ -3748,11 +3748,11 @@
    "category": "Growth & Revenue",
    "domain": "learnworlds.com",
    "review_url": "https://aibuildermarketplace.com/b2b/learnworlds-review/",
-   "from_price_usd_mo": 29.0,
-   "entry_price": "$29",
-   "entry_price_terms": "per month (or $24 annually) but with a $5 fee per paid enrollment",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "per month (or $44 annually) but with a $5 fee per paid enrollment",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Starter $29/mo (or $24 annually) but with a $5 fee per paid enrollment — still the single most important number in this ladder; Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee; Learning Center $299/mo, or $249 annually; Corporate quoted. The High Volume tier we recorded in August is gone: the ladder is now Starter, Pro Trainer, Learning Center and Corporate. Annual billing saves 20% and the trial is 30 days. Limits published alongside: 1,000 / 2,000 / 2,000 monthly active learners, 1 / 5 / 25 admins, 300 / 500 / 1,000 AI credits a month, email support 24/5 on Starter against 24/7 above it, and a 99.90% uptime commitment (99.95% on Corporate). All prices exclude VAT, which is added for EU customers unless a valid EU VAT number is given, and your payment gateway (Stripe at about 2.9% + $0.30) charges on top regardless of tier. A branded mobile app is still a separate add-on, but the page now lists it as having multiple price options and prints no amount, so the roughly $149/mo we carried in August is no longer confirmable. Two reading notes: the page opens by asking which of four goals brings you there and recommends a plan on that basis — the figures above were read with the branded-academy goal selected — and the plan cards print their numbers with no currency symbol at all, the only dollar signs on the page sitting on the $5 enrollment fee and the Stripe example. On 2026-09-30 every amount, limit and uptime figure above was unchanged. That day the page also ran a Q4 promotion, 15% off monthly billing for six months on Pro Trainer (84.15 instead of 99) and Learning Center (254.15 instead of 299), stated to end on 30 September 2026 at 11:59 PM PDT. On 2026-10-01 the pricing page moved that deadline to 5 October 2026 at 11:59 PM PDT; it is a short promotion, so do not budget on it.",
+   "price_note": "(re-verified 2026-10-29 on their own pricing page, both billing toggles) Starter $49/mo (or $44 annually) with a $5 fee per paid enrollment — still the single most important number in this ladder; Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee; Learning Center $299/mo, or $249 annually; Corporate quoted. The High Volume tier we recorded in August is gone: the ladder is now Starter, Pro Trainer, Learning Center and Corporate. Annual billing saves 20% and the trial is 30 days. Limits published alongside: 1,000 / 2,000 / 2,000 monthly active learners, 1 / 5 / 25 admins, 300 / 500 / 1,000 AI credits a month, email support 24/5 on Starter against 24/7 above it, and a 99.90% uptime commitment (99.95% on Corporate). All prices exclude VAT, which is added for EU customers unless a valid EU VAT number is given, and your payment gateway (Stripe at about 2.9% + $0.30) charges on top regardless of tier. A branded mobile app is still a separate add-on, but the page now lists it as having multiple price options and prints no amount, so the roughly $149/mo we carried in August is no longer confirmable. Two reading notes: the page opens by asking which of four goals brings you there and recommends a plan on that basis — the figures above were read with the branded-academy goal selected — and the plan cards print their numbers with no currency symbol at all, the only dollar signs on the page sitting on the $5 enrollment fee and the Stripe example. On 2026-09-30 every amount, limit and uptime figure above was unchanged. That day the page also ran a Q4 promotion, 15% off monthly billing for six months on Pro Trainer (84.15 instead of 99) and Learning Center (254.15 instead of 299), stated to end on 30 September 2026 at 11:59 PM PDT. On 2026-10-01 the pricing page moved that deadline to 5 October 2026 at 11:59 PM PDT; it is a short promotion, so do not budget on it. On 2026-10-29 LearnWorlds raised Starter from $29 a month ($24 annually) to $49 ($44 annually) for new Starter subscriptions, trial users who upgrade to Starter and customers who downgrade to it; existing Starter subscribers keep their old price while they stay on the plan. Pro Trainer, Learning Center and the $5 enrollment fee were unchanged that day.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3760,7 +3760,7 @@
      "evidence_excerpt": "Limits published alongside: 1,000 / 2,000 / 2,000 monthly active learners, 1 / 5 / 25 admins, 300 / 500 / 1,000 AI credits a month, email support 24/5 on Starter against 24/7 above it, and a 99.90% u…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-10-29"
     },
     {
      "flag": "addons_extra",
@@ -3768,7 +3768,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-10-29"
     },
     {
      "flag": "annual_lock",
@@ -3776,12 +3776,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-10-29"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
-   "first_observed_at": "2026-09-05"
+   "price_verified_at": "2026-10-29",
+   "first_observed_at": "2026-10-29"
   },
   {
    "name": "lemlist",
