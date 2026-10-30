@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 287,
-  "flags": 441,
+  "flags": 440,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -6061,32 +6061,24 @@
    "category": "Growth & Revenue",
    "domain": "logbase.io",
    "review_url": "https://aibuildermarketplace.com/b2b/selleasy-review/",
-   "from_price_usd_mo": 15.0,
-   "entry_price": "$15",
-   "entry_price_terms": "per month",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Starter · per month, flat, unlimited orders and campaigns",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-19 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/products/shopify-upsell-app-selleasy; re-verified 2026-10-20 on logbase.io/selleasy/pricing) Billed in USD. The App Store listing shows one ladder, Starter, and it is priced by your store's total monthly order count rather than by anything the app does: free up to 50 orders a month, $9 from 51 to 500, $19 from 501 to 1,000, and $29 above 1,000. All four steps carry the same 18 upsell and cross-sell strategies, 50 free AI recommendations, free setup on a call and chat, email and Zoom support, with a 30-day free trial on the paid steps.\n\nLogbase's own pricing page adds two tiers the listing does not show. Pro is $49 a month or $499 a year — $42 a month, which the site says saves $89 — and lifts the order limit entirely while adding 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $99 a month or $1,009 a year — $84 a month, saving $179 — adding 2,500 AI recommendations a month, advanced customization, a rules engine, an AOV advisor and priority support. An Enterprise tier is quoted on request.\n\nRe-read on 20 October 2026, Logbase's dedicated pricing page at logbase.io/selleasy/pricing carries the same four-step Starter ladder by store orders (free to 50, $9 to 500, $19 to 1,000, $29 above) and the same Pro ($49, or $499 a year) and Max ($99, or $1,009 a year) figures, with a 30-day free trial on any plan and a yearly toggle labelled 15% off, which the figures bear out ($588 against $499, $1,188 against $1,009). The same page also prices Starter a second way: its plan cards and comparison table read 'Starts at $15 per month', or $153 billed yearly. The page does not reconcile the two, so check the charge Shopify shows at install.",
+   "price_note": "(prices read 2026-10-30 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/selleasy/pricing; the order-based ladder read on 19 September and 20 October 2026 has been replaced) Billed in USD through Shopify, recurring charges every 30 days. Four flat plans, each with unlimited orders. Free costs nothing and allows up to 5 campaigns, with the 18 upsell and cross-sell strategies, Shopify and manual recommendations, and chat, email and Zoom support. Starter is $9 a month or $91 a year and adds unlimited campaigns, 50 free AI recommendations and free setup on a call. Pro is $29 a month or $295 a year and adds 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $59 a month or $601 a year and adds 2,500 AI recommendations a month, advanced customizations, a rules engine, an AOV advisor and priority support. The paid plans carry a 30-day free trial. An Enterprise plan is quoted on request.\n\nWhat changed: until October 2026 Starter was priced by your store's total monthly orders (free to 50, $9 to 500, $19 to 1,000, $29 above), and Pro and Max were $49 and $99. Logbase's pricing page still carries a block with that old ladder next to the new plan cards and comparison table on 30 October 2026; the App Store listing, which is what Shopify bills from, shows only the flat plans. Check the charge Shopify shows at install.",
    "flags": [
     {
-     "flag": "usage_metered",
-     "evidence": "meter: unit · total store orders",
+     "flag": "free_tier",
+     "evidence": "The free plan now caps campaigns instead of orders: up to 5, against unlimited from Starter at $9.",
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "Every Starter tier counts total store orders, so the free plan's 50-order ceiling is reached by any shop doing two orders a day whether or not a single upsell ever fired — and, read the other way, a 5,000-order store running one quiet bundle pays the top step of the ladder all the same.",
-     "evidence_excerpt": "Every Starter tier counts total store orders, so the free plan's 50-order ceiling is reached by any shop doing two orders a day whether or not a single upsell ever fired — and, read the other way, a …",
-     "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-10-30"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-10-30",
+   "first_observed_at": "2026-10-30"
   },
   {
    "name": "Seller Investigators",
