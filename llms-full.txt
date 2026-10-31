@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 182 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-30.
+> All 183 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-10-31.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -600,6 +600,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/manychat-review.html
 - Verdict: ManyChat — Free: $0, 25 active contacts, 2 channels, 1 user. Flows are button-and-script based, not natural language.
 - Price: Read on their own pricing page, 6 September 2026, and again, unchanged, 25 September 2026. Free: $0, 25 active contacts, 2 channels, 1 user.
+
+## MarketerHire
+- Review: https://marketingandsalessoftware.com/marketerhire-review.html
+- Verdict: MarketerHire: No rates are published on the pricing page or in the FAQ. Right when a great marketer would pay for themselves, wrong as a budget stopgap.
+- Price: (price re-verified 2026-09-23 against marketerhire.com/pricing and the vendor's FAQ at marketerhire.com/faqs/all; re-read 2026-10-23, same wording and still no rates) No rates are published on the pricing page or in the FAQ. The pricing page says there is "no plan to pick and no retainer to guess at" and that after one call you are matched with a marketer "at a budget you agreed to".
 
 ## Nextify.ai
 - Review: https://marketingandsalessoftware.com/nextify-ai-review.html
