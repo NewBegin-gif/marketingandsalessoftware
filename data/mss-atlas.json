@@ -1695,7 +1695,7 @@
    "entry_price": "$14.99",
    "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-06 on apps.shopify.com/code-bulk and re-verified there on 2026-09-16, unchanged) Two plans, billed in USD every 30 days. Free costs nothing and covers 500 lifetime codes with CSV export. Pro is $14.99 a month and lifts that to unlimited codes per month, with the same CSV export; both plans say they work with most discount applications. The plan table lists no annual rate, no free trial on Pro and no per-code charge, so the monthly figure is the whole cost.",
+   "price_note": "(prices read 2026-09-06 on apps.shopify.com/code-bulk and re-verified there on 2026-10-31, unchanged) Two plans, billed in USD every 30 days. Free costs nothing and covers 500 lifetime codes with CSV export. Pro is $14.99 a month and lifts that to unlimited codes per month, with the same CSV export; both plans say they work with most discount applications. The plan table lists no annual rate, no free trial on Pro and no per-code charge, so the monthly figure is the whole cost.",
    "flags": [
     {
      "flag": "free_tier",
@@ -1703,11 +1703,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/code-bulk",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-16"
+     "verified_at": "2026-10-31"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-16",
+   "price_verified_at": "2026-10-31",
    "first_observed_at": "2026-09-06"
   },
   {

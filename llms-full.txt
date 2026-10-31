@@ -224,7 +224,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Code Bulk Discounts
 - Review: https://marketingandsalessoftware.com/code-bulk-discounts-review.html
 - Verdict: Code Bulk Discounts: Two plans, billed in USD every 30 days. Read the free plan's number twice, because the word doing the work is 'lifetime'.
-- Price: (prices read 2026-09-06 on apps.shopify.com/code-bulk and re-verified there on 2026-09-16, unchanged) Two plans, billed in USD every 30 days. Free costs nothing and covers 500 lifetime codes with CSV export.
+- Price: (prices read 2026-09-06 on apps.shopify.com/code-bulk and re-verified there on 2026-10-31, unchanged) Two plans, billed in USD every 30 days. Free costs nothing and covers 500 lifetime codes with CSV export.
 
 ## Cognism
 - Review: https://marketingandsalessoftware.com/cognism-review.html
