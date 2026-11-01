@@ -269,7 +269,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Drip
 - Review: https://marketingandsalessoftware.com/drip-review.html
 - Verdict: Drip: $1,299 at 110,000, $1,949 at 175,000. At the prices most small shops pay, the send allowance really is uncapped.
-- Price: (ladder re-read on drip.com/pricing on 17 September 2026; every rung below was confirmed on the live slider and matches the page's own pricing object) One ladder, no tiers: you drag a slider to your list size and Drip prints a monthly price. The page now headlines it as paying for your list size and how many emails you send.
+- Price: (ladder re-read on drip.com/pricing on 17 September 2026 and again on 1 November 2026; every rung below was confirmed on the live slider) One ladder, no tiers: you drag a slider to your list size and Drip prints a monthly price. The page now headlines it as paying for your list size and how many emails you send.
 
 ## Dripify
 - Review: https://marketingandsalessoftware.com/dripify-review.html
@@ -504,7 +504,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Kite
 - Review: https://marketingandsalessoftware.com/kite-review.html
 - Verdict: Kite: The Free plan is free to install and covers the first 50 discount orders each month. 'Free to install' is doing a lot of work on this listing.
-- Price: (prices read 2026-09-06 on apps.shopify.com/kite-free-gift) Four plans, billed in USD every 30 days. The Free plan is free to install and covers the first 50 discount orders each month; the listing states that $29 a month is billed only if you go over 50 orders.
+- Price: (prices read 2026-09-06 on apps.shopify.com/kite-free-gift, re-verified unchanged 2026-11-01) Four plans, billed in USD every 30 days. The Free plan is free to install and covers the first 50 discount orders each month; the listing states that $29 a month is billed only if you go over 50 orders.
 
 ## Kiwi Sizing
 - Review: https://marketingandsalessoftware.com/kiwi-sizing-review.html
@@ -814,7 +814,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Stackable
 - Review: https://marketingandsalessoftware.com/stackable-review.html
 - Verdict: Stackable: Unlimited is $99.99 a month, or $999.99 a year on the same 17%. The two halves of the pitch are priced five times apart.
-- Price: (prices read 2026-09-06 on apps.shopify.com/stackable-discounts) Two paid tiers, billed in USD every 30 days, and no free plan. Growth is $19.99 a month, or $199.99 a year with the annual saving the listing puts at 17%, and covers unlimited combined discounts; that plan carries the label 'For Non-Plus'.
+- Price: (prices read 2026-09-06 on apps.shopify.com/stackable-discounts, re-verified unchanged 2026-11-01) Two paid tiers, billed in USD every 30 days, and no free plan. Growth is $19.99 a month, or $199.99 a year with the annual saving the listing puts at 17%, and covers unlimited combined discounts; that plan carries the label 'For Non-Plus'.
 
 ## Stamped
 - Review: https://marketingandsalessoftware.com/stamped-review.html

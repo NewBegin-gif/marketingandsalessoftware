@@ -2021,7 +2021,7 @@
    "entry_price": "$39",
    "entry_price_terms": "2,500 contacts · per month",
    "pricing_status": "public",
-   "price_note": "(ladder re-read on drip.com/pricing on 17 September 2026; every rung below was confirmed on the live slider and matches the page's own pricing object) One ladder, no tiers: you drag a slider to your list size and Drip prints a monthly price. The page now headlines it as paying for your list size and how many emails you send. 1-2,500 people is $39, then $49 at 3,000, $59 at 3,500, $69 at 4,000, $79 at 4,500, $89 at 5,000, $99 at 6,000, $109 at 7,000, $124 at 8,000, $139 at 9,000, $154 at 10,000, $169 at 12,500, $209 at 15,000, $249 at 17,500, $289 at 20,000, $329 at 22,500, $369 at 25,000, $409 at 27,500, $449 at 30,000 and $489 at 32,500; from there it climbs $40 a rung to $609 at 40,000, $649 at 45,000 and $699 at 50,000, after which every extra 5,000 people costs $50 — $1,299 at 110,000, $1,949 at 175,000, and a last published rung of $1,999 for 175,001-180,000 people. Above 180,000 the price is replaced by “Let’s chat”, though the card keeps printing a send allowance. The trial is 14 days and takes no card, and their FAQ states unlimited emails are not available during it. Three things the ladder does not advertise. Chat support is not included at the entry price: up to 5,000 people the line reads “Email support”, and “Chat and email support” only appears from $99 (6,000 people). “Unlimited email sends” stops being literally true at 30,001 people, where the bullet becomes “390,000 email sends” and every rung above it carries exactly twelve sends a month per person at the top of the bracket — 600,000 at 50,000 people, 2,160,000 at 180,000. And the card is not the same at every rung: free migration and personalized onboarding appear from 15,001 people ($249) and are absent on every rung below that. What is carried at every price is up to 50 workflows, unlimited sub-accounts, open API access, dynamic segments, onsite campaigns and the Drip MCP connection, which their FAQ describes as included at no extra cost.",
+   "price_note": "(ladder re-read on drip.com/pricing on 17 September 2026 and again on 1 November 2026; every rung below was confirmed on the live slider) One ladder, no tiers: you drag a slider to your list size and Drip prints a monthly price. The page now headlines it as paying for your list size and how many emails you send. 1-2,500 people is $39, then $49 at 3,000, $59 at 3,500, $69 at 4,000, $79 at 4,500, $89 at 5,000, $99 at 6,000, $109 at 7,000, $124 at 8,000, $139 at 9,000, $154 at 10,000, $169 at 12,500, $209 at 15,000, $249 at 17,500, $289 at 20,000, $329 at 22,500, $369 at 25,000, $409 at 27,500, $449 at 30,000 and $489 at 32,500; from there it climbs $40 a rung to $609 at 40,000, $649 at 45,000 and $699 at 50,000, after which every extra 5,000 people costs $50 — $1,299 at 110,000, $1,949 at 175,000, and a last published rung of $1,999 for 175,001-180,000 people. Above 180,000 the price is replaced by “Let’s chat”, though the card keeps printing a send allowance. The trial is 14 days and takes no card, and their FAQ states unlimited emails are not available during it. Two things the ladder does not advertise. “Unlimited email sends” stops being literally true at 30,001 people, where the bullet becomes “390,000 email sends” and every rung above it carries exactly twelve sends a month per person at the top of the bracket — 600,000 at 50,000 people, 2,160,000 at 180,000. And the card is not the same at every rung: free migration and personalized onboarding appear from 15,001 people ($249) and are absent on every rung below that. What is carried at every price is chat and email support (on 1 November 2026 the card shows it from the $39 rung, and the FAQ says every customer, trials included, gets email and live chat support on weekdays; until at least September it started at $99), up to 50 workflows, unlimited sub-accounts, open API access, dynamic segments, onsite campaigns and the Drip MCP connection, which their FAQ describes as included at no extra cost.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -2029,11 +2029,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-11-01"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-17",
+   "price_verified_at": "2026-11-01",
    "first_observed_at": null
   },
   {
@@ -3425,7 +3425,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-06 on apps.shopify.com/kite-free-gift) Four plans, billed in USD every 30 days. The Free plan is free to install and covers the first 50 discount orders each month; the listing states that $29 a month is billed only if you go over 50 orders. Starter is $29 a month, or $299 a year at a stated 14% saving, and adds unlimited discount orders, combined offers, progress bars and up to 10K bulk codes. Growth is $49 a month, or $499 a year at 15%, and raises bulk codes to 100K with multiple rules per offer and campaign links. Pro is $99 a month, or $999 a year at 16%, and adds custom discount functions, checkout gifts (Plus only) and segment targeting. The three paid tiers carry a 7-day free trial. Free and Starter both say 'Not for Shopify Advanced and Plus'.",
+   "price_note": "(prices read 2026-09-06 on apps.shopify.com/kite-free-gift, re-verified unchanged 2026-11-01) Four plans, billed in USD every 30 days. The Free plan is free to install and covers the first 50 discount orders each month; the listing states that $29 a month is billed only if you go over 50 orders. Starter is $29 a month, or $299 a year at a stated 14% saving, and adds unlimited discount orders, combined offers, progress bars and up to 10K bulk codes. Growth is $49 a month, or $499 a year at 15%, and raises bulk codes to 100K with multiple rules per offer and campaign links. Pro is $99 a month, or $999 a year at 16%, and adds custom discount functions, checkout gifts (Plus only) and segment targeting. The three paid tiers carry a 7-day free trial. Free and Starter both say 'Not for Shopify Advanced and Plus'.",
    "flags": [
     {
      "flag": "free_tier",
@@ -3433,11 +3433,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/kite-free-gift",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-17"
+     "verified_at": "2026-11-01"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-17",
+   "price_verified_at": "2026-11-01",
    "first_observed_at": "2026-09-06"
   },
   {
@@ -6653,10 +6653,10 @@
    "entry_price": "$19.99",
    "entry_price_terms": "Growth · per month, or $199.99 a year",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-06 on apps.shopify.com/stackable-discounts) Two paid tiers, billed in USD every 30 days, and no free plan. Growth is $19.99 a month, or $199.99 a year with the annual saving the listing puts at 17%, and covers unlimited combined discounts; that plan carries the label 'For Non-Plus'. Unlimited is $99.99 a month, or $999.99 a year on the same 17%, and adds unlimited checkout upsells and unlimited linked discounts on top of the same combined discounts. Both tiers come with a 7-day free trial. The plan table lists no order caps, credit allowances or per-use charges, so what the tier costs is what the app costs.",
+   "price_note": "(prices read 2026-09-06 on apps.shopify.com/stackable-discounts, re-verified unchanged 2026-11-01) Two paid tiers, billed in USD every 30 days, and no free plan. Growth is $19.99 a month, or $199.99 a year with the annual saving the listing puts at 17%, and covers unlimited combined discounts; that plan carries the label 'For Non-Plus'. Unlimited is $99.99 a month, or $999.99 a year on the same 17%, and adds unlimited checkout upsells and unlimited linked discounts on top of the same combined discounts. Both tiers come with a 7-day free trial. The plan table lists no order caps, credit allowances or per-use charges, so what the tier costs is what the app costs.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-17",
+   "price_verified_at": "2026-11-01",
    "first_observed_at": "2026-09-06"
   },
   {
