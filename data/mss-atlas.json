@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 287,
-  "flags": 439,
+  "tools": 289,
+  "flags": 441,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -5227,6 +5227,30 @@
    "first_observed_at": "2026-09-07"
   },
   {
+   "name": "PrintSage",
+   "category": "E-commerce",
+   "domain": "printsage.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/printsage-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-02 on printsage.com and on ShipSage's print-on-demand page, shipsage.com/print-on-demand; prices in US dollars) PrintSage has no subscription and no plan price. It is free to install, there is no setup fee and no minimum order, and you pay only when an order ships: production and shipping are itemized per order and billed through Stripe. The catalogue on printsage.com showed blanks from $2.50 (a BasePrint 180g cotton tee) up to $11.42 (a Hanes EcoSmart crewneck sweatshirt), with branded blanks such as the Gildan 5000 tee from $6.45 and the BELLA + CANVAS 3001 from $8.15; product cards showed shipping from $4.50. ShipSage's earnings calculator uses a fulfillment cost of $5.49 per item as its example and notes that shipping, taxes and platform fees are not included. For larger volumes ShipSage says the per-unit cost drops and quotes are given through its sales team; we did not see a published volume price list.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "It is free to install, there is no setup fee and no minimum order, and you pay only when an order ships: production and shipping are itemized per order and billed through Stripe.",
+     "evidence_excerpt": null,
+     "source_url": "https://shipsage.com/print-on-demand/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-02"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
+  },
+  {
    "name": "ProtectMyOrder",
    "category": "E-commerce",
    "domain": "protectmyorder.com",
@@ -7175,6 +7199,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-12",
    "first_observed_at": "2026-10-12"
+  },
+  {
+   "name": "Teachable",
+   "category": "Growth & Revenue",
+   "domain": "teachable.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/teachable-review/",
+   "from_price_usd_mo": 39.0,
+   "entry_price": "$39",
+   "entry_price_terms": "Starter · billed monthly",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-02 on teachable.com/pricing, teachable.com/legal/usage-fees and Teachable's help article on transaction fees and bundles; the pricing page says all prices are in US dollars) Teachable has three self-serve plans and a Custom plan. Starter is $39 a month billed monthly, or $29 a month billed annually: 5 published products, 1 admin and a 7.5% transaction fee on your sales. Builder is $89 a month, or $69 billed annually: 10 products, 1 admin, a 0% transaction fee when you use Teachable Payments, an affiliate program and real-time support. Growth is $189 a month, or $139 billed annually: 50 products, 5 admins, course certificates, Teachable branding removed, imported students and custom admin permissions. Custom is priced through sales. Every plan includes up to 1TB of video storage; beyond that the usage-fee page lists $15 a month per additional TB. Payment processing comes on top of the plan: for a US school the base rate is 2.9% + $0.30 per domestic card and 4.4% + $0.30 per international card. On the default Standard bundle Teachable adds 0.5% where tax is assessed and 0.7% on recurring transactions; the optional Global bundle adds 2.8% on all transactions instead. Students added outside Teachable checkout (imports, the API, manual enrollment, $0 or 100%-coupon checkouts) are free up to 100 per school, then $0.50 a month per student. There is no free plan: the pricing page offers a 7-day free trial and a 30-day guarantee.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "Students added outside Teachable checkout (imports, the API, manual enrollment, $0 or 100%-coupon checkouts) are free up to 100 per school, then $0.50 a month per student.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.teachable.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-02"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "Teikametrics",
