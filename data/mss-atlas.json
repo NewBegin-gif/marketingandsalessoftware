@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 287,
-  "flags": 440,
+  "flags": 439,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -922,9 +922,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/blocky-review/",
    "from_price_usd_mo": 9.99,
    "entry_price": "$9.99",
-   "entry_price_terms": "Basic Plan · per month for country blocking only",
+   "entry_price_terms": "Basic Plan · per month (or $59.94 a year) for country blocking only",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-18 and again on 2026-10-05 on apps.shopify.com/blocky-simple-country-blocker) Four tiers, each paid one with a 7-day free trial, and every amount unchanged since 22 August 2026. Development Stores is free but only for development and partner stores; it carries all Pro features and starts billing on upgrade. Basic $9.99 a month or $83.92 a year, a 30% saving: enforcement inside the checkout page, unlimited country blocking, a fully customisable blocked page and online support. Advanced $16.99 a month or $142.71 a year adds unlimited IP blocking for IPv4 and IPv6, an IP whitelist and a geolocation country redirector. Pro $19.99 a month or $167.92 a year adds blocking by email, name, address and phone, the Bot Killer for TOR, proxy and VPN traffic, an add-ons blocker, a right-click blocker and unlimited visitor analytics traffic logs. All three paid tiers carry the same restriction in their own plan text: all stores except for Shopify Plus stores. All charges are billed in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, 7722119, Israel; the app launched 7 April 2021, still carries Shopify's “Built for Shopify” badge and is available in eleven languages. The review record keeps moving: 355 reviews averaging 4.7 on 5 October 2026, up from 324 on 22 August and 346 on 18 September, distributed 89% five-star (317), 5% four-star (16), 1% three-star (3), 0% two-star (1) and 5% one-star (18). All nine reviews added since 18 September were five-star, after three one-star additions in the month before. The developer replies to reviews on the listing, including an August 2026 reply explaining what the Basic plan is meant to cover.",
+   "price_note": "(re-verified 2026-11-02 on apps.shopify.com/blocky-simple-country-blocker) Four tiers, each paid one with a 7-day free trial. The ladder was repriced after our 5 October reading: Advanced is cheaper and every annual price is now a stated 50% saving. Development Stores is free but only for development and partner stores; it carries all Pro features and starts billing on upgrade. Basic $9.99 a month or $59.94 a year: enforcement inside the checkout page, unlimited country blocking, a fully customisable blocked page and online support. Advanced $12.99 a month (was $16.99) or $77.94 a year adds unlimited IP blocking for IPv4, IPv6 and IP ranges, an IP whitelist and a geo redirect by country. Pro $19.99 a month or $119.94 a year adds blocking by email, name, address and phone, the Bot Killer for TOR, proxy and VPN traffic, an add-ons blocker, a right-click blocker and unlimited visitor analytics traffic logs. All three paid tiers carry the same restriction in their own plan text: all stores except for Shopify Plus stores. All charges are billed in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, 7722119, Israel; the app launched 7 April 2021, still carries Shopify's “Built for Shopify” badge and is available in eleven languages. The review record keeps moving: 362 reviews averaging 4.7 on 2 November 2026, up from 324 on 22 August, 346 on 18 September and 355 on 5 October, distributed 322 five-star, 16 four-star, 3 three-star, 1 two-star and 20 one-star — two more one-star reviews than in October. The developer replies to reviews on the listing, including an August 2026 reply explaining what the Basic plan is meant to cover.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -932,12 +932,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/blocky-simple-country-blocker",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "Bold Custom Pricing",
@@ -1997,7 +1997,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/dondy-marketing-ai",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-18"
+     "verified_at": "2026-11-02"
     },
     {
      "flag": "free_tier",
@@ -2005,11 +2005,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/dondy-marketing-ai",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-18"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-18",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-09-18"
   },
   {
@@ -2451,7 +2451,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/essential-loyalty-rewards-program",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-18"
+     "verified_at": "2026-11-02"
     },
     {
      "flag": "free_tier",
@@ -2459,11 +2459,11 @@
      "evidence_excerpt": "Free covers up to 250 of those and is unusually complete: the point program, VIP tiers, a referral program, twelve-plus ways to earn points, product, cart, popup and account placements, built-in emai…",
      "source_url": "https://apps.shopify.com/essential-loyalty-rewards-program",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-18"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-18",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-09-18"
   },
   {
@@ -6344,11 +6344,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/packeta",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-18"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-18",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-09-18"
   },
   {
@@ -6912,23 +6912,14 @@
    "domain": "effectify.io",
    "review_url": "https://aibuildermarketplace.com/b2b/super-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$9.99",
-   "entry_price_terms": "a month or $83.92 a year, billed through Shopify, 7-day trial",
+   "entry_price": "$4.99",
+   "entry_price_terms": "a month or $47.90 a year, billed through Shopify, 7-day trial",
    "pricing_status": "public",
-   "price_note": "(price re-read 2026-10-13, unchanged) Four paid tiers, billed in USD every 30 days through Shopify, and the Shopify listing prints only three of them. On apps.shopify.com/super-gift-wraps: Basic is $9.99 a month or $83.92 a year for a paid or free gift message and a gift receipt that hides prices; Advanced $12.99 or $109.12 adds one paid or free gift wrap and an animated gift label; Pro $19.99 or $167.92 adds unlimited wraps, pop-up and checkbox display types, cart and product-page placement, custom images and gift revenue reporting. All three carry a 7-day trial, and all three say in the plan card itself: all stores except Shopify Plus stores. The fourth tier lives in the vendor's own pricing article on effectify.help, stamped 28 July 2026 and read 12 September 2026 — Plus Plan, $24.99 a month or $149.94 a year, Shopify Plus merchants only, everything in Pro plus the gift options inside the actual checkout page through Checkout Extensibility. That gap matters, because showing gift options in the Plus checkout is one of the five bullets at the top of the listing and the tier that delivers it is not in the listing's price block. The free plan in the listing header is the Development tier: development and partner stores only, Pro features, billing switched on when the store's Shopify plan is. One arithmetic note on the annual prices. The article says annual billing saves about 30%, which holds for Basic, Advanced and Pro; on its own Plus figures, $149.94 against twelve months of $24.99, the saving is exactly 50%.",
-   "flags": [
-    {
-     "flag": "annual_lock",
-     "evidence": "The article says annual billing saves about 30%, which holds for Basic, Advanced and Pro; on its own Plus figures, $149.94 against twelve months of $24.99, the saving is exactly 50%.",
-     "evidence_excerpt": null,
-     "source_url": "https://apps.shopify.com/super-gift-wraps",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
-    }
-   ],
+   "price_note": "(re-verified 2026-11-02 on apps.shopify.com/super-gift-wraps) Every tier on the listing was repriced since our October reading, and the vendor's help-centre price article has not been updated to match. Three paid tiers on the listing, billed in USD every 30 days through Shopify: Basic is $4.99 a month or $47.90 a year (was $9.99) for a paid or free gift message and gift note, a gift receipt that hides prices and a customisable design; Advanced $9.99 or $83.92 (was $12.99) adds one paid or free gift wrap option and gift wrap label and pop-up preset images; Pro $14.99 or $89.94 (was $19.99) adds unlimited paid and free wrap options, gift wrap on product and cart pages, pop-up and checkbox designs, custom gift box and wrap images and an animated checkbox and pop-up. All three carry a 7-day trial, and all three say in the plan card itself: all stores except Shopify Plus stores. The fourth tier lives only in the vendor's own pricing article on effectify.help, stamped 28 July 2026 and re-read 2 November 2026 — Plus Plan, $24.99 a month or $149.94 a year, Shopify Plus merchants only, everything in Pro plus the gift options inside the actual checkout page through Checkout Extensibility. That article still lists the old $9.99, $12.99 and $19.99 prices for the other tiers, so treat its Plus figure as unconfirmed until the developer says otherwise. The free plan in the listing header is the Development tier: development and partner stores only, Pro features, billing switched on when the store's Shopify plan is. Reviews: 260 at 4.7 on 2 November 2026, 232 five-star and 7 one-star.",
+   "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "Superfiliate",
@@ -7303,13 +7294,13 @@
    "review_url": "https://aibuildermarketplace.com/b2b/tixel-review/",
    "from_price_usd_mo": null,
    "entry_price": "$19.99",
-   "entry_price_terms": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a seven-day…",
+   "entry_price_terms": "Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a one-day trial",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-18 on apps.shopify.com/tixel) One paid plan and no ladder to climb, and the amounts are unchanged since 22 August 2026. Unlimited Plan is $19.99 a month, or $119.94 a year at a stated 50% saving, and carries unlimited pixels, server-side Events API pixels, regular pixels via pixel code, pixels scoped to specific products, automatic event triggers with no manual event configuration, accurate tracking and online support. One term has changed and it matters: the free trial is now seven days, where the listing advertised three in August. The other tier, Development Stores, is still free but only for development and partner stores, with billing activated on upgrade — the same shape as this developer's Blocky listing. Charges are in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, Israel; the app launched 19 October 2020. The review record has moved a long way: 93 reviews at 4.6, up from 78 at 4.1 in August, distributed 84 five-star, 3 four-star, none at three or two, and 6 one-star — one fewer bottom-rated review than a month ago, against fifteen more reviews overall.",
+   "price_note": "(re-verified 2026-11-02 on apps.shopify.com/tixel) One paid plan and no ladder to climb, and the amounts are unchanged since 22 August 2026. Unlimited Plan is $19.99 a month, or $119.94 a year at a stated 50% saving, and carries unlimited pixels, server-side Events API pixels, regular pixels via pixel code, pixels scoped to specific products, automatic event triggers with no manual event configuration, accurate tracking and online support. One term has changed again and it matters: the free trial is now one day, where the listing advertised seven in September and three in August. The other tier, Development Stores, is still free but only for development and partner stores, with billing activated on upgrade — the same shape as this developer's Blocky listing. Charges are in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, Israel; the app launched 19 October 2020. The review record has moved a long way: 106 reviews at 4.8 on 2 November 2026, up from 93 at 4.6 in September and 78 at 4.1 in August, distributed 97 five-star, 4 four-star, none at three or two, and 5 one-star.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-18",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-11-02",
+   "first_observed_at": "2026-11-02"
   },
   {
    "name": "TnC",

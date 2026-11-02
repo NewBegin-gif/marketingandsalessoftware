@@ -829,7 +829,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Super
 - Review: https://marketingandsalessoftware.com/super-review.html
 - Verdict: Super: The free plan in the listing header is the Development tier. If you are on Shopify Plus, the price block on the listing is not the one you pay from.
-- Price: (price re-read 2026-10-13, unchanged) Four paid tiers, billed in USD every 30 days through Shopify, and the Shopify listing prints only three of them. On apps.shopify.com/super-gift-wraps: Basic is $9.99 a month or $83.92 a year for a paid or free gift message and a gift receipt that hides prices; Advanced $12.99 or $109.12 adds one paid or free gift wrap and an animated gift label; Pro $19.99 or $167.92 adds…
+- Price: (re-verified 2026-11-02 on apps.shopify.com/super-gift-wraps) Every tier on the listing was repriced since our October reading, and the vendor's help-centre price article has not been updated to match. Three paid tiers on the listing, billed in USD every 30 days through Shopify: Basic is $4.99 a month or $47.90 a year (was $9.99) for a paid or free gift message and gift note, a gift receipt that hides prices and…
 
 ## Superlines
 - Review: https://marketingandsalessoftware.com/superlines-review.html
