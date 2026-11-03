@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 289,
-  "flags": 441,
+  "tools": 291,
+  "flags": 444,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4762,48 +4762,40 @@
    "category": "Growth & Revenue",
    "domain": "parallellabs.app",
    "review_url": "https://aibuildermarketplace.com/b2b/parallel-ai-review/",
-   "from_price_usd_mo": 99.0,
-   "entry_price": "$99",
-   "entry_price_terms": "per month for 2,000 or $297/mo for 9,000",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "Starter · Starter billed monthly, unlimited AI work and leads under fair use…",
    "pricing_status": "public",
-   "price_note": "(read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise deployment and dedicated support. Data credits are a different pool, bought once and never expiring, and they are the only part of the product priced per action: 1 data credit per lead or contact returned, 2 per matched enrichment lookup through the API or an agent, and a lookup that finds nothing is free. They run $25 for 500 down to $175 for 5,000, so between 5.0 and 3.5 cents a lead. The two pools expire differently, and the page says so in two places that sit far apart: plan credits 'reset on the 1st of each month', while purchased credit packs and data credits never expire. What the page never says is how many PLATFORM credits an action costs. Content generation, an agent conversation and an outreach step are all simply 'credits' with no published rate, so the 2,000 on Entrepreneur is a quantity without a unit until you have run your own work through it. Per credit the tiers differ by a third: 5.0 cents on Entrepreneur against 3.3 on Business, which is three times the price for four and a half times the credits. Running out has a tier-shaped answer -- the FAQ offers extra credit packages on the Business plan and the Pay-As-You-Go card offers top-ups, but Entrepreneur sits between them with no stated top-up route, so the $99 tier's answer to an empty meter appears to be the $297 one. Seats do not add capacity: every seat in a company shares one monthly pool, and extra seats are $15 a month ($12 annual). The add-ons are where the bill can outgrow the plan -- an extra company is $20 a month ($16 annual), an extra white-label instance $50, and anonymous website pixel identification runs $75, $250 or $500 a month for 500, 2,000 or 5,000 resolutions. On the free tier the limits are real: a 200k context window against 1M on every paid plan, 30 days of chat history instead of unlimited, no App Builder, and model access listed as 'Limited' with response times 'limited on bandwidth and availability'. Inside the app on 21 October 2026 the plan screen showed $99 and $297 a month on its annual billing tab ('save 20%'), totalling $1,188 and $3,564 a year (we did not read the monthly tab), and the free plan read 'Monthly credits 4 / 50' after an onboarding that cost 4 credits.",
+   "price_note": "(re-verified 2026-11-03 on parallellabs.app/pricing; the page we read on 11 September 2026 sold credits, and that model is gone) Parallel AI now sells flat plans with usage limits instead of credits. Starter costs $29 a month, or $24 a month billed yearly, with a 7-day free trial: unlimited AI work and leads under fair use, lead search and enrichment from 300M+ contacts, AI employees, Smart Lists, Sequences and the Content Engine, 1 LinkedIn account and 3 branded domains. Entrepreneur costs $119 a month, or $99 a month billed yearly, for 6 times the usage of Starter, 2 LinkedIn accounts, 5 branded domains, a white-label instance and the App Builder. Business costs $356 a month, or $297 a month billed yearly, for 30 times the usage of Starter, 10 LinkedIn accounts, 10 branded domains, shared AI employees and priority support. Enterprise is custom, with SAML SSO, on-premise deployment and dedicated support. Every plan includes full API and MCP access. The page says every plan is unlimited for normal business use, that usage refreshes on a rolling 5-hour window so a heavy session may need a short pause, and that sustained automated use far beyond normal business activity may be limited for the rest of the month. Add-ons: an extra white-label instance $50 a month, an extra branded domain $5, a cold-email mailbox $5 each, an extra LinkedIn account $25 and an extra static IP $25. There is no longer a free plan; the old Pay As You Go tier with 50 credits does not appear on the page.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools.",
+     "evidence": "(re-verified 2026-11-03 on parallellabs.app/pricing; the page we read on 11 September 2026 sold credits, and that model is gone) Parallel AI now sells flat plans with usage limits instead of credits.",
      "evidence_excerpt": null,
      "source_url": "https://parallellabs.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-16"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "addons_extra",
-     "evidence": "The add-ons are where the bill can outgrow the plan -- an extra company is $20 a month ($16 annual), an extra white-label instance $50, and anonymous website pixel identification runs $75, $250 or $500 a month for 500, 2,000 or 5,000 resolutions.",
-     "evidence_excerpt": "The add-ons are where the bill can outgrow the plan -- an extra company is $20 a month ($16 annual), an extra white-label instance $50, and anonymous website pixel identification runs $75, $250 or $5…",
+     "evidence": "Add-ons: an extra white-label instance $50 a month, an extra branded domain $5, a cold-email mailbox $5 each, an extra LinkedIn account $25 and an extra static IP $25.",
+     "evidence_excerpt": null,
      "source_url": "https://parallellabs.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-16"
-    },
-    {
-     "flag": "annual_lock",
-     "evidence": "Inside the app on 21 October 2026 the plan screen showed $99 and $297 a month on its annual billing tab ('save 20%'), totalling $1,188 and $3,564 a year (we did not read the monthly tab), and the free plan read 'Monthly credits 4 / 50' after an onboarding that cost 4 credits.",
-     "evidence_excerpt": "Inside the app on 21 October 2026 the plan screen showed $99 and $297 a month on its annual billing tab ('save 20%'), totalling $1,188 and $3,564 a year (we did not read the monthly tab), and the fre…",
-     "source_url": "https://parallellabs.app/pricing",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-16"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "free_tier",
-     "evidence": "Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO, on-premise deployment and dedicated support.",
-     "evidence_excerpt": "Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 co…",
+     "evidence": "The free plan is gone; there is a 7-day trial on Starter instead.",
+     "evidence_excerpt": null,
      "source_url": "https://parallellabs.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-16"
+     "verified_at": "2026-11-03"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-16",
-   "first_observed_at": "2026-08-18"
+   "price_verified_at": "2026-11-03",
+   "first_observed_at": "2026-11-03"
   },
   {
    "name": "PartnerStack",
@@ -5017,6 +5009,46 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-27",
    "first_observed_at": null
+  },
+  {
+   "name": "Ploy",
+   "category": "Marketing",
+   "domain": "ploy.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/ploy-review/",
+   "from_price_usd_mo": 50.0,
+   "entry_price": "$50",
+   "entry_price_terms": "Starter · Starter billed monthly with 4,000 credits a month and 1 custom domain",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-03 on ploy.ai/pricing) Ploy charges by plan and by credits. Credits are spent while Ploy is actively building or editing your site; the pricing page says a workspace that is just live and serving traffic uses next to nothing. Image generation, code generation, planning, visitor enrichment and Ploybooks all draw from the same credit balance. The Free tier costs $0, needs no card and includes 2,000 credits (the plan card says 500 credits a day, up to 2,000). Starter costs $50 a month with 4,000 credits a month, 1 custom domain family and 50 enriched visitors a month. Pro costs $300 a month with 24,000 credits, 5 custom domain families, 1,000 enriched visitors a month and the HubSpot, Attio and ad integrations. Annual billing costs 20% less: Starter $480 a year ($40 a month) and Pro $2,880 a year ($240 a month). Enterprise is custom priced and adds Salesforce, SSO, SOC 2, enterprise terms and done-for-you setup. Monthly plans can be changed at any time. Ploy does not publish how many credits a typical page or edit uses, so the real monthly cost depends on how much you build.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(read 2026-11-03 on ploy.ai/pricing) Ploy charges by plan and by credits.",
+     "evidence_excerpt": null,
+     "source_url": "https://ploy.ai/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-03"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing costs 20% less: Starter $480 a year ($40 a month) and Pro $2,880 a year ($240 a month).",
+     "evidence_excerpt": null,
+     "source_url": "https://ploy.ai/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-03"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The Free tier costs $0, needs no card and includes 2,000 credits (the plan card says 500 credits a day, up to 2,000).",
+     "evidence_excerpt": null,
+     "source_url": "https://ploy.ai/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-03"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-03",
+   "first_observed_at": "2026-11-03"
   },
   {
    "name": "Poptin",
@@ -7633,6 +7665,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-08",
    "first_observed_at": "2026-10-08"
+  },
+  {
+   "name": "VideoUpload",
+   "category": "Marketing",
+   "domain": "videoupload.team",
+   "review_url": "https://aibuildermarketplace.com/b2b/videoupload-review/",
+   "from_price_usd_mo": 25.0,
+   "entry_price": "$25",
+   "entry_price_terms": "Creator · Creator billed monthly: you + 2 team members, 1 channel, 50 GB, 100 AI…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-03 on videoupload.team/pricing) VideoUpload charges one flat price per workspace, with no per-seat fees: only the workspace owner pays, and editors, scriptwriters and designers join free within the plan's team limit. Creator costs $25 a month, or $240 billed yearly ($20 a month), for you plus 2 team members, 1 channel, 50 GB of storage, 2 GB per upload and 100 AI credits a month. Studio costs $59 a month, or $564 a year ($47 a month), for you plus 5, up to 5 channels, 500 GB, client review links, editor payment tracking and API and Claude (MCP) access. Agency costs $149 a month, or $1,428 a year ($119 a month), for you plus 30, unlimited channels, 5 client workspaces, 2 TB and priority support. The plan cards show the yearly price per month ($20, $47, $119); the comparison table shows the monthly prices. On 3 November a founding-member offer gave 50% off the first 3 months on monthly plans, with today's price locked in. Every account starts with a 14-day trial of Studio features (you + 5, 10 GB) without a card, and a full refund is available within 14 days of the first payment.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Creator costs $25 a month, or $240 billed yearly ($20 a month), for you plus 2 team members, 1 channel, 50 GB of storage, 2 GB per upload and 100 AI credits a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.videoupload.team/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-03"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-03",
+   "first_observed_at": "2026-11-03"
   },
   {
    "name": "VidPal",
