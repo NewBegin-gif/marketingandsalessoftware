@@ -663,8 +663,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Parallel AI
 - Review: https://marketingandsalessoftware.com/parallel-ai-review.html
-- Verdict: Parallel AI — Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card.
-- Price: (read on 11 September 2026 on parallellabs.app/pricing, which stamps itself 'Last updated: 2026-08-18') The meter is credits, and there are two separate pools. Plan credits come with the subscription: Pay As You Go is $0 with 50 credits a month and no card, Entrepreneur $99 a month for 2,000 credits and 2 companies, Business $297 for 9,000 credits and 10 companies, and Enterprise is quote-only with SSO,…
+- Verdict: Parallel AI: Starter costs $29 a month, or $24 a month billed yearly, with a 7-day free trial. The usage limits are not published as numbers.
+- Price: (re-verified 2026-11-03 on parallellabs.app/pricing; the page we read on 11 September 2026 sold credits, and that model is gone) Parallel AI now sells flat plans with usage limits instead of credits. Starter costs $29 a month, or $24 a month billed yearly, with a 7-day free trial: unlimited AI work and leads under fair use, lead search and enrichment from 300M+ contacts, AI employees, Smart Lists, Sequences and…
 
 ## PartnerStack
 - Review: https://marketingandsalessoftware.com/partnerstack-review.html
