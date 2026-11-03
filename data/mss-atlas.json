@@ -5910,22 +5910,22 @@
    "domain": "effectify.io",
    "review_url": "https://aibuildermarketplace.com/b2b/scrolly-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$2.99",
-   "entry_price_terms": "Unlimited · per month, or $25.11 a year at a 30% saving, with a 7-day free trial",
+   "entry_price": "$4.99",
+   "entry_price_terms": "Unlimited · per month, or $29.94 a year at a 50% saving, with a 7-day free trial",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-25 and re-read 2026-09-19 on apps.shopify.com/custom-scroll-to-top) Two plans now, where there was one. On 25 August 2026 the listing carried no paid tier, no usage meter and no surcharge — the pricing block most App Store listings use to sell an upgrade was simply absent. On 19 September 2026 it carries a Free Plan and an Unlimited Plan at $2.99 a month, or $25.11 a year with a 30% saving and a 7-day free trial. The split does not fall where the app’s name suggests. Free keeps the scroll-to-top button and its styling: multiple presets, button colour and hover colour, and the option to hide it on the mobile storefront. Unlimited adds infinite scrolling and the load-more button, plus uploading your own SVG icon for the button. So the feature the app is named after, and the one the first three of the listing’s five selling points describe, is now the paid half. All charges are billed in USD every 30 days. The app has been on the App Store since March 2020, carries Shopify’s Built for Shopify badge — the store’s own bar for performance, design and integration — and the listing names eleven interface languages.",
+   "price_note": "(read 2026-08-25 and re-read 2026-09-19 on apps.shopify.com/custom-scroll-to-top) Two plans now, where there was one. On 25 August 2026 the listing carried no paid tier, no usage meter and no surcharge — the pricing block most App Store listings use to sell an upgrade was simply absent. On 19 September 2026 it carried a Free Plan and an Unlimited Plan at $2.99 a month, or $25.11 a year with a 30% saving. Re-read on 2 November 2026, the Unlimited Plan is $4.99 a month, or $29.94 a year with a 50% saving, still with a 7-day free trial. The split does not fall where the app’s name suggests. Free keeps the scroll-to-top button and its styling: multiple presets, button colour and hover colour, and the option to hide it on the mobile storefront. Unlimited adds infinite scrolling and the load-more button, plus uploading your own SVG icon for the button. So the feature the app is named after, and the one the first three of the listing’s five selling points describe, is now the paid half. All charges are billed in USD every 30 days. The app has been on the App Store since March 2020, carries Shopify’s Built for Shopify badge — the store’s own bar for performance, design and integration — and the listing names eleven interface languages.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "On 19 September 2026 it carries a Free Plan and an Unlimited Plan at $2.99 a month, or $25.11 a year with a 30% saving and a 7-day free trial.",
+     "evidence": "On 19 September 2026 it carried a Free Plan and an Unlimited Plan at $2.99 a month, or $25.11 a year with a 30% saving.",
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/custom-scroll-to-top",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-08-25"
   },
   {
@@ -6336,7 +6336,7 @@
      "evidence_excerpt": "There is a hidden middle step: two dropdowns inside the Team column (position checks 50,000 or 99,999, API credits 200,000 or 400,000) move Team to $169/month monthly or $135 annually, so Team is rea…",
      "source_url": "https://serpstat.com/page/pricing-plans/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-02"
     },
     {
      "flag": "annual_lock",
@@ -6344,11 +6344,11 @@
      "evidence_excerpt": null,
      "source_url": "https://serpstat.com/page/pricing-plans/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-02"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-07-24"
   },
   {
