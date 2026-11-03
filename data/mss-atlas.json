@@ -2164,7 +2164,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Essential · per month, or $299 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-04 on apps.shopify.com/bundle-builder) Four tiers billed in USD every 30 days, and the meter is the part that matters: you are charged on bundle sales, not on orders, products or staff. The free plan is free to install and covers up to $500 of bundle sales a month. Essential is $29 a month or $299 a year and lifts that to $3,000; Growth is $49 or $499 a year up to $5,000; Scale is $99 or $999 a year up to $10,000. Annual billing saves 14% to 16% depending on the tier, and every paid tier has a 15-day free trial. Features climb the same ladder: free gives mix-and-match, fixed and volume bundles with templates and a custom or template design; Essential adds the single-step and multi-step bundle builders, landing-page templates, search and filtering, and multi-currency and multi-language support; Growth adds advanced discount logic, custom personalisation fields, add-ons, free gifts and subscription bundles; Scale adds AI-generated designs, advanced analytics, one-to-one onboarding and an account manager on Slack. Two things the block does not say are worth noting before you commit. It does not publish what happens when you pass $10,000 of bundle sales in a month, and it does not publish an overage rate; the plan table simply ends there and links out to see all pricing options.",
+   "price_note": "(read 2026-09-04 on apps.shopify.com/bundle-builder) Four tiers billed in USD every 30 days, and the meter is the part that matters: you are charged on bundle sales, not on orders, products or staff. The free plan is free to install and covers up to $500 of bundle sales a month. Essential is $29 a month or $299 a year and lifts that to $3,000; Growth is $49 or $499 a year up to $5,000; Scale is $99 or $999 a year up to $10,000. Annual billing saves 14% to 16% depending on the tier, and every paid tier has a 15-day free trial. Features climb the same ladder: free gives mix-and-match, fixed and volume bundles with templates and a custom or template design; Essential adds the single-step and multi-step bundle builders, landing-page templates, search and filtering, and multi-currency and multi-language support; Growth adds advanced discount logic, custom personalisation fields, add-ons, free gifts and subscription bundles; Scale adds AI-generated designs, advanced analytics, one-to-one onboarding and an account manager on Slack. Two things the block does not say are worth noting before you commit. It does not publish what happens when you pass $10,000 of bundle sales in a month, and it does not publish an overage rate; the plan table simply ends there and links out to see all pricing options. On a re-read of the same listing on 3 November 2026 every amount above was unchanged, and the free and Essential cards now add one line each: \"Not applicable for Shopify Plus and Advanced plans.\" Growth and Scale carry no such line, so a store on Shopify Plus or Advanced should budget from Growth.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -2172,7 +2172,7 @@
      "evidence_excerpt": "A revenue meter reads as generous at the bottom — $500 of bundle sales a month free is a real trial, not a crippled one — but it means every tier upgrade is triggered by the app working, and the publ…",
      "source_url": "https://apps.shopify.com/bundle-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "addons_extra",
@@ -2180,7 +2180,7 @@
      "evidence_excerpt": "Features climb the same ladder: free gives mix-and-match, fixed and volume bundles with templates and a custom or template design; Essential adds the single-step and multi-step bundle builders, landi…",
      "source_url": "https://apps.shopify.com/bundle-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "annual_lock",
@@ -2188,7 +2188,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/bundle-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "free_tier",
@@ -2196,11 +2196,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/bundle-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-03",
    "first_observed_at": "2026-09-04"
   },
   {
@@ -5515,7 +5515,7 @@
      "evidence_excerpt": "(read 2026-09-10 in a browser on reachstream.com/prospect/pricing/ with both billing toggles, and re-verified against that same page on 19 September 2026 -- every amount, credit allowance and seat co…",
      "source_url": "https://www.reachstream.com/prospect/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "annual_lock",
@@ -5523,7 +5523,7 @@
      "evidence_excerpt": null,
      "source_url": "https://www.reachstream.com/prospect/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     },
     {
      "flag": "free_tier",
@@ -5531,11 +5531,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.reachstream.com/prospect/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-03",
    "first_observed_at": "2026-09-10"
   },
   {
@@ -5603,11 +5603,11 @@
      "evidence_excerpt": null,
      "source_url": "https://repete.me/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-03"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-03",
    "first_observed_at": null
   },
   {
@@ -8019,7 +8019,7 @@
    "price_note": "(read 2026-09-08 and re-read 2026-09-19 on apps.shopify.com/wholesale-gorilla and checked against the vendor's own plan-comparison page at wholesalegorilla.com/plan-comparison/, which lists the same three figures) Three tiers, all billed in USD every 30 days: Lite $34.95 a month, Advanced $69.95 and Premium $149.95. There is no free plan. Every tier carries a 21-day free trial and nothing beyond it, so budget from day 22. Nothing here is metered — pricing rules and customer price groups are unlimited on all three tiers — so what you are buying as you climb is features, not volume. The app has been on the Shopify App Store since 26 September 2018 and on 19 September 2026 showed 4.8 stars over 317 reviews — 275 five-star, 17 four, 8 three, 5 two and 12 one — up from 4.7 over 313 eleven days earlier. Its Works with field names only Checkout, customer accounts and Shopify Admin.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-03",
    "first_observed_at": "2026-09-08"
   },
   {
