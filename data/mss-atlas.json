@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 291,
-  "flags": 444,
+  "tools": 292,
+  "flags": 446,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -3449,7 +3449,7 @@
    "entry_price": "$7.99",
    "entry_price_terms": "per month (10 charts, no watermark)",
    "pricing_status": "public",
-   "price_note": "(read 5 September 2026 and re-read 19 September 2026 on apps.shopify.com/kiwi-sizing, no amount changed) Four tiers, and the interesting line is not the price but the sentence under it. Free publishes up to three size charts with 22 templates and unlimited CSV import, and puts a Kiwi watermark on your storefront. Premium is $7.99 a month for up to ten charts, removes the watermark, adds Google Analytics and auto-translation into English and Spanish, and states plainly: no additional monthly charges. Plus, the tier the store marks Popular, is $14.99 for up to twenty charts, ten size recommenders and six languages. Ultimate is $26.99 for unlimited charts and recommenders and 22 languages. Both Plus and Ultimate carry the same caveat that Premium does not: additional charges apply based on order volume, and the listing does not say what those charges are. Import credits are an optional add-on on every paid tier, and all three come with a 14-day free trial. The listing adds that all charges are billed in USD and that recurring and usage-based charges are billed every 30 days. So the cheapest paid plan is the only one whose bill you can predict, and the one the store pushes is not.",
+   "price_note": "(read 5 September 2026 and re-read 19 September and 4 November 2026 on apps.shopify.com/kiwi-sizing, no amount changed) Four tiers, and the interesting line is not the price but the sentence under it. Free publishes up to three size charts with 22 templates and unlimited CSV import, and puts a Kiwi watermark on your storefront. Premium is $7.99 a month for up to ten charts, removes the watermark, adds Google Analytics and auto-translation into English and Spanish, and states plainly: no additional monthly charges. Plus, the tier the store marks Popular, is $14.99 for up to twenty charts, ten size recommenders and six languages. Ultimate is $26.99 for unlimited charts and recommenders and 22 languages. Both Plus and Ultimate carry the same caveat that Premium does not: additional charges apply based on order volume, and the listing does not say what those charges are. Import credits are an optional add-on on every paid tier, and all three come with a 14-day free trial. The listing adds that all charges are billed in USD and that recurring and usage-based charges are billed every 30 days. So the cheapest paid plan is the only one whose bill you can predict, and the one the store pushes is not.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3457,7 +3457,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/kiwi-sizing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     },
     {
      "flag": "addons_extra",
@@ -3465,7 +3465,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/kiwi-sizing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     },
     {
      "flag": "free_tier",
@@ -3473,11 +3473,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/kiwi-sizing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-04",
    "first_observed_at": null
   },
   {
@@ -4150,9 +4150,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/meeri-review/",
    "from_price_usd_mo": 4.99,
    "entry_price": "$4.99",
-   "entry_price_terms": "Pro · per month for up to 3,000 push notification impressions, billed in USD…",
+   "entry_price_terms": "Pro · per month for 3,000 email and push notification messages in one…",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-23 on apps.shopify.com/meeripush-push-notifications, listed as “Meeri Abandoned Cart Recovery”, and on meeritech.com; both re-read 2026-09-19 with no amount changed) Two plans, and the free one is a real plan rather than a demo. Basic is free to install and covers up to 300 push notifications a month, which the listing itself translates as roughly 100 recovered carts. It carries unlimited subscribers and segmentation, the abandoned-cart recovery campaign, scheduled promotional campaigns, AI-generated campaign content, intelligent delivery timing and basic email support, and it takes no commission on recovered revenue. Pro is $4.99 a month with a 7-day free trial and adds up to 3,000 push notification impressions, unlimited campaigns and automations and premium support. All charges are billed in USD, and recurring and usage-based charges are billed every 30 days. The plan text says Pro “upgrades as you grow” and that additional usage-based charges are billed every 30 days, without printing a rate anywhere on the listing. The vendor’s own site sells the same two tiers at the same prices, calling Basic free forever and Pro’s allowance 3,000 notification impressions a month, and it does not print a usage rate either. The app is English-only, works with Shopify Admin and sits in Shopify’s abandoned-cart category. Developer MEERI TECH L.L.C-FZ, Dubai; the app launched on 23 February 2024 and carried 9 App Store reviews in August 2026 and 11 on 19 September 2026.",
+   "price_note": "(read 2026-08-23 on apps.shopify.com/meeripush-push-notifications, listed as “Meeri Abandoned Cart Recovery”, and on meeritech.com; both re-read 2026-09-19 with no amount changed; the listing re-read 2026-11-04, same amounts, but the allowances now count email as well as push) Two plans, and the free one is a real plan rather than a demo. Basic is free to install and, on the listing as read on 4 November 2026, covers 100 emails and 300 push notifications, which the listing itself translates as roughly 100 recovered carts; in September the same card named push notifications only. It carries unlimited subscribers and segmentation, the abandoned-cart recovery campaign, scheduled promotional campaigns, AI-generated campaign content, intelligent delivery timing and basic email support, and it takes no commission on recovered revenue. Pro is $4.99 a month with a 7-day free trial and adds 3,000 email and push notification messages in one shared allowance (in September: 3,000 push notification impressions), unlimited campaigns and automations and premium support. All charges are billed in USD, and recurring and usage-based charges are billed every 30 days. The plan text says Pro “upgrades as you grow” and that additional usage-based charges are billed every 30 days, without printing a rate anywhere on the listing. The vendor’s own site sells the same two tiers at the same prices, calling Basic free forever and Pro’s allowance 3,000 notification impressions a month, and it does not print a usage rate either. The app is English-only, works with Shopify Admin and sits in Shopify’s abandoned-cart category. Developer MEERI TECH L.L.C-FZ, Dubai; the app launched on 23 February 2024 and carried 9 App Store reviews in August 2026 and 11 on 19 September 2026.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4160,7 +4160,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/meeripush-push-notifications",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     },
     {
      "flag": "free_tier",
@@ -4168,11 +4168,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/meeripush-push-notifications",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-04",
    "first_observed_at": "2026-08-23"
   },
   {
@@ -4994,6 +4994,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": "2026-09-19"
+  },
+  {
+   "name": "Pixasocial",
+   "category": "Marketing",
+   "domain": "pixasocial.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/pixasocial-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "€29.99",
+   "entry_price_terms": "Start · billed monthly, prices shown in EUR for Germany with tax added…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-04 on app.pixasocial.com/pricing; prices shown in euros for Germany, tax added at checkout) Pixasocial sells one suite in four sizes. Start costs €29.99 a month, with an opening price of €21.08 a month for the first 3 months, or €299.90 a year on annual billing (€24.99 a month); it includes the audience models, the studio for images, posters and decks, AI image and voice, short hook videos, captions, AI chat and 300 posts a month across 14 networks. Workspace costs €69.99 a month (opening price €52.17 for 3 months) or €699.90 a year, with 4 times the usage and 500 posts a month. Studio costs €99.90 a month with 10 times the usage and 1,000 posts, and Scale €199.90 a month with 25 times the usage and unlimited posts under fair use. A one-off Starter Week of $4.99 for 7 days lets you try the full app without a renewal. Add-ons are billed separately: Reel Factory, which cuts long videos into shorts, from €29.99 a month, and bot plans from $149 a month. The same page also shows \"From $49/mo\" in its comparison table, and the prices had changed since our earlier read in October, so check the page before you buy.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons are billed separately: Reel Factory, which cuts long videos into shorts, from €29.99 a month, and bot plans from $149 a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://app.pixasocial.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Start costs €29.99 a month, with an opening price of €21.08 a month for the first 3 months, or €299.90 a year on annual billing (€24.99 a month); it includes the audience models, the studio for images, posters and decks, AI image and voice, short hook videos, captions, AI chat and 300 posts a month across 14 networks.",
+     "evidence_excerpt": "Start costs €29.99 a month, with an opening price of €21.08 a month for the first 3 months, or €299.90 a year on annual billing (€24.99 a month); it includes the audience models, the studio for image…",
+     "source_url": "https://app.pixasocial.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-04"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-04",
+   "first_observed_at": "2026-11-04"
   },
   {
    "name": "Pixel Union",
@@ -7025,20 +7057,20 @@
    "entry_price": "$49",
    "entry_price_terms": "Discovery · per month, billed yearly",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-19 on surferseo.com/pricing from the Netherlands; earlier reads 2026-08-25 from the Netherlands and 2026-08-26 over a US connection) Billed yearly: Discovery $49/mo, Standard $99/mo, Pro $182/mo and Peace of Mind $299/mo, with Enterprise at $999/mo and AI Search Analytics sold on its own from $82/mo. Monthly billing is on the same cards behind the toggle and is no longer something you have to work out: $59, $119, $219, $359 and $95, with the annual commitment saving between $120 and $720 a year, up to 17 percent by their own FAQ.\n\nAI Search Analytics is a ladder rather than a single price, which is the part that catches people out. Its card carries a prompt dropdown and each step is a complete monthly price: 50 prompts at $82 a month on the annual commitment or $95 monthly, 100 prompts at $158 or $185, 200 prompts at $308 or $365. The tier the card opens on changed on 8 September 2026 from 100 prompts to 50, so a quote of $158 from August and a quote of $82 from today are both correct readings of the same unchanged ladder — they are different rungs. Check which rung your checkout page is on before you compare it with anything.\n\nWorth knowing if you are outside the US: we read this page from both sides and the numbers do not convert. A European is quoted €49 to €299 where an American is quoted $49 to $299, which at today's rate makes the same subscription materially more expensive in Europe.",
+   "price_note": "(re-read 2026-11-04 from the Netherlands: surferseo.com/pricing now redirects to surfer.ai/pricing; earlier reads 2026-08-25 and 2026-09-19 from the Netherlands and 2026-08-26 over a US connection) Billed yearly, as quoted to a European visitor: Discovery €49/mo, Standard €99/mo, Pro €182/mo and Peace of Mind €299/mo, with AI Search Analytics sold on its own from €82/mo. The cards state the annual saving themselves: €120, €240, €444 and €720 a year on the four plans and €156 on AI Search Analytics. Enterprise no longer carries a price: since this read its card says Custom, tailored packages, with a Talk to Surfer Expert button, where it showed $999/mo in September.\n\nAI Search Analytics is capped by prompts, which is the part that catches people out. The card opens on 50 prompts refreshed daily; the plans include their own prompt allowance (25 refreshed weekly on Standard, 50 daily on Pro, 100 daily on Peace of Mind, none on Discovery). In September the card carried a prompt dropdown with 100- and 200-prompt rungs at higher prices; we did not re-confirm those rungs on this read, so check which rung your checkout page is on before you compare it with anything.\n\nWorth knowing if you are outside the US: in August we read this page from both sides and the numbers did not convert. A European was quoted €49 to €299 where an American was quoted $49 to $299, which makes the same subscription materially more expensive in Europe.",
    "flags": [
     {
      "flag": "annual_lock",
-     "evidence": "Monthly billing is on the same cards behind the toggle and is no longer something you have to work out: $59, $119, $219, $359 and $95, with the annual commitment saving between $120 and $720 a year, up to 17 percent by their own FAQ.",
-     "evidence_excerpt": "Monthly billing is on the same cards behind the toggle and is no longer something you have to work out: $59, $119, $219, $359 and $95, with the annual commitment saving between $120 and $720 a year, …",
+     "evidence": "Every tier quotes its monthly rate on annual billing, so the number you see is a year's commitment rather than a monthly one.",
+     "evidence_excerpt": null,
      "source_url": "https://surferseo.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-04",
+   "first_observed_at": "2026-11-04"
   },
   {
    "name": "SurFox AI",
@@ -7928,7 +7960,7 @@
    "entry_price": "$6.99",
    "entry_price_terms": "Basic Plan · per month for up to 50 store locations, or $67.10 a year",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-19) Four tiers, and above the first one the ladder is a location counter rather than a feature list. Free carries one store location, the floating Google Maps locator, appearance customisation and online support, with the app's own branding shown on your storefront. Basic is $6.99 a month or $67.10 a year and removes that branding, raising the limit to 50 locations and adding the map widget as an app block, a pop-up modal for multiple locations, full customisation with custom CSS, and bulk import and export. Advanced at $14.99 a month or $143.90 a year and Pro at $29.99 or $287.90 list exactly the same eight features as Basic; what they add is headroom, 500 locations and 2,000. Annual billing saves a stated 20% on every paid tier and each carries a 7-day free trial. No Google Maps API key is required on any plan. Charges are in USD and recur every 30 days. One line in the feature bullets sits against all of that: it advertises unlimited store locations, which no plan card offers. Developer Effective Apps, Ashdod, Israel; the app launched 24 April 2020, carries Shopify's Built for Shopify badge, names eleven interface languages and works with Google Maps, Apple Maps, Mapbox and Shopify's B2B solution. The review record read 134 at 4.7 on 19 September 2026, up one from 16 September: 118 five-star, 11 four-star, none at three, 3 at two and 2 at one.",
+   "price_note": "(re-verified 2026-11-04) Four tiers, and above the first one the ladder is a location counter rather than a feature list. Free carries one store location, the floating Google Maps locator, appearance customisation and online support, with the app's own branding shown on your storefront. Basic is $6.99 a month or $67.10 a year and removes that branding, raising the limit to 50 locations and adding the map widget as an app block, a pop-up modal for multiple locations, full customisation with custom CSS, and bulk import and export. Advanced at $14.99 a month or $143.90 a year and Pro at $29.99 or $287.90 list exactly the same eight features as Basic; what they add is headroom, 500 locations and 2,000. Annual billing saves a stated 20% on every paid tier and each carries a 7-day free trial. No Google Maps API key is required on any plan. Charges are in USD and recur every 30 days. One line in the feature bullets sits against all of that: it advertises unlimited store locations, which no plan card offers. Developer Effective Apps, Ashdod, Israel; the app launched 24 April 2020, carries Shopify's Built for Shopify badge, names eleven interface languages and works with Google Maps, Apple Maps, Mapbox and Shopify's B2B solution. The review record read 134 at 4.7 on 19 September 2026, up one from 16 September: 118 five-star, 11 four-star, none at three, 3 at two and 2 at one.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7936,7 +7968,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/sticky-navigate-to-store",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     },
     {
      "flag": "annual_lock",
@@ -7944,12 +7976,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/sticky-navigate-to-store",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-04"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-04",
+   "first_observed_at": "2026-11-04"
   },
   {
    "name": "WebinarGeek",

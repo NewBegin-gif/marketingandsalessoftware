@@ -509,7 +509,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Kiwi Sizing
 - Review: https://marketingandsalessoftware.com/kiwi-sizing-review.html
 - Verdict: Kiwi Sizing: Free publishes up to three size charts with 22 templates and unlimited CSV import. Three charts is generous for a small catalogue.
-- Price: (read 5 September 2026 and re-read 19 September 2026 on apps.shopify.com/kiwi-sizing, no amount changed) Four tiers, and the interesting line is not the price but the sentence under it. Free publishes up to three size charts with 22 templates and unlimited CSV import, and puts a Kiwi watermark on your storefront.
+- Price: (read 5 September 2026 and re-read 19 September and 4 November 2026 on apps.shopify.com/kiwi-sizing, no amount changed) Four tiers, and the interesting line is not the price but the sentence under it. Free publishes up to three size charts with 22 templates and unlimited CSV import, and puts a Kiwi watermark on your storefront.
 
 ## Koala Bundles
 - Review: https://marketingandsalessoftware.com/koala-bundles-review.html
@@ -613,8 +613,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Meeri
 - Review: https://marketingandsalessoftware.com/meeri-review.html
-- Verdict: Meeri: Basic is free to install and covers up to 300 push notifications a month. The listing that same morning shows 4.7 from 11 reviews.
-- Price: (read 2026-08-23 on apps.shopify.com/meeripush-push-notifications, listed as “Meeri Abandoned Cart Recovery”, and on meeritech.com; both re-read 2026-09-19 with no amount changed) Two plans, and the free one is a real plan rather than a demo. Basic is free to install and covers up to 300 push notifications a month, which the listing itself translates as roughly 100 recovered carts.
+- Verdict: Meeri: Developer MEERI TECH L.L.C-FZ, Dubai. Start with the numbers on the vendor’s own homepage, because they do not match the App Store.
+- Price: (read 2026-08-23 on apps.shopify.com/meeripush-push-notifications, listed as “Meeri Abandoned Cart Recovery”, and on meeritech.com; both re-read 2026-09-19 with no amount changed; the listing re-read 2026-11-04, same amounts, but the allowances now count email as well as push) Two plans, and the free one is a real plan rather than a demo. Basic is free to install and, on the listing as read on 4 November 2026,…
 
 ## Moosend
 - Review: https://marketingandsalessoftware.com/moosend-review.html
