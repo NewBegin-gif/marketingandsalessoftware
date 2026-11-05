@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 195 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-05.
+> All 197 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-05.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -251,6 +251,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Crazy Egg: A Free plan, no card required, covers web analytics, instant heatmaps, conversion analytics and surveys.
 - Price: (read 2026-10-10 on crazyegg.com/pricing, in a browser and by plain fetch, both showing the same ladder) Four plans, all billed annually, each with a 30-day free trial and, in the vendor's words, no overages, ever. Starter is $29 a month: 5,000 tracked pageviews, 5 heatmap reports and 50 recordings a month, with 6 months of recordings storage.
 
+## DataHawk
+- Review: https://marketingandsalessoftware.com/datahawk-review.html
+- Verdict: DataHawk: The terms describe monthly and annual subscriptions, a free version and a 14-day free trial.
+- Price: (read 2026-11-05 on datahawk.co/pricing) DataHawk does not publish a price. The pricing page says "Custom pricing available with annual plans tailored to your business", with a Start for Free button, and the documentation (read by Codex on 15 October 2026) splits the price into a platform base plus Account Analytics and Digital Shelf Analytics.
+
 ## Diginius
 - Review: https://marketingandsalessoftware.com/diginius-review.html
 - Verdict: Diginius: Essential $75 USD a month, Pro $250, Core $500 and marked Most Popular, Business by contact with sales.
@@ -305,6 +310,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/editengine-review.html
 - Verdict: EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. Undo covers supported in-app edits only.
 - Price: (read 2026-10-26 on the EditEngine listing in the Shopify App Store; the listing says all charges are billed in USD, every 30 days) EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. What changes is how many products and collections one task may touch.
+
+## Elite Site Optimizer
+- Review: https://marketingandsalessoftware.com/elite-site-optimizer-review.html
+- Verdict: Elite Site Optimizer: Basic costs $49 a month ($470 a year) for 1 domain, 1 user, 1 campaign, 100 keywords, 1,000 crawl pages and 3 competitors.
+- Price: (monthly prices read 2026-11-05 on elitesiteoptimizer.com/pricing; annual totals read 15 October 2026) Elite Site Optimizer sells monthly or annual plans with limits on domains, users, campaigns and keywords. Basic costs $49 a month ($470 a year) for 1 domain, 1 user, 1 campaign, 100 keywords, 1,000 crawl pages and 3 competitors.
 
 ## EliteCart
 - Review: https://marketingandsalessoftware.com/elitecart-review.html
