@@ -1269,6 +1269,16 @@ One more limit worth reading before you install: the listing names English as th
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/optizen-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/sB1_CWcBqkg/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Optizen Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>AI video is the reason to install this, and it is the one thing the subscription does not cover. Starter&#x27;s $9.99 buys two generated clips a month and Pro&#x27;s $29.99 buys five; after that you pay $2 or $1.50 per clip. A store with fifty products that wants a video on each is buying credits, not a plan, and should price it that way before signing up. The free tier is a demo rather than a usable floor — one campaign, five conversions, no AI at all. And there is almost no merchant track record to read: the app launched on 30 October 2025 and, read 5 October 2026, carries exactly one App Store review, a five-star note from 11 November 2025 by a store that had used it for two days, so nearly a year in, you would in effect be the test.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/sB1_CWcBqkg</video:player_loc>
+    <video:publication_date>2026-09-24T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/pagepulse-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/hD0L3geUMyY/hqdefault.jpg</video:thumbnail_loc>
@@ -1285,6 +1295,16 @@ One more limit worth reading before you install: the listing names English as th
       <video:title>PartnerStack Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The reporting counts clicks and calls them customers. A record in the Partner API&#x27;s customers endpoint is a tracked click, not a signup: on 29 July 2026 a single bare curl against one tracking link at 07:09:01 UTC produced a customer record at 07:09:02, with no browser, no account and has_paid false. Read that endpoint&#x27;s length as signups and you will report volume that never existed. The second half of the problem is that there is no referring-URL field anywhere in the partnership data, so you can see that a link was clicked and never learn which of your pages earned it — which is exactly the thing you need to decide what to write next.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/IJlXfkQv4O0</video:player_loc>
+    <video:publication_date>2026-09-23T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/pecan-ai-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TscyLsj9VqY/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Pecan AI Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The pricing page argues instead of quoting. Where the amount would be, it sets out what a data-science team would cost you — $600,000 and up for three or four specialists, and a claim that salaries are 60 to 80% of the lifecycle cost of building this yourself. That may well be true, but it is a comparison to hiring rather than a price, and it means you cannot put Pecan next to anything else until you have been through a sales call. The second thing to catch is the meter. Starter&#x27;s two prediction batches a month is a fortnightly cadence; any team that wants a weekly refresh is on Team from the first day, whatever its size, and that is a tier decision made by scheduling rather than by headcount.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/TscyLsj9VqY</video:player_loc>
     <video:publication_date>2026-09-23T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
@@ -1632,6 +1652,15 @@ Finally, the data access. When we read it in August 2026 the listing stated the 
       <video:description>If you are on Shopify Plus, the price block on the listing is not the one you pay from — the three published tiers exclude Plus stores in their own text, and the tier that covers you is $24.99 in a help-centre article. Beyond that, this vendor moves prices without announcing it. On 24 August 2026 another Effective Apps title, TnC, carried a ladder we had verified the day before; twenty-four hours later every tier had gone up with no change to the feature lists. It happened here too: between 13 October and 2 November 2026 every tier on this listing was repriced downwards while the developer&#x27;s own price article kept the old figures. Treat any price for this developer that is older than the day you read it as a guess, this one included. The review base is broad and middling: 4.7 over 254 reviews on 12 September 2026, 227 of them five-star but seven at one star, on an app listed since 17 August 2020. The app reads customer device and activity data and can view and edit products, orders and the Online Store. And be honest about what it sells. Gift wrap lifts average order value at the margin, so the app has to clear $4.99 to $24.99 a month in extra gift revenue before it pays for itself — and the revenue reporting that would tell you whether it does is promised for Pro in the help article but no longer named on the listing card.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/3ubzu9wWGtA</video:player_loc>
     <video:publication_date>2026-09-30T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/superlines-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xptIPHU0D1Y/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Superlines Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Starter has no data exports and only 1 month of history, and every self-service plan limits you to 3 answer engines. Fees are non-refundable outside a warranty breach, and a paid plan renews automatically unless you give 30 days&#x27; written notice. Enterprise prices are not published.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/xptIPHU0D1Y</video:player_loc>
     </video:video>
   </url>
   <url>
