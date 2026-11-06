@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 197 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-05.
+> All 200 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-06.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -661,6 +661,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Omneky: Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat. Credit costs per format are published.
 - Price: (read 2026-10-24 on the pricing section of omneky.com, USD, monthly and yearly prices) Lite is $29 a month billed monthly or $24 a month billed yearly, with 200 credits a month, 1 brand and 1 seat; it includes image ads in 12 ratios, short cinematic videos, the Agent and Automations, and Insights with Drilldown View. Standard is $99 a month or $79 a month billed yearly, with 1,000 credits, 3 brands and 3 seats,…
 
+## Omniseo
+- Review: https://marketingandsalessoftware.com/omniseo-review.html
+- Verdict: Omniseo: Annual billing is $890 and $3,490 a year respectively. AI search visibility (GEO) is a young, fast-moving category.
+- Price: (re-verified 2026-08-17, 2026-09-28 and again on 2026-10-20 against the vendor's own pricing page) Essentials $89/mo (4 AI channels, 50 prompts, 5 seats), Professional $349/mo (10 AI channels, 100 prompts), Enterprise from $899/mo with custom terms and volume. Annual billing is $890 and $3,490 a year respectively, which the page describes as two months free.
+
 ## Oneflow
 - Review: https://marketingandsalessoftware.com/oneflow-review.html
 - Verdict: Oneflow: Business is €50 per user per month, billed annually, for teams starting at five users. The entry is €250 a month on annual billing.
@@ -715,6 +720,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/pixasocial-review.html
 - Verdict: Pixasocial sells one suite in four sizes. The pricing is in flux: the plans, names and amounts had changed between our reads in October and November 2026.
 - Price: (read 2026-11-04 on app.pixasocial.com/pricing; prices shown in euros for Germany, tax added at checkout) Pixasocial sells one suite in four sizes. Start costs €29.99 a month, with an opening price of €21.08 a month for the first 3 months, or €299.90 a year on annual billing (€24.99 a month); it includes the audience models, the studio for images, posters and decks, AI image and voice, short hook videos,…
+
+## Pixel Union
+- Review: https://marketingandsalessoftware.com/pixel-union-review.html
+- Verdict: Pixel Union: Every theme is a one-time purchase in USD, Startup $100, Editions $120, Grid $280, Atlantic $300, Empire $360 and Tailor $360.
+- Price: Read on 7 September 2026, re-read on 12 September 2026 and again, unchanged, on 27 September 2026. The theme pages on pixelunion.net print the price in plain text beside the 'Try theme for free' button, and the store's own product feed and the JSON-LD offer on those same pages carry the same figures, so all three agree: every theme is a one-time purchase in USD, Startup $100, Editions $120, Grid $280, Atlantic…
 
 ## Ploy
 - Review: https://marketingandsalessoftware.com/ploy-review.html
@@ -905,6 +915,11 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html
 - Verdict: Tapita SEO Optimizer: Premium $49.99 a month or $509.88 a year, also 15% ($509.88 against $599.88). The price on the listing is a Shopify-Basic price.
 - Price: (read 2026-10-09 and re-read 2026-10-12 on apps.shopify.com/google-seo-schema-meta-data, English listing) Three tiers. Free: SEO audit and LLMs.txt on basic pages, unlimited on-page SEO audit, essential JSON-LD schemas, image compression 900 a month capped at 30 a day, bulk and AI metadata optimisation, bulk image alt text and file names for 50 products, instant page speed and 24/7 support chat for common SEO issues.
+
+## Tapstitch
+- Review: https://marketingandsalessoftware.com/tapstitch-review.html
+- Verdict: Tapstitch: No subscription, no monthly fee and no minimum order quantity. Printify is cheaper, higher-margin and has a far bigger catalogue.
+- Price: (re-verified 2026-10-12 on tapstitch.com/collections/all; the site publishes no /pricing page — that URL returns 404) No subscription, no monthly fee and no minimum order quantity — you pay per item, production plus shipping, so there is no plan price to compare. The all-products page lists 1,244 items, 48 to a page across 26 pages; in US dollars their 'from' prices run from $2.99 to $38.99, median $14.99, at…
 
 ## Teachable
 - Review: https://marketingandsalessoftware.com/teachable-review.html
