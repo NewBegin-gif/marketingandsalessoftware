@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 296,
-  "flags": 451,
+  "tools": 297,
+  "flags": 452,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -6358,6 +6358,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-20",
    "first_observed_at": "2026-10-20"
+  },
+  {
+   "name": "SendHQ",
+   "category": "Developer Tools",
+   "domain": "sendhq.cc",
+   "review_url": "https://aibuildermarketplace.com/b2b/sendhq-review/",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Starter Transactional · Starter Transactional billed monthly, 50,000 emails a month…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-06 on sendhq.cc/pricing) SendHQ sells an email API in two plans, each for transactional or for marketing email. Starter costs $9 a month for transactional email or $19 a month for marketing email and includes 50,000 emails a month and 25 verified domains. Scale costs $39 a month for either type and includes 200,000 emails a month and 100 verified domains, plus priority support. Annual billing is 10% off twelve monthly payments: $97.20 a year for Starter Transactional, $205.20 for Starter Marketing and $421.20 for Scale. Every To, Cc and Bcc address counts as one email, and there are no automatic overage charges: once the monthly allowance is used, further sends are rejected until the next month or until you move to a larger plan. There is no free plan; new workspaces get a trial of 100 deliveries to your own account email or a test address. Plans are billed in USD, and stablecoins (USDC) are accepted on every plan.",
+   "flags": [
+    {
+     "flag": "annual_lock",
+     "evidence": "Annual billing is 10% off twelve monthly payments: $97.20 a year for Starter Transactional, $205.20 for Starter Marketing and $421.20 for Scale.",
+     "evidence_excerpt": null,
+     "source_url": "https://sendhq.cc/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-06",
+   "first_observed_at": "2026-11-06"
   },
   {
    "name": "SEO Space",
