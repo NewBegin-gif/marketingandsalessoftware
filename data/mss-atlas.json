@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 294,
-  "flags": 450,
+  "tools": 296,
+  "flags": 451,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -5555,6 +5555,30 @@
    "first_observed_at": "2026-10-16"
   },
   {
+   "name": "RankBolt",
+   "category": "SEO & Marketing",
+   "domain": "rankbolt.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/rankbolt-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-06 on rankbolt.ai) RankBolt prices in Swiss francs and sells three monthly plans, each with a 3-day free trial that, per the page, needs no credit card. Starter costs 69 CHF a month for 1 connected site, 10 published SEO articles, 25 tracked keywords checked weekly and 20 AI prompts tracked daily across 4 engines. Pro costs 149 CHF a month for 3 sites, 30 articles, 50 keywords checked daily and 75 AI prompts. Agency costs 299 CHF a month for 10 sites, 60 articles, 100 keywords and 175 AI prompts. Add-ons: an extra site costs 19 CHF a month, 25 more daily AI prompts 45 CHF a month and 10 more articles 15 CHF a month. A Yearly toggle on the page says -17%, but we did not read the yearly amounts. Every plan includes publishing to WordPress, Webflow, Shopify and Wix, a site audit and an MCP server and API. The page says there are no per-seat fees; it does not say whether Swiss VAT is included. Custom volume pricing is available for more than ten sites.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons: an extra site costs 19 CHF a month, 25 more daily AI prompts 45 CHF a month and 10 more articles 15 CHF a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://rankbolt.ai/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-06"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-06",
+   "first_observed_at": "2026-11-06"
+  },
+  {
    "name": "Rapid Search",
    "category": "E-commerce",
    "domain": "rapidsearch.app",
@@ -6683,6 +6707,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-22",
    "first_observed_at": "2026-09-22"
+  },
+  {
+   "name": "SocialDesk",
+   "category": "Marketing",
+   "domain": "socialdesk.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/socialdesk-review/",
+   "from_price_usd_mo": 19.0,
+   "entry_price": "$19",
+   "entry_price_terms": "Starter · Starter billed monthly, shown with a dollar sign…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-06 on socialdesk.ai) SocialDesk sells four monthly plans and every one starts with a 7-day free trial that, per the page, needs no credit card. Starter costs $19 a month for 5 social accounts, 1 workspace, 1 user, unlimited scheduled posts, 10 AI images a month, AI auto-replies for comments and DMs, a unified inbox and MCP access. Team costs $39 a month and adds 20 social accounts, unlimited team members and workspaces, 20 AI images, a post approval workflow, API access and priority support. Pro costs $59 a month for 50 accounts and 50 AI images, and Max costs $99 a month for 100 accounts, 100 AI images and VIP priority support. A Yearly toggle on the page says \"2 months free\", but we did not read the resulting yearly amounts. The page shows dollar signs without naming a currency and does not mention tax. Custom limits, invoicing and onboarding are available through contact@socialdesk.ai.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-06",
+   "first_observed_at": "2026-11-06"
   },
   {
    "name": "SoftSync",
