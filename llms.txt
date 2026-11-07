@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 205 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-11-07.
+> Independent, hands-researched reviews of marketing, sales, e-commerce and growth software. 206 full reviews live here as the canonical version; prices are read on the vendor's page and dated. Last updated 2026-11-07.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -22,7 +22,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Build a Repeatable Content Workflow](https://marketingandsalessoftware.com/build-content-engine.html): Build a repeatable research, creation, distribution and newsletter workflow with reviewed tools, documented limits and dated evidence.
 - [Build a Shopify Store Workflow (2026)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): Plan a Shopify store workflow by task: theme, fulfilment, campaign pages, reviews and post-purchase offers, with documented fit and costs.
 
-## Reviews (205) — canonical versions
+## Reviews (206) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [ActiveCampaign Review (2026): From $15/mo, Checked Oct 2026](https://marketingandsalessoftware.com/activecampaign-review.html): ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
@@ -114,6 +114,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Grapevine Review (2026): From $25/mo, Checked Oct 2026](https://marketingandsalessoftware.com/grapevine-review.html): Grapevine: One plan, called Complete, at $25 a month, billed in USD every 30 days, with a 14-day free trial and no free tier.
 - [Gushwork Review (2026): From $900/mo, Checked Oct 2026](https://marketingandsalessoftware.com/gushwork-review.html): Gushwork: The page states “Pricing starts at $900 /month”, billed monthly, cancel anytime. One published number, and it is the floor.
 - [Hello Bar Review (2026): Billed on Views, Not Signups](https://marketingandsalessoftware.com/hello-bar-review.html): Hello Bar: Growth is $39 a month billed monthly or $29 billed annually, up to 50,000 views a month. The meter is views, not results.
+- [HighLevel Review (2026): Agency CRM & Automation From $97/mo](https://marketingandsalessoftware.com/highlevel-review.html): HighLevel: Starter costs $97 a month ($970 a year) and is meant for one business or a few clients. The headline plan price is only part of the bill.
 - [HubSpot Review (2026): Free Tier, Then $20 a Seat](https://marketingandsalessoftware.com/hubspot-review.html): HubSpot: Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Three numbers on this pricing page are not what they look like
 - [Iconosquare Review (2026): From €9/mo, Checked Oct 2026](https://marketingandsalessoftware.com/iconosquare-review.html): Iconosquare: Launch is €33 billed yearly (€39 monthly) for 5 profiles, 1 user and 100 posts. Its depth is strongest on Instagram and the core networks
 - [InboxAlly Review (2026): Starter Is $149 a Month](https://marketingandsalessoftware.com/inboxally-review.html): InboxAlly: Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly'. Built for serious senders
