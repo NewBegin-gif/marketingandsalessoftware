@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 202 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-06.
+> All 204 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-07.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -741,10 +741,20 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Positive User: Campaigns is €69 a month billed annually with 1 seat. Every plan stops at 60,000 emails a year, about 5,000 a month.
 - Price: (read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a library of ready-made workflows, unlimited…
 
+## Post Purchase Upsell Hero
+- Review: https://marketingandsalessoftware.com/post-purchase-upsell-hero-review.html
+- Verdict: Post Purchase Upsell Hero: One plan, Performance, free to install, at $0 a month plus usage charges. The 2.5% comes off revenue, not margin.
+- Price: (re-verified 2026-09-19 on apps.shopify.com/post-purchase-upsell-hero and the vendor's own site; amounts unchanged since 31 August, USD) One plan, Performance, free to install, at $0 a month plus usage charges. The usage table, read from the listing's own pricing-estimator data, has two tiers: 2.5% on the first $20,000 of upsell revenue in a month, and $0 from $20,001 up.
+
 ## PostOnce
 - Review: https://marketingandsalessoftware.com/postonce-review.html
 - Verdict: PostOnce: Solo is €15 a month, or €144 a year billed once. The only way to look before paying is a demo with sample data, not your own accounts.
 - Price: (read 2026-10-12 in a live browser on postonce.app and postonce.app/pricing, monthly and yearly views, and in the terms at postonce.app/terms) Two plans, priced in euros including VAT, with approximate dollar figures shown beside them, and no charge per connected network. Solo is €15 a month, or €144 a year billed once, which works out at €12 a month: 10 social accounts, 2 team members, unlimited scheduled posts,…
+
+## Postscript
+- Review: https://marketingandsalessoftware.com/postscript-review.html
+- Verdict: Postscript: Starter is shown as $0 a month with a $49 monthly minimum spend, at $0.015 then $0.009 per SMS and $0.045 per MMS, plus carrier fees.
+- Price: (Re-verified 19 September 2026 on their own pricing page; every figure below is unchanged from the 30 August reading.) Starter is shown as $0 a month with a $49 monthly minimum spend, at $0.015 then $0.009 per SMS and $0.045 per MMS, plus carrier fees. Growth is $100 a month at $0.01 then $0.008 per SMS and $0.03 per MMS.
 
 ## PrintSage
 - Review: https://marketingandsalessoftware.com/printsage-review.html
