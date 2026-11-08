@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 297,
-  "flags": 452,
+  "tools": 300,
+  "flags": 457,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1239,28 +1239,28 @@
    "entry_price": "$79",
    "entry_price_terms": "per seat a month (500 credits/mo, billed monthly)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-05; Teams amounts, credits and setup fees unchanged on 2026-09-30) Teams: Core is $79 per seat a month with 500 credits a month, AI Employee $695 per seat a month with 5,000 credits; both are billed monthly and show a $0 setup fee, footnoted 'waived on prepaid annual'. Enterprise is custom: 25,000 credits a month, five seats included and a $2,500 setup fee. An 'Annual, 25% off' toggle sits above the cards, but the page kept showing the monthly figures when we switched it, so treat the annual price as unpublished until sales confirms it. A White-label tab adds Core White Label at $1,000 a month with 20 seats included, billed annually, and AI Employee White Label at $250 per seat a month billed annually with a five-seat minimum (advertised as 64% off, 'save $445 a seat'), 25,000 credits a month and a $2,500 setup fee on both. The Core card's button says 'Start for free', but the page names no free plan, no free allowance and no end date (re-read 3 October 2026), so treat it as a way to sign up, not as a free tier. History: in August 2026 the page said Core $125 (launch offer $75 for three months) and AI Employee $795 with a warning it would move to $1,000; on 2 September we read $79 and $695 and wrote that the credits were no longer stated and that one plan carried the $2,500 fee — on 5 September the credits are stated per plan and the $2,500 fee sits on Enterprise and the white-label plans, not on Core or AI Employee. On 30 September 2026 the white-label page was still titled around Core White Label at $1,000 a month; the AI Employee white-label rate renders client-side and was not re-read that day, so the $250 figure stands on the 5 September reading.",
+   "price_note": "(price re-verified 2026-11-07 on buzz.ai/pricing and buzz.ai/whitelabels/; USD) Teams: Core is $79 per seat a month with 500 credits a month, billed monthly, with a $0 setup fee footnoted 'waived on prepaid annual'. AI Employee no longer shows a price: the card says 'Custom' with a 'Talk to sales' button, and the comparison table lists 5,000 credits a month, a two-seat minimum, custom billing and the same $0 setup fee 'waived on prepaid annual'. Enterprise is custom too: 25,000 credits a month, five seats included and a $2,500 setup fee. An 'Annual, 25% off' toggle sits above the cards; on 30 September the page kept showing the monthly figures when we switched it, so treat the annual price as unpublished until sales confirms it. The white-label page lists Core White Label at $1,000 a month with 20 seats, billed annually; the AI Employee white-label rate of $250 per seat that we read on 5 September was not on the page on 7 November. The Core card's button says 'Start for free', but the page names no free plan, no free allowance and no end date, so treat it as a way to sign up, not as a free tier. History: in August 2026 the page said Core $125 (launch offer $75 for three months) and AI Employee $795 with a warning it would move to $1,000; from 1 September to at least 30 September it read Core $79 and AI Employee $695 a seat; on 7 November AI Employee was priced on request, which Buzz.ai's Tristan Lefler had also told us by mail the day before.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(price re-verified 2026-09-05; Teams amounts, credits and setup fees unchanged on 2026-09-30) Teams: Core is $79 per seat a month with 500 credits a month, AI Employee $695 per seat a month with 5,000 credits; both are billed monthly and show a $0 setup fee, footnoted 'waived on prepaid annual'.",
-     "evidence_excerpt": "(price re-verified 2026-09-05; Teams amounts, credits and setup fees unchanged on 2026-09-30) Teams: Core is $79 per seat a month with 500 credits a month, AI Employee $695 per seat a month with 5,00…",
+     "evidence": "(price re-verified 2026-11-07 on buzz.ai/pricing and buzz.ai/whitelabels/; USD) Teams: Core is $79 per seat a month with 500 credits a month, billed monthly, with a $0 setup fee footnoted 'waived on prepaid annual'.",
+     "evidence_excerpt": "(price re-verified 2026-11-07 on buzz.ai/pricing and buzz.ai/whitelabels/; USD) Teams: Core is $79 per seat a month with 500 credits a month, billed monthly, with a $0 setup fee footnoted 'waived on …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-07"
     },
     {
      "flag": "usage_metered",
-     "evidence": "(price re-verified 2026-09-05; Teams amounts, credits and setup fees unchanged on 2026-09-30) Teams: Core is $79 per seat a month with 500 credits a month, AI Employee $695 per seat a month with 5,000 credits; both are billed monthly and show a $0 setup fee, footnoted 'waived on prepaid annual'.",
-     "evidence_excerpt": "(price re-verified 2026-09-05; Teams amounts, credits and setup fees unchanged on 2026-09-30) Teams: Core is $79 per seat a month with 500 credits a month, AI Employee $695 per seat a month with 5,00…",
+     "evidence": "(price re-verified 2026-11-07 on buzz.ai/pricing and buzz.ai/whitelabels/; USD) Teams: Core is $79 per seat a month with 500 credits a month, billed monthly, with a $0 setup fee footnoted 'waived on prepaid annual'.",
+     "evidence_excerpt": "(price re-verified 2026-11-07 on buzz.ai/pricing and buzz.ai/whitelabels/; USD) Teams: Core is $79 per seat a month with 500 credits a month, billed monthly, with a $0 setup fee footnoted 'waived on …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-07"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
-   "first_observed_at": "2026-09-05"
+   "price_verified_at": "2026-11-07",
+   "first_observed_at": "2026-11-07"
   },
   {
    "name": "CallRail",
@@ -1275,7 +1275,7 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The headline price is a floor, not a ceiling — the included minutes, numbers and SMS are modest, so an active campaign quickly hits metered overages that meaningfully lift the bill.",
+     "evidence": "The headline price is a floor, not a ceiling: the included minutes, numbers and SMS are modest, so an active campaign quickly hits metered overages that meaningfully lift the bill.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -1555,8 +1555,8 @@
     },
     {
      "flag": "annual_lock",
-     "evidence": "Everything Claap actually markets itself on — CRM auto-complete, AI coaching, deal insights, asking Claap AI a question across all your meetings — starts at Business, €48 per license a month on annual billing, and Business has no self-serve button: it says Book a demo.",
-     "evidence_excerpt": "Everything Claap actually markets itself on — CRM auto-complete, AI coaching, deal insights, asking Claap AI a question across all your meetings — starts at Business, €48 per license a month on annua…",
+     "evidence": "Everything Claap actually markets itself on: CRM auto-complete, AI coaching, deal insights, asking Claap AI a question across all your meetings: starts at Business, €48 per license a month on annual billing, and Business has no self-serve button: it says Book a demo.",
+     "evidence_excerpt": "Everything Claap actually markets itself on: CRM auto-complete, AI coaching, deal insights, asking Claap AI a question across all your meetings: starts at Business, €48 per license a month on annual …",
      "source_url": "https://www.claap.io/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-17"
@@ -2200,8 +2200,8 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "A revenue meter reads as generous at the bottom — $500 of bundle sales a month free is a real trial, not a crippled one — but it means every tier upgrade is triggered by the app working, and the published ladder stops at $10,000 a month with no stated overage.",
-     "evidence_excerpt": "A revenue meter reads as generous at the bottom — $500 of bundle sales a month free is a real trial, not a crippled one — but it means every tier upgrade is triggered by the app working, and the publ…",
+     "evidence": "A revenue meter reads as generous at the bottom ($500 of bundle sales a month free is a real trial, not a crippled one) but it means every tier upgrade is triggered by the app working, and the published ladder stops at $10,000 a month with no stated overage.",
+     "evidence_excerpt": "A revenue meter reads as generous at the bottom ($500 of bundle sales a month free is a real trial, not a crippled one) but it means every tier upgrade is triggered by the app working, and the publis…",
      "source_url": "https://apps.shopify.com/bundle-builder",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-11-03"
@@ -2614,7 +2614,7 @@
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "There is no free tier and no cheap entry — Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
+     "evidence": "There is no free tier and no cheap entry: Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -2622,7 +2622,7 @@
     },
     {
      "flag": "annual_lock",
-     "evidence": "There is no free tier and no cheap entry — Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
+     "evidence": "There is no free tier and no cheap entry: Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -2901,8 +2901,8 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button — it speeds up briefs, it doesn't replace the writing or the backlinks.",
-     "evidence_excerpt": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button — it speeds up briefs, it doesn't replace the writing…",
+     "evidence": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button: it speeds up briefs, it doesn't replace the writing or the backlinks.",
+     "evidence_excerpt": "The article quotas pinch if you publish at volume (overage docs bill each), and it's a research-and-optimization tool, not a magic ranking button: it speeds up briefs, it doesn't replace the writing …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-21"
@@ -2972,8 +2972,8 @@
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee — and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscription.",
-     "evidence_excerpt": "The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee — and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscript…",
+     "evidence": "The free plan is usable, so the honest question is only whether Gelato+ earns its fee, and that depends entirely on volume: below ~10 orders a month the discounts won't cover the subscription.",
+     "evidence_excerpt": null,
      "source_url": "https://www.gelato.com/subscription-plans",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-23"
@@ -3113,7 +3113,7 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike eats the allowance regardless of how many emails you actually captured, and at the limit the campaigns pause until the next billing cycle — a busy site outgrows the entry tier fast.",
+     "evidence": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike eats the allowance regardless of how many emails you actually captured, and at the limit the campaigns pause until the next billing cycle: a busy site outgrows the entry tier fast.",
      "evidence_excerpt": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike eats the allowance regardless of how many emails you actually captured, and at the limit …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -3131,6 +3131,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-24",
    "first_observed_at": "2026-09-24"
+  },
+  {
+   "name": "HighLevel",
+   "category": "Sales & CRM",
+   "domain": "gohighlevel.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/highlevel-review/",
+   "from_price_usd_mo": 97.0,
+   "entry_price": "$97",
+   "entry_price_terms": "Starter · Starter billed monthly, for one business or a few clients",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-07 on gohighlevel.com/pricing) HighLevel sells its agency CRM and marketing-automation platform in three published plans plus a custom Enterprise plan. Starter costs $97 a month ($970 a year) and is meant for one business or a few clients; the FAQ says it includes 3 sub-accounts. Unlimited costs $297 a month, for agencies managing unlimited clients, and adds a white-label desktop app, basic API access and pass-through billing for usage and add-ons. Founder costs $497 a month and adds SaaS mode with unlimited reselling, project management, meeting rooms and events. Every plan starts with a 14-day free trial and billing begins automatically at the end of the trial unless you cancel. The page shows annual prices next to the monthly ones, but the annual amounts on the Unlimited and Founder cards do not match their monthly plans in the page text we read, so we do not quote them. Usage-based charges apply to conversation AI, voice AI, reviews AI, email and SMS marketing and calling, and optional add-ons are billed on top, for example the AI Employee plans at $50 or $97 a month per sub-account, the branded client portal app at $49 a month per sub-account and HIPAA compliance at $297 a month. The FAQ says billing is month to month with no long-term contract.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "The headline plan price is only part of the bill: calls, SMS, email and AI features are usage-based and the add-ons are charged per sub-account.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.gohighlevel.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-07"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Unlimited costs $297 a month, for agencies managing unlimited clients, and adds a white-label desktop app, basic API access and pass-through billing for usage and add-ons.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.gohighlevel.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-07",
+   "first_observed_at": "2026-11-07"
   },
   {
    "name": "HubSpot",
@@ -3161,7 +3193,7 @@
     },
     {
      "flag": "renewal_jump",
-     "evidence": "So $7 is an introductory rate and $20 is what the seat costs afterwards — a 186% step for a system that by then holds your contact database, which is the single most painful kind of software to leave.",
+     "evidence": "So $7 is an introductory rate and $20 is what the seat costs afterwards: a 186% step for a system that by then holds your contact database, which is the single most painful kind of software to leave.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -3177,7 +3209,7 @@
     },
     {
      "flag": "free_tier",
-     "evidence": "The free tier is genuinely usable — two users, 1,000 contacts, no expiry — and that is exactly how the ladder is designed to work.",
+     "evidence": "The free tier is usable (two users, 1,000 contacts, no expiry) and that is exactly how the ladder is designed to work.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -4343,6 +4375,38 @@
    "first_observed_at": "2026-09-16"
   },
   {
+   "name": "Mystrika",
+   "category": "Sales & CRM",
+   "domain": "mystrika.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/mystrika-review/",
+   "from_price_usd_mo": 30.0,
+   "entry_price": "$30",
+   "entry_price_terms": "Growth · Growth billed monthly, 2,500 prospect slots, unlimited senders…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-07 on mystrika.com) Mystrika is a cold-email platform that sells by prospect slots rather than by sender count. Free Forever costs $0, needs no card and gives 500 prospect slots, up to 50 senders, unlimited warmup, A/B testing and a daily deliverability status. Growth costs $30 a month, or $16 a month billed annually, and gives 2,500 prospect slots with unlimited senders and warmup, a unified inbox (Unibox), seven warmup languages and six warmup types. Dominate costs $85 a month, or $70 a month billed annually, and gives 30,000 prospect slots plus workspaces and teams, MCP, API and webhooks, Provider Match, subsequences, AI personalization and sentiment, and an AI sequence creator and rewriter. Rampage costs $300 a month, or $210 a month billed annually, and gives 100,000 prospect slots plus whitelabel, extensive analytics, macros and templates, and priority support. The page says annual billing is 35% off. The pages states that Mystrika does not limit the number of emails sent per month. Prices are in dollars as shown.",
+   "flags": [
+    {
+     "flag": "annual_lock",
+     "evidence": "The page says annual billing is 35% off.",
+     "evidence_excerpt": null,
+     "source_url": "https://mystrika.com/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-07"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free Forever costs $0, needs no card and gives 500 prospect slots, up to 50 senders, unlimited warmup, A/B testing and a daily deliverability status.",
+     "evidence_excerpt": null,
+     "source_url": "https://mystrika.com/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-07"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-07",
+   "first_observed_at": "2026-11-07"
+  },
+  {
    "name": "NameRobot",
    "category": "Design & Content",
    "domain": "namerobot.com",
@@ -4634,7 +4698,7 @@
     },
     {
      "flag": "annual_lock",
-     "evidence": "The entry is €250 a month on annual billing — €3,000 a year committed before you've sent your first contract — and the rest of the ladder lives in a sales conversation.",
+     "evidence": "The entry is €250 a month on annual billing (€3,000 a year committed before you've sent your first contract) and the rest of the ladder lives in a sales conversation.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -4666,7 +4730,7 @@
     },
     {
      "flag": "free_tier",
-     "evidence": "The free tier is a demo rather than a usable floor — one campaign, five conversions, no AI at all.",
+     "evidence": "The free tier is a demo rather than a usable floor: one campaign, five conversions, no AI at all.",
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/optizen-video-upsell",
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5447,8 +5511,8 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits — and consumption-based pricing gets harder to predict as your sends climb.",
-     "evidence_excerpt": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits — and consumption-based pricing gets hard…",
+     "evidence": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits, and consumption-based pricing gets harder to predict as your sends climb.",
+     "evidence_excerpt": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits, and consumption-based pricing gets harde…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-04"
@@ -5527,7 +5591,7 @@
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",
+     "evidence": "The free version is so generous that many sites never need to upgrade: PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5543,7 +5607,7 @@
     },
     {
      "flag": "free_tier",
-     "evidence": "The free version is so generous that many sites never need to upgrade — PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",
+     "evidence": "The free version is so generous that many sites never need to upgrade: PRO mainly earns its keep once you want built-in rank tracking, Content AI credits or to manage many sites.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5767,7 +5831,7 @@
     },
     {
      "flag": "annual_lock",
-     "evidence": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp — $99 month to month.",
+     "evidence": "The $89 is the Multichannel track on annual billing, and it does include LinkedIn, calls, SMS and WhatsApp: $99 month to month.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -7595,6 +7659,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-21",
    "first_observed_at": "2026-09-27"
+  },
+  {
+   "name": "Tradelle",
+   "category": "E-commerce",
+   "domain": "tradelle.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/tradelle-review/",
+   "from_price_usd_mo": 29.99,
+   "entry_price": "$29.99",
+   "entry_price_terms": "Lite · Lite billed monthly, 1 connected store, 25 product imports…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-08 on tradelle.io/pricing, US dollars) Tradelle sells dropshipping product research and order fulfillment in three subscription tiers plus a one-time Lifetime Max. Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year; Starter is $49.99 a month, or $32.50 a month billed as $390 a year; Pro is $79.99 a month, or $54.99 a month billed as $659.88 a year. Lifetime Max is $1,299 once. The tiers differ by quota: Lite has 1 connected store, 25 product imports and 100 orders shipped by Tradelle a month; Starter 3 stores, 250 imports and 500 orders; Pro is unlimited on all of those. Every plan starts with a 7-day trial for $1 after which the selected plan begins; the terms say the $1 is non-refundable. The page also shows a 14-day money-back guarantee. The subscription is not the whole cost: fulfilled orders are charged separately for product cost and shipping, once a day, and Tradelle's product prices exclude VAT. We did not open a checkout, so optional add-ons offered there are unknown.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "We did not open a checkout, so optional add-ons offered there are unknown.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.tradelle.io/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-08"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-08",
+   "first_observed_at": "2026-11-08"
   },
   {
    "name": "TrueReview",
