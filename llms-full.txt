@@ -171,7 +171,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Bookyourdata
 - Review: https://marketingandsalessoftware.com/bookyourdata-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Bookyourdata: From there it goes 10,000 for $999 ($0.10), 25,000 for $2,099 ($0.08). The model is honest — no subscription, credits keep, bad data refunded.
+- Verdict: Bookyourdata: Pay-as-you-go, no subscription. The model is honest (no subscription, credits keep, bad data refunded) so the real scrutiny belongs on usage.
 - Price: (re-verified 2026-08-13 and again unchanged on 2026-09-28 and 2026-10-06, read on their own pricing page) Pay-as-you-go, no subscription: one credit is one full contact. The published pack table runs 250 credits for $99 ($0.40 each), 500 for $159, 1,000 for $299 ($0.30), 2,500 for $599 and 5,000 for $799 ($0.16).
 
 ## Bot It AI
@@ -183,7 +183,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Bouncer
 - Review: https://marketingandsalessoftware.com/bouncer-review.html
 - Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The new account had 100 free credits, with no card.
-- Verdict: Bouncer: Volume brings the rate down to $35 per 5,000, $60 per 10,000 and $250 per 50,000. Not charging for unknowns and duplicates is genuinely fair.
+- Verdict: Bouncer: Volume brings the rate down to $35 per 5,000, $60 per 10,000 and $250 per 50,000. Not charging for unknowns and duplicates is fair: many rivals do.
 - Price: Email verification credits, pay-as-you-go and never expiring (re-verified 2026-10-13): $8 per 1,000 credits is the minimum purchase. Volume brings the rate down to $35 per 5,000, $60 per 10,000 and $250 per 50,000.
 
 ## Brand24
@@ -357,7 +357,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Easy Advanced Translations
 - Review: https://marketingandsalessoftware.com/easy-advanced-translations-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Easy Advanced Translations: Four tiers, all monthly and billed in USD. The 'free AI' is quota-limited — 50 products on Free, up to 3,000 on Pro.
+- Verdict: Easy Advanced Translations: Four tiers, all monthly and billed in USD. Auto-translation of new or changed content is reserved for the higher plans.
 - Price: (re-verified 2026-10-16 on apps.shopify.com/advanced-translation) Four tiers, all monthly and billed in USD. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language.
 
 ## Easy Bundles
@@ -423,7 +423,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Essential Loyalty
 - Review: https://marketingandsalessoftware.com/essential-loyalty-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Essential Loyalty: Free covers up to 250 of those and is unusually complete. The meter is honest — loyalty-influenced orders, not all orders.
+- Verdict: Essential Loyalty: Free covers up to 250 of those and is unusually complete. A store doing 3,000 orders a month with little repeat business may sit on Free.
 - Price: (re-read 2026-09-18 on apps.shopify.com/essential-loyalty-rewards-program) Four tiers, every amount unchanged since 22 August 2026, and the meter is still the whole decision: it counts loyalty-influenced orders — repeat sales and referrals — rather than every order your store takes, which the plan text states outright. Free covers up to 250 of those and is unusually complete: the point program, VIP tiers, a…
 
 ## Essential Trust Badges
@@ -519,7 +519,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Gelato
 - Review: https://marketingandsalessoftware.com/gelato-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Gelato+ is $29.99 a month, or $19.99 a month billed annually. The free plan is genuinely usable, so the honest question is only whether Gelato+ earns its fee.
+- Verdict: Gelato+ is $29.99 a month, or $19.99 a month billed annually. The free plan is usable, so the honest question is only whether Gelato+ earns its fee.
 - Price: (re-read 2026-09-23 on gelato.com/subscription-plans in a browser session, every figure unchanged since 26 August; the site serves a bot challenge that our capture cannot pass, so there is no dated screenshot beside this) Free is $0 forever with two connected stores and two account users. Gelato+ is $29.99 a month, or $19.99 a month billed annually, and lifts both of those to unlimited while adding…
 
 ## GeoStock
@@ -579,7 +579,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## InboxAlly
 - Review: https://marketingandsalessoftware.com/inboxally-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: InboxAlly: Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly'. Built for serious senders.
+- Verdict: InboxAlly: Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly'.
 - Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit, and unchanged on 2026-09-29 and 2026-10-14) Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly': Starter $149/mo (100 seed emails/day, 1 sender profile), Plus $645/mo (500/day, 5 profiles), Premium $1,190/mo (1,000/day, 10 profiles), Enterprise custom (custom…
 
 ## Influencer Hero
@@ -819,7 +819,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Oneflow
 - Review: https://marketingandsalessoftware.com/oneflow-review.html
 - Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: On the day of sign-up the app showed 'Trial ends in 14 days. After this, your access will be limited to the free version of Oneflow.' No card was asked.
-- Verdict: Oneflow: Business is €50 per user per month, billed annually, for teams starting at five users. The entry is €250 a month on annual billing.
+- Verdict: Oneflow: Business is €50 per user per month, billed annually, for teams starting at five users, so €250 a month is the floor.
 - Price: (price re-verified 2026-09-18 and again on 2026-10-05 against oneflow.com/pricing/; read from a Dutch connection, and the page sells in EUR, GBP, NOK, SEK and USD — these are the EUR figures) Business is €50 per user per month, billed annually, for teams starting at five users, so €250 a month is the floor. Oneflow now states that floor itself rather than leaving it to be multiplied out: the page says the…
 
 ## Optizen
@@ -1023,7 +1023,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Seller Investigators
 - Review: https://marketingandsalessoftware.com/seller-investigators-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Seller Investigators: One number, and it is the whole model. Contingency pricing is the honest kind — you pay only out of money that arrived.
+- Verdict: Seller Investigators: One number, and it is the whole model. Contingency pricing is the honest kind, you pay only out of money that arrived.
 - Price: (2026-08-15, read on their own site) One number, and it is the whole model: a 25% commission, charged only after Amazon has deposited recovered funds in your account. We found it stated twice.
 
 ## Seller Snap
