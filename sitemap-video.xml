@@ -1249,16 +1249,6 @@ One more limit worth reading before you install: the listing names English as th
     </video:video>
   </url>
   <url>
-    <loc>https://marketingandsalessoftware.com/nutshell-review.html</loc>
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/-X1JqF27DEg/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Nutshell Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Full API access is included on every plan, so integrations are not the cost trap here — the add-ons are. Marketing at $49/mo and Engagement at $16/user/mo sit on top of the seat price, and email and SMS are billed by contact count and message volume, so the marketing side can outgrow the CRM itself. SSO and SQL data access are Enterprise-only.</video:description>
-      <video:player_loc>https://www.youtube-nocookie.com/embed/-X1JqF27DEg</video:player_loc>
-    <video:publication_date>2026-07-24T00:00:00+00:00</video:publication_date>
-    </video:video>
-  </url>
-  <url>
     <loc>https://marketingandsalessoftware.com/omneky-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/PQK4rgUl0KU/hqdefault.jpg</video:thumbnail_loc>
@@ -1296,6 +1286,16 @@ One more limit worth reading before you install: the listing names English as th
       <video:description>AI video is the reason to install this, and it is the one thing the subscription does not cover. Starter&#x27;s $9.99 buys two generated clips a month and Pro&#x27;s $29.99 buys five; after that you pay $2 or $1.50 per clip. A store with fifty products that wants a video on each is buying credits, not a plan, and should price it that way before signing up. The free tier is a demo rather than a usable floor — one campaign, five conversions, no AI at all. And there is almost no merchant track record to read: the app launched on 30 October 2025 and, read 5 October 2026, carries exactly one App Store review, a five-star note from 11 November 2025 by a store that had used it for two days, so nearly a year in, you would in effect be the test.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/sB1_CWcBqkg</video:player_loc>
     <video:publication_date>2026-09-24T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/outgrow-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_s6RB8afX1Q/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Outgrow Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two meters at once: content types and pieces gate the lower tiers, and monthly LEAD limits gate the upside. Read the caps rather than the prices — Freelancer Limited allows 250 leads a month, Freelancer Pro 1,000, Essentials 7,500 and Business 50,000 — because per lead, Essentials and Business cost almost the same and the real jump in value is from Pro to Essentials. Also note what money does not fix: Outgrow&#x27;s branding stays on every plan below Essentials, comes off there only under the small-business programme, and a custom domain is Business-only at $600 a month. Interactive content genuinely converts better than static forms, but only when the calculator or quiz gives real value; a thin quiz wrapped around a lead form fools nobody.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/_s6RB8afX1Q</video:player_loc>
+    <video:publication_date>2026-07-12T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>
