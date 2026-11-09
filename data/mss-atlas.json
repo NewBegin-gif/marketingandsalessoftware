@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 301,
+  "tools": 302,
   "flags": 457,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -78,6 +78,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-13",
    "first_observed_at": "2026-08-15"
+  },
+  {
+   "name": "Adwave",
+   "category": "Growth & Revenue",
+   "domain": "waverunner.adwave.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/adwave-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-09 on waverunner.adwave.com/pricing, the wallet and billing help page) Adwave has no subscription for businesses: you fund a prepaid wallet and live campaigns charge their daily budget from it. A top-up can be any amount from $30 to $50,000, with presets of $100, $250 and $1,000. Card top-ups add the card processing fee on top, so the wallet receives the full amount you chose; bank (ACH) top-ups carry no added fee. Auto-refill is optional, with a default and minimum refill of $100. The page says the daily budget is the whole media bill, there are no hidden fees, and tracking, reporting and API access are free. Your first campaign comes with free starter ads; later ad generation and Ad Library extras use published unit prices that you see before you accept. Agencies pay a licence, and the page does not state its price.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-09",
+   "first_observed_at": "2026-11-09"
   },
   {
    "name": "Adwisely",
@@ -7831,9 +7846,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/upsell-com-review/",
    "from_price_usd_mo": 9.99,
    "entry_price": "$9.99",
-   "entry_price_terms": "Growth · per month from the 51st order or $51 of upsell revenue…",
+   "entry_price_terms": "Growth · per month for 51-100 monthly store orders or upsell revenue…",
    "pricing_status": "public",
-   "price_note": "(prices re-verified 2026-09-19 on upsell.com/pricing and on the Shopify listing apps.shopify.com/reconvert-upsell-cross-sell; both now show the same ladder, which replaces the $4.99/$9.99/$19.99 tiers we recorded on 2 September) Billed in USD. Every tier carries the same feature set — the vendor's own comparison says so in as many words, \"Every feature is included on every plan. Tiers differ by order volume and support\" — so you are buying volume and support, not features. Free: up to 50 monthly store orders or $50 of upsell revenue, whichever is hit first. Growth $9.99 a month: from 51 orders or $51 of upsell revenue, up to 2,000. Scale $199 a month, or $149 a month billed annually, up to 10,000. Elite $499 a month, or $399 a month billed annually, up to 20,000. Enterprise is quote-only above 20,000 and adds one invoice across multiple stores. The annual saving is 25% on both paid tiers; the Shopify listing renders it as \"$149/year and save 94%\", which is its own arithmetic and not what the vendor's page says. Two contradictions on upsell.com/pricing itself: the Scale card says \"Billed monthly\" while the comparison table one screen below says Scale is billed \"Annual only\", and the Growth card is labelled FREE above a volume list that runs to 2,000 orders, while the listing prices anything from the 51st order at $9.99. A 14-day free trial is offered on each paid tier. Checkout upsells remain Shopify Plus only.",
+   "price_note": "(prices re-verified 2026-11-09 on upsell.com/pricing in the Shopify view and on the Shopify App Store listing apps.shopify.com/reconvert-upsell-cross-sell the same day; this replaces the $199 Scale and $499 Elite rungs we recorded on 19 September) Billed in USD. The vendor's comparison still says \"Every feature is included on every plan. Tiers differ by order volume and support\", so you are buying volume and support, not features. Free covers up to 50 monthly store orders or upsell revenue, whichever is higher. Growth is priced by volume band up to 2,000. The Shopify listing prints the first three paid bands: $9.99 a month for 51-100, $19.99 for 101-200 and $39.99 for 201-500. The 1,000 and 2,000 bands sit behind a slider on upsell.com whose amounts are not in the served page, so we do not state them. Scale is $299 a month billed monthly, or $249 a month on the annual toggle, up to 10,000. Elite is $899 a month, or $749 on annual, up to 20,000. Enterprise is quote-only above 20,000 and adds one invoice across multiple stores. The page labels the annual toggle \"Save 25% with Annual\", but $249 against $299 and $749 against $899 both work out at about 17% off (our arithmetic). The page still disagrees with itself on billing: the Scale and Elite cards say \"Billed monthly\" while the comparison table lists both as \"Annual only\" and only Growth as \"Monthly or annual\". Both the pricing page and the listing offer a 14-day free trial. Checkout upsells remain for Shopify Plus stores only.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7841,20 +7856,20 @@
      "evidence_excerpt": null,
      "source_url": "https://upsell.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-09"
     },
     {
      "flag": "free_tier",
-     "evidence": "Free: up to 50 monthly store orders or $50 of upsell revenue, whichever is hit first.",
+     "evidence": "Free covers up to 50 monthly store orders or upsell revenue, whichever is higher.",
      "evidence_excerpt": null,
      "source_url": "https://upsell.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-09"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-09",
+   "first_observed_at": "2026-11-09"
   },
   {
    "name": "UpsellPlus",
