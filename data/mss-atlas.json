@@ -3,7 +3,7 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 300,
+  "tools": 301,
   "flags": 457,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -1623,15 +1623,15 @@
    "entry_price": "$30",
    "entry_price_terms": "Lite · per month for 37,500 credits",
    "pricing_status": "public",
-   "price_note": "(prices re-read 2026-10-19 on cloro.dev/pricing, unchanged since 2026-09-17 except that Grok has left the credit table) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat. Paid runs Lite $30 (37,500 credits, $0.80 per 1k, 10 concurrent jobs), Hobby $100 (250,000, $0.40, 20 jobs) and Starter $250 (650,000, $0.39, 50 jobs). Above that come Growth $500 (1,350,000, $0.37, 75 jobs) and Business $1,000 (2,800,000, $0.36, 100 jobs). Four self-serve Enterprise steps follow: $2,000 for 5,871,025 credits at $0.34, $3,000 for 9,306,606 at $0.32, $4,000 for 12,756,261 at $0.31 and $5,000 for 16,391,783 at $0.31, where concurrency reaches 255. Seats are unlimited from Lite up. What a request costs varies by engine. ChatGPT full response is 7 credits, ChatGPT web search 5, Copilot 5, and AI Overview including the SERP 5. Perplexity, AI Mode and Gemini are 4, and Google Search and Google News 3 plus 2 per extra page. A synchronous call adds 2 credits on top of all of those. Perplexity stood at 3 credits when we read the same table on 17 August 2026. Grok, listed at 4 credits and marked temporarily unavailable on 17 September, is no longer in the table as read on 19 October 2026. Credits do not roll over: unused credits expire at the end of the billing cycle, and at zero the API returns 403 until you upgrade or the cycle resets.",
+   "price_note": "(prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat. Paid runs Lite $30 (37,500 credits, $0.80 per 1k, 10 concurrent jobs), Hobby $100 (250,000, $0.40, 20 jobs) and Starter $250 (650,000, $0.39, 50 jobs). Above that come Growth $500 (1,350,000, $0.37, 75 jobs) and Business $1,000 (2,800,000, $0.36, 100 jobs). Four self-serve Enterprise steps follow: $2,000 for 5,871,025 credits at $0.34, $3,000 for 9,306,606 at $0.32, $4,000 for 12,756,261 at $0.31 and $5,000 for 16,391,783 at $0.31, where concurrency reaches 255. Seats are unlimited from Lite up. What a request costs varies by engine. ChatGPT full response is 7 credits, ChatGPT web search 5, and AI Overview including the SERP 5. AI Mode, Bing AI Mode and Gemini are 4, and Google Search and Google News 3 plus 2 per extra page. The page states that “sync requests add a +2 credit surcharge” on top of all of those. Engines come and go: Perplexity (3 credits on 17 August 2026, 4 from September) and Copilot (5) are no longer in the table as read on 9 November 2026, after cloro wrote to customers on 7 November that it would discontinue the Copilot endpoint and that Bing AI Mode costs 4 credits. Grok left the table by 19 October 2026. Credits do not roll over: unused credits expire at the end of the billing cycle, and at zero the API returns 403 until you upgrade or the cycle resets.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(prices re-read 2026-10-19 on cloro.dev/pricing, unchanged since 2026-09-17 except that Grok has left the credit table) Credit-metered, and the credit table matters more than the plan price.",
-     "evidence_excerpt": null,
+     "evidence": "(prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the credit table matters more than the plan price.",
+     "evidence_excerpt": "(prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the cre…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-19"
+     "verified_at": "2026-11-09"
     },
     {
      "flag": "free_tier",
@@ -1639,12 +1639,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-19"
+     "verified_at": "2026-11-09"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-19",
-   "first_observed_at": "2026-10-19"
+   "price_verified_at": "2026-11-09",
+   "first_observed_at": "2026-11-09"
   },
   {
    "name": "Close",
@@ -3296,6 +3296,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-14",
    "first_observed_at": "2026-08-31"
+  },
+  {
+   "name": "IndieMade",
+   "category": "E-commerce",
+   "domain": "indiemade.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/indiemade-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-09 on indiemade.com/plans-pricing) IndieMade lists two plans, Essential and Plus, and every plan starts with a 30-day free trial that needs no credit card. The pricing page now says the live plan lineup is shown at signup, so we cannot quote a current monthly price; an earlier reading on 16 October 2026 showed Essential at $15 a month and Plus at $25 a month, with lower rates billed annually, but that is not on the page today. The page says IndieMade adds no listing fee and no transaction fee on any plan, and that you take payments through your own Stripe, Square or PayPal account, whose processing fees are separate. Hosting is included and every plan supports a custom domain. Unlimited products are included on every plan. The terms state prices in US dollars.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-09",
+   "first_observed_at": "2026-11-09"
   },
   {
    "name": "Influencer Hero",
