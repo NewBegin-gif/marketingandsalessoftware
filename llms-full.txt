@@ -560,7 +560,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Hello Bar
 - Review: https://marketingandsalessoftware.com/hello-bar-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Onboarding took three steps. The first asks for your website address, marked required, and says it will help you install Hello Bar. The second can be skipped. The third asks where new leads should go, with…
 - Verdict: Hello Bar: Growth is $39 a month billed monthly or $29 billed annually, up to 50,000 views a month. The meter is views, not results.
 - Price: (re-verified 2026-09-24 against hellobar.com/pricing; amounts unchanged since 3 Sep 2026) Hello Bar publishes exact prices, so the ranges we carried before were wrong: they were the monthly and the annual rate side by side. Paid tiers meter monthly popup VIEWS.
 
@@ -1160,7 +1160,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Tapform
 - Review: https://marketingandsalessoftware.com/tapform-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: The plan page opens in the monthly view: Free at $0.00 with 5 leads a month and Unlimited at $4.99 a month. That matches our read of 18 October. The Free button did not respond, so we used Skip. No card…
 - Verdict: Tapform — Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage. The yearly price on the pricing page does not add up.
 - Price: (read 2026-10-18 in a browser on tapform.com/pricing in the monthly and yearly view; the page shows $ without naming a currency) Two plans. Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage, 15+ templates, the embed code and email lead notifications.
 
