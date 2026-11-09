@@ -262,7 +262,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/cloro-review.html
 - Hands-on: tested by us on 2026-08-19
 - Verdict: Cloro: Free is $0 for 500 credits a month, one concurrent job and one seat. The free tier is a sampler, not a trial of the real thing.
-- Price: (prices re-read 2026-10-19 on cloro.dev/pricing, unchanged since 2026-09-17 except that Grok has left the credit table) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat.
+- Price: (prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat.
 
 ## Close
 - Review: https://marketingandsalessoftware.com/close-review.html
