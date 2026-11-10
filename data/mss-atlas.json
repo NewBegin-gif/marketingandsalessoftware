@@ -6350,7 +6350,7 @@
    "entry_price": "$149",
    "entry_price_terms": "Essence · per month for two user seats, one connected ad platform and a year…",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-19 on apps.shopify.com/selixer; unchanged since 10 September 2026) Three tiers, no free plan, each with a 14-day free trial. Essence $149 a month: two user seats, one connected ad platform, a year of historical data, the ad dashboard with campaigns and trends, stockout, overstock and dead-stock views, an inventory health score, 500 AI credits with top-ups from $25, and a site speed analyzer. Catalyst $299 a month adds four seats, two ad platforms and no date cap on history, the full True Profit waterfall, POAS, CAC and product-level ad revenue, per-product P&L and an SKU action matrix, a WhatsApp inbox with AI agent and campaigns, 50,000 emails a month with branded invoices, and 2,000 AI credits. Aether $399 a month adds eight seats, three ad platforms, all nine profit-leak detectors, multi-touch attribution and ad cohorts, demand forecasting and return on inventory, RFM scoring and retention cohorts, automations with 200,000 emails a month, and 3,000 AI credits. The listing publishes no annual rate, so all three are monthly. Charges are billed in USD, and the listing files recurring and usage-based charges together on the same 30-day cycle — the AI credits are the usage part, with top-ups starting at $25. Developer Akaame Export Private Limited; the app launched 19 May 2026 and carries a single App Store review. Two details on the same page as the plans: the entry card is labelled Essance while the Catalyst card's feature list calls the same tier Essence, and the App Store record still shows a single five-star review, from a merchant who had used the app for 15 days.",
+   "price_note": "(re-verified 2026-11-10 on apps.shopify.com/selixer; amounts unchanged since 10 September 2026) Three tiers, no free plan, each with a 14-day free trial. Essence $149 a month: two user seats, one connected ad platform, a year of historical data, the ad dashboard with campaigns and trends, stockout, overstock and dead-stock views, an inventory health score, 500 AI credits with top-ups from $25, and a site speed analyzer. Catalyst $299 a month adds four seats, two ad platforms and no date cap on history, the full True Profit waterfall, POAS, CAC and product-level ad revenue, per-product P&L and an SKU action matrix, a WhatsApp inbox with AI agent and campaigns, 50,000 emails a month with branded invoices, and 2,000 AI credits. Aether $399 a month adds eight seats, three ad platforms, all 10 profit-leak detectors (nine on the 19 September reading), multi-touch attribution and ad cohorts, demand forecasting and return on inventory, RFM scoring and retention cohorts, automations with 200,000 emails a month, and 3,000 AI credits. The listing publishes no annual rate, so all three are monthly. Charges are billed in USD, and the listing files recurring and usage-based charges together on the same 30-day cycle — the AI credits are the usage part, with top-ups starting at $25. Developer Akaame Export Private Limited; the app launched 19 May 2026 and carries a single App Store review. Two details on the same page as the plans: the entry card is labelled Essance while the Catalyst card's feature list calls the same tier Essence, and the App Store record still shows a single five-star review, from a merchant who had used the app for 15 days.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6358,12 +6358,12 @@
      "evidence_excerpt": "Essence $149 a month: two user seats, one connected ad platform, a year of historical data, the ad dashboard with campaigns and trends, stockout, overstock and dead-stock views, an inventory health s…",
      "source_url": "https://apps.shopify.com/selixer",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-10"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-10",
+   "first_observed_at": "2026-11-10"
   },
   {
    "name": "Selleasy",
