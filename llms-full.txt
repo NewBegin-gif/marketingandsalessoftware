@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 215 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-10.
+> All 216 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-10.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -881,6 +881,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Pickeasy: $215.99 for Smart, $323.99 for Premium and $647.99 for Custom. The rate features depend on something Pickeasy does not sell.
 - Price: (read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/order-delivery-date-time and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as total store orders, with date and…
+
+## PinBee
+- Review: https://marketingandsalessoftware.com/pinbee-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: PinBee has a free plan with no time limit and no account. It works on desktop browsers only, and the free plan scans four pages per search.
+- Price: (read 2026-11-10 on pinbee.net) PinBee has a free plan with no time limit and no account, and PinBee Pro on three plans: $9 a month, $49 a year (the page says that is $4.08 a month) or $99 once for a lifetime licence. The yearly plan starts with a 3-day free trial and the page says you are not charged if you cancel before it ends; monthly and lifetime have no trial.
 
 ## Pingtree
 - Review: https://marketingandsalessoftware.com/pingtree-review.html
