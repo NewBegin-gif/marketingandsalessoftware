@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 302,
-  "flags": 457,
+  "tools": 304,
+  "flags": 458,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4070,6 +4070,21 @@
    "first_observed_at": "2026-09-05"
   },
   {
+   "name": "LocalTry",
+   "category": "Sales & CRM",
+   "domain": "localtry.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/localtry-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-10 on localtry.com/pricing) LocalTry has three plans that all include the same 133 capabilities and differ by team size and workspace count: Core is $59 a month for 2 users and 1 workspace, Operator is $99 a month for 5 users and 15 workspaces, and Scale is $199 a month for 10 users and 50 workspaces. Each plan starts with a 3-day free trial, and the page says to add a card through Stripe and that your first charge comes after the trial unless you cancel. The page also shows a $999 setup, customization and data-transfer charge that was free for the next 7 days at the time we read it; that is a promotion and not part of the subscription price, so ask what it costs once the offer ends. The pricing page says there is no plan-based cap on AI actions, but provider usage limits apply. The terms say paid subscriptions renew for the selected period until cancelled and that incurred charges are normally non-refundable. Prices are in US dollars; we did not open checkout, so the tax added is not known.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-10",
+   "first_observed_at": "2026-11-10"
+  },
+  {
    "name": "Loyalino",
    "category": "E-commerce",
    "domain": "loyalino.io",
@@ -5056,6 +5071,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": null
+  },
+  {
+   "name": "PinBee",
+   "category": "Marketing",
+   "domain": "pinbee.net",
+   "review_url": "https://aibuildermarketplace.com/b2b/pinbee-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$9",
+   "entry_price_terms": "a month, $49 a year (3-day trial) or $99 once",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-10 on pinbee.net) PinBee has a free plan with no time limit and no account, and PinBee Pro on three plans: $9 a month, $49 a year (the page says that is $4.08 a month) or $99 once for a lifetime licence. The yearly plan starts with a 3-day free trial and the page says you are not charged if you cancel before it ends; monthly and lifetime have no trial. A 14-day money-back guarantee covers every plan. One licence key works on up to 3 browsers. Payment runs through Lemon Squeezy, which handles billing and sales tax, and the checkout store lists the range as $9.00 to $99.00. The FAQ on the same page still quotes older figures ($5 monthly, $29 yearly, $49 lifetime), which disagree with the plan cards, so we use the cards and the checkout; check the amount at checkout before you pay. Prices are in US dollars; we did not open checkout, so the tax added is not known.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-10 on pinbee.net) PinBee has a free plan with no time limit and no account, and PinBee Pro on three plans: $9 a month, $49 a year (the page says that is $4.08 a month) or $99 once for a lifetime licence.",
+     "evidence_excerpt": "(read 2026-11-10 on pinbee.net) PinBee has a free plan with no time limit and no account, and PinBee Pro on three plans: $9 a month, $49 a year (the page says that is $4.08 a month) or $99 once for a…",
+     "source_url": "https://pinbee.net/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-10"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-10",
+   "first_observed_at": "2026-11-10"
   },
   {
    "name": "Pingtree",
