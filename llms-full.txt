@@ -765,7 +765,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ManyChat
 - Review: https://marketingandsalessoftware.com/manychat-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: ManyChat — Free: $0, 25 active contacts, 2 channels, 1 user. Flows are button-and-script based, not natural language.
+- Verdict: ManyChat — Free: $0, 25 active contacts, 2 channels, 1 user. Natural-language handling sits behind that add-on, $29/month on top of Pro only.
 - Price: Read on their own pricing page, 6 September 2026, and again, unchanged, 25 September 2026. Free: $0, 25 active contacts, 2 channels, 1 user.
 
 ## MarketerHire
