@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 304,
-  "flags": 458,
+  "tools": 307,
+  "flags": 459,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -3487,6 +3487,30 @@
    "first_observed_at": null
   },
   {
+   "name": "Kedra AI Index",
+   "category": "SEO & Marketing",
+   "domain": "kedra.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/kedra-ai-index-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$10",
+   "entry_price_terms": "Starter · Starter is $10 a month or $100 a year",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-11 on the Shopify App Store listing, US dollars) Kedra has a Free plan and three paid plans. Free covers an AI visibility check on 5 AI engines, 3 AI fixes drafted and applied for you, llms.txt and agents.md files, and visits from ChatGPT and other AI assistants for the last 30 days. Starter costs $10 a month or $100 a year and adds a weekly visibility check, 15 AI fixes a month and 90 days of AI traffic and sales analytics. Grow costs $25 a month or $216 a year and adds daily tracking in 1 market, 12 buyer questions on ChatGPT and Gemini, 40 AI fixes a month with a fix autopilot, and 5 AI blog posts a month. Pro costs $79 a month or $708 a year and adds tracking in 3 markets, 30 buyer questions, unlimited AI fixes and 15 blog posts a month. The listing shows a 10-day free trial on Starter and Grow. Charges run through your Shopify bill, and we did not open the install screen, so any tax or currency conversion is not known. An earlier reading on 18 October 2026 also showed a Scale plan at $199 a month; it is not on the listing now.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-11 on the Shopify App Store listing, US dollars) Kedra has a Free plan and three paid plans.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/kedra-ai-index",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-11"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-11",
+   "first_observed_at": "2026-11-11"
+  },
+  {
    "name": "Kedra Checkout Rules & Upsells",
    "category": "E-commerce",
    "domain": "kedra.io",
@@ -4851,6 +4875,21 @@
    "first_observed_at": "2026-10-17"
   },
   {
+   "name": "P2COS",
+   "category": "Sales & CRM",
+   "domain": "p2cos.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/p2cos-review/",
+   "from_price_usd_mo": 19.99,
+   "entry_price": "$19.99",
+   "entry_price_terms": "Starter · Standard monthly prices",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-11 on p2cos.com/pricing, US dollars) P2COS sells three plans. Starter is $19.99 a month for solo operators, with 1 business setup. Pro is $39.99 a month with up to 2 business setups and the discovery, research and outreach workflows. Power is $69.99 a month with up to 3 business setups and the commercial workflow, documents and analytics. Annual standard prices are $199.99, $399.99 and $699.99. The page shows Early Access discounts of 70%, 35% and 25%, which bring the monthly prices to $6.00, $25.99 and $52.49 with a code applied at checkout; those are Early Access prices, so plan on the standard price later. A separate Founder Lifetime licence costs $399.99 once, is limited to the first 500 verified buyers and covers desktop software, updates and major upgrades; the page says charges from third-party services, email or model providers are not included, and it offers a 14-day full refund on Founder Lifetime only. Checkout runs through Lemon Squeezy. A free account is available, but the page says a valid licence is needed to use the software. We did not open checkout, so the tax added is not known.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-11",
+   "first_observed_at": "2026-11-11"
+  },
+  {
    "name": "PagePulse",
    "category": "Marketing",
    "domain": "getpagepulse.io",
@@ -5710,6 +5749,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-06",
    "first_observed_at": "2026-11-06"
+  },
+  {
+   "name": "RankSlide",
+   "category": "SEO & Marketing",
+   "domain": "rankslide.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/rankslide-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$48",
+   "entry_price_terms": "Starter yearly · Starter is $48 a year for 1 site",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-11 on rankslide.com/pricing, US dollars) RankSlide sells four plans and says every plan includes every feature; the plans differ by the number of sites. Starter covers 1 site and costs $48 a year, shown as $4 a month on yearly billing against $60 a year. Pro covers 5 sites for $106 a year, shown as $8.83 a month. Agency covers 25 sites for $278 a year, shown as $23.17 a month. Scale is for more than 25 sites and is priced per site: the page shows $331.20 a year for 30 sites, and the per-site price on monthly billing falls from $5.00 for one site to $1.15 at the largest tier. Yearly billing is 20% cheaper than monthly. Every plan starts with a 14-day free trial and the page says no card is needed. We did not open checkout, so the tax added is not known.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-11",
+   "first_observed_at": "2026-11-11"
   },
   {
    "name": "Rapid Search",
@@ -8126,20 +8180,20 @@
    "entry_price": "$1,500",
    "entry_price_terms": "a year (182 countries, 6,000 searches, 2 users)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-23 on volza.com/pricing; first read 2026-09-01) Three paid annual plans and a free trial. Startup is $1,500 a year: 182 countries (44 export and 50 import detailed databases, 160 export and 158 import mirror databases, 7 export and 7 import one-side databases, premium countries excluded), data from 2014 onward, 6,000 searches, full shipment view, 360,000 full-shipment download credits and 2 users. SME is $4,500 a year: 200 countries, adds the statistical databases (46 export, 48 import), unlimited searches under fair use, 1,040,000 download credits and 10 users. Corporate is $9,600 a year: the same 200-country coverage, unlimited searches under fair use, 2,400,000 download credits and 15 users. The free trial runs 7 days with no card, is advertised as \"$50 On sign up + Unlimited Volza credits\", shows the last three years in full view with a six-month preview, and carries no full-shipment download credits. The 2-Year Value Plan is paid for the two years at once and advertised as 15% saving plus 15% bonus credits: Startup $2,550 (13,800 searches, 828,000 download credits, 5 users), SME $7,650 (2,392,000 credits, 10 users), Corporate $16,320 (5,520,000 credits, 15 users). The comparison table also caps workspaces at 75, 300 and 600 (Startup, SME, Corporate), workspace deletions at 20, 75 and 100 a month, and shipments per workspace at 300,000, 500,000 and 750,000; the free trial allows 10 users. The page also states a refund promise: if you find no profitable opportunity, Volza will help you find one or refund in full.",
+   "price_note": "(price re-verified 2026-11-09 on volza.com/pricing in a browser, because the page returns HTTP 403 to plain fetches; earlier reads 2026-09-01 and 2026-09-23) Three paid plans, billed annually or as a 2-Year Value Plan, and a free trial; the page shows no monthly price. Startup is $1,500 a year: 182 countries (44 export and 50 import detailed databases, plus mirror and one-side databases; the 23 September reading listed 160 export and 158 import mirror and 7 and 7 one-side, premium countries excluded), data from 2014 onward, 6,000 searches, full shipment view, 360,000 full-shipment download credits and 2 users. SME is $4,500 a year: the card now says 200+ countries (it said 200 on 23 September), adds the statistical databases (46 export, 48 import), unlimited searches under fair use, 1,040,000 download credits and 10 users. Corporate is $9,600 a year: the same 200+ country coverage, unlimited searches under fair use, 2,400,000 download credits and 15 users. The free trial now runs 3 months with no credit card (it was 7 days on 23 September), is advertised as \"50$ On sign up + Unlimited Volza credits\", and shows the last three years in full view with the latest six months as a preview; on 23 September it carried no full-shipment download credits and allowed 10 users, rows we did not re-check on 9 November. The 2-Year Value Plan is paid for two years at once and advertised as 15% saving plus 15% bonus credits: Startup $2,550, SME $7,650, Corporate $16,320, which is exactly two annual terms less 15%. On 23 September the 2-year cards showed 13,800 searches, 828,000 download credits and 5 users for Startup, 2,392,000 credits for SME and 5,520,000 for Corporate. The comparison table caps workspaces at 75, 300 and 600 (Startup, SME, Corporate; 'as per credits' on the trial) and shipments per workspace at 300,000 on the trial and Startup, 500,000 on SME and 750,000 on Corporate; on 23 September it also capped workspace deletions at 20, 75 and 100 a month. The page also states a refund promise: if you find no profitable opportunity, Volza will help you find one or refund in full.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Startup is $1,500 a year: 182 countries (44 export and 50 import detailed databases, 160 export and 158 import mirror databases, 7 export and 7 import one-side databases, premium countries excluded), data from 2014 onward, 6,000 searches, full shipment view, 360,000 full-shipment download credits and 2 users.",
-     "evidence_excerpt": "Startup is $1,500 a year: 182 countries (44 export and 50 import detailed databases, 160 export and 158 import mirror databases, 7 export and 7 import one-side databases, premium countries excluded),…",
-     "source_url": "https://www.volza.com/pricing",
+     "evidence": "Startup is $1,500 a year: 182 countries (44 export and 50 import detailed databases, plus mirror and one-side databases; the 23 September reading listed 160 export and 158 import mirror and 7 and 7 one-side, premium countries excluded), data from 2014 onward, 6,000 searches, full shipment view, 360,000 full-shipment download credits and 2 users.",
+     "evidence_excerpt": "Startup is $1,500 a year: 182 countries (44 export and 50 import detailed databases, plus mirror and one-side databases; the 23 September reading listed 160 export and 158 import mirror and 7 and 7 o…",
+     "source_url": "https://www.volza.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-11-09"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-23",
-   "first_observed_at": "2026-09-23"
+   "price_verified_at": "2026-11-09",
+   "first_observed_at": "2026-11-09"
   },
   {
    "name": "VWO",
