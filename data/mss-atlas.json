@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 307,
-  "flags": 459,
+  "tools": 310,
+  "flags": 462,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -2410,6 +2410,30 @@
    "first_observed_at": "2026-09-18"
   },
   {
+   "name": "eReleases",
+   "category": "Marketing",
+   "domain": "ereleases.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/ereleases-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$399",
+   "entry_price_terms": "Buzz Builder · one-off, Per press release distributed: Buzz Builder…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-12 on ereleases.com/pricing, US dollars) eReleases sells press release distribution by the release, not by subscription. Buzz Builder costs $399 and covers 400 words and 1 industry target list. Newsmaker costs $499 and covers 500 words and 2 industry target lists, and the page marks it as the company's number one pick. PR Pro costs $699 and covers 600 words, 3 industry target lists and a direct email send to journalists, bloggers and influencers. All three include 2 images, editorial review and distribution through PR Newswire. Extras cost more: additional words are $150 per block of 100 words or part of a block, each additional industry list is $150, local saturation is $150, embedding images is $150, embedding a YouTube video is $200, and distribution to a single country is $150 or $1,000 for global. Having eReleases write the release costs $300 when added to a distribution package, with turnaround the page gives as under a week. The page says first-time customers save 30% and that bulk packages of 2 or more releases are available; we did not see the bulk prices. The page states no refund terms. We did not place an order, so we do not know the tax added.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons cost $150 or more each, the page shows no refund terms, and the claims about reach and results are the vendor's own and we did not verify them.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.ereleases.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-12"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-12",
+   "first_observed_at": "2026-11-12"
+  },
+  {
    "name": "Essent Preorder Back in Stock",
    "category": "E-commerce",
    "domain": "essential-apps.com",
@@ -4070,6 +4094,30 @@
    "first_observed_at": "2026-10-10"
   },
   {
+   "name": "LinkShortener.io",
+   "category": "Marketing",
+   "domain": "linkshortener.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/linkshortener-io-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$13",
+   "entry_price_terms": "Basic · Basic $13 a month or $130 a year",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-12 on linkshortener.io/pricing, US dollars) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes. Free costs $0 for 20 a month on the shared tli.sh domain and needs an account but no card. Basic costs $13 a month, or $130 a year, for 350 a month and 1 custom domain. Pro costs $34 a month, or $340 a year, for 2,000 a month and 3 custom domains. Elite costs $260 a month, or $2,600 a year, for 5,000 a month, 10 custom domains and a dedicated account manager. Enterprise has no listed price and covers unlimited volume, SSO and white-label options. The page says clicks and scans are never billed and no plan has overage fees: when you reach your monthly allowance, existing links keep working and new links wait until the allowance renews or you upgrade. Yearly billing is shown as two months free. We did not open the sign-up flow, so the tax added is not known.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-12 on linkshortener.io/pricing, US dollars) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.linkshortener.io/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-12"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-12",
+   "first_observed_at": "2026-11-12"
+  },
+  {
    "name": "Livestorm",
    "category": "Growth & Revenue",
    "domain": "livestorm.com",
@@ -4373,7 +4421,7 @@
    "entry_price": "$19",
    "entry_price_terms": "Starter · per month for 100 AI images",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-17 and again on 2026-10-04 on apps.shopify.com/modelize, listed as “Modelize: AI Product Photos”) Free plan available, then Starter $19, Pro $49 and Enterprise $99 a month — the three paid rates are unchanged since 19 August 2026. The free tier was raised from 3 to 10 AI images, still one-time rather than per month, with built-in presets and models at standard 2K. Starter covers 100 images a month with 3 AI custom presets and 3 custom models, standard 2K and email support. Pro at $49 covers 250 images, 10 custom presets and 10 custom models, resolution up to 4K and priority support. Enterprise at $99 includes 500 images with $0.20 per additional image, unlimited custom presets and models, maximum 4K and dedicated support. The annual option is gone: on modelize.studio/pricing, read the same day and again on 4 October 2026, all three paid tiers are labelled “Billed month to month” and the page carries no yearly rate and no two-months-free wording anywhere, where in August it sold Free, Starter and Pro annually. All charges are billed in USD and recur every 30 days. Rating 4.9 from 26 App Store reviews on 4 October 2026 (25 at five stars, one at three), against 25 reviews on 17 September and 5.0 from 13 reviews on 19 August. Developer Optify, 16 Rue Cuvier, Lyon, France; the app launched 20 April 2026 and carries Shopify’s “Built for Shopify” badge.",
+   "price_note": "(re-read 2026-09-17, 2026-10-04 and 2026-11-12 on apps.shopify.com/modelize; listed in October as “Modelize: AI Product Photos” and on 12 November as “Modelize: AI Image Generator”) Free plan available, then Starter $19, Pro $49 and Enterprise $99 a month — the three paid rates are unchanged since 19 August 2026. The free tier was raised from 3 to 10 AI images, still one-time rather than per month, with built-in presets and models at standard 2K. Starter covers 100 images a month with 3 AI custom presets and 3 custom models, standard 2K and email support. Pro at $49 covers 250 images, 10 custom presets and 10 custom models, resolution up to 4K and priority support. Enterprise at $99 includes 500 images with $0.20 per additional image, unlimited custom presets and models, maximum 4K and dedicated support. The annual option is gone: on modelize.studio/pricing, read the same day and again on 4 October 2026, all three paid tiers are labelled “Billed month to month” and the page carries no yearly rate and no two-months-free wording anywhere, where in August it sold Free, Starter and Pro annually. All charges are billed in USD and recur every 30 days. Rating 4.9 from 26 App Store reviews on 4 October 2026 (25 at five stars, one at three), against 25 reviews on 17 September and 5.0 from 13 reviews on 19 August. Developer Optify, 16 Rue Cuvier, Lyon, France; the app launched 20 April 2026 and carries Shopify’s “Built for Shopify” badge. On 12 November 2026 the listing and modelize.studio/pricing showed the same four tiers, allowances and amounts, every paid tier still “Billed month to month”, and the rating stood at 4.8 from 28 reviews (26 at five stars, one at four, one at three). The listing now names Gemini Nano Banana 2 and Nano Banana Pro as the image models.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4381,19 +4429,19 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/modelize",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-read 2026-09-17 and again on 2026-10-04 on apps.shopify.com/modelize, listed as “Modelize: AI Product Photos”) Free plan available, then Starter $19, Pro $49 and Enterprise $99 a month — the three paid rates are unchanged since 19 August 2026.",
-     "evidence_excerpt": "(re-read 2026-09-17 and again on 2026-10-04 on apps.shopify.com/modelize, listed as “Modelize: AI Product Photos”) Free plan available, then Starter $19, Pro $49 and Enterprise $99 a month — the thre…",
+     "evidence": "(re-read 2026-09-17, 2026-10-04 and 2026-11-12 on apps.shopify.com/modelize; listed in October as “Modelize: AI Product Photos” and on 12 November as “Modelize: AI Image Generator”) Free plan available, then Starter $19, Pro $49 and Enterprise $99 a month — the three paid rates are unchanged since 19 August 2026.",
+     "evidence_excerpt": "(re-read 2026-09-17, 2026-10-04 and 2026-11-12 on apps.shopify.com/modelize; listed in October as “Modelize: AI Product Photos” and on 12 November as “Modelize: AI Image Generator”) Free plan availab…",
      "source_url": "https://apps.shopify.com/modelize",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-09-17"
   },
   {
@@ -6316,27 +6364,27 @@
    "entry_price": "$9",
    "entry_price_terms": "Starter · per month for 25 credits and access to the full section library, billed…",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-17 and again on 2026-10-05 on apps.shopify.com/section-library, now listed as “Section Library: AI Sections”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation. Starter $9 a month: 25 credits, all sections accessible, AI section generation, email support. Pro $19 a month: 55 credits, all sections, priority support. Business $29 a month: 90 credits, all sections, priority support. All charges are billed in USD and recur every 30 days, and the listing shows no free trial on the paid tiers — the free plan is the trial. One thing the pricing table still never states is what a credit actually buys. Whether one credit is one AI generation, one section added to a theme, or something else is defined nowhere on the listing — and the credit count is the only thing separating the four plans. The vendor’s own site is worse than priceless: sectionlibrary.com is itself a Shopify store and on 17 September and again on 5 October 2026 it answered HTTP 402 with Shopify’s “Store unavailable” page instead of a site, so the App Store listing we link to is now the only public record of the product at all. Developer Optify, 16 Rue Cuvier, Lyon, France; the app launched 10 October 2023. It still carries a 5.0 rating from exactly one App Store review, left in October 2023 by a merchant who had the app installed for four minutes.",
+   "price_note": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation. Starter $9 a month: 25 credits, all sections accessible, AI section generation, email support. Pro $19 a month: 55 credits, all sections, priority support. Business $29 a month: 90 credits, all sections, priority support. All charges are billed in USD and recur every 30 days, and the listing shows no free trial on the paid tiers — the free plan is the trial. One thing the pricing table still never states is what a credit actually buys. Whether one credit is one AI generation, one section added to a theme, or something else is defined nowhere on the listing — and the credit count is the only thing separating the four plans. The old site, sectionlibrary.com, answered HTTP 402 with Shopify’s “Store unavailable” page on 17 September, 5 October and 12 November 2026. The product now has a page at optifyapps.com/mason (read 12 November 2026), which says Section Library is now Mason: the same app from the same team, repositioned as an AI page builder that generates full pages and custom sections from a prompt on top of the section library. That page repeats the free plan (8 AI credits a month) and paid plans from $9, and it does not define a credit either. Developer Optify, 16 Rue Cuvier, Lyon, France; the app launched 10 October 2023. It still carries a 5.0 rating from exactly one App Store review, left in October 2023 by a merchant who had the app installed for four minutes; still the only review on 12 November 2026.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-read 2026-09-17 and again on 2026-10-05 on apps.shopify.com/section-library, now listed as “Section Library: AI Sections”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
-     "evidence_excerpt": "(re-read 2026-09-17 and again on 2026-10-05 on apps.shopify.com/section-library, now listed as “Section Library: AI Sections”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a m…",
+     "evidence": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
+     "evidence_excerpt": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amou…",
      "source_url": "https://apps.shopify.com/section-library",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-read 2026-09-17 and again on 2026-10-05 on apps.shopify.com/section-library, now listed as “Section Library: AI Sections”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
-     "evidence_excerpt": "(re-read 2026-09-17 and again on 2026-10-05 on apps.shopify.com/section-library, now listed as “Section Library: AI Sections”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a m…",
+     "evidence": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
+     "evidence_excerpt": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amou…",
      "source_url": "https://apps.shopify.com/section-library",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-09-17"
   },
   {
@@ -6659,7 +6707,7 @@
    "entry_price": "$15",
    "entry_price_terms": "Starter · per month for up to 500 products, billed in USD every 30 days",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-19 on apps.shopify.com/minifier and on seomatic.io, re-verified unchanged on both 2026-09-28) Four tiers, and the only thing that changes between the three paid ones is how many products they cover. Free: 10 products, 50 image optimisations, AI SEO audit, auto-pilot AI meta title and description, schema markup, HTML sitemap. Starter $15 a month or $144 a year (save 20%): 500 products, unlimited image optimiser, broken links, XML and HTML sitemaps, 14-day free trial. Basic $25 a month or $240 a year: 2,000 products. Advanced $40 a month or $384 a year: 5,000 products. All charges are billed in USD and recur every 30 days. The vendor's own pricing page at seomatic.io publishes the identical ladder, which is worth noting because the two often disagree — here they do not. There is no plan above 5,000 products on either page, so a larger catalogue has no listed price at all. Developer Aheadworks, 12495 S Parkland Bay Trail, Parkland, Florida; the app launched 18 August 2015 and carried a 4.4 average over 114 App Store reviews on 19 August 2026 and 4.4 over 151 on 28 September, and it holds Shopify's 'Built for Shopify' badge.",
+   "price_note": "(read 2026-08-19 on apps.shopify.com/minifier and on seomatic.io, re-verified unchanged on both 2026-09-28 and again on 2026-11-12) Four tiers, and the only thing that changes between the three paid ones is how many products they cover. Free: 10 products, 50 image optimisations, AI SEO audit, auto-pilot AI meta title and description, schema markup, HTML sitemap. Starter $15 a month or $144 a year (save 20%): 500 products, unlimited image optimiser, broken links, XML and HTML sitemaps, 14-day free trial. Basic $25 a month or $240 a year: 2,000 products. Advanced $40 a month or $384 a year: 5,000 products. All charges are billed in USD and recur every 30 days. The vendor's own pricing page at seomatic.io publishes the identical ladder, which is worth noting because the two often disagree — here they do not. There is no plan above 5,000 products on either page, so a larger catalogue has no listed price at all. Developer Aheadworks, 12495 S Parkland Bay Trail, Parkland, Florida; the app launched 18 August 2015 and carried a 4.4 average over 114 App Store reviews on 19 August 2026 and 4.4 over 151 on 28 September, and it holds Shopify's 'Built for Shopify' badge. On 12 November 2026 the listing showed 4.4 over 150 reviews.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6667,7 +6715,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/minifier",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
@@ -6675,11 +6723,11 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/minifier",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-08-19"
   },
   {
@@ -6713,6 +6761,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-07-24"
+  },
+  {
+   "name": "Ship.com",
+   "category": "E-commerce",
+   "domain": "ship.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/ship-com-review/",
+   "from_price_usd_mo": 4.99,
+   "entry_price": "$4.99",
+   "entry_price_terms": "Starter · Starter $4.99 a month (monthly billing only, up to 10 shipments a month)",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-12 on ship.com/pricing, US dollars) Ship.com sells four plans, and you pay postage on top of every one. Starter costs $4.99 a month, is sold monthly only and covers up to 10 shipments a month, discounted rates, email support and one platform integration. Growth costs $19.99 a month, or $14 a month on the yearly toggle, and covers up to 100 shipments a month, heavily discounted rates, priority email support, up to 1,000 marketing emails a month, batch shipping and printing and carrier pickup requests. Executive costs $29.99 a month, or $22 a month on the yearly toggle, and covers unlimited shipments, rates the page says are up to 89% off retail, live chat and phone support, up to 25,000 marketing emails a month, up to 3 platform integrations, a customer rewards program and business reporting. Enterprise has no listed price and adds a dedicated shipping account manager and API or custom integration work. The page offers a free 30-day trial of Executive with no credit card and says you pay only postage during it; Starter and Growth show a free trial of 2 shipments, also postage only. The page promises a refund of subscription fees if you are not satisfied after 30 days, for first-time customers with active order history. We did not open the sign-up flow, so we do not know the tax added, what happens to your card after the trial or how postage is billed.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Postage is billed on top of every plan, the page shows no postage rates, and it names only UPS and USPS.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.ship.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-12"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-12",
+   "first_observed_at": "2026-11-12"
   },
   {
    "name": "Shipdock",
@@ -7114,31 +7186,31 @@
    "category": "SEO & Marketing",
    "domain": "storeseo.com",
    "review_url": "https://aibuildermarketplace.com/b2b/storeseo-review/",
-   "from_price_usd_mo": 14.99,
-   "entry_price": "$14.99",
+   "from_price_usd_mo": 19.99,
+   "entry_price": "$19.99",
    "entry_price_terms": "Lite · per month for 100 products",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified unchanged 2026-09-28) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support. Paid tiers are Lite $14.99, Essential $39.99 and Advanced $249.99 a month, each with a 7-day free trial. Lite covers 100 products, 500 image optimisations and 1,000 AI credits and adds one-click schema markup, instant indexing requests, Google Analytics and Search Console and automatic sitemap submission. Essential covers 250 products, 2,000 images and 5,000 credits. Advanced covers 10,000 products, 50,000 images, 50,000 credits and adds multilingual SEO. All charges are billed in USD and recur every 30 days. Worth knowing: storeseo.com sells a Growth plan at $99.99 a month (1,000 products, 5,000 images, 12,500 AI credits, 200 keywords) that does not appear on the App Store listing at all, and also sells credit top-ups from $10 for 5,000 credits, $50 for 25,000 and $100 for 50,000. Rating 5.0 from 753 App Store reviews on 28 September 2026 (751 on 19 September, 674 on 19 August). Developer Storeware, Milton, Delaware; the app launched 19 October 2021 and carries Shopify's “Built for Shopify” badge.",
+   "price_note": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified 2026-09-28 and 2026-11-12; Lite was repriced in between) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support. Paid tiers are Lite $19.99, Essential $39.99 and Advanced $249.99 a month, each with a 7-day free trial. Lite was $14.99 a month in our readings from 19 August to 28 September 2026; on 12 November the listing and the plan cards on storeseo.com both show $19.99, while the comparison table lower on storeseo.com still prints $14.99. Until 1 December 2026 a Black Friday offer takes 80% off the first month of every paid plan: $3.99 for Lite, $7.99 for Essential, $19.99 for Growth and $49.99 for Advanced, then the regular price. Lite covers 100 products, 500 image optimisations and 1,000 AI credits and adds one-click schema markup, instant indexing requests, Google Analytics and Search Console and automatic sitemap submission. Essential covers 250 products, 2,000 images and 5,000 credits. Advanced covers 10,000 products, 50,000 images, 50,000 credits and adds multilingual SEO. All charges are billed in USD and recur every 30 days. Worth knowing: storeseo.com sells a Growth plan at $99.99 a month (1,000 products, 5,000 images, 12,500 AI credits, 200 keywords) that does not appear on the App Store listing at all, and also sells credit top-ups from $10 for 5,000 credits, $50 for 25,000 and $100 for 50,000. Rating 5.0 from 773 App Store reviews on 12 November 2026 (753 on 28 September, 674 on 19 August). Developer Storeware, Milton, Delaware; the app launched 19 October 2021 and carries Shopify's “Built for Shopify” badge.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified unchanged 2026-09-28) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support.",
-     "evidence_excerpt": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified unchanged 2026-09-28) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an…",
+     "evidence": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified 2026-09-28 and 2026-11-12; Lite was repriced in between) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support.",
+     "evidence_excerpt": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified 2026-09-28 and 2026-11-12; Lite was repriced in between) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisa…",
      "source_url": "https://apps.shopify.com/storeseo",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified unchanged 2026-09-28) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support.",
-     "evidence_excerpt": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified unchanged 2026-09-28) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an…",
+     "evidence": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified 2026-09-28 and 2026-11-12; Lite was repriced in between) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support.",
+     "evidence_excerpt": "(read 2026-08-19 on apps.shopify.com/storeseo, re-verified 2026-09-28 and 2026-11-12; Lite was repriced in between) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisa…",
      "source_url": "https://apps.shopify.com/storeseo",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-08-19"
   },
   {
