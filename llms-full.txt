@@ -1016,7 +1016,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## RankBolt
 - Review: https://marketingandsalessoftware.com/rankbolt-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-12. Measured 2026-11-12: Onboarding had eight steps. The Search Console and website-connection steps were optional, with 'Skip for now' and 'Skip & get started'. No card was requested; the site says every new account gets a 3-day…
 - Verdict: RankBolt prices in Swiss francs and sells three monthly plans, each with a 3-day free trial that, per the page, needs no credit card.
 - Price: (read 2026-11-06 on rankbolt.ai) RankBolt prices in Swiss francs and sells three monthly plans, each with a 3-day free trial that, per the page, needs no credit card. Starter costs 69 CHF a month for 1 connected site, 10 published SEO articles, 25 tracked keywords checked weekly and 20 AI prompts tracked daily across 4 engines.
 
