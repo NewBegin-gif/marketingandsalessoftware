@@ -149,9 +149,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/agencyanalytics-review/",
    "from_price_usd_mo": null,
    "entry_price": "$20",
-   "entry_price_terms": "per client a month, billed annually ($25 month to month); above 25 clients it is a quote",
+   "entry_price_terms": "per client a month, billed annually ($25 month to month); from 25 clients it is a quote",
    "pricing_status": "public",
-   "price_note": "One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (a 25-client agency pays $500/mo; past that it is a quote). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly the advertised \"Save 20% annually\". Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits. Past 25 clients the vendor quotes instead of publishing (re-verified 2026-09-11).",
+   "price_note": "One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (24 clients cost $480 a month; from 25 clients the vendor points to volume pricing on request). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly the advertised \"Save 20% annually\". Add-ons on top: Rank Tracker $41.67/mo per 500 keywords, AI Tracker $20.83/mo per 250 credits. From 25 clients the vendor offers volume pricing on request instead of publishing a rate (re-verified 2026-09-11).",
    "flags": [
     {
      "flag": "usage_metered",
@@ -680,11 +680,11 @@
    "category": "Growth & Revenue",
    "domain": "aweber.com",
    "review_url": "https://aibuildermarketplace.com/b2b/aweber-review/",
-   "from_price_usd_mo": 12.5,
-   "entry_price": "$12.50",
+   "from_price_usd_mo": 12.49,
+   "entry_price": "$12.49",
    "entry_price_terms": "per month billed annually ($15 monthly) at 0-500 subscribers",
    "pricing_status": "public",
-   "price_note": "(re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and Plus $19.99/mo at 500 subs (annual billing; both scale by subscriber count). The ~$899 flat Unlimited tier is served to about one visitor in eighteen rather than withdrawn: on 5 Sep 2026 we loaded the pricing page 18 times in fresh cookie-less browsers, 17 returned Lite and Plus with no flat tier and one returned a three-card variant with “Go Unlimited” at $899/mo for unlimited subscribers, so it exists but you cannot count on seeing it. AWeber runs aggressive limited-time launch promos (an ‘87% off’ banner striking $599 to $79 at research time) — treat banner prices as promos, not list prices. AWeber's own affiliate newsletter of 5 September 2026 describes a single paid plan, 'AWeber Pro', starting at $16.15 a month billed annually, and does not name Lite or Plus at all; the pricing page served us Lite and Plus the same day, so the plan names appear to be mid-change. Check the live page before quoting a tier name. Re-checked 6 September 2026 in twelve cookie-less loads: the pricing page named Free, Lite, Plus and Unlimited on all six of its loads, so the flat Unlimited tier that showed once in eighteen loads the day before was served every time; the free-email-marketing page named only Free. No load carried a plan called Pro and the newsletter figure of $16.15 appeared nowhere; the entry amounts read $12.50 and $20.00. Read again on 9 October 2026: the pricing page shows Lite and Plus, plus 'Done For You' (Plus with a setup fee shown as $599 struck to $79), with a Monthly/Annually switch and a subscriber slider. Lite billed monthly: $15 up to 500, $25 up to 1,000, $35 up to 2,500, $60 up to 5,000, $85 up to 7,500, $100 up to 10,000, $150 up to 15,000, $185 up to 20,000, $210 up to 25,000, $275 up to 35,000, $375 up to 50,000, $500 up to 75,000, $600 up to 100,000, $920 up to 150,000 subscribers; billed annually, per month: $12.50, $20.83, $29.17, $50.00, $70.83, $83.33, $125.00, $154.17, $175.00, $229.17, $312.50, $416.67, $500.00, $766.67. Plus billed monthly: $30, $45, $55, $90, $120, $135, $180, $215, $250, $350, $400, $600, $750, $1,050; billed annually, per month: $20.00, $37.50, $45.83, $75.00, $100.00, $112.50, $150.00, $179.17, $208.33, $291.67, $333.33, $500.00, $625.00, $875.00.",
+   "price_note": "(re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and Plus $19.99/mo at 500 subs (annual billing; both scale by subscriber count). The ~$899 flat Unlimited tier is served to about one visitor in eighteen rather than withdrawn: on 5 Sep 2026 we loaded the pricing page 18 times in fresh cookie-less browsers, 17 returned Lite and Plus with no flat tier and one returned a three-card variant with “Go Unlimited” at $899/mo for unlimited subscribers, so it exists but you cannot count on seeing it. AWeber runs aggressive limited-time launch promos (an ‘87% off’ banner striking $599 to $79 at research time) — treat banner prices as promos, not list prices. AWeber's own affiliate newsletter of 5 September 2026 describes a single paid plan, 'AWeber Pro', starting at $16.15 a month billed annually, and does not name Lite or Plus at all; the pricing page served us Lite and Plus the same day, so the plan names appear to be mid-change. Check the live page before quoting a tier name. Re-checked 6 September 2026 in twelve cookie-less loads: the pricing page named Free, Lite, Plus and Unlimited on all six of its loads, so the flat Unlimited tier that showed once in eighteen loads the day before was served every time; the free-email-marketing page named only Free. No load carried a plan called Pro and the newsletter figure of $16.15 appeared nowhere; the entry amounts read $12.50 and $20.00. Read on 12 November 2026 the plan cards in the served page read Lite $12.49 and Plus $19.99 a month billed annually; the grid's annual totals at 500 subscribers ($150 and $240) divide to $12.50 and $20.00, so the two readings are the same price. Read again on 9 October 2026: the pricing page shows Lite and Plus, plus 'Done For You' (Plus with a setup fee shown as $599 struck to $79), with a Monthly/Annually switch and a subscriber slider. Lite billed monthly: $15 up to 500, $25 up to 1,000, $35 up to 2,500, $60 up to 5,000, $85 up to 7,500, $100 up to 10,000, $150 up to 15,000, $185 up to 20,000, $210 up to 25,000, $275 up to 35,000, $375 up to 50,000, $500 up to 75,000, $600 up to 100,000, $920 up to 150,000 subscribers; billed annually, per month: $12.50, $20.83, $29.17, $50.00, $70.83, $83.33, $125.00, $154.17, $175.00, $229.17, $312.50, $416.67, $500.00, $766.67. Plus billed monthly: $30, $45, $55, $90, $120, $135, $180, $215, $250, $350, $400, $600, $750, $1,050; billed annually, per month: $20.00, $37.50, $45.83, $75.00, $100.00, $112.50, $150.00, $179.17, $208.33, $291.67, $333.33, $500.00, $625.00, $875.00.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -692,7 +692,7 @@
      "evidence_excerpt": "(re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and…",
      "source_url": "https://aweber.com/pricing.htm",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "free_tier",
@@ -700,11 +700,11 @@
      "evidence_excerpt": "(re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and…",
      "source_url": "https://aweber.com/pricing.htm",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": null
   },
   {
@@ -1150,7 +1150,7 @@
    "entry_price": "$19",
    "entry_price_terms": "Starter · per month for 200 quiz submissions and 500 chats a month, 30 days…",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-02 on brandye.com/pricing and on apps.shopify.com/brandye-quiz-ai-recommendation) Every plan includes the product quiz, the AI shopping assistant and AI product questions; the tiers differ in how many quiz submissions and chats you get and how long your data is kept. Free covers up to 100 quiz submissions and 100 chats in total, lifetime rather than per month, with 15 days of data. Starter is $19 a month for 200 submissions and 500 chats a month with 30 days of data. Booster is $49 a month for 500 submissions and 1,500 chats with 60 days. Growth is $129 a month for 1,000 submissions and 3,000 chats with 90 days. Those four are the only plans on the Shopify listing, which shows yearly prices of $190 for Starter, $470.40 for Booster and $1,238.40 for Growth, and a 14-day free trial on each paid plan. The vendor's own pricing page adds two higher tiers the listing does not show: Scale at $249 a month for 2,500 submissions and 6,000 chats, and Brand at $599 a month for 6,000 submissions and 15,000 chats, both with 90 days of data, plus Enterprise on request; it advertises 20% off for yearly billing. We could not tell from either page whether Scale and Brand are billed through Shopify like the listed plans. Listed charges are in USD, billed through Shopify every 30 days. Developer Brandye SAS of Bussy-Saint-Georges, France; the listing gives a launch date of 10 September 2025 and shows 12 reviews, none of them critical.",
+   "price_note": "(read 2026-10-02 and re-verified unchanged 2026-11-12 on brandye.com/pricing and on apps.shopify.com/brandye-quiz-ai-recommendation) Every plan includes the product quiz, the AI shopping assistant and AI product questions; the tiers differ in how many quiz submissions and chats you get and how long your data is kept. Free covers up to 100 quiz submissions and 100 chats in total, lifetime rather than per month, with 15 days of data. Starter is $19 a month for 200 submissions and 500 chats a month with 30 days of data. Booster is $49 a month for 500 submissions and 1,500 chats with 60 days. Growth is $129 a month for 1,000 submissions and 3,000 chats with 90 days. Those four are the only plans on the Shopify listing, which shows yearly prices of $190 for Starter, $470.40 for Booster and $1,238.40 for Growth, and a 14-day free trial on each paid plan. The vendor's own pricing page adds two higher tiers the listing does not show: Scale at $249 a month for 2,500 submissions and 6,000 chats, and Brand at $599 a month for 6,000 submissions and 15,000 chats, both with 90 days of data, plus Enterprise on request; it advertises 20% off for yearly billing. We could not tell from either page whether Scale and Brand are billed through Shopify like the listed plans; Brandye's help centre (article published 12 August 2026, read 12 November 2026) says only that Brandye is billed through Shopify, without singling out those two. Listed charges are in USD, billed through Shopify every 30 days. Developer Brandye SAS of Bussy-Saint-Georges, France; the listing gives a launch date of 10 September 2025 and shows 12 reviews, none of them critical (13, all five stars, on 12 November 2026).",
    "flags": [
     {
      "flag": "free_tier",
@@ -1158,11 +1158,11 @@
      "evidence_excerpt": null,
      "source_url": "https://brandye.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-02"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-02",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-10-02"
   },
   {
@@ -2785,10 +2785,10 @@
    "entry_price": "$10",
    "entry_price_terms": "Basic · per month for one active pixel",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-28 on apps.shopify.com/facebook-pixel-conversion-api-fbtrack) Three paid plans and no free plan, each with a 14-day free trial. Basic is $10 a month for one active pixel, Standard is $15 a month for five active pixels, and Unlimited is $30 a month for unlimited Meta, TikTok, Snapchat and Pinterest pixels with unlimited Conversions API tracking and server-side events. Every plan supports Facebook (Meta), TikTok, Snapchat and Pinterest, and includes the Conversions API and server-side tracking for its active pixels plus 24/7 support; the plans differ only in the number of pixels. No yearly price is listed. All charges are in USD, billed through Shopify every 30 days. The listing is titled 'SB: Facebook Pixel and TikTok'; the developer is Shark Byte, Inc of Parkland, Florida, the listing gives a launch date of 26 September 2018 and it shows 22 reviews.",
+   "price_note": "(read 2026-09-28 and re-verified unchanged 2026-11-12 on apps.shopify.com/facebook-pixel-conversion-api-fbtrack) Three paid plans and no free plan, each with a 14-day free trial. Basic is $10 a month for one active pixel, Standard is $15 a month for five active pixels, and Unlimited is $30 a month for unlimited Meta, TikTok, Snapchat and Pinterest pixels with unlimited Conversions API tracking and server-side events. Every plan supports Facebook (Meta), TikTok, Snapchat and Pinterest, and includes the Conversions API and server-side tracking for its active pixels plus 24/7 support; the plans differ only in the number of pixels. No yearly price is listed. All charges are in USD, billed through Shopify every 30 days. The listing is titled 'SB: Facebook Pixel and TikTok'; the developer is Shark Byte, Inc of Parkland, Florida, the listing gives a launch date of 26 September 2018 and it shows 22 reviews (still 22 on 12 November 2026, rated 3.2: 14 five-star, 3 three-star and 5 one-star).",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-09-28"
   },
   {
@@ -3926,7 +3926,7 @@
    "entry_price": "$49",
    "entry_price_terms": "per month (or $44 annually) but with a $5 fee per paid enrollment",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-29 on their own pricing page, both billing toggles) Starter $49/mo (or $44 annually) with a $5 fee per paid enrollment — still the single most important number in this ladder; Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee; Learning Center $299/mo, or $249 annually; Corporate quoted. The High Volume tier we recorded in August is gone: the ladder is now Starter, Pro Trainer, Learning Center and Corporate. Annual billing saves 20% and the trial is 30 days. Limits published alongside: 1,000 / 2,000 / 2,000 monthly active learners, 1 / 5 / 25 admins, 300 / 500 / 1,000 AI credits a month, email support 24/5 on Starter against 24/7 above it, and a 99.90% uptime commitment (99.95% on Corporate). All prices exclude VAT, which is added for EU customers unless a valid EU VAT number is given, and your payment gateway (Stripe at about 2.9% + $0.30) charges on top regardless of tier. A branded mobile app is still a separate add-on, but the page now lists it as having multiple price options and prints no amount, so the roughly $149/mo we carried in August is no longer confirmable. Two reading notes: the page opens by asking which of four goals brings you there and recommends a plan on that basis — the figures above were read with the branded-academy goal selected — and the plan cards print their numbers with no currency symbol at all, the only dollar signs on the page sitting on the $5 enrollment fee and the Stripe example. On 2026-09-30 every amount, limit and uptime figure above was unchanged. That day the page also ran a Q4 promotion, 15% off monthly billing for six months on Pro Trainer (84.15 instead of 99) and Learning Center (254.15 instead of 299), stated to end on 30 September 2026 at 11:59 PM PDT. On 2026-10-01 the pricing page moved that deadline to 5 October 2026 at 11:59 PM PDT; it is a short promotion, so do not budget on it. On 2026-10-29 LearnWorlds raised Starter from $29 a month ($24 annually) to $49 ($44 annually) for new Starter subscriptions, trial users who upgrade to Starter and customers who downgrade to it; existing Starter subscribers keep their old price while they stay on the plan. Pro Trainer, Learning Center and the $5 enrollment fee were unchanged that day.",
+   "price_note": "(re-verified 2026-10-29 on their own pricing page, both billing toggles) Starter $49/mo (or $44 annually) with a $5 fee per paid enrollment — still the single most important number in this ladder; Pro Trainer $99/mo, or $79 billed annually, with no enrollment fee; Learning Center $299/mo, or $249 annually; Corporate quoted. The High Volume tier we recorded in August is gone: the ladder is now Starter, Pro Trainer, Learning Center and Corporate. Annual billing saves 20% and the trial is 30 days. Limits published alongside: 1,000 / 2,000 / 2,000 monthly active learners, 1 / 5 / 25 admins, 300 / 500 / 1,000 AI credits a month, email support 24/5 on Starter against 24/7 above it, and a 99.90% uptime commitment (99.95% on Corporate). All prices exclude VAT, which is added for EU customers unless a valid EU VAT number is given, and your payment gateway (Stripe at about 2.9% + $0.30) charges on top regardless of tier. A branded mobile app is still a separate add-on, but the page now lists it as having multiple price options and prints no amount, so the roughly $149/mo we carried in August is no longer confirmable. Two reading notes: the page opens by asking which of four goals brings you there and recommends a plan on that basis — the figures above were read with the branded-academy goal selected — and the plan cards print their numbers with no currency symbol at all (still so on 2026-11-12; our 30 October 2026 checkout showed the same numbers in euros, €49 plus €5 per enrollment), the only dollar signs on the page sitting on the $5 enrollment fee and the Stripe example. On 2026-09-30 every amount, limit and uptime figure above was unchanged. That day the page also ran a Q4 promotion, 15% off monthly billing for six months on Pro Trainer (84.15 instead of 99) and Learning Center (254.15 instead of 299), stated to end on 30 September 2026 at 11:59 PM PDT. On 2026-10-01 the pricing page moved that deadline to 5 October 2026 at 11:59 PM PDT; it is a short promotion, so do not budget on it. On 2026-10-29 LearnWorlds raised Starter from $29 a month ($24 annually) to $49 ($44 annually) for new Starter subscriptions, trial users who upgrade to Starter and customers who downgrade to it; existing Starter subscribers keep their old price while they stay on the plan. Pro Trainer, Learning Center and the $5 enrollment fee were unchanged that day.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6249,11 +6249,11 @@
    "category": "Sales & CRM",
    "domain": "salestarget.ai",
    "review_url": "https://aibuildermarketplace.com/b2b/salestarget-ai-review/",
-   "from_price_usd_mo": 169.0,
-   "entry_price": "$169",
-   "entry_price_terms": "per month",
+   "from_price_usd_mo": 30.0,
+   "entry_price": "$30",
+   "entry_price_terms": "Email Outreach Growth · per month for 10,000 emails, email module only, 1 user",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed) Sold either as one bundle or module by module. All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Scale $319 (100,000 emails, 4,500 credits, 2 LinkedIn accounts, 500 AI credits, 3 users, warm-up for 20 accounts), Ultimate $639 (500,000 emails, 7,000 credits, 3 LinkedIn accounts, 1,000 AI credits, 5 users, warm-up for 50 accounts, 3 client workspaces and a one-time $300 wallet credit), Enterprise on request. Lead Explorer on its own: Launch Credit $49 for 2,000 credits a month (1 user), Builder Credit $99 for 4,500 (3 users), Expansion Credit $149 for 7,000 (5 users). Email Outreach on its own: Growth $30 for 10,000 emails a month (1 user, 30,000 contacts stored), Hypergrowth $79 for 100,000 (3 users), Light Speed $299 for 500,000 (5 users) with a one-time $200 wallet credit; new customers get 30% off the first month on any monthly Email Outreach plan. CRM $40 a month with 3 users included and $20 per extra user; Dialer $29 a month with one number and 400 credits, extra numbers $3 local or $5 toll-free. Add-ons on the plans: extra LinkedIn accounts $49 each a month, extra warm-up slots $2 per email account, client workspaces $29, extra AI credits $10 per 400, extra users $20. A 'Customize Yourself' builder prices each part with sliders. The yearly toggle says 'Save 10%' on All In One and 'Save 15%' on Email Outreach; we did not re-read the yearly prices on 28 October. The wallet credits can only be spent on domains bought inside SalesTarget, not on email accounts, and are non-refundable. Free trial: the pricing FAQ says 50 Lead Explorer credits and no credit card. A banner reading 'Subscribe Today & Get $200 or $300 Domain Credit, Limited Time Only!' runs across the top of the page. Payment is by credit card. Salestarget LLC, with an address in Wilmington, Delaware.",
+   "price_note": "(re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed. Re-verified 2026-11-12 on the All In One tab and the plan comparison table) Sold either as one bundle or module by module. All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Scale $319 (100,000 emails, 4,500 credits, 2 LinkedIn accounts, 500 AI credits, 3 users, warm-up for 20 accounts), Ultimate $639 (500,000 emails, 7,000 credits, 3 LinkedIn accounts, 1,000 AI credits, 5 users, warm-up for 50 accounts, 3 client workspaces and a one-time $300 wallet credit), Enterprise on request. Lead Explorer on its own: Launch Credit $49 for 2,000 credits a month (1 user), Builder Credit $99 for 4,500 (3 users), Expansion Credit $149 for 7,000 (5 users). Email Outreach on its own: Growth $30 for 10,000 emails a month (1 user, 30,000 contacts stored), Hypergrowth $79 for 100,000 (3 users), Light Speed $299 for 500,000 (5 users) with a one-time $200 wallet credit; new customers get 30% off the first month on any monthly Email Outreach plan. CRM $40 a month with 3 users included and $20 per extra user; Dialer $29 a month with one number and 400 credits, extra numbers $3 local or $5 toll-free. Add-ons on the plans: extra LinkedIn accounts $49 each a month, extra warm-up slots $2 per email account, client workspaces $29, extra AI credits $10 per 400, extra users $20. A 'Customize Yourself' builder prices each part with sliders. The yearly toggle says 'Save 10%' on All In One and 'Save 15%' on Email Outreach; we did not re-read the yearly prices on 28 October. The wallet credits can only be spent on domains bought inside SalesTarget, not on email accounts, and are non-refundable. Free trial: the pricing FAQ says 50 Lead Explorer credits and no credit card. A banner reading 'Subscribe Today & Get $200 or $300 Domain Credit, Limited Time Only!' runs across the top of the page. Payment is by credit card. Salestarget LLC, with an address in Wilmington, Delaware. On 12 November 2026 the All In One amounts were unchanged ($169, $319, $639), and each plan carries an email-volume menu: Growth $169 for 10,000 emails or $199 for 50,000; Scale $319 for 100,000, $389 for 250,000 or $459 for 400,000; Ultimate from $639 for 500,000 up to $2,339 for 5,000,000. The comparison table shows that Growth has no extra-user option, no API or webhooks, no integrations (HubSpot, Salesforce, Zapier, Slack, Calendly, Google Calendar, Zoom) and no MCP server; all of those start on Scale. The Customize builder now prices connected LinkedIn accounts at $49 each for 1 to 15, $39 for 16 to 50 and $29 above 50. The Lead Explorer and Email Outreach tabs did not load without JavaScript on that date, so their prices were not re-read.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6261,7 +6261,7 @@
      "evidence_excerpt": "All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Sca…",
      "source_url": "https://salestarget.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-28"
+     "verified_at": "2026-11-12"
     },
     {
      "flag": "addons_extra",
@@ -6269,11 +6269,11 @@
      "evidence_excerpt": null,
      "source_url": "https://salestarget.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-28"
+     "verified_at": "2026-11-12"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-28",
+   "price_verified_at": "2026-11-12",
    "first_observed_at": "2026-10-28"
   },
   {
