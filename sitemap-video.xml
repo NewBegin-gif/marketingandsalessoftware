@@ -289,7 +289,7 @@ One free-tier number is worth holding against the other. The plan table gives Fr
 
 It is a bet on a channel that is still small. The app prepares your catalogue for AI shopping agents, including ChatGPT, Perplexity, Gemini and Claude, and tracks where your products place in their results. For most stores those agents are not yet a meaningful source of orders, so the rank tracker and the agent-traffic analytics may show very little for a while. The audit is useful regardless, because the fields it checks (categories, attributes, barcodes, alt text, variants, policies) also feed shopping feeds and on-site search.
 
-Nobody has reviewed it yet. The app launched on the Shopify App Store on 8 May 2026 and still had zero reviews on 24 September 2026, so there is no outside account of how accurate its generated attributes are. Start in Full Review mode, where every proposal waits for your approval, before you let Full Auto write to your live catalogue.</video:description>
+Almost nobody has reviewed it yet. The app launched on the Shopify App Store on 8 May 2026 and had a single review on 11 November 2026: five stars, dated 5 October 2026, from a UK store after 18 days of use, praising the scan and the fixes in general terms. That is still no outside account of how accurate its generated attributes are. Start in Full Review mode, where every proposal waits for your approval, before you let Full Auto write to your live catalogue.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/XcPdVIhnqrk</video:player_loc>
     <video:publication_date>2026-10-07T00:00:00+00:00</video:publication_date>
     </video:video>
@@ -1639,6 +1639,32 @@ What changed is which half you pay for. Re-read on 2 November 2026, the free pla
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/seel-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9PUSZXxoq5g/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Seel Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Two things to weigh, and neither is the price you pay, because you do not pay one. First, you cannot set the fee. Seel&#x27;s algorithm prices it, so if it lands too high for your niche and shoppers stop opting in, your only lever is switching the feature off entirely. Second, the charge appears on your checkout, not Seel&#x27;s: shopper-side complaints filed with the BBB describe the fee arriving in the cart with the opt-out easy to miss, and that lands on your brand. Test it as a customer before you enable it. Also check the platform list: Shopify, BigCommerce and Adobe Commerce only, with no WooCommerce, Wix or custom storefront support.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/9PUSZXxoq5g</video:player_loc>
+    <video:publication_date>2026-08-11T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/selixer-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/htfnpSlJIFE/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Selixer Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Read the feature lists rather than the prices and the entry tier stops looking like the product. Essence at $149 a month gives you two seats, one connected ad platform, a year of history and an inventory health score. The full True Profit waterfall, the per-product P&amp;L and the POAS and CAC tracking, the reason anyone installs a profit dashboard, all start on Catalyst at $299. So the real price of what this app is sold on is double the headline.
+
+The ad-platform caps decide the tier as much as the features do: one, then two, then three. If you run Meta, Google and TikTok you are on the $399 plan for connectivity alone, whatever your revenue looks like.
+
+The monthly figure is also not the whole bill. Each plan carries an AI credit allowance (500, 2,000 and 3,000) and the listing sells top-ups from $25, with usage-based charges billed on the same 30-day cycle. Find out what spends a credit before you budget around the headline.
+
+And this is a new app. It launched on 19 May 2026 and had two public reviews on 10 November 2026. There is nothing bad in the record, but there is barely any record, and this is a tool you hand your cost prices, your ad spend and your margins to. Use the 14-day trial to reconcile its numbers against a month you have already closed in your own books before you trust a dashboard you cannot yet audit.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/htfnpSlJIFE</video:player_loc>
+    <video:publication_date>2026-09-18T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/selleasy-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/wU_Zv_rXc8c/hqdefault.jpg</video:thumbnail_loc>
@@ -1741,7 +1767,7 @@ And treat the vendor&#x27;s headline claims as claims: the 20% AOV increase and 
       <video:title>SoftSync Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>Pro stops at five team members per workspace. The sixth person does not add a sixth Pro seat; it moves the whole team to Business, which is $59 per seat a month on yearly billing instead of $29. A five-person team on Pro pays $145 a month billed yearly; the same team plus one hire pays $354 on Business, for the same product surface, since the pricing page says both paid plans carry the same core features. If your team is near that line, price the Business plan now rather than after you have moved your pipeline in.
 
-The monthly allowances are per user and per calendar month, and on Pro they are 1,000 campaign emails, 1,000 enrichments and 1,000 AI chats, with one connected mailbox per user. A single rep running cold outreach from SoftSync can reach 1,000 campaign emails well before the month ends, and the page does not say what happens when you do, whether sending stops or an overage is charged. Ask before you plan a campaign around it.
+On Pro the monthly allowances are 1,000 campaign emails and 1,000 AI chats per user, 1,000 enrichment credits for the whole workspace (per workspace on the table re-read 11 November 2026), and one connected mailbox per user. A single rep running cold outreach from SoftSync can reach 1,000 campaign emails well before the month ends, and the page does not say what happens when you do, whether sending stops or an overage is charged. Ask before you plan a campaign around it.
 
 Month-to-month billing costs about a third more than yearly: $39 against $29 on Pro, $79 against $59 on Business. There is no free plan, and the pricing page does not state a trial length; it says the checkout shows any trial terms. SoftSync&#x27;s own home page says it has no integrations directory and instead gives your AI agent a way in through the API and MCP access; if your stack depends on ready-made connectors, check the specific ones on the integrations page before you commit. We found no independent buyer reviews we could read, so the only voices on the site are the testimonials SoftSync chose, most of them from founders and investors rather than daily users.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/9d4bHRCeCk8</video:player_loc>
@@ -1980,7 +2006,7 @@ The features most stores would pay for sit on the $49 tier. Estimated delivery d
       <video:title>VyReel Review (2026) — honest pricing &amp; who should skip it</video:title>
       <video:description>The meter is clicks, and nobody says what happens when you run out. Every tier is sized on storefront clicks a month (500 free, 10,000 on Basic, 30,000 on Growth, 75,000 on Pro) alongside a cap on uploaded videos. Neither the Shopify listing nor the vendor&#x27;s own pricing section says whether the reels stop, degrade or trigger a charge when a busy month crosses the line, and no overage rate is published. The better your videos work, the faster you use the allowance, so ask support what happens at the cap before a sale weekend answers the question for you.
 
-The track record is three months long. The app launched on the Shopify App Store on 19 June 2026, and its seven reviews, all five stars, were written between 20 June and 23 July 2026, each after anything from about an hour to 21 days of use. Five of the seven reviewing stores are in Pakistan. A 5.0 from seven early reviews tells you the setup is quick; it does not tell you how the app behaves at 50,000 clicks a month or after a year of theme updates.
+The track record is three months long. The app launched on the Shopify App Store on 19 June 2026, and its eight reviews (counted 11 November 2026), all five stars, were written between 20 June and 23 July 2026, each after anything from about an hour to 21 days of use. Two of them, both dated 23 July, come from stores listed as &quot;Maryum &amp; Maria&quot; and &quot;Maryum N Maria&quot;. Five of the eight reviewing stores are in Pakistan. A 5.0 from eight early reviews tells you the setup is quick; it does not tell you how the app behaves at 50,000 clicks a month or after a year of theme updates.
 
 The two pricing pages do not match. The listing stops at Pro, $79 a month; the vendor&#x27;s own site adds Scale at $129 and Enterprise at $199, and reserves its advanced AI tagging for those two. The attribution panel on the vendor&#x27;s homepage ($48,210 attributed revenue, 3.1x ROAS on video) names no customer and reads as an illustration, not a reported result.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/2v30vG9Lwks</video:player_loc>
