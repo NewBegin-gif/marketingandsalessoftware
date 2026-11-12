@@ -34,7 +34,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/agencyanalytics-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clients.
-- Price: One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (a 25-client agency pays $500/mo; past that it is a quote). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly the advertised "Save 20% annually".
+- Price: One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (24 clients cost $480 a month; from 25 clients the vendor points to volume pricing on request). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly…
 
 ## AgentNest
 - Review: https://marketingandsalessoftware.com/agentnest-review.html
