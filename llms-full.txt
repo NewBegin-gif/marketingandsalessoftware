@@ -723,7 +723,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## lemlist
 - Review: https://marketingandsalessoftware.com/lemlist-review.html
 - Hands-on: tested by us on 2026-10-24. Measured 2026-10-24: The CSV import recognised all six of our columns: email, first and last name, company name, and our test ID and amount as 'Campaign variable', each with a 'Don't overwrite' option. Both leads were imported…
-- Verdict: lemlist: No free plan, 14-day trial. The per-seat plus per-email-account model makes total cost unpredictable as you scale.
+- Verdict: lemlist: No free plan, 14-day trial. The Multichannel plan is priced per user and contact data is a paid credit add-on.
 - Price: (re-verified 2026-10-05 on www.lemlist.com/en/pricing; euros from a Dutch exit, the same numerals the earlier dollar reading carried — check your own checkout) No free plan, 14-day trial. Email is $69/month, or $55/month on yearly billing, covering unlimited users and 50,000 emails a month.
 
 ## Lensmor
@@ -1371,5 +1371,5 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ZoomInfo
 - Review: https://marketingandsalessoftware.com/zoominfo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year, climbing once seats. The contract is the most-cited frustration.
+- Verdict: ZoomInfo: Contracts typically start around $15k and the median runs near $32k a year. The contract is the most-cited frustration: annual lock-in.
 - Price: Sales-gated, re-verified on 2026-10-08: the pricing page now loads and names the packages (Sales: Professional, Copilot Advanced and Copilot Enterprise; Marketing: Demand with 75K included credits, ABM Lite, and ABM Enterprise with 150K included credits) but prints no amount, only a form to request pricing. There is no free plan; the Sales tiers carry a free-trial sign-up, the Marketing packages a demo.
