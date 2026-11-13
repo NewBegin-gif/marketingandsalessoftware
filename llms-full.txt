@@ -39,13 +39,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AgencyAnalytics
 - Review: https://marketingandsalessoftware.com/agencyanalytics-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: AgencyAnalytics — One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clients.
+- Verdict: AgencyAnalytics, One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clients.
 - Price: One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (24 clients cost $480 a month; from 25 clients the vendor points to volume pricing on request). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly…
 
 ## AgentNest
 - Review: https://marketingandsalessoftware.com/agentnest-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: AgentNest — Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view.
+- Verdict: AgentNest, Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view.
 - Price: (re-verified 2026-10-09 on apps.shopify.com/agentnest; first read 2026-08-19, no amount or allowance changed in between, though the listing now calls the app 'AgentNest - ChatGPT Ad Catalog' and pitches the scan as preparation for ChatGPT Ads) Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Free: unlimited catalogue scans, a catalogue readiness score,…
 
 ## AI Autocomplete
@@ -75,7 +75,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AltText.ai
 - Review: https://marketingandsalessoftware.com/alttext-ai-review.html
 - Hands-on: tested by us on 2026-10-20. Measured 2026-10-20: Each image cost 1 credit: the blue circle as JPG, the circle as PNG and the orange square as PNG took the balance from 25 to 22.
-- Verdict: AltText.ai: Credit-metered — one credit = one image. The headline ‘5¢ per image’ only holds for a plain JPG in one language.
+- Verdict: AltText.ai: Credit-metered, one credit = one image. The headline ‘5¢ per image’ only holds for a plain JPG in one language.
 - Price: (re-verified 10 Oct 2026; figures unchanged since 26 Aug 2026) Credit-metered — one credit = one image. Free trial: 25 credits, no credit card required.
 
 ## Amplemarket
@@ -117,13 +117,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AutoWrite
 - Review: https://marketingandsalessoftware.com/autowrite-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: AutoWrite — One conflict remains: the vendor's own FAQ on autowrite.blog, read 9 October 2026, says the Free plan includes 3 blog posts a month.
+- Verdict: AutoWrite, One conflict remains: the vendor's own FAQ on autowrite.blog, read 9 October 2026, says the Free plan includes 3 blog posts a month.
 - Price: (re-verified 2026-10-09 on apps.shopify.com/autowrite, no amount changed; first read 2026-08-19 in a browser, because the plan table then rendered client-side) Four tiers, metered on posts, images and workflows per month. Free: 10 posts, 10 images, 1 workflow, basic SEO.
 
 ## Auware
 - Review: https://marketingandsalessoftware.com/auware-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Auware — One plan: Pro at $199 a month per store, where a store is one myshopify.com domain. Built for Shopify stores running segmented paid campaigns.
+- Verdict: Auware, One plan: Pro at $199 a month per store, where a store is one myshopify.com domain. Built for Shopify stores running segmented paid campaigns.
 - Price: (re-verified 28 September 2026 on auware.com/pricing and the Shopify App Store listing) One plan: Pro at $199 a month per store, where a store is one myshopify.com domain, so each store needs its own subscription. It includes a 30-day free trial, 10 active campaigns and 6 personalized audience pages per product.
 
 ## Ava AI
@@ -249,7 +249,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CarouselBot
 - Review: https://marketingandsalessoftware.com/carouselbot-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: CarouselBot — Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document.
+- Verdict: CarouselBot, Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document.
 - Price: (read 2026-10-17 in a browser on carouselbot.app/pricing, Monthly and Annual views; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited…
 
 ## Circle
@@ -290,7 +290,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Cloze CRM
 - Review: https://marketingandsalessoftware.com/cloze-crm-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: Settings showed trial ending 16 November 2026, sixteen days after the account date of 31 October.
 - Verdict: Cloze CRM: Cloze has four paid plans and a 14 day free trial with no credit card. The pricing page does not name the currency and shows no free plan limits.
 - Price: (read 2026-11-13 on cloze.com/app/pricing, "$" shown without a currency name) Cloze has four paid plans and a 14 day free trial with no credit card. Cloze Pro for individuals costs $17 a month billed yearly or $19.99 month to month.
 
@@ -363,7 +363,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Dripify
 - Review: https://marketingandsalessoftware.com/dripify-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Dripify — Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only.
+- Verdict: Dripify, Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only.
 - Price: (re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only. The $39 Basic tier we recorded in August is gone from the page as of the 13 November 2026 reading.
 
 ## Dripshipper
@@ -375,7 +375,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## DropGenius
 - Review: https://marketingandsalessoftware.com/dropgenius-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: DropGenius — Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
+- Verdict: DropGenius, Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
 - Price: Re-verified 19 September 2026 on their own pricing page, unchanged since August. Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
 
 ## Easy Advanced Translations
@@ -561,7 +561,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Geotargetly
 - Review: https://marketingandsalessoftware.com/geotargetly-review.html
 - Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The trial needs no card. The subscription screen read '$0/mo on your free trial' with Payment Method None, and the account showed 13 days left. We joined an existing trial account, so we did not see the…
-- Verdict: Geotargetly — Six tiers: Dev $12/mo, Startup $24, Growth $49, Business $99, High Traffic $199, Enterprise from $349. The meter is pageviews, not visitors.
+- Verdict: Geotargetly, Six tiers: Dev $12/mo, Startup $24, Growth $49, Business $99, High Traffic $199, Enterprise from $349. The meter is pageviews, not visitors.
 - Price: (re-verified 2026-09-20 on their own pricing page, from a European exit) 14-day free trial, no card. Six tiers: Dev $12/mo, Startup $24, Growth $49, Business $99, High Traffic $199, Enterprise from $349 — billed yearly $9, $19, $39, $79, $159 and from $279.
 
 ## GrapeLeads
@@ -621,7 +621,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Influencer Hero
 - Review: https://marketingandsalessoftware.com/influencer-hero-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Influencer Hero — Billed monthly: Standard $649, Pro $1,049, Business $2,490. The three-month minimum is the real commitment.
+- Verdict: Influencer Hero, Billed monthly: Standard $649, Pro $1,049, Business $2,490. The three-month minimum is the real commitment.
 - Price: (pricing matrix read 18 September 2026 in documentation the vendor sent us; the public ladder at influencer-hero.com/pricing was read the same week and shows the quarterly column) Four plans, and the figure you see depends entirely on the billing term you pick. Billed monthly: Standard $649, Pro $1,049, Business $2,490.
 
 ## Instapage
@@ -639,7 +639,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## involve.me
 - Review: https://marketingandsalessoftware.com/involve-me-review.html
 - Hands-on: tested by us on 2026-09-07
-- Verdict: involve.me: In the app the same tiers are priced in euros — €29, €69, €139. The tier pages sell live funnels, but the meter that empties first is contacts.
+- Verdict: involve.me: In the app the same tiers are priced in euros, €29, €69, €139. The tier pages sell live funnels, but the meter that empties first is contacts.
 - Price: (re-verified 19 September 2026 on the public pricing page; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI funnel builder, and involve.me branding on every…
 
 ## Kartra
@@ -711,7 +711,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## LangShop
 - Review: https://marketingandsalessoftware.com/langshop-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: LangShop — Standard is $40 a month or $400 a year: ten languages, 2,000 products, automatic sync of 50 new items. The headline promise is 'unlimited words'.
+- Verdict: LangShop, Standard is $40 a month or $400 a year: ten languages, 2,000 products, automatic sync of 50 new items. The headline promise is 'unlimited words'.
 - Price: (read 2026-10-13 on apps.shopify.com/langshop and langshop.app/pricing) Seven published tiers, billed in USD. The Shopify listing shows only the first four and links to more pricing plans; the vendor's own pricing page prices the rest.
 
 ## Later
@@ -729,7 +729,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Leadpages
 - Review: https://marketingandsalessoftware.com/leadpages-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Leadpages — Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access.
+- Verdict: Leadpages, Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access.
 - Price: (re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise, no free plan, and a 7-day free trial that requires a credit card and converts unless you cancel.
 
 ## LearnWorlds
@@ -783,7 +783,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Loyalino
 - Review: https://marketingandsalessoftware.com/loyalino-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Loyalino — Free: $0 for up to 200 loyalty orders a month. Reach your plan's order limit and the program does not cost more, it stops.
+- Verdict: Loyalino, Free: $0 for up to 200 loyalty orders a month. Reach your plan's order limit and the program does not cost more, it stops.
 - Price: (prices read 22 September 2026 on apps.shopify.com/loyalino-loyalty-rewards and on loyalino.io/pricing) Billed in USD through Shopify and metered by monthly loyalty orders rather than by features. The vendor puts it in those words on its own pricing page - you pay for volume, not for features - and every paid plan carries the same paid feature set.
 
 ## Lusha
@@ -801,7 +801,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## ManyChat
 - Review: https://marketingandsalessoftware.com/manychat-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: ManyChat — Free: $0, 25 active contacts, 2 channels, 1 user. Natural-language handling sits behind that add-on, $29/month on top of Pro only.
+- Verdict: ManyChat, Free: $0, 25 active contacts, 2 channels, 1 user. Natural-language handling sits behind that add-on, $29/month on top of Pro only.
 - Price: Read on their own pricing page, 6 September 2026, and again, unchanged, 25 September 2026. Free: $0, 25 active contacts, 2 channels, 1 user.
 
 ## MarketerHire
@@ -855,13 +855,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Notify Me
 - Review: https://marketingandsalessoftware.com/notify-me-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Notify Me — Four tiers: Lite, a free plan with mostly lifetime allowances, then Kickstart $9.90/mo or $95/yr, Starter $19.90/mo or $191/yr.
+- Verdict: Notify Me, Four tiers: Lite, a free plan with mostly lifetime allowances, then Kickstart $9.90/mo or $95/yr, Starter $19.90/mo or $191/yr.
 - Price: (price re-verified 2026-09-23 against the Shopify App Store listing and notify-me.io/pricing) Four tiers: Lite, a free plan with mostly lifetime allowances, then Kickstart $9.90/mo or $95/yr, Starter $19.90/mo or $191/yr, Standard $39.90/mo or $383/yr, with annual marked 20% off, plus an Enterprise tier arranged by meeting. Each paid tier runs a discounted first month ($3.96, $7.96 and $15.96).
 
 ## Nutshell
 - Review: https://marketingandsalessoftware.com/nutshell-review.html
 - Hands-on: tested by us on 2026-10-30. Measured 2026-10-30: The trial runs 14 days with no card. The first suggestion is to connect your Google or Microsoft 365 email and calendar; we skipped it.
-- Verdict: Nutshell — Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month. Full API access is included on every plan.
+- Verdict: Nutshell, Two paid extensions sit alongside: Marketing from $49 a month and Engagement from $16 per user a month. Full API access is included on every plan.
 - Price: (re-verified 2026-10-16 on nutshell.com/pricing, both billing toggles) Five CRM tiers, per user a month: Foundation $13 on annual billing or $19 billed monthly, Growth $25 or $32, Pro $42 or $49, Business $59 or $67, and Enterprise $79 or $89. The page's 'Save 15%' badge fits Pro alone: on its own figures annual billing saves 31.6% on Foundation ($6 of $19), 21.9% on Growth, 14.3% on Pro, 11.9% on Business and…
 
 ## Omneky
@@ -909,7 +909,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## PagePulse
 - Review: https://marketingandsalessoftware.com/pagepulse-review.html
 - Hands-on: tested by us on 2026-10-08
-- Verdict: PagePulse — Free $0: 1 page, traffic included, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
+- Verdict: PagePulse, Free $0: 1 page, traffic included, unlimited collaborators, 14 days of data retention and 15 AI insights a month.
 - Price: (re-read 16 October 2026 on getpagepulse.io/#pricing in both billing states; the page opens on Annual billing, marked Save 20%. Our earlier readings of 10 September and 15 October gave the annual-billing figures without saying so, and wrote 'unlimited traffic' where the cards now say 'Traffic included'.
 
 ## Parallel AI
@@ -921,7 +921,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## PartnerStack
 - Review: https://marketingandsalessoftware.com/partnerstack-review.html
 - Hands-on: tested by us on 2026-08-26
-- Verdict: PartnerStack publishes three plans — Launch, Growth and Enterprise. A record in the Partner API's customers endpoint is a tracked click, not a signup.
+- Verdict: PartnerStack publishes three plans, Launch, Growth and Enterprise. A record in the Partner API's customers endpoint is a tracked click, not a signup.
 - Price: (read 2026-08-26 on partnerstack.com/pricing) There is no public price at any tier. PartnerStack publishes three plans — Launch, Growth and Enterprise — and every one of them carries a Book your demo button where the number would be; /plans is a 404.
 
 ## Pecan AI
@@ -1065,7 +1065,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Reditus
 - Review: https://marketingandsalessoftware.com/reditus-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Reditus: The published entry plan is Growth at $99/mo billed annually — $1,188 once a year. The advertised $99 is the annual-commitment rate.
+- Verdict: Reditus: The published entry plan is Growth at $99/mo billed annually, $1,188 once a year. The advertised $99 is the annual-commitment rate.
 - Price: (re-verified 2026-10-07; figures unchanged since 2026-08-17) 14-day free trial, no credit card. The published entry plan is Growth at $99/mo billed annually — $1,188 once a year, which the page presents as 34% off and four months free — covering up to $60K of tracked ARR.
 
 ## rePete
@@ -1083,7 +1083,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Restream
 - Review: https://marketingandsalessoftware.com/restream-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Onboarding asks who will stream (an organization or just you). No card was requested. Two draft events, an RTMP stream and a Studio stream, already existed on the home page.
-- Verdict: Restream: Standard $19 a month, billed as $190 a year (3 channels, 1 seat). The channel caps are the business model -- each tier buys a few more destinations.
+- Verdict: Restream: Standard $19 a month, billed as $190 a year (3 channels, 1 seat). The channel caps are the business model, each tier buys a few more destinations.
 - Price: Re-read on restream.io/pricing on 26 September 2026, with both the Creator/Business tabs and the Monthly/Annually toggle operated. Free: 2 channels with Restream branding, 1 seat.
 
 ## Rewarx Studio AI
@@ -1287,13 +1287,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## SurveySparrow
 - Review: https://marketingandsalessoftware.com/surveysparrow-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: SurveySparrow: On quarterly billing those same three plans are $39, $59 and $149 a month — roughly double. The conversational-survey UX is the draw.
+- Verdict: SurveySparrow: On quarterly billing those same three plans are $39, $59 and $149 a month, roughly double. The conversational-survey UX is the draw.
 - Price: (re-verified 20 September 2026 from a US exit in New York; the euro ladder was read 14 September 2026 from Europe) SurveySparrow bills quarterly or yearly — there is no monthly option — and the two differ far more than the wording suggests. On yearly billing the survey line runs Basic $19, Starter $39 and Business $79 a month, above a forever-free plan (75 responses a quarter, 3 active surveys, 10 questions each)…
 
 ## Tapform
 - Review: https://marketingandsalessoftware.com/tapform-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: The plan page opens in the monthly view: Free at $0.00 with 5 leads a month and Unlimited at $4.99 a month. That matches our read of 18 October. The Free button did not respond, so we used Skip. No card…
-- Verdict: Tapform — Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage. The yearly price on the pricing page does not add up.
+- Verdict: Tapform, Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage. The yearly price on the pricing page does not add up.
 - Price: (read 2026-10-18 in a browser on tapform.com/pricing in the monthly and yearly view; the page shows $ without naming a currency) Two plans. Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage, 15+ templates, the embed code and email lead notifications.
 
 ## Tapita SEO Optimizer
