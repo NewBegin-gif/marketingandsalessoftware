@@ -548,7 +548,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Geotargetly
 - Review: https://marketingandsalessoftware.com/geotargetly-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The trial needs no card. The subscription screen read '$0/mo on your free trial' with Payment Method None, and the account showed 13 days left. We joined an existing trial account, so we did not see the…
 - Verdict: Geotargetly — Six tiers: Dev $12/mo, Startup $24, Growth $49, Business $99, High Traffic $199, Enterprise from $349. The meter is pageviews, not visitors.
 - Price: (re-verified 2026-09-20 on their own pricing page, from a European exit) 14-day free trial, no card. Six tiers: Dev $12/mo, Startup $24, Growth $49, Business $99, High Traffic $199, Enterprise from $349 — billed yearly $9, $19, $39, $79, $159 and from $279.
 
