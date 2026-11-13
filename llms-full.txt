@@ -404,7 +404,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Elite Site Optimizer
 - Review: https://marketingandsalessoftware.com/elite-site-optimizer-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: In the trial, rank tracking said it is for premium members only even after full DNS verification, Competitor Settings and AI Readiness were grey, the AI Add-ons tab was empty and the audit report did not…
 - Verdict: Elite Site Optimizer: Basic costs $49 a month ($470 a year) for 1 domain, 1 user, 1 campaign, 100 keywords, 1,000 crawl pages and 3 competitors.
 - Price: (monthly prices read 2026-11-05 on elitesiteoptimizer.com/pricing; annual totals read 15 October 2026) Elite Site Optimizer sells monthly or annual plans with limits on domains, users, campaigns and keywords. Basic costs $49 a month ($470 a year) for 1 domain, 1 user, 1 campaign, 100 keywords, 1,000 crawl pages and 3 competitors.
 

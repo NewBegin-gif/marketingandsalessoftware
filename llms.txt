@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent reviews of marketing, sales, e-commerce and growth software. 235 full reviews live here as the canonical version, 50 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-13.
+> Independent reviews of marketing, sales, e-commerce and growth software. 235 full reviews live here as the canonical version, 51 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-13.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -22,8 +22,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Build a Repeatable Content Workflow](https://marketingandsalessoftware.com/build-content-engine.html): Build a repeatable research, creation, distribution and newsletter workflow with reviewed tools, documented limits and dated evidence.
 - [Build a Shopify Store Workflow (2026)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): Plan a Shopify store workflow by task: theme, fulfilment, campaign pages, reviews and post-purchase offers, with documented fit and costs.
 
-## Tested hands-on (50): first-hand findings
+## Tested hands-on (51): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
+- [Elite Site Optimizer](https://marketingandsalessoftware.com/elite-site-optimizer-review.html): tested 2026-11-13. Measured 2026-11-13: In the trial, rank tracking said it is for premium members only even after full DNS verification, Competitor Settings and AI Readiness were grey, the AI Add-ons tab was empty and the audit report did not…
 - [FullEnrich](https://marketingandsalessoftware.com/fullenrich-review.html): tested 2026-11-13. Measured 2026-11-13: The home screen offers a Quick enrichment form with two checkboxes: Mobile phone at 10 credits and Work email at 1 credit. Only work email was ticked by default. You enter a LinkedIn URL or a name and…
 - [Geotargetly](https://marketingandsalessoftware.com/geotargetly-review.html): tested 2026-11-13. Measured 2026-11-13: The trial needs no card. The subscription screen read '$0/mo on your free trial' with Payment Method None, and the account showed 13 days left. We joined an existing trial account, so we did not see the…
 - [RankBolt](https://marketingandsalessoftware.com/rankbolt-review.html): tested 2026-11-12. Measured 2026-11-12: Onboarding had eight steps. The Search Console and website-connection steps were optional, with 'Skip for now' and 'Skip & get started'. No card was requested; the site says every new account gets a 3-day…
@@ -142,7 +143,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Easy Bundles Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/easy-bundles-review.html): Easy Bundles: The free plan is free to install and covers up to $500 of bundle sales a month. The pricing is tied to the thing the app is supposed to 
 - [EcomXray Review (2026): Free Tier, Then $29/mo](https://marketingandsalessoftware.com/ecomxray-review.html): EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
 - [EditEngine Review (2026): Shopify Bulk Editor, Free to $49.99](https://marketingandsalessoftware.com/editengine-review.html): EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. Undo covers supported in-app edit
-- [Elite Site Optimizer Review (2026): SEO Tools From $49/mo](https://marketingandsalessoftware.com/elite-site-optimizer-review.html): Elite Site Optimizer: Basic costs $49 a month ($470 a year) for 1 domain, 1 user, 1 campaign, 100 keywords, 1,000 crawl pages and 3 competitors.
+- [Elite Site Optimizer Review (Tested): SEO Tools From $49/mo](https://marketingandsalessoftware.com/elite-site-optimizer-review.html) (tested hands-on): Elite Site Optimizer: Basic costs $49 a month ($470 a year) for 1 domain, 1 user, 1 campaign, 100 keywords, 1,000 crawl pages and 3 competitors.
 - [EliteCart Review (2026): Shopify Cart Drawer From $29.99/mo](https://marketingandsalessoftware.com/elitecart-review.html): EliteCart: Two published plans and one on request, with no free plan. The trial is 15 days on the listing and 14 on the pricing page.
 - [EngageBay Review (Tested): Free Tier, Then $14.99 a User](https://marketingandsalessoftware.com/engagebay-review.html) (tested hands-on): EngageBay: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat. The meter is contacts AND seats at once: prices are per user.
 - [eReleases Review (2026): Press Release Distribution Service](https://marketingandsalessoftware.com/ereleases-review.html): eReleases: Buzz Builder costs $399 and covers 400 words and 1 industry target list. Add-ons cost $150 or more each, the page shows no refund terms.
