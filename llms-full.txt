@@ -969,8 +969,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Positive User
 - Review: https://marketingandsalessoftware.com/positive-user-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Positive User: Campaigns is €69 a month billed annually with 1 seat. Every plan stops at 60,000 emails a year, about 5,000 a month.
-- Price: (read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a library of ready-made workflows, unlimited…
+- Verdict: Positive User: Campaigns is €69 a month billed annually with 1 seat. Every Marketing Suite plan stops at 60,000 emails a year, about 5,000 a month.
+- Price: (read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually; re-verified 2026-11-13 with a plain fetch) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a…
 
 ## Post Purchase Upsell Hero
 - Review: https://marketingandsalessoftware.com/post-purchase-upsell-hero-review.html
@@ -1257,8 +1257,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Superlines
 - Review: https://marketingandsalessoftware.com/superlines-review.html
 - Hands-on: tested by us on 2026-11-02. Measured 2026-11-02: Onboarding read our website and filled in the brand, market (United States, English), description, audience and four competitors by itself.
-- Verdict: Superlines: Three self-service plans and Enterprise. Starter has no data exports and only 1 month of history.
-- Price: (read 2026-10-16 in a browser on superlines.io/pricing, For brands tab, monthly and yearly view, prices shown in euros; the terms say VAT is added where required) Three self-service plans and Enterprise: Starter 79 € a month for 50 tracked prompts and 1 brand, 3 answer engines of your choice and 1 month of history; Pro 199 € a month for 150 prompts, 3 brands, data exports, monthly site audits and 2 months of…
+- Verdict: Superlines: Billed yearly the cards show 69 €, 175 € and 333 € a month, labelled Save 12%. Starter has no data exports and only 1 month of history.
+- Price: (read 2026-10-16 in a browser on superlines.io/pricing, For brands tab, monthly and yearly view, prices shown in euros; the terms say VAT is added where required. Re-verified 2026-11-13 with a plain fetch) Three self-service plans and Enterprise: Starter 79 € a month for 50 tracked prompts and 1 brand, 3 answer engines of your choice and 1 month of history; Pro 199 € a month for 150 prompts, 3 brands, data…
 
 ## SurFox AI
 - Review: https://marketingandsalessoftware.com/surfox-ai-review.html

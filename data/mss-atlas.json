@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 310,
-  "flags": 462,
+  "tools": 311,
+  "flags": 463,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -78,6 +78,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-13",
    "first_observed_at": "2026-08-15"
+  },
+  {
+   "name": "AddressHero",
+   "category": "E-commerce",
+   "domain": "addresshero.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/addresshero-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "Lite · Lite $9.99 a month flat",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-13 on addresshero.com/pricing, US dollars) AddressHero sells three plans for Shopify stores, each with a 14-day free trial. Lite costs $9.99 a month flat and is described as minimal, for early-stage stores. Pro costs $0.04 per validated order and is for stores that optimise profit at scale. Enterprise has no listed price, is billed per address and is aimed at stores with 50,000 or more orders a month; the page offers a demo instead. The terms say prices are net of applicable taxes, all charges are billed in USD, and recurring and usage-based charges are billed every 30 days. Per the vendor's docs, read 15 October 2026, Lite does not validate against address databases and does not correct automatically, while Pro adds post-checkout validation, automatic correction, customer prompts on the Thank You and Order Status pages, order tagging, on-hold workflows, customer emails and a Klaviyo integration. The pricing page lists the correction features in a shared feature list without saying which plan has which, so we follow the docs. Pro bills every validated order, whether the address was right or wrong; orders without a shipping address are not validated or billed. The docs say a self-configurable spending stop below the default limit does not exist today. We did not install the app, so we do not know the real cost for a store of your size.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-13",
+   "first_observed_at": "2026-11-13"
   },
   {
    "name": "Adwave",
@@ -2088,19 +2103,19 @@
    "category": "Sales & CRM",
    "domain": "dripify.com",
    "review_url": "https://aibuildermarketplace.com/b2b/dripify-review/",
-   "from_price_usd_mo": 39.0,
-   "entry_price": "$39",
-   "entry_price_terms": "Basic (per user) · per user per month billed annually",
+   "from_price_usd_mo": 59.0,
+   "entry_price": "$59",
+   "entry_price_terms": "Pro (per user) · per user per month billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Four tiers, priced per user: Basic $39, Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only. Month to month the same tiers read $59, $79 and $99 per user; both columns sit in the page and the FAQ repeats all six numbers in words. A 7-day free trial runs without a credit card. So the 'up to 35% off' the toggle advertises is real but front-loaded: you pay a year up front to get it, and the discount shrinks as you go up the range — about 34 percent on Basic, 25 on Pro, 20 on Advanced. What each tier buys is unusually consequential here, and the page now prints the daily quotas instead of calling them 'limited': Basic sends 20 connection requests, 30 messages, 10 Sales Navigator InMails and 100 profile views a day, against 75, 100+, 30 and 200+ on Pro and Advanced. Basic is also capped at one drip campaign; unlimited campaigns and full quotas start at Pro, which adds a dedicated inbox, CSV export and the webhook and HubSpot integrations, and Advanced adds multi-team management, advanced LinkedIn protection, lead tagging, step analytics and evergreen leads. Every tier includes 100 email-finder credits a month and the top-ups are priced openly: 1,000 credits $29, 2,000 $49, 5,000 $69, 10,000 $99. One seat connects one LinkedIn account, so five reps means five seats, and ten or more seats goes through sales. Re-read 10 October 2026: prices and daily quotas unchanged, and Pro now also lists an Open API and an MCP server.",
+   "price_note": "(re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only. The $39 Basic tier we recorded in August is gone from the page as of the 13 November 2026 reading. Month to month the two paid tiers read $79 and $99 per user; both columns sit in the page and the FAQ repeats all four numbers in words. A 7-day free trial runs without a credit card. So the 'up to 35% off' the toggle advertises is real but front-loaded: you pay a year up front to get it, and the discount shrinks as you go up the range — about 25 percent on Pro and 20 on Advanced. What each tier buys is unusually consequential here. On the 10 October reading the page printed the daily quotas (75 connection requests, 100+ messages, 30 Sales Navigator InMails and 200+ profile views a day on Pro and Advanced); the 13 November pricing page no longer prints them. Unlimited drip campaigns start at Pro, which adds a dedicated inbox, CSV export and the webhook and HubSpot integrations, and Advanced adds multi-team management, advanced LinkedIn protection, lead tagging, step analytics and evergreen leads. Every tier includes 100 email-finder credits a month and the top-ups are priced openly: 1,000 credits $29, 2,000 $49, 5,000 $69, 10,000 $99. One seat connects one LinkedIn account, so five reps means five seats, and ten or more seats goes through sales. Re-read 10 October 2026: prices and daily quotas unchanged, and Pro now also lists an Open API and an MCP server. Re-read 13 November 2026: Basic is gone; Pro now lists built-in LinkedIn protection, 24/7 live support, an open API and an MCP server, and Advanced adds team management, advanced LinkedIn protection, lead tagging, step analytics, A/B testing and evergreen leads. A partner mail of 9 November 2026 said Dripify is now available on Pro and Advanced plans only, which matches the page.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Four tiers, priced per user: Basic $39, Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only.",
-     "evidence_excerpt": "(re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Four tiers, priced per user: Basic $39, Pro $59 and Advanced $79 per user per month billed annua…",
+     "evidence": "(re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only.",
+     "evidence_excerpt": "(re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus …",
      "source_url": "https://dripify.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-13"
     },
     {
      "flag": "usage_metered",
@@ -2108,11 +2123,11 @@
      "evidence_excerpt": null,
      "source_url": "https://dripify.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-08-26"
   },
   {
@@ -4876,14 +4891,6 @@
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-09-30"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "Three tiers our earlier reading missed sit alongside these: a free Forms/Surveys plan at $0 with 100 leads a month, Startup Basic at $55/$35 ('only new companies can apply') with 750 leads, and Startup Special at $85/$55 ('only startups and small businesses can apply') with 8 content types, 6 pieces and the same 1,000-lead cap as Freelancer Pro.",
-     "evidence_excerpt": "Three tiers our earlier reading missed sit alongside these: a free Forms/Surveys plan at $0 with 100 leads a month, Startup Basic at $55/$35 ('only new companies can apply') with 750 leads, and Start…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
     }
    ],
    "researched": "2026-07",
@@ -5407,19 +5414,27 @@
    "entry_price": "€69",
    "entry_price_terms": "Campaigns · per month billed annually, 1 seat included",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a library of ready-made workflows, unlimited contacts, up to 60,000 emails a year, up to 6,000 WhatsApp messages a year and 5 active workflows. Marketing Automation Suite is €199 a month with 2 seats and adds real-time visitor tracking, website personalisation, pop-ups, event tracking, a 360-degree contact view, advanced segmentation and AI agents, with 24,000 WhatsApp messages a year, 20 active workflows, 50 forms and 50 landing pages. Customer Engagement Platform is €499 a month with 2 seats and adds product recommendations, web push and the advanced data platform, with up to 120,000 WhatsApp messages a year, 100 workflows, 100 forms and 100 landing pages. Every plan includes up to 60,000 emails a year. Extra seats cost €69, €99 or €199 a seat a month billed annually, depending on the plan. Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages are €29 a month each. A separate Data & Activation Suite for teams of 10 or more users is not priced on the page. The FAQ says monthly billing exists, but the page prints only annual prices; the free trial lasts 7 days with no card, auto-renewal is on by default, and cancelling stops the renewal without a refund.",
+   "price_note": "(read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually; re-verified 2026-11-13 with a plain fetch) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a library of ready-made workflows, unlimited contacts, up to 60,000 emails a year, up to 6,000 WhatsApp messages a year and 5 active workflows. Marketing Automation Suite is €199 a month with 2 seats and adds real-time visitor tracking, website personalisation, pop-ups, event tracking, a 360-degree contact view, advanced segmentation and AI agents, with 24,000 WhatsApp messages a year, 20 active workflows, 50 forms and 50 landing pages. Customer Engagement Platform is €499 a month with 2 seats and adds product recommendations, web push and the advanced data platform, with up to 120,000 WhatsApp messages a year, 100 workflows, 100 forms and 100 landing pages. Every plan includes up to 60,000 emails a year. Extra seats cost €69, €99 or €199 a seat a month billed annually, depending on the plan. Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages were €29 a month each on 7 October (€49 each on 13 November). A separate Data & Activation Suite for teams of 10 or more users was not priced on the page on 7 October. The FAQ says monthly billing exists, but the page prints only annual prices; the free trial lasts 7 days with no card, auto-renewal is on by default, and cancelling stops the renewal without a refund. Re-read on 13 November 2026: the three Marketing Suite prices, included seats and extra-seat prices are unchanged. The page now gives the allowances per month, 5,000 emails on every Marketing Suite plan and 500, 2,000 or 10,000 WhatsApp messages, the same totals as the yearly figures above. Three things changed. Forms and landing pages on Campaigns now cost €49 a month each, and the Marketing Automation Suite lists a Website Experience add-on at €59 a month. The Data & Activation Suite now has a published plan: Performance at €999 a month billed annually with 10 seats (extra seats €199 a seat a month), up to 300,000 emails a month, up to 100,000 marketing contacts and 10,000 WhatsApp messages a month; Limitless, with unlimited seats and sending, is priced through sales. The same page also sells a Newsletter Suite of rapidmail plans: Essential €15 and Professional €25 a month, or €20 for a single pay-as-you-go send. The FAQ now says add-ons are billed per seat, and that switching off auto-renewal on a Data & Activation plan takes 90 days' notice before the annual renewal date.",
    "flags": [
     {
-     "flag": "addons_extra",
-     "evidence": "Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages are €29 a month each.",
+     "flag": "per_seat",
+     "evidence": "The FAQ now says add-ons are billed per seat, and that switching off auto-renewal on a Data & Activation plan takes 90 days' notice before the annual renewal date.",
      "evidence_excerpt": null,
      "source_url": "https://www.user.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-13"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages were €29 a month each on 7 October (€49 each on 13 November).",
+     "evidence_excerpt": "Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages were €29 a month each on 7 October (€49…",
+     "source_url": "https://www.user.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-13"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-07"
   },
   {
@@ -6468,30 +6483,6 @@
    "first_observed_at": "2026-11-10"
   },
   {
-   "name": "Selleasy",
-   "category": "Growth & Revenue",
-   "domain": "logbase.io",
-   "review_url": "https://aibuildermarketplace.com/b2b/selleasy-review/",
-   "from_price_usd_mo": 9.0,
-   "entry_price": "$9",
-   "entry_price_terms": "Starter · per month, flat, unlimited orders and campaigns",
-   "pricing_status": "public",
-   "price_note": "(prices read 2026-10-30 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/selleasy/pricing; the order-based ladder read on 19 September and 20 October 2026 has been replaced) Billed in USD through Shopify, recurring charges every 30 days. Four flat plans, each with unlimited orders. Free costs nothing and allows up to 5 campaigns, with the 18 upsell and cross-sell strategies, Shopify and manual recommendations, and chat, email and Zoom support. Starter is $9 a month or $91 a year and adds unlimited campaigns, 50 free AI recommendations and free setup on a call. Pro is $29 a month or $295 a year and adds 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $59 a month or $601 a year and adds 2,500 AI recommendations a month, advanced customizations, a rules engine, an AOV advisor and priority support. The paid plans carry a 30-day free trial. An Enterprise plan is quoted on request.\n\nWhat changed: until October 2026 Starter was priced by your store's total monthly orders (free to 50, $9 to 500, $19 to 1,000, $29 above), and Pro and Max were $49 and $99. Logbase's pricing page still carries a block with that old ladder next to the new plan cards and comparison table on 30 October 2026; the App Store listing, which is what Shopify bills from, shows only the flat plans. Check the charge Shopify shows at install.",
-   "flags": [
-    {
-     "flag": "free_tier",
-     "evidence": "The free plan now caps campaigns instead of orders: up to 5, against unlimited from Starter at $9.",
-     "evidence_excerpt": null,
-     "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-30"
-    }
-   ],
-   "researched": "2026-07",
-   "price_verified_at": "2026-10-30",
-   "first_observed_at": "2026-10-30"
-  },
-  {
    "name": "Seller Investigators",
    "category": "E-commerce",
    "domain": "sellerinvestigators.com",
@@ -6809,6 +6800,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-09-18"
+  },
+  {
+   "name": "ShopTrueProfit",
+   "category": "E-commerce",
+   "domain": "shoptrueprofit.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/shoptrueprofit-review/",
+   "from_price_usd_mo": 7.0,
+   "entry_price": "$7",
+   "entry_price_terms": "Monthly · Monthly $7 a month with cancel anytime",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-13 on shoptrueprofit.com, dollar amounts as shown) ShopTrueProfit has three options. Free costs $0 and gives a full sample-data demo, your latest month, the Etsy, eBay and Amazon fee calculators, and files that stay in your browser. Monthly costs $7 a month and adds your full profit history, month, year-to-date, yearly and custom date ranges, comparison against the previous period, profit per order, product and month, ads return on spend, cloud sync and backup for Etsy data, and CSV exports; the page says you can cancel anytime. The Lifetime founding member offer is $59 one time, shown next to a struck-through $99, and includes everything in Monthly, all future updates and no subscription; the page says the discount is applied at checkout. Payments, receipts and sales tax are handled by Lemon Squeezy, and you get a license key by email. The page shows dollar signs without naming the currency. We did not buy a plan, so we do not know the tax added, when the founding price ends or what a refund looks like.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Monthly costs $7 a month and adds your full profit history, month, year-to-date, yearly and custom date ranges, comparison against the previous period, profit per order, product and month, ads return on spend, cloud sync and backup for Etsy data, and CSV exports; the page says you can cancel anytime.",
+     "evidence_excerpt": "Monthly costs $7 a month and adds your full profit history, month, year-to-date, yearly and custom date ranges, comparison against the previous period, profit per order, product and month, ads return…",
+     "source_url": "https://shoptrueprofit.com/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-13"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Free costs $0 and gives a full sample-data demo, your latest month, the Etsy, eBay and Amazon fee calculators, and files that stay in your browser.",
+     "evidence_excerpt": null,
+     "source_url": "https://shoptrueprofit.com/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-13"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-13",
+   "first_observed_at": "2026-11-13"
   },
   {
    "name": "Shorby",
@@ -7428,10 +7451,10 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-10-16 in a browser on superlines.io/pricing, For brands tab, monthly and yearly view, prices shown in euros; the terms say VAT is added where required) Three self-service plans and Enterprise: Starter 79 € a month for 50 tracked prompts and 1 brand, 3 answer engines of your choice and 1 month of history; Pro 199 € a month for 150 prompts, 3 brands, data exports, monthly site audits and 2 months of history; Growth 379 € a month for 300 prompts, 7 brands, API access, weekly site audits, 6 months of history and priority support. Billed yearly the cards show 69 €, 175 € and 333 € a month, labelled Save 12%. Enterprise is custom priced, with up to 10 answer engines, 400+ prompts, unlimited brands, all-time history and SSO/SAML. Every tier lists unlimited seats and every self-service card a 7-day free trial. The agency tab lists the same price points with 5, 10 and 20 client brands. The terms say fees are non-refundable except under the warranty remedy, and paid subscriptions renew automatically unless you give 30 days' written notice.",
+   "price_note": "(read 2026-10-16 in a browser on superlines.io/pricing, For brands tab, monthly and yearly view, prices shown in euros; the terms say VAT is added where required. Re-verified 2026-11-13 with a plain fetch) Three self-service plans and Enterprise: Starter 79 € a month for 50 tracked prompts and 1 brand, 3 answer engines of your choice and 1 month of history; Pro 199 € a month for 150 prompts, 3 brands, data exports, monthly site audits and 2 months of history; Growth 379 € a month for 300 prompts, 7 brands, API access, weekly site audits, 6 months of history and priority support. Billed yearly the cards show 69 €, 175 € and 333 € a month, labelled Save 12%. Enterprise is custom priced, with up to 10 answer engines, 400+ prompts, unlimited brands, all-time history and SSO/SAML. Every tier lists unlimited seats and every self-service card a 7-day free trial. The agency tab lists the same price points with 5, 10 and 20 client brands. The terms say fees are non-refundable except under the warranty remedy, and paid subscriptions renew automatically unless you give 30 days' written notice. Re-read on 13 November 2026: prices, yearly rates, prompts, brands, history limits and the 7-day trial are unchanged. The Starter card lists unlimited competitors, the Action Center and the MCP server; exports start on Pro and the API on Growth.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
+   "price_verified_at": "2026-11-13",
    "first_observed_at": "2026-10-16"
   },
   {
