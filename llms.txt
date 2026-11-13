@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent reviews of marketing, sales, e-commerce and growth software. 232 full reviews live here as the canonical version, 48 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-13.
+> Independent reviews of marketing, sales, e-commerce and growth software. 233 full reviews live here as the canonical version, 48 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-13.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -73,7 +73,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [PartnerStack](https://marketingandsalessoftware.com/partnerstack-review.html): tested 2026-08-26
 - [Cloro](https://marketingandsalessoftware.com/cloro-review.html): tested 2026-08-19
 
-## Reviews (232) — canonical versions
+## Reviews (233) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [ActiveCampaign Review (2026): From $15/mo, Tested Sep 2026](https://marketingandsalessoftware.com/activecampaign-review.html) (tested hands-on): ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
@@ -203,6 +203,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [LocalTry Review (2026): CRM With a Built-In AI Command Layer](https://marketingandsalessoftware.com/localtry-review.html): LocalTry: Core is $59 a month for 2 users and 1 workspace, Operator is $99 a month for 5 users and 15 workspaces. A card is needed even for the 3-day 
 - [Loyalino Review (2026): The Program Pauses At Your Cap](https://marketingandsalessoftware.com/loyalino-review.html): Loyalino — Free: $0 for up to 200 loyalty orders a month. Reach your plan's order limit and the program does not cost more, it stops.
 - [Lusha Review (2026): 40 Free Credits, and a Phone Costs 5 of Them](https://marketingandsalessoftware.com/lusha-review.html): Lusha: Free is $0 with 40 credits a month, 1 seat and no credit card. Annual credits are granted upfront and reset at the end of the year.
+- [MailVeri Review (2026): Bulk Email Verification, Pay as You Go](https://marketingandsalessoftware.com/mailveri-review.html): MailVeri sells pay-as-you-go credit packs with no subscription. The accuracy and savings figures come from MailVeri’s own pricing page and comparison 
 - [ManyChat Review (2026): The Free Plan Is 25 Contacts](https://marketingandsalessoftware.com/manychat-review.html): ManyChat — Free: $0, 25 active contacts, 2 channels, 1 user. Natural-language handling sits behind that add-on, $29/month on top of Pro only.
 - [MarketerHire Review (2026): No Rate Card, Only a Retainer](https://marketingandsalessoftware.com/marketerhire-review.html): MarketerHire: No rates are published on the pricing page or in the FAQ. Right when a great marketer would pay for themselves, wrong as a budget stopga
 - [Marketing 360 Review (2026): Quote Only, Design Extra](https://marketingandsalessoftware.com/marketing-360-review.html): Marketing 360: Quote-based, and deliberately so (verified on their own site on 6 September, 25 September and 23 October 2026).
@@ -281,7 +282,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Stackable Review (2026): From $19.99/mo, Checked Nov 2026](https://marketingandsalessoftware.com/stackable-review.html): Stackable: Unlimited is $99.99 a month, or $999.99 a year on the same 17%. The two halves of the pitch are priced five times apart.
 - [Stamped Review (2026): From $23/mo, Checked Sep 2026](https://marketingandsalessoftware.com/stamped-review.html): Stamped: Reviews, at $23/month at the 200-order step and $99/month at 1,000 orders. The $798/month figure that circulates for the full suite is real.
 - [Storista Review (2026): Free Plan, Then $15/mo for Branding-Free](https://marketingandsalessoftware.com/storista-review.html): Storista: Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok. The rating deserves its detail.
-- [Super Review (2026): Free Tier, Then $4.99/mo](https://marketingandsalessoftware.com/super-review.html): Super: The free plan in the listing header is the Development tier. If you are on Shopify Plus, the price block on the listing is not the one you pay 
+- [Super Review (2026): From $4.99/mo, Free Only for Dev Stores](https://marketingandsalessoftware.com/super-review.html): Super: The free plan in the listing header is the Development tier. If you are on Shopify Plus, the price block on the listing is not the one you pay 
 - [Superlines Review (2026): AI Search Visibility From 79 € a Month](https://marketingandsalessoftware.com/superlines-review.html) (tested hands-on): Superlines: Billed yearly the cards show 69 €, 175 € and 333 € a month, labelled Save 12%. Starter has no data exports and only 1 month of history.
 - [SurFox AI Review (2026): $49 AI Lead Texting, Tested in a Sandbox](https://marketingandsalessoftware.com/surfox-ai-review.html) (tested hands-on): SurFox AI: Growth Plus is $1,497 a month. Billing starts at signup, but you cannot send a text until US carriers approve your A2P registration.
 - [SurveySparrow Review (2026): No Monthly Billing, Only Quarterly](https://marketingandsalessoftware.com/surveysparrow-review.html): SurveySparrow: On quarterly billing those same three plans are $39, $59 and $149 a month — roughly double. The conversational-survey UX is the draw.
