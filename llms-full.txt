@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 231 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-13.
+> All 232 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-13.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -1175,6 +1175,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Ship.com: Growth costs $19.99 a month, or $14 a month on the yearly toggle. Postage is billed on top of every plan, the page shows no postage rates.
 - Price: (read 2026-11-12 on ship.com/pricing, US dollars) Ship.com sells four plans, and you pay postage on top of every one. Starter costs $4.99 a month, is sold monthly only and covers up to 10 shipments a month, discounted rates, email support and one platform integration.
+
+## ShopTrueProfit
+- Review: https://marketingandsalessoftware.com/shoptrueprofit-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: ShopTrueProfit: Free costs $0 and gives a full sample-data demo, your latest month, the Etsy, eBay and Amazon fee calculators.
+- Price: (read 2026-11-13 on shoptrueprofit.com, dollar amounts as shown) ShopTrueProfit has three options. Free costs $0 and gives a full sample-data demo, your latest month, the Etsy, eBay and Amazon fee calculators, and files that stay in your browser.
 
 ## Signitic
 - Review: https://marketingandsalessoftware.com/signitic-review.html
