@@ -351,8 +351,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Dripify
 - Review: https://marketingandsalessoftware.com/dripify-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Dripify: Month to month the same tiers read $59, $79 and $99 per user. Understand what you are buying before the price matters.
-- Price: (re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Four tiers, priced per user: Basic $39, Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only. Month to month the same tiers read $59, $79 and $99 per user; both columns sit in the page and the FAQ repeats all six numbers in words.
+- Verdict: Dripify — Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only.
+- Price: (re-verified 2026-08-26 on their own pricing page — note that dripify.io now redirects to dripify.com) Three tiers, priced per user: Pro $59 and Advanced $79 per user per month billed annually, plus an Enterprise tier that is quote-only. The $39 Basic tier we recorded in August is gone from the page as of the 13 November 2026 reading.
 
 ## Dripshipper
 - Review: https://marketingandsalessoftware.com/dripshipper-review.html
