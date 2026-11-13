@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent reviews of marketing, sales, e-commerce and growth software. 235 full reviews live here as the canonical version, 49 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-13.
+> Independent reviews of marketing, sales, e-commerce and growth software. 235 full reviews live here as the canonical version, 50 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-13.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -22,8 +22,9 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Build a Repeatable Content Workflow](https://marketingandsalessoftware.com/build-content-engine.html): Build a repeatable research, creation, distribution and newsletter workflow with reviewed tools, documented limits and dated evidence.
 - [Build a Shopify Store Workflow (2026)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): Plan a Shopify store workflow by task: theme, fulfilment, campaign pages, reviews and post-purchase offers, with documented fit and costs.
 
-## Tested hands-on (49): first-hand findings
+## Tested hands-on (50): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
+- [FullEnrich](https://marketingandsalessoftware.com/fullenrich-review.html): tested 2026-11-13. Measured 2026-11-13: The home screen offers a Quick enrichment form with two checkboxes: Mobile phone at 10 credits and Work email at 1 credit. Only work email was ticked by default. You enter a LinkedIn URL or a name and…
 - [Geotargetly](https://marketingandsalessoftware.com/geotargetly-review.html): tested 2026-11-13. Measured 2026-11-13: The trial needs no card. The subscription screen read '$0/mo on your free trial' with Payment Method None, and the account showed 13 days left. We joined an existing trial account, so we did not see the…
 - [RankBolt](https://marketingandsalessoftware.com/rankbolt-review.html): tested 2026-11-12. Measured 2026-11-12: Onboarding had eight steps. The Search Console and website-connection steps were optional, with 'Skip for now' and 'Skip & get started'. No card was requested; the site says every new account gets a 3-day…
 - [Hello Bar](https://marketingandsalessoftware.com/hello-bar-review.html): tested 2026-11-06. Measured 2026-11-06: Onboarding took three steps. The first asks for your website address, marked required, and says it will help you install Hello Bar. The second can be skipped. The third asks where new leads should go, with…
@@ -164,7 +165,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [folk Review (Tested 2026): Standard Has No Zapier, No API](https://marketingandsalessoftware.com/folk-review.html) (tested hands-on): folk: $30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly. One gap has closed and one has narrowed.
 - [Frase Review (2026): From $39/mo, Tested Oct 2026](https://marketingandsalessoftware.com/frase-review.html) (tested hands-on): Frase: Starter $39/mo billed yearly against $49/mo monthly. The article quotas pinch if you publish at volume (overage docs bill each).
 - [Froonze Review (2026): Shopify Loyalty, Free Under 100 Orders](https://marketingandsalessoftware.com/froonze-review.html): Froonze: Free, then $10, $20 and $40 by order volume. Modular pricing is cheap per plugin but adds up.
-- [FullEnrich Review (2026): A Phone Number Costs 10x](https://marketingandsalessoftware.com/fullenrich-review.html): FullEnrich: Credit-based, and credits are spent only when data is found and passes verification. The pay-on-success model is refreshingly honest.
+- [FullEnrich Review (Tested 2026): A Phone Number Costs 10x](https://marketingandsalessoftware.com/fullenrich-review.html) (tested hands-on): FullEnrich: Credit-based, and credits are spent only when data is found and passes verification. The pay-on-success model is refreshingly honest.
 - [Gelato Review (2026): Gelato+ Pays Off at 7 Orders](https://marketingandsalessoftware.com/gelato-review.html): Gelato+ is $29.99 a month, or $19.99 a month billed annually. The free plan is usable, so the honest question is only whether Gelato+ earns its fee.
 - [GeoStock Review (2026): From $9.99/mo, Checked Sep 2026](https://marketingandsalessoftware.com/geostock-review.html): GeoStock: Two plans, no free tier. Know what this is before you buy it: despite the name it is a storefront widget, not an inventory system.
 - [Geotargetly Review (Tested 2026): Stop Paying, Rules Vanish](https://marketingandsalessoftware.com/geotargetly-review.html) (tested hands-on): Geotargetly, Six tiers: Dev $12/mo, Startup $24, Growth $49, Business $99, High Traffic $199, Enterprise from $349. The meter is pageviews, not visito

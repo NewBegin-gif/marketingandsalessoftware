@@ -542,7 +542,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## FullEnrich
 - Review: https://marketingandsalessoftware.com/fullenrich-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The home screen offers a Quick enrichment form with two checkboxes: Mobile phone at 10 credits and Work email at 1 credit. Only work email was ticked by default. You enter a LinkedIn URL or a name and…
 - Verdict: FullEnrich: Credit-based, and credits are spent only when data is found and passes verification. The pay-on-success model is refreshingly honest.
 - Price: (price re-verified 2026-09-23 against the vendor's own pricing page and its machine-readable pricing file fullenrich.com/pricing.md, which declares USD) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0. Credit costs, unchanged: work email 1, personal email 3, mobile phone 10, reverse email lookup 1, a…
 
