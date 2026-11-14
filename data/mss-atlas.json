@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 315,
-  "flags": 468,
+  "tools": 317,
+  "flags": 471,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -370,6 +370,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-02",
    "first_observed_at": "2026-10-02"
+  },
+  {
+   "name": "All in One SEO",
+   "category": "Marketing",
+   "domain": "aioseo.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/all-in-one-seo-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-14 on aioseo.com/pricing) All in One SEO sells four yearly plans. Basic covers 1 site with 10,000 AI credits and lists smart schema markup, WooCommerce SEO and XML sitemaps; it is shown at 49.50 for the first year and regular at 99. Plus covers 3 sites with 25,000 AI credits and adds local SEO; shown at 99.50, regular 199. Pro covers 10 sites with 50,000 AI credits and adds the internal link assistant and advanced redirects; shown at 199.50, regular 399. Elite covers 100 sites with 200,000 AI credits and adds keyword rank tracking and client management; shown at 299.50, regular 599. The page says all pricing is in USD but displayed euro amounts when we read it, so confirm the currency at checkout. All renewals are at full price. There is a 14-day money-back guarantee, renewals are non-refundable, and AI credits are refundable within 14 days if fewer than 500 were used. The page mentions no free version of the plugin.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Basic covers 1 site with 10,000 AI credits and lists smart schema markup, WooCommerce SEO and XML sitemaps; it is shown at 49.50 for the first year and regular at 99.",
+     "evidence_excerpt": null,
+     "source_url": "https://aioseo.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-14"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-14",
+   "first_observed_at": "2026-11-14"
   },
   {
    "name": "Alli AI",
@@ -1869,10 +1893,10 @@
    "entry_price": "$49",
    "entry_price_terms": "Compass · per month, one plan with every feature, billed in USD every 30 days through…",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-27 on the Compass listing in the Shopify App Store; the terms and privacy policy were read on 2026-10-15) Compass has a single plan with every feature included: $49 a month, or $490 a year, which the listing says saves 17%. There is a 14-day free trial and no free plan. The listing says all charges are billed in USD, every 30 days, through Shopify. Compass's site adds that there are no setup fees and that you can cancel at any time. We found no published refund policy, and no stated limit on Ask Compass questions, stores or ad accounts; the terms do say the AI assistant is for reasonable business use and that usage limits may be imposed.",
+   "price_note": "(read 2026-10-27 on the Compass listing in the Shopify App Store; the terms and privacy policy were read on 2026-10-15) Compass has a single plan with every feature included: $49 a month, or $490 a year, which the listing says saves 17%. There is a 14-day free trial and no free plan. The listing says all charges are billed in USD, every 30 days, through Shopify. Compass's site adds that there are no setup fees and that you can cancel at any time. We found no published refund policy, and no stated limit on Ask Compass questions, stores or ad accounts; the terms do say the AI assistant is for reasonable business use and that usage limits may be imposed. Re-read on 14 November 2026 with a plain fetch of the Shopify App Store listing: $49 a month or $490 a year (\"save 17%\"; $490 against twelve months at $49, which is $588, is 16.7% off), one plan with every feature, 14-day free trial, billed in USD every 30 days through Shopify. Unchanged. Compass's own site also has a page at thecompassapp.io/pricing-plans with tiered plans by ad spend in another currency; the site menu does not link it and it contradicts the listing, so we do not use it as the price (see the buyer questions).",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-27",
+   "price_verified_at": "2026-11-14",
    "first_observed_at": "2026-10-27"
   },
   {
@@ -4936,6 +4960,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-05",
    "first_observed_at": "2026-09-18"
+  },
+  {
+   "name": "OptinMonster",
+   "category": "Marketing",
+   "domain": "optinmonster.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/optinmonster-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$108",
+   "entry_price_terms": "Basic · per year, First-year price billed today on annual billing",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-14 on optinmonster.com/pricing, US dollars) OptinMonster sells four plans, billed yearly by default. Basic is $108 billed today and renews at $210 a year, for 1 site and 2,500 campaign impressions. Plus is $288 billed today and renews at $570 a year, for up to 2 sites and 10,000 impressions, and adds A/B testing and device targeting. Pro is $348 billed today and renews at $870 a year, for up to 3 sites and 25,000 impressions, and adds exit-intent, countdown timers and webhooks. Growth is $588 billed today and renews at $1,470 a year, for up to 5 sites and 100,000 impressions, and adds geolocation targeting, coupon wheel campaigns and eCommerce integrations. The page says all renewals are at full price and that every plan has a 14-day money-back guarantee. It also offers a free trial with 500 impression credits. It states annual plans cost 50% less than monthly ones but shows no monthly prices. An earlier read on 25 Oct 2026 showed higher first-year prices for Plus, Pro and Growth, so the first-year prices move.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "It also offers a free trial with 500 impression credits.",
+     "evidence_excerpt": null,
+     "source_url": "https://optinmonster.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-14"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "Basic is $108 billed today and renews at $210 a year, for 1 site and 2,500 campaign impressions.",
+     "evidence_excerpt": null,
+     "source_url": "https://optinmonster.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-14"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-14",
+   "first_observed_at": "2026-11-14"
   },
   {
    "name": "Optizen",
@@ -8038,10 +8094,10 @@
    "entry_price": "$0.04",
    "entry_price_terms": "Light · per usage, per successful try-on, no monthly fee",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-24 on the Shopify App Store listing apps.shopify.com/tryyou, the vendor site tryyou.fly.dev, its terms and its privacy policy) Free to install with 10 free try-ons, then pay per successful try-on with no monthly subscription. The price depends on the quality level you pick: Light $0.04 (1024 × 1536), Medium $0.12, Pro $0.19 (1024 × 1536), HD $0.37 and Ultra $0.58 (1536 × 2048, 2K). The vendor's own example: 100 try-ons cost about $4 on Light and $19 on Pro. Volume discounts go up to 50% off, down to $0.02 per try-on, but the thresholds are not published. You set a monthly spending cap between $5 and $10,000; failed try-ons are never billed; all charges go on your Shopify invoice in USD, and the terms say prices exclude tax. Uninstalling stops billing.",
+   "price_note": "(read 2026-10-24 on the Shopify App Store listing apps.shopify.com/tryyou, the vendor site tryyou.fly.dev, its terms and its privacy policy) Free to install with 10 free try-ons, then pay per successful try-on with no monthly subscription. The price depends on the quality level you pick: Light $0.04 (1024 × 1536), Medium $0.12, Pro $0.19 (1024 × 1536), HD $0.37 and Ultra $0.58 (1536 × 2048, 2K). The vendor's own example: 100 try-ons cost about $4 on Light and $19 on Pro. Volume discounts go up to 50% off, down to $0.02 per try-on, but the thresholds are not published. You set a monthly spending cap between $5 and $10,000; failed try-ons are never billed; all charges go on your Shopify invoice in USD, and the terms say prices exclude tax. Uninstalling stops billing. Re-read on 14 November 2026 with a plain fetch of the Shopify App Store listing and tryyou.fly.dev: $0.04 to $0.58 per successful try-on by quality level (Light $0.04, Medium $0.12, Pro $0.19, HD $0.37, Ultra $0.58), first 10 free, volume discount down to $0.02, a monthly cap between $5 and $10,000, billed in USD through Shopify. Unchanged.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-24",
+   "price_verified_at": "2026-11-14",
    "first_observed_at": "2026-10-24"
   },
   {
