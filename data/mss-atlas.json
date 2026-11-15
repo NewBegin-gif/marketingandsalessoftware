@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 317,
-  "flags": 471,
+  "tools": 319,
+  "flags": 473,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -103,10 +103,10 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-11-09 on waverunner.adwave.com/pricing, the wallet and billing help page) Adwave has no subscription for businesses: you fund a prepaid wallet and live campaigns charge their daily budget from it. A top-up can be any amount from $30 to $50,000, with presets of $100, $250 and $1,000. Card top-ups add the card processing fee on top, so the wallet receives the full amount you chose; bank (ACH) top-ups carry no added fee. Auto-refill is optional, with a default and minimum refill of $100. The page says the daily budget is the whole media bill, there are no hidden fees, and tracking, reporting and API access are free. Your first campaign comes with free starter ads; later ad generation and Ad Library extras use published unit prices that you see before you accept. Agencies pay a licence, and the page does not state its price.",
+   "price_note": "(read 2026-11-09 on waverunner.adwave.com/pricing, the wallet and billing help page) Adwave has no subscription for businesses: you fund a prepaid wallet and live campaigns charge their daily budget from it. A top-up can be any amount from $30 to $50,000, with presets of $100, $250 and $1,000. Card top-ups add the card processing fee on top, so the wallet receives the full amount you chose; bank (ACH) top-ups carry no added fee. Auto-refill is optional, with a default and minimum refill of $100. The page says the daily budget is the whole media bill, there are no hidden fees, and tracking, reporting and API access are free. Your first campaign comes with free starter ads; later ad generation and Ad Library extras use published unit prices that you see before you accept. Agencies pay a monthly licence: the agencies guide read on 15 November 2026 lists Agency $499, Growth $1,999 and Scale $4,999 a month; managed client media is billed at cost from the agency wallet. Re-read on 15 November 2026 with a plain fetch of the wallet and billing page: top-ups $30 to $50,000, presets $100, $250 and $1,000, auto-refill default and minimum $100, unchanged.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-09",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-09"
   },
   {
@@ -823,6 +823,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-09",
    "first_observed_at": "2026-10-05"
+  },
+  {
+   "name": "BeSure Checkout Rules",
+   "category": "E-commerce",
+   "domain": "checkoutrules.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/besure-checkout-rules-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$4.99",
+   "entry_price_terms": "Starter · per monthly, Starter $4.99 a month or $49.90 a year with 2 rules in total",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-15 on checkoutrules.com/pricing and the Shopify App Store listing, US dollars, billed through Shopify every 30 days) BeSure Checkout Rules has a Free plan that lets you test rules in testing status and works on Shopify development stores, so rules cannot go live on it. Starter costs $4.99 a month or $49.90 a year and allows only 2 rules. Advanced costs $12.99 a month or $129.90 a year and allows up to 5 shipping, 5 payment, 5 validation and 5 discount rules. Premium costs $29.99 a month or $299.90 a year and allows up to 25 rules in each of those four categories, marked with an asterisk that the page does not explain. Each paid plan has a 5-day free trial, once per Shopify store. We did not install the app, so we do not know what Shopify adds in tax.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-15",
+   "first_observed_at": "2026-11-15"
   },
   {
    "name": "BidX",
@@ -8046,7 +8061,7 @@
    "entry_price": "$29.99",
    "entry_price_terms": "Lite · Lite billed monthly, 1 connected store, 25 product imports…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-08 on tradelle.io/pricing, US dollars) Tradelle sells dropshipping product research and order fulfillment in three subscription tiers plus a one-time Lifetime Max. Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year; Starter is $49.99 a month, or $32.50 a month billed as $390 a year; Pro is $79.99 a month, or $54.99 a month billed as $659.88 a year. Lifetime Max is $1,299 once. The tiers differ by quota: Lite has 1 connected store, 25 product imports and 100 orders shipped by Tradelle a month; Starter 3 stores, 250 imports and 500 orders; Pro is unlimited on all of those. Every plan starts with a 7-day trial for $1 after which the selected plan begins; the terms say the $1 is non-refundable. The page also shows a 14-day money-back guarantee. The subscription is not the whole cost: fulfilled orders are charged separately for product cost and shipping, once a day, and Tradelle's product prices exclude VAT. We did not open a checkout, so optional add-ons offered there are unknown.",
+   "price_note": "(read 2026-11-08 on tradelle.io/pricing, US dollars) Tradelle sells dropshipping product research and order fulfillment in three subscription tiers plus a one-time Lifetime Max. Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year; Starter is $49.99 a month, or $32.50 a month billed as $390 a year; Pro is $79.99 a month, or $54.99 a month billed as $659.88 a year. Lifetime Max is $1,299 once. The tiers differ by quota: Lite has 1 connected store, 25 product imports and 100 orders shipped by Tradelle a month; Starter 3 stores, 250 imports and 500 orders; Pro is unlimited on all of those. Every plan starts with a 7-day trial for $1 after which the selected plan begins; the terms say the $1 is non-refundable. The page also shows a 14-day money-back guarantee. The subscription is not the whole cost: fulfilled orders are charged separately for product cost and shipping, once a day, and Tradelle's product prices exclude VAT. We did not open a checkout, so optional add-ons offered there are unknown. Re-read on 15 November 2026 with a plain fetch of tradelle.io/pricing: Lite $29.99, Starter $49.99 and Pro $79.99 a month, or $239.88, $390 and $659.88 a year, Lifetime Max $1,299 once, the $1 trial and the 14-day guarantee, unchanged.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -8054,11 +8069,11 @@
      "evidence_excerpt": null,
      "source_url": "https://www.tradelle.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-08"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-08",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-08"
   },
   {
@@ -8424,6 +8439,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-25",
    "first_observed_at": "2026-09-25"
+  },
+  {
+   "name": "VoiceDrop",
+   "category": "Sales & CRM",
+   "domain": "voicedrop.ai",
+   "review_url": "https://aibuildermarketplace.com/b2b/voicedrop-review/",
+   "from_price_usd_mo": 95.0,
+   "entry_price": "$95",
+   "entry_price_terms": "Budget · Budget $95 a month with 500 voice units",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-15 on voicedrop.ai/pricing and the home page FAQ, US dollars a month) VoiceDrop sells ringless voicemail by usage units. Budget costs $95 a month for 500 units and 1,000 static voicemails, with one voice clone seat and no account manager. Individual costs $495 a month for 6,500 units. Growth costs $995 a month for 15,000 units and includes an account manager. Scale costs $1,995 a month for 40,000 units. Enterprise has custom pricing from 1,000,000 units. One unit spans 150 to 500 characters of your script and a static recording costs 0.5 units. You are charged only for successful deliveries, and unused units roll over for 90 days. Choosing quarterly billing saves 8% and annual billing gives 2 months free. A card is needed for the 7-day free trial, which includes $20 of credits, about 200 messages. Calls that come in to your VoiceDrop numbers cost 2 cents a minute, rounded up to the full minute. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "A card is needed for the 7-day free trial, which includes $20 of credits, about 200 messages.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.voicedrop.ai/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-15"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Choosing quarterly billing saves 8% and annual billing gives 2 months free.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.voicedrop.ai/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-15"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-15",
+   "first_observed_at": "2026-11-15"
   },
   {
    "name": "Volza",

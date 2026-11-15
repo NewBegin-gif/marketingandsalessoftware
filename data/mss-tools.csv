@@ -3,7 +3,7 @@ name,category,domain,from_price_usd_mo,flags,review_url,researched,entry_price,e
 ActiveCampaign,Growth & Revenue,activecampaign.com,15.0,addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/activecampaign-review/,2026-07,$15,per month billed annually (1 user),public,2026-10-09
 AdCreative.ai,Growth & Revenue,adcreative.ai,39.0,usage_metered,https://aibuildermarketplace.com/b2b/adcreative-ai-review/,2026-07,$39,a month for 10 credits and 1 brand,public,2026-09-13
 AddressHero,E-commerce,addresshero.com,9.99,,https://aibuildermarketplace.com/b2b/addresshero-review/,2026-07,$9.99,Lite · Lite $9.99 a month flat,public,2026-11-13
-Adwave,Growth & Revenue,waverunner.adwave.com,,,https://aibuildermarketplace.com/b2b/adwave-review/,2026-07,,,see_details,2026-11-09
+Adwave,Growth & Revenue,waverunner.adwave.com,,,https://aibuildermarketplace.com/b2b/adwave-review/,2026-07,,,see_details,2026-11-15
 Adwisely,Growth & Revenue,adwisely.com,49.0,usage_metered,https://aibuildermarketplace.com/b2b/adwisely-review/,2026-07,$49,per month minimum on Self-Serve,public,2026-09-27
 AfterSell,Growth & Revenue,aftersell.com,34.99,usage_metered,https://aibuildermarketplace.com/b2b/aftersell-review/,2026-07,$34.99,"a month at 200 monthly orders, capped at $999.99",public,2026-09-27
 AgencyAnalytics,Growth & Revenue,agencyanalytics.com,,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/agencyanalytics-review/,2026-07,$20,"per client a month, billed annually ($25 month to month); from 25 clients it is a quote",public,2026-10-26
@@ -31,6 +31,7 @@ AWeber,Growth & Revenue,aweber.com,12.49,annual_lock|free_tier,https://aibuilder
 BabyLoveGrowth,Marketing,babylovegrowth.ai,,,https://aibuildermarketplace.com/b2b/babylovegrowth-review/,2026-07,€99,"a month, or €49–€59 billed yearly",public,2026-10-07
 Beefree,Growth & Revenue,beefree.io,25.0,free_tier,https://aibuildermarketplace.com/b2b/beefree-review/,2026-07,$25,per month billed yearly ($30 monthly),public,2026-10-13
 Beehiiv,Growth & Revenue,beehiiv.com,59.0,free_tier,https://aibuildermarketplace.com/b2b/beehiiv-review/,2026-07,$59,Lite… · billed monthly,public,2026-10-09
+BeSure Checkout Rules,E-commerce,checkoutrules.com,,,https://aibuildermarketplace.com/b2b/besure-checkout-rules-review/,2026-07,$4.99,"Starter · per monthly, Starter $4.99 a month or $49.90 a year with 2 rules in total",public,2026-11-15
 BidX,E-commerce,bidx.io,,usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/bidx-review/,2026-07,€495,Self Service Platform · per month PLUS an unpublished percentage of connected ad spend…,public,2026-10-13
 Birch,Growth & Revenue,bir.ch,49.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/birch-review/,2026-07,$49,"a month, up to $10K monthly ad spend (price then scales with spend)",public,2026-10-13
 Bitscale,Growth & Revenue,bitscale.ai,349.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/bitscale-review/,2026-07,$349,"per month for 15,000 (Booster $799 for 50,000)",public,2026-10-28
@@ -286,7 +287,7 @@ Timesact Preorder,E-commerce,timesact.com,5.0,usage_metered|addons_extra|free_ti
 TiXel,Marketing,effectify.io,,,https://aibuildermarketplace.com/b2b/tixel-review/,2026-07,$19.99,"Unlimited Plan · per month, or $119.94 a year at a stated 50% saving, on a one-day trial",public,2026-11-02
 TnC,E-commerce,effectify.io,,,https://aibuildermarketplace.com/b2b/tnc-review/,2026-07,$6.99,"Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",public,2026-10-22
 Track123,E-commerce,track123.com,9.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/track123-review/,2026-07,$9,"Growth · per month for 300 synced orders, $0.05 per extra order on monthly…",public,2026-10-21
-Tradelle,E-commerce,tradelle.io,29.99,addons_extra,https://aibuildermarketplace.com/b2b/tradelle-review/,2026-07,$29.99,"Lite · Lite billed monthly, 1 connected store, 25 product imports…",public,2026-11-08
+Tradelle,E-commerce,tradelle.io,29.99,addons_extra,https://aibuildermarketplace.com/b2b/tradelle-review/,2026-07,$29.99,"Lite · Lite billed monthly, 1 connected store, 25 product imports…",public,2026-11-15
 TrueReview,Growth & Revenue,truereview.co,49.0,addons_extra,https://aibuildermarketplace.com/b2b/truereview-review/,2026-07,$49,Starter · billed monthly,public,2026-10-15
 Try You,E-commerce,tryyou.fly.dev,0.04,,https://aibuildermarketplace.com/b2b/try-you-review/,2026-07,$0.04,"Light · per usage, per successful try-on, no monthly fee",public,2026-11-14
 UENI,Growth & Revenue,ueni.com,,,https://aibuildermarketplace.com/b2b/ueni-review/,2026-07,,,see_details,2026-09-26
@@ -302,6 +303,7 @@ VidPal,Growth & Revenue,vidpal.ai,12.0,usage_metered|free_tier,https://aibuilder
 Vify Order Printer,E-commerce,vify.io,,free_tier,https://aibuildermarketplace.com/b2b/vify-order-printer-review/,2026-07,$10.99,"Starter · per month, or $109 a year",public,2026-10-11
 Visibility Mesh,SEO & Marketing,visibilitymesh.com,29.0,,https://aibuildermarketplace.com/b2b/visibility-mesh-review/,2026-07,$29,"Starter · per month, Shopify app billed every 30 days in USD",public,2026-10-25
 Vista Social,Growth & Revenue,vistasocial.com,80.0,usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/vista-social-review/,2026-07,$80,"per month billed yearly ($99 monthly), 15 profiles, 2 users",public,2026-09-25
+VoiceDrop,Sales & CRM,voicedrop.ai,95.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/voicedrop-review/,2026-07,$95,Budget · Budget $95 a month with 500 voice units,public,2026-11-15
 Volza,Growth & Revenue,volza.com,,usage_metered,https://aibuildermarketplace.com/b2b/volza-review/,2026-07,"$1,500","a year (182 countries, 6,000 searches, 2 users)",public,2026-11-09
 VWO,Growth & Revenue,vwo.com,,quote_only,https://aibuildermarketplace.com/b2b/vwo-review/,2026-07,,,quote_only,2026-09-20
 VyReel,E-commerce,vy-reel.com,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/vyreel-review/,2026-07,$19,"Basic · per month for 10,000 storefront clicks and 50 videos, billed through…",public,2026-11-11
