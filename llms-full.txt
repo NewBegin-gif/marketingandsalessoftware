@@ -742,7 +742,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/leadpages-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Leadpages, Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access.
-- Price: (re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise, no free plan, and a 7-day free trial that requires a credit card and converts unless you cancel.
+- Price: (re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise and a 7-day free trial that requires a credit card and converts unless you cancel.
 
 ## LearnWorlds
 - Review: https://marketingandsalessoftware.com/learnworlds-review.html
