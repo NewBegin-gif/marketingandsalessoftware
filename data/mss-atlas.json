@@ -6897,7 +6897,7 @@
    "entry_price": "$49",
    "entry_price_terms": "Starter · per monthly, Starter is $49 a month, listed against a $100 regular price…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-13 on seonix.ai/pricing) Seonix has a free plan, a Starter plan and a custom Enterprise plan. Free costs $0 and covers a full website SEO audit, site health and page speed monitoring, an AI business profile, checks for broken links, duplicates and missing meta tags, an AI-search readiness check, and Search Console and GA4 analytics. Starter costs $49 a month, shown against a $100 regular price, or $470 a year shown against $1,200. It includes 1 website project, 30 AI articles a month, 50 AI edits a day, 5 AI cover images a day, auto-publish on a schedule, keyword research, the site audit and support. Enterprise is priced through sales and lists unlimited projects and content generation. The page mentions no free trial. First-time subscribers can ask for a refund within 14 days of the first payment, but only if nothing has been generated on the account. Monthly article limits do not roll over, and cancelling keeps access to the end of the paid period with no prorated refund. We did not pay for Starter: the vendor set it to free for our test, and we generated one article, so we cannot judge the other 29.",
+   "price_note": "(read 2026-11-13 on seonix.ai/pricing) Seonix has a free plan, a Starter plan and a custom Enterprise plan. Free costs $0 and covers a full website SEO audit, site health and page speed monitoring, an AI business profile, checks for broken links, duplicates and missing meta tags, an AI-search readiness check, and Search Console and GA4 analytics. Starter costs $49 a month, shown against a $100 regular price, or $470 a year shown against $1,200. It includes 1 website project, 30 AI articles a month, 50 AI edits a day, 5 AI cover images a day, auto-publish on a schedule, keyword research, the site audit and support. Enterprise is priced through sales and lists unlimited projects and content generation. The page mentions no free trial. First-time subscribers can ask for a refund within 14 days of the first payment, but only if nothing has been generated on the account. Monthly article limits do not roll over, and cancelling keeps access to the end of the paid period with no prorated refund. We did not pay for Starter: the vendor set it to free for our test, and we generated one article, so we cannot judge the other 29. Re-read on 15 November 2026 with a plain fetch of seonix.ai/pricing: Free $0, Starter $49 a month or $470 a year, Enterprise through sales, unchanged. The Yearly toggle says \"Save 20%\": $470 against 12 x $49 = $588 is a 20% saving.",
    "flags": [
     {
      "flag": "free_tier",
@@ -6905,11 +6905,11 @@
      "evidence_excerpt": null,
      "source_url": "https://seonix.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-15"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-13",
+   "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-13"
   },
   {
