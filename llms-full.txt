@@ -38,7 +38,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AgencyAnalytics
 - Review: https://marketingandsalessoftware.com/agencyanalytics-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-15. Measured 2026-11-15: The first Smart Report, created on 15 November, used the date range Last Month and its heading said October 2026, while the figures came from the audit of 15 November.
 - Verdict: AgencyAnalytics, One published rate: $20 USD per client / month billed annually, with no clients included in the base. Cost scales linearly with clients.
 - Price: One published rate: $20 USD per client / month billed annually, with no clients included in the base, so cost scales directly with your roster (24 clients cost $480 a month; from 25 clients the vendor points to volume pricing on request). Month to month is $25 per client: the card never prints it, but the page's own schema.org block publishes an AggregateOffer with lowPrice $20 and highPrice $25, which is exactly…
 
@@ -1328,7 +1328,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SurveySparrow
 - Review: https://marketingandsalessoftware.com/surveysparrow-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-15. Measured 2026-11-15: The free plan counter read 0/75 with a reset on Feb 15 2027 and 1/75 after one own response, so the app gives 75 responses per quarter, as the plan card says. The FAQ says 50 per month, which would be 150…
 - Verdict: SurveySparrow: On quarterly billing those same three plans are $39, $59 and $149 a month, roughly double. The conversational-survey UX is the draw.
 - Price: (re-verified 20 September 2026 from a US exit in New York; the euro ladder was read 14 September 2026 from Europe) SurveySparrow bills quarterly or yearly — there is no monthly option — and the two differ far more than the wording suggests. On yearly billing the survey line runs Basic $19, Starter $39 and Business $79 a month, above a forever-free plan (75 responses a quarter, 3 active surveys, 10 questions each)…
 

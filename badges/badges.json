@@ -1,5 +1,21 @@
 [
  {
+  "slug": "agencyanalytics",
+  "name": "AgencyAnalytics",
+  "review_url": "https://marketingandsalessoftware.com/agencyanalytics-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/agencyanalytics.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#agencyanalytics",
+  "tested_on": "2026-11-15",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "3 confirmed · 1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AgencyAnalytics hands-on test by Marketing & Sales Software, 15 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/agencyanalytics-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/agencyanalytics.svg\" width=\"340\" height=\"115\" alt=\"AgencyAnalytics hands-on test by Marketing &amp; Sales Software, 15 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "alttext-ai",
   "name": "AltText.ai",
   "review_url": "https://marketingandsalessoftware.com/alttext-ai-review.html",
@@ -655,6 +671,22 @@
   ],
   "alt": "Superlines hands-on test by Marketing & Sales Software, 2 Nov 2026: Vendor claims checked 3; 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/superlines-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/superlines.svg\" width=\"340\" height=\"115\" alt=\"Superlines hands-on test by Marketing &amp; Sales Software, 2 Nov 2026: Vendor claims checked 3; 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "surveysparrow",
+  "name": "SurveySparrow",
+  "review_url": "https://marketingandsalessoftware.com/surveysparrow-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/surveysparrow.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#surveysparrow",
+  "tested_on": "2026-11-15",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 2 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SurveySparrow hands-on test by Marketing & Sales Software, 15 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/surveysparrow-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/surveysparrow.svg\" width=\"340\" height=\"115\" alt=\"SurveySparrow hands-on test by Marketing &amp; Sales Software, 15 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "tapform",
