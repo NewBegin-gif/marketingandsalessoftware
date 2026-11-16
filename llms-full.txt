@@ -538,7 +538,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/flocksy-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Flocksy: The monthly ladder runs $1,699 to $5,899 a month. 'Unlimited' means unlimited queue, not unlimited throughput.
-- Price: Flat monthly plans priced by dedicated creative hours per business day: $1,199/mo for 2h/day, $1,699 (3h/day), $2,199 (4h/day), $2,599 (5h/day), $2,999 (6h/day), $3,399 (7h/day) and $3,799/mo for 8h/day, each billed annually and shown per month (re-verified 2026-09-23; every annual and monthly rate unchanged since 3 September and the annual ones since 6 August; the monthly ladder runs $1,699 to $5,899 a month,…
+- Price: Flat monthly plans priced by dedicated creative hours per business day: $1,199/mo for 2h/day, $1,699 (3h/day), $2,199 (4h/day), $2,599 (5h/day), $2,999 (6h/day), $3,399 (7h/day) and $3,799/mo for 8h/day, each billed annually and shown per month (re-verified 2026-09-23 and again 2026-11-16; every annual and monthly rate from 2 to 8 hours unchanged since 3 September and the annual ones since 6 August; the monthly…
 
 ## folk
 - Review: https://marketingandsalessoftware.com/folk-review.html
