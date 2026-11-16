@@ -308,7 +308,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Code Bulk Discounts
 - Review: https://marketingandsalessoftware.com/code-bulk-discounts-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: Vendor claim "Generate 500 lifetime codes". What we saw: The Free plan card says so and the generator form said Free codes remaining: 500 of 500 before the run of 20 codes. The counter after the run was…
 - Verdict: Code Bulk Discounts: Two plans, billed in USD every 30 days. Read the free plan's number twice, because the word doing the work is 'lifetime'.
 - Price: (prices read 2026-09-06 on apps.shopify.com/code-bulk and re-verified there on 2026-10-31, unchanged) Two plans, billed in USD every 30 days. Free costs nothing and covers 500 lifetime codes with CSV export.
 
@@ -484,7 +484,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/essential-upsell-cross-sell-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Essential Upsell & Cross Sell: Starter is $9.99 a month for up to $500. The plans are metered on revenue the app says it generated.
-- Price: (read 2026-10-02 on apps.shopify.com/essential-post-purchase-upsell and on essential-apps.com/upsell) Four plans, priced not on orders or views but on the extra revenue the app generates in a month. Free covers up to $100 of generated revenue with product-page and post-purchase offers, analytics and translations.
+- Price: (read 2 Oct 2026 on the Shopify listing and on the vendor's own page; the listing was read again on 16 Nov 2026 and the plan screen in the app was checked the same day) Plans are priced not on orders or views but on the extra revenue the app generates in a month. Free covers up to $100 of generated revenue with product-page and post-purchase offers, analytics and translations.
 
 ## Evey Events
 - Review: https://marketingandsalessoftware.com/evey-events-review.html
@@ -668,15 +668,15 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kedra AI Index
 - Review: https://marketingandsalessoftware.com/kedra-ai-index-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: Vendor claim "All 6 AI engines checked". What we saw: The Free plan line says all 6 AI engines are checked. On the AI visibility page the checks AI shopping agents and Live crawler check read Not measured…
 - Verdict: Kedra AI Index: Kedra has a Free plan and three paid plans. It works only on Shopify, and the visibility results come from the vendor's own tests.
 - Price: (read 2026-11-11 on the Shopify App Store listing, US dollars) Kedra has a Free plan and three paid plans. Free covers an AI visibility check on 5 AI engines, 3 AI fixes drafted and applied for you, llms.txt and agents.md files, and visits from ChatGPT and other AI assistants for the last 30 days.
 
 ## Kedra Checkout Rules & Upsells
 - Review: https://marketingandsalessoftware.com/kedra-checkout-rules-upsells-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: The Dutch App Store listing named a 7 day trial. The app and the Shopify approval screen showed a 5-day free trial ending on 21 Nov.
 - Verdict: Kedra Checkout Rules & Upsells: Starter is $6.99 a month, or $58.70 a year. The free plan runs a single rule with a single condition, and Starter only three.
-- Price: (read 2026-10-15 on the Shopify App Store listing apps.shopify.com/kedra-checkout-rules-1, prices in USD) Four plans, billed through your Shopify invoice. Free allows 1 active rule in total, of any type, with 1 condition per rule and 7 days of checkout analytics.
+- Price: (Shopify App Store listing, read 15 Oct 2026 and read again 16 Nov 2026, prices in USD) Four plans, billed through your Shopify invoice. Free allows 1 active rule in total, of any type, with 1 condition per rule and 7 days of checkout analytics.
 
 ## Kit
 - Review: https://marketingandsalessoftware.com/kit-review.html
@@ -1016,9 +1016,9 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Post Purchase Upsell Hero
 - Review: https://marketingandsalessoftware.com/post-purchase-upsell-hero-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Post Purchase Upsell Hero: One plan, Performance, free to install, at $0 a month plus usage charges. The 2.5% comes off revenue, not margin.
-- Price: (re-verified 2026-09-19 on apps.shopify.com/post-purchase-upsell-hero and the vendor's own site; amounts unchanged since 31 August, USD) One plan, Performance, free to install, at $0 a month plus usage charges. The usage table, read from the listing's own pricing-estimator data, has two tiers: 2.5% on the first $20,000 of upsell revenue in a month, and $0 from $20,001 up.
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: The dossier of 19 Sep named $0 a month. The plan card now shows $19 / 30 days struck through and $0 / 30 days with 14 trial days, the listing says $19/month with usage charges, and the Shopify Approve…
+- Verdict: Post Purchase Upsell Hero: One plan, Pay on Extra Sales, at $19 a month plus usage charges, with a 14 day free trial. The 2.5% comes off revenue, not margin.
+- Price: (Shopify listing, read 16 Nov 2026, USD; our reads of 31 August and 19 September 2026 showed $0 a month, so the monthly fee differs from those reads) One plan, Pay on Extra Sales, at $19 a month plus usage charges, with a 14 day free trial. The usage table, read from the listing's own pricing-estimator data, has two tiers: 2.5% on the first $20,000 of upsell revenue in a month, and $0 from $20,001 up.
 
 ## PostOnce
 - Review: https://marketingandsalessoftware.com/postonce-review.html
@@ -1082,9 +1082,9 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Rapid Search
 - Review: https://marketingandsalessoftware.com/rapid-search-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: Shopify showed a 14-day free trial ending on 30 Nov for the 5K plan. The app also gives every store unlimited sessions and products until November 30, 2026 without choosing a plan, after which the Free…
 - Verdict: Rapid Search: Basic 1 is $14 a month, or $140 a year, for 5,000 sessions and 100,000 products. The meter is your traffic, not your searches.
-- Price: (read 2026-09-26, re-read 2026-10-21 without changes, on apps.shopify.com/rapid-search and on the vendor's own pricing page at rapidsearch.app/pricing) Every plan carries every feature; the tiers differ only in monthly sessions and catalogue size. The Shopify listing shows four tiers.
+- Price: (read 26 Sep 2026 and 21 Oct 2026; the Shopify listing was read again on 16 Nov 2026, the vendor's own pricing page was last read on 21 Oct 2026) Every plan carries every feature; the tiers differ only in monthly sessions and catalogue size. The Shopify listing shows four tiers.
 
 ## Redeemly
 - Review: https://marketingandsalessoftware.com/redeemly-review.html

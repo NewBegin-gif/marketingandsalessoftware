@@ -186,6 +186,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/cloze-crm-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/cloze-crm.svg\" width=\"340\" height=\"115\" alt=\"Cloze CRM hands-on test by Marketing &amp; Sales Software, 31 Oct 2026: Vendor claims checked 6; 2 confirmed · 2 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "code-bulk-discounts",
+  "name": "Code Bulk Discounts",
+  "review_url": "https://marketingandsalessoftware.com/code-bulk-discounts-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/code-bulk-discounts.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#code-bulk-discounts",
+  "tested_on": "2026-11-16",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "3 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Code Bulk Discounts hands-on test by Marketing & Sales Software, 16 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/code-bulk-discounts-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/code-bulk-discounts.svg\" width=\"340\" height=\"115\" alt=\"Code Bulk Discounts hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "content-raptor",
   "name": "Content Raptor",
   "review_url": "https://marketingandsalessoftware.com/content-raptor-review.html",
@@ -309,6 +325,38 @@
   ],
   "alt": "Hello Bar hands-on test by Marketing & Sales Software, 6 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/hello-bar-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/hello-bar.svg\" width=\"340\" height=\"115\" alt=\"Hello Bar hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "kedra-ai-index",
+  "name": "Kedra AI Index",
+  "review_url": "https://marketingandsalessoftware.com/kedra-ai-index-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/kedra-ai-index.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#kedra-ai-index",
+  "tested_on": "2026-11-16",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Kedra AI Index hands-on test by Marketing & Sales Software, 16 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/kedra-ai-index-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kedra-ai-index.svg\" width=\"340\" height=\"115\" alt=\"Kedra AI Index hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "kedra-checkout-rules-upsells",
+  "name": "Kedra Checkout Rules & Upsells",
+  "review_url": "https://marketingandsalessoftware.com/kedra-checkout-rules-upsells-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/kedra-checkout-rules-upsells.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#kedra-checkout-rules-upsells",
+  "tested_on": "2026-11-16",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 1 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Kedra Checkout Rules & Upsells hands-on test by Marketing & Sales Software, 16 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/kedra-checkout-rules-upsells-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kedra-checkout-rules-upsells.svg\" width=\"340\" height=\"115\" alt=\"Kedra Checkout Rules &amp; Upsells hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "kit",
@@ -547,6 +595,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/poptin-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/poptin.svg\" width=\"340\" height=\"115\" alt=\"Poptin hands-on test by Marketing &amp; Sales Software, 30 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "post-purchase-upsell-hero",
+  "name": "Post Purchase Upsell Hero",
+  "review_url": "https://marketingandsalessoftware.com/post-purchase-upsell-hero-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/post-purchase-upsell-hero.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#post-purchase-upsell-hero",
+  "tested_on": "2026-11-16",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "2 confirmed · 1 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Post Purchase Upsell Hero hands-on test by Marketing & Sales Software, 16 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/post-purchase-upsell-hero-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/post-purchase-upsell-hero.svg\" width=\"340\" height=\"115\" alt=\"Post Purchase Upsell Hero hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "printify",
   "name": "Printify",
   "review_url": "https://marketingandsalessoftware.com/printify-review.html",
@@ -577,6 +641,22 @@
   ],
   "alt": "RankBolt hands-on test by Marketing & Sales Software, 12 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/rankbolt-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/rankbolt.svg\" width=\"340\" height=\"115\" alt=\"RankBolt hands-on test by Marketing &amp; Sales Software, 12 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "rapid-search",
+  "name": "Rapid Search",
+  "review_url": "https://marketingandsalessoftware.com/rapid-search-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/rapid-search.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#rapid-search",
+  "tested_on": "2026-11-16",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "3 confirmed · 1 contradicted · 1 not comparable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Rapid Search hands-on test by Marketing & Sales Software, 16 Nov 2026: Vendor claims checked 5; 3 confirmed · 1 contradicted · 1 not comparable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/rapid-search-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/rapid-search.svg\" width=\"340\" height=\"115\" alt=\"Rapid Search hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 5; 3 confirmed · 1 contradicted · 1 not comparable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "reply-io",
