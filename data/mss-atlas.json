@@ -3046,19 +3046,19 @@
    "entry_price": "$1,199",
    "entry_price_terms": "2 hours a day · per month billed annually",
    "pricing_status": "public",
-   "price_note": "Flat monthly plans priced by dedicated creative hours per business day: $1,199/mo for 2h/day, $1,699 (3h/day), $2,199 (4h/day), $2,599 (5h/day), $2,999 (6h/day), $3,399 (7h/day) and $3,799/mo for 8h/day, each billed annually and shown per month (re-verified 2026-09-23; every annual and monthly rate unchanged since 3 September and the annual ones since 6 August; the monthly ladder runs $1,699 to $5,899 a month, and the quarterly toggle is marked \"Save 17%+\" against \"Save 29%+\" for annual). Plans start at 2 daily hours and scale to 8, with custom teams beyond that; month-to-month costs more — on the 4h/day plan Flocksy prices annual billing as saving $10,800/yr versus monthly. The pricing page carries a 14-day money-back guarantee, says plan switches take effect on the next billing cycle, and lists every plan as \"No contracts\" and \"Cancel anytime\" beside the annual billing.",
+   "price_note": "Flat monthly plans priced by dedicated creative hours per business day: $1,199/mo for 2h/day, $1,699 (3h/day), $2,199 (4h/day), $2,599 (5h/day), $2,999 (6h/day), $3,399 (7h/day) and $3,799/mo for 8h/day, each billed annually and shown per month (re-verified 2026-09-23 and again 2026-11-16; every annual and monthly rate from 2 to 8 hours unchanged since 3 September and the annual ones since 6 August; the monthly ladder runs $1,699 to $5,899 a month, and the quarterly toggle is marked \"Save 17%+\" against \"Save 29%+\" for annual). Plans start at 2 daily hours and, since our 16 November reading, scale to 10: $4,199 a month annually ($6,599 monthly) for 9 hours and $4,599 ($7,299) for 10, with custom teams beyond that; month-to-month costs more — on the 4h/day plan Flocksy prices annual billing as saving $10,800/yr versus monthly. The pricing page carries a 14-day money-back guarantee (the terms of service, last updated 13 November 2025, say the refund is minus processing fees and at Flocksy's discretion), says plan switches take effect on the next billing cycle, and lists every plan as \"No contracts\" and \"Cancel anytime\" beside the annual billing.",
    "flags": [
     {
      "flag": "annual_lock",
-     "evidence": "Plans start at 2 daily hours and scale to 8, with custom teams beyond that; month-to-month costs more — on the 4h/day plan Flocksy prices annual billing as saving $10,800/yr versus monthly.",
-     "evidence_excerpt": null,
+     "evidence": "Plans start at 2 daily hours and, since our 16 November reading, scale to 10: $4,199 a month annually ($6,599 monthly) for 9 hours and $4,599 ($7,299) for 10, with custom teams beyond that; month-to-month costs more — on the 4h/day plan Flocksy prices annual billing as saving $10,800/yr versus monthly.",
+     "evidence_excerpt": "Plans start at 2 daily hours and, since our 16 November reading, scale to 10: $4,199 a month annually ($6,599 monthly) for 9 hours and $4,599 ($7,299) for 10, with custom teams beyond that; month-to-…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-23",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": null
   },
   {
