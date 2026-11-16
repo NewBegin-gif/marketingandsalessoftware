@@ -430,7 +430,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/engagebay-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: CSV import (only .csv, up to 25 MB or 25,000 rows) matched all four of our columns automatically, with 'First Name' mandatory. Options were a tag, 'Validate emails' (which needs paid credits), 'Merge…
 - Verdict: EngageBay: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat. The meter is contacts AND seats at once: prices are per user.
-- Price: (price re-verified 2026-09-18 and again on 2026-10-05 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members. All-in-One suite per user/month on monthly billing: Basic $14.99 (500 contacts), Growth $64.99 (5,000 contacts, marketing…
+- Price: (price re-verified 2026-09-18, 2026-10-05 and again on 2026-11-16 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members. All-in-One suite per user/month on monthly billing: Basic $14.99 (500 contacts), Growth $64.99 (5,000 contacts,…
 
 ## eReleases
 - Review: https://marketingandsalessoftware.com/ereleases-review.html
@@ -885,8 +885,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Omniseo
 - Review: https://marketingandsalessoftware.com/omniseo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Omniseo: Annual billing is $890 and $3,490 a year respectively. AI search visibility (GEO) is a young, fast-moving category.
-- Price: (re-verified 2026-08-17, 2026-09-28 and again on 2026-10-20 against the vendor's own pricing page) Essentials $89/mo (4 AI channels, 50 prompts, 5 seats), Professional $349/mo (10 AI channels, 100 prompts), Enterprise from $899/mo with custom terms and volume. Annual billing is $890 and $3,490 a year respectively, which the page describes as two months free.
+- Verdict: Omniseo: Annual billing is $450, $890 and $3,490 a year. AI search visibility (GEO) is a young, fast-moving category.
+- Price: (re-verified 2026-11-16 by plain fetch of omniseo.com/pricing/; earlier readings 2026-08-17, 2026-09-28 and 2026-10-20) Four plans now. Starter $45/mo (25 saved prompts, 25 ad-hoc lookups, 5 competitors, 5 seats), Essentials $89/mo (50 saved prompts, 50 lookups, 5 competitors, 5 seats), Professional $349/mo (100 saved prompts, 200 lookups, 5 competitors, 10 seats, CSV and PDF exports of 5,000 rows a month) and…
 
 ## Oneflow
 - Review: https://marketingandsalessoftware.com/oneflow-review.html
@@ -1305,8 +1305,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Stamped
 - Review: https://marketingandsalessoftware.com/stamped-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Stamped: Reviews, at $23/month at the 200-order step and $99/month at 1,000 orders. The $798/month figure that circulates for the full suite is real.
-- Price: (re-verified 12 September 2026, read in a browser on their own pricing page across every step of the order-volume selector and both the single-product and bundle tabs) There is no free plan, and what you can actually buy depends on your monthly order volume. Below 5,000 orders a month the page sells only one product: Reviews, at $23/month at the 200-order step and $99/month at 1,000 orders.
+- Verdict: Stamped: Reviews is $23 a month at 200 orders, $99 at 1,000, $199 at 5,000, $399 at 20,000, $599 at 50,000 and $799 on Unlimited.
+- Price: (re-read 16 November 2026 by plain fetch of stamped.io/pricing; the amount for each order step sits in the page's own HTML, in the data its order-volume selector reads) There is no free plan, and the bill follows monthly order volume per product. The page now shows two product cards, Repeat and Reviews.
 
 ## Stampezee
 - Review: https://marketingandsalessoftware.com/stampezee-review.html

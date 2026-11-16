@@ -2512,7 +2512,7 @@
    "entry_price": "$14.99",
    "entry_price_terms": "All-in-One Basic… · per user per month on monthly billing",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-18 and again on 2026-10-05 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members. All-in-One suite per user/month on monthly billing: Basic $14.99 (500 contacts), Growth $64.99 (5,000 contacts, marketing automation), Pro $119.99 (10,000 contacts). The three rates have not moved since our August reading, but the Pro contact allowance has: the plan card now says 10,000 contacts where we recorded 50,000. A note beside it confirms that ceiling in the vendor's own words — “The Pro plan includes up to 10,000 contacts” — and directs anyone who needs more to schedule a call about expanding the limit. The published ceiling is a fifth of what it was, and everything above it is now a sales conversation rather than a price.\n\nRead the toggle before you read the number. The page defaults to a biennial ‘15% off’ display (Basic $12.74, Growth $55.24, Pro $101.99) with a yearly ‘8% off’ step in between ($13.79, $59.79, $110.39), so the friendly figure in the headline assumes you prepay two years. Single bays (Marketing or CRM & Sales) start at $11.04/user/mo on that same biennial display. One oddity worth knowing before you quote a number back to anyone: the page’s own title tag still advertises “Free to $99/Month”, and $99 is not a rate in any of the three billing columns.",
+   "price_note": "(price re-verified 2026-09-18, 2026-10-05 and again on 2026-11-16 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members. All-in-One suite per user/month on monthly billing: Basic $14.99 (500 contacts), Growth $64.99 (5,000 contacts, marketing automation), Pro $119.99 (10,000 contacts). The three rates have not moved since our August reading, but the Pro contact allowance has: the plan card now says 10,000 contacts where we recorded 50,000. A note beside it confirms that ceiling in the vendor's own words — “The Pro plan includes up to 10,000 contacts” — and directs anyone who needs more to schedule a call about expanding the limit. The published ceiling is a fifth of what it was, and everything above it is now a sales conversation rather than a price.\n\nRead the toggle before you read the number. The page defaults to a biennial ‘15% off’ display (Basic $12.74, Growth $55.24, Pro $101.99) with a yearly ‘8% off’ step in between ($13.79, $59.79, $110.39), so the friendly figure in the headline assumes you prepay two years. Single bays (Marketing or CRM & Sales) start at $11.04/user/mo on that same biennial display. One oddity worth knowing before you quote a number back to anyone: the page’s own title tag still advertises “Free to $99/Month”, and $99 is not a rate in any of the three billing columns.",
    "flags": [
     {
      "flag": "per_seat",
@@ -2520,19 +2520,19 @@
      "evidence_excerpt": null,
      "source_url": "https://www.engagebay.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-16"
     },
     {
      "flag": "free_tier",
-     "evidence": "(price re-verified 2026-09-18 and again on 2026-10-05 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members.",
-     "evidence_excerpt": "(price re-verified 2026-09-18 and again on 2026-10-05 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdes…",
+     "evidence": "(price re-verified 2026-09-18, 2026-10-05 and again on 2026-11-16 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, CRM, helpdesk and live chat, and the plan card adds that it is free for teams of up to 15 members.",
+     "evidence_excerpt": "(price re-verified 2026-09-18, 2026-10-05 and again on 2026-11-16 on engagebay.com/pricing, which now redirects to /pricing/all-in-one) Genuinely free tier: $0 for 250 contacts with email marketing, …",
      "source_url": "https://www.engagebay.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": "2026-09-18"
   },
   {
@@ -4925,24 +4925,24 @@
    "category": "Growth & Revenue",
    "domain": "omniseo.com",
    "review_url": "https://aibuildermarketplace.com/b2b/omniseo-review/",
-   "from_price_usd_mo": 89.0,
-   "entry_price": "$89",
-   "entry_price_terms": "per month (4 AI channels, 50 prompts, 5 seats)",
+   "from_price_usd_mo": 45.0,
+   "entry_price": "$45",
+   "entry_price_terms": "per month (25 saved prompts, 5 seats, all 10 AI platforms)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17, 2026-09-28 and again on 2026-10-20 against the vendor's own pricing page) Essentials $89/mo (4 AI channels, 50 prompts, 5 seats), Professional $349/mo (10 AI channels, 100 prompts), Enterprise from $899/mo with custom terms and volume. Annual billing is $890 and $3,490 a year respectively, which the page describes as two months free. There is a 7-day free trial with no credit card, after which the first paid month is half price — $45 instead of $89, or $175 instead of $349. The comparison table marks that first-month discount as not available on Enterprise.",
+   "price_note": "(re-verified 2026-11-16 by plain fetch of omniseo.com/pricing/; earlier readings 2026-08-17, 2026-09-28 and 2026-10-20) Four plans now. Starter $45/mo (25 saved prompts, 25 ad-hoc lookups, 5 competitors, 5 seats), Essentials $89/mo (50 saved prompts, 50 lookups, 5 competitors, 5 seats), Professional $349/mo (100 saved prompts, 200 lookups, 5 competitors, 10 seats, CSV and PDF exports of 5,000 rows a month) and Enterprise from $899/mo with custom terms and volume. Annual billing is $450, $890 and $3,490 a year, which the page describes as two months free. Every plan now monitors all 10 AI platforms (Google AI Overviews, AI Mode, ChatGPT, Perplexity, Gemini, Copilot, Claude, Meta AI, Grok and DeepSeek); until our 20 October 2026 reading Essentials covered four of them. There is a 7-day free trial with no credit card, covering ChatGPT and Google AI Overviews only, after which the first paid month is half price: $22.50, $44.50 or $174.50. The comparison table marks that first-month discount as not available on Enterprise.",
    "flags": [
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing is $890 and $3,490 a year respectively, which the page describes as two months free.",
+     "evidence": "Annual billing is $450, $890 and $3,490 a year, which the page describes as two months free.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
-   "first_observed_at": "2026-08-17"
+   "price_verified_at": "2026-11-16",
+   "first_observed_at": "2026-11-16"
   },
   {
    "name": "Oneflow",
@@ -6379,7 +6379,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month billed yearly ($39 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-14, re-read unchanged 2026-09-27 and again on 2026-10-21 on salesflare.com/pricing, per user a month) Three plans, and the page carries both billing terms plus a $/€ switch: Growth $39 a month or $29 billed annually, Pro $64 or $49, and Enterprise $124 or $99 with a minimum of five users. The euro column prints the same numerals — €39/€29, €64/€49, €124/€99 — so a European buyer pays the same figure in a different currency rather than a converted one. Our earlier reading called this “$29–99 per user” with Growth at about $29–39 and Pro at about $49. The range was right and the label was not: the low number in each pair is the annual rate and the high one is what month-to-month costs, and the five-seat floor on Enterprise never appeared. Lead credits are part of the ladder rather than an add-on — 5 on Growth, 100 on Pro, 250 on Enterprise. There is a 30-day free trial with no card. On that same page the vendor commits to no onboarding fees and to no caps on contacts, users, email templates, tracked emails, custom fields, workflows, dashboards or pipelines.",
+   "price_note": "(re-verified 2026-09-14, re-read unchanged 2026-09-27 again on 2026-10-21 and on 2026-11-16 on salesflare.com/pricing, per user a month) Three plans, and the page carries both billing terms plus a $/€ switch: Growth $39 a month or $29 billed annually, Pro $64 or $49, and Enterprise $124 or $99 with a minimum of five users. The euro column prints the same numerals — €39/€29, €64/€49, €124/€99 — so a European buyer pays the same figure in a different currency rather than a converted one. Our earlier reading called this “$29–99 per user” with Growth at about $29–39 and Pro at about $49. The range was right and the label was not: the low number in each pair is the annual rate and the high one is what month-to-month costs, and the five-seat floor on Enterprise never appeared. Lead credits are part of the ladder rather than an add-on — 5 on Growth, 100 on Pro, 250 on Enterprise. There is a 30-day free trial with no card. On that same page the vendor commits to no onboarding fees and to no caps on contacts, users, email templates, tracked emails, custom fields, workflows, dashboards or pipelines.",
    "flags": [
     {
      "flag": "per_seat",
@@ -6387,7 +6387,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-11-16"
     },
     {
      "flag": "usage_metered",
@@ -6395,11 +6395,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-21"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-21",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": "2026-09-14"
   },
   {
@@ -7356,7 +7356,7 @@
    "entry_price": "$23",
    "entry_price_terms": "per month at the 200-order volume step (no free plan)",
    "pricing_status": "public",
-   "price_note": "(re-verified 12 September 2026, read in a browser on their own pricing page across every step of the order-volume selector and both the single-product and bundle tabs) There is no free plan, and what you can actually buy depends on your monthly order volume. Below 5,000 orders a month the page sells only one product: Reviews, at $23/month at the 200-order step and $99/month at 1,000 orders. Repeat and Loyalty do not appear at those volumes at all. At the 5,000-order step the full line-up shows up — Repeat $499/month, Loyalty $299/month, Reviews $199/month — and the Multi-Product Bundle, which advertises 20% off, is a flat $798/month. The bundle tab locks the 200- and 1,000-order steps, so $798 is the entry price for taking more than one product, not a figure from the top of a ladder. From 20,000 orders upward, Unlimited included, every card turns into \"Custom plan — Talk to Sales\". Their FAQ says the same thing in words: plans start at $199/month for a single product and $798/month for multi-product access, and smaller brands are pointed at the self-serve plans in Stamped's Shopify App listings instead. Plans include up to two domains, each additional store gets its first month free, and additional domains are $100/month each. Sales tax is added as a separate line item. The redesigned page no longer says anything about overage charges.",
+   "price_note": "(re-read 16 November 2026 by plain fetch of stamped.io/pricing; the amount for each order step sits in the page's own HTML, in the data its order-volume selector reads) There is no free plan, and the bill follows monthly order volume per product. The page now shows two product cards, Repeat and Reviews. Reviews is $23 a month at 200 orders, $99 at 1,000, $199 at 5,000, $399 at 20,000, $599 at 50,000 and $799 on Unlimited. Repeat shows no price at 200 or 1,000 orders and costs $299 at 5,000, $499 at 20,000, $999 at 50,000 and $1,999 on Unlimited. On 12 September 2026 the 5,000 step listed Repeat at $499 and Loyalty at $299 with a Multi-Product Bundle at $798, and every step from 20,000 up read \"Custom plan — Talk to Sales\". On 16 November there is no Loyalty card and no bundle card, while the FAQ on the same page still says plans start at $199 a month for a single product and $798 a month for multi-product access, and that all plans include unlimited orders. A pop-up offers 50% off a Stamped plan until the end of 2026, for new customers only and only after a call with the sales team. Plans include up to two domains, each additional store gets its first month free, and additional domains are $100/month each. Stamped's terms say fees exclude taxes. The page says nothing about overage charges.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7364,11 +7364,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-12"
+     "verified_at": "2026-11-16"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-12",
+   "price_verified_at": "2026-11-16",
    "first_observed_at": null
   },
   {
