@@ -547,6 +547,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/poptin-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/poptin.svg\" width=\"340\" height=\"115\" alt=\"Poptin hands-on test by Marketing &amp; Sales Software, 30 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "printify",
+  "name": "Printify",
+  "review_url": "https://marketingandsalessoftware.com/printify-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/printify.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#printify",
+  "tested_on": "2026-10-30",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Printify hands-on test by Marketing & Sales Software, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/printify-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/printify.svg\" width=\"340\" height=\"115\" alt=\"Printify hands-on test by Marketing &amp; Sales Software, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "rankbolt",
   "name": "RankBolt",
   "review_url": "https://marketingandsalessoftware.com/rankbolt-review.html",
