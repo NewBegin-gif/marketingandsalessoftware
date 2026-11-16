@@ -482,7 +482,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Essential Upsell & Cross Sell
 - Review: https://marketingandsalessoftware.com/essential-upsell-cross-sell-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: In the app $39.99 a month is the Growth plan (up to $2,500). Professional is $99.99 (up to $10,000) and the plan without a limit is Unlimited at $149.99 (above $10,000). The listing shows only Free,…
 - Verdict: Essential Upsell & Cross Sell: Starter is $9.99 a month for up to $500. The plans are metered on revenue the app says it generated.
 - Price: (read 2 Oct 2026 on the Shopify listing and on the vendor's own page; the listing was read again on 16 Nov 2026 and the plan screen in the app was checked the same day) Plans are priced not on orders or views but on the extra revenue the app generates in a month. Free covers up to $100 of generated revenue with product-page and post-purchase offers, analytics and translations.
 
@@ -506,7 +506,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Fast Bundle
 - Review: https://marketingandsalessoftware.com/fast-bundle-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: Vendor claim "In dit plan kunnen uw bundels elke maand tot $500 aan verkopen genereren.". What we saw: The Free plan page says bundles can generate up to $500 of sales a month; the Plans page shows Bundle…
 - Verdict: Fast Bundle: The listing is free to install and shows four tiers. The most important thing about this app is not on its App Store listing.
 - Price: (read 2026-08-24 on apps.shopify.com/fast-bundle-product-bundles, listed as “FBP | Fast Bundle & Upsell App”, and on fastbundle.co/pricing) The meter here is not your catalogue, your traffic or your seats — it is the revenue your bundles themselves generate. The listing is free to install and shows four tiers.
 
