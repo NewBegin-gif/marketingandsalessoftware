@@ -11031,5 +11031,24 @@
   "verified": "2026-11-16",
   "catch": "Dynamic QR codes you can edit after printing; free plan, paid from $9.99.",
   "best": "Small businesses and local campaigns that print QR codes on menus, flyers, posters or packaging and want to change the destination later without reprinting."
+ },
+ "Essential Cart Drawer": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$8.99",
+  "price_note": "Essential 1 · per month for up to 99 drawer orders",
+  "verified": "2026-11-16",
+  "catch": "Slide-out cart drawer with upsells; free for 30 orders, paid from $8.99.",
+  "best": "Shopify stores that want a slide-out cart with upsells, a free-shipping goal and a sticky add-to-cart bar in one app."
  }
 }
