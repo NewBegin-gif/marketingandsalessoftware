@@ -26,7 +26,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AddressHero
 - Review: https://marketingandsalessoftware.com/addresshero-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify screen shows a 14-day free trial ending on 1 Dec. and a total of $9,99 due 1 Dec for Minimal, as the 14 day trial in the listing says.
 - Verdict: AddressHero sells three plans for Shopify stores, each with a 14-day free trial. Lite does not validate against address databases or correct automatically.
 - Price: (read 2026-11-13 on addresshero.com/pricing, US dollars) AddressHero sells three plans for Shopify stores, each with a 14-day free trial. Lite costs $9.99 a month flat and is described as minimal, for early-stage stores.
 
@@ -152,7 +152,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## BeSure Checkout Rules
 - Review: https://marketingandsalessoftware.com/besure-checkout-rules-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Advanced card ($12.99 USD/month, Most popular) and the Premium card ($29.99 USD/month, up to 25 of each) both add 1 cart rule, which the dossier does not name; the Premium card carries an asterisk…
 - Verdict: BeSure Checkout Rules has a Free plan that lets you test rules in testing status and works on Shopify development stores.
 - Price: (read 2026-11-15 on checkoutrules.com/pricing and the Shopify App Store listing, US dollars, billed through Shopify every 30 days) BeSure Checkout Rules has a Free plan that lets you test rules in testing status and works on Shopify development stores, so rules cannot go live on it. Starter costs $4.99 a month or $49.90 a year and allows only 2 rules.
 
@@ -230,7 +230,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Brandye
 - Review: https://marketingandsalessoftware.com/brandye-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Generate Quiz with AI". What we saw: The first Generate gave an error (Couldn't generate your quiz); the second try with our own goal worked in about 10 seconds and gave a flow of 7…
 - Verdict: Brandye: Every plan includes the product quiz, the AI shopping assistant and AI product questions. Read the free plan as a trial, not a tier.
 - Price: (read 2026-10-02 and re-verified unchanged 2026-11-12 on brandye.com/pricing and on apps.shopify.com/brandye-quiz-ai-recommendation) Every plan includes the product quiz, the AI shopping assistant and AI product questions; the tiers differ in how many quiz submissions and chats you get and how long your data is kept. Free covers up to 100 quiz submissions and 100 chats in total, lifetime rather than per month,…
 
@@ -320,7 +320,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Compass
 - Review: https://marketingandsalessoftware.com/compass-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan page and the approval screen both mention a 14-day free trial (ending on 1 Dec.); the trial was not started because no payment method was added.
 - Verdict: Compass: $49 a month, or $490 a year. The privacy policy names OpenAI among the services that receive your inputs.
 - Price: (read 2026-10-27 on the Compass listing in the Shopify App Store; the terms and privacy policy were read on 2026-10-15) Compass has a single plan with every feature included: $49 a month, or $490 a year, which the listing says saves 17%. There is a 14-day free trial and no free plan.
 
@@ -410,7 +410,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## EditEngine
 - Review: https://marketingandsalessoftware.com/editengine-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Raise price by 5%". What we saw: The preview card shows the old and new price for 3 of 19 products and 10 examples, and the examples agree with a plain 5 percent increase (for example…
 - Verdict: EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. Undo covers supported in-app edits only.
 - Price: (read 2026-10-26 on the EditEngine listing in the Shopify App Store; the listing says all charges are billed in USD, every 30 days) EditEngine has a free plan and three paid plans, and every plan allows unlimited bulk edit, import and export tasks. What changes is how many products and collections one task may touch.
 

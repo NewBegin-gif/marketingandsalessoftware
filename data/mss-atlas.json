@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 324,
-  "flags": 482,
+  "tools": 328,
+  "flags": 487,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -2313,20 +2313,20 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-10-16 on apps.shopify.com/advanced-translation) Four tiers, all monthly and billed in USD. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language. Starter is $4.99 (400 products, 400 metafields and 50 articles; up to 3 languages), Basic $14.99 (1,500 products and metafields, 150 articles; AI for 10 languages) and Pro $29.99 (3,000 products and metafields, 300 articles; AI for 20 languages) — or, again, unlimited if you supply your own key. Beyond the built-in quota the paid plans switch to pay-as-you-go with a spend limit you set. The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per use.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/advanced-translation and in our own test session on 17 November 2026) Four monthly tiers billed in USD: Free, Starter at $4.99, Basic at $19.99 and Pro at $29.99. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language. Starter is $4.99 (400 products, 400 metafields and 50 articles; up to 3 languages), Basic $19.99 (1,500 products and metafields, 150 articles; AI for 10 languages) and Pro $29.99 (3,000 products and metafields, 300 articles; AI for 20 languages, plus Auto AI Translations) — or, again, unlimited if you supply your own key. Beyond the built-in quota the paid plans switch to pay-as-you-go with a spend limit you set. The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per use. Auto AI Translations, which translate new and edited content on their own, appear on the Pro card only. In our own test session on 17 November 2026 the plan screen in the app showed the same four tiers and prices, with Auto AI Translations on Pro only.",
    "flags": [
     {
      "flag": "usage_metered",
      "evidence": "The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per use.",
      "evidence_excerpt": "The model's real pivot is that key: bring your own and you pay the AI provider's token costs directly for unlimited volume; rely on the built-in free AI and you are capped per tier, then billed per u…",
-     "source_url": null,
+     "source_url": "https://apps.shopify.com/advanced-translation",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
-   "first_observed_at": "2026-10-16"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Easy Bundles",
@@ -2502,6 +2502,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": "2026-08-31"
+  },
+  {
+   "name": "EmailOctopus",
+   "category": "Marketing",
+   "domain": "emailoctopus.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/emailoctopus-review/",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Pro · per month billed yearly at the entry tier",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-17 on emailoctopus.com/pricing, US dollars) Starter: free, 2,500 subscribers, 10,000 emails a month, branded emails, reports for 30 days. Pro: from $9 a month billed yearly (saves $12), 10,000 emails a month at the entry tier; the price rises with subscriber count. Nonprofits get 20% off for life. No free trial. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan puts EmailOctopus branding on your emails and keeps reports for 30 days.",
+     "evidence_excerpt": null,
+     "source_url": "https://emailoctopus.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "EngageBay",
@@ -3970,9 +3994,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/langshop-review/",
    "from_price_usd_mo": 10.0,
    "entry_price": "$10",
-   "entry_price_terms": "per month (5 languages, 250 products, unlimited glossary rules)",
+   "entry_price_terms": "per month (10 languages, 250 products, unlimited glossary rules)",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-13 on apps.shopify.com/langshop and langshop.app/pricing) Seven published tiers, billed in USD. The Shopify listing shows only the first four and links to more pricing plans; the vendor's own pricing page prices the rest. Free costs nothing and covers one language and 50 products, with limited manual and AI translation, the standard language and currency switcher and multilingual SEO. Basic is $10 a month or $100 a year and raises that to five languages and 250 products, with unlimited glossary rules, the OpenAI, DeepL Pro and Google Cloud engines, unlimited editing of translations, bulk editing and removal of LangShop branding. Standard is $40 a month or $400 a year: ten languages, 2,000 products, automatic sync of 50 new items, the advanced switcher, translation of dynamic content, metaobjects and third-party apps, translation history and export/import. Advanced is $75 a month or $750 a year: twenty languages, 5,000 products, sync of 125 new items, ten content-exclusion rules and Shopify Flow support. Beyond the listing: Pro at $120 a month or $1,200 a year adds API access with 10,000 products, sync of 250 and 50 exclusion rules; Enterprise at $250 or $2,500 gives 50,000 products, sync of 1,250, 200 exclusion rules and a customer success manager; Unlimited at $500 or $5,000 lifts products, sync and exclusion rules to unlimited. From Advanced up the language cap stays at twenty. Annual billing is described as two months free, which is the same 17% the listing quotes. Every paid tier now shows a 14-day free trial on both the pricing page and the listing. Between the 10 September and 13 October 2026 readings the bottom of the ladder was loosened at unchanged prices: languages went from one, one, three and five (Free to Advanced) to one, five, ten and twenty, glossary rules went from a cap per tier to unlimited on every paid tier, and the named engines moved down from Standard to Basic.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/langshop and langshop.io/pricing, and in our own test session on 17 November 2026) Basic is $10 a month or $100 a year, Standard $40 or $400, Advanced $75 or $750 and Pro $120 or $1,200. Seven published tiers in all, billed in USD, starting with a Free tier on the listing and on the vendor's page. The Shopify listing shows only the first four and links to more pricing plans; the vendor's own pricing page prices the rest. Free costs nothing and covers one language and 50 products, with limited manual and AI translation, the standard language and currency switcher and multilingual SEO. Basic raises that to ten languages and 250 products, with unlimited glossary rules, the OpenAI, DeepL Pro and Google Cloud engines, unlimited editing of translations, bulk editing and removal of LangShop branding. Standard gives fifteen languages, 2,000 products, automatic sync of 50 new items, the advanced switcher, translation of dynamic content, metaobjects and third-party apps, translation history and export/import. Advanced gives twenty languages, 5,000 products, sync of 125 new items, ten content-exclusion rules and Shopify Flow support. Beyond the listing: Pro adds API access with 10,000 products, sync of 250 and 50 exclusion rules; Enterprise at $250 or $2,500 gives 50,000 products, sync of 1,250, 200 exclusion rules and a customer success manager; Unlimited at $500 or $5,000 lifts products, sync and exclusion rules to unlimited. From Advanced up the language cap stays at twenty. Annual billing is described as two months free, which is the same 17% the listing quotes. Every paid tier now shows a 14-day free trial on both the pricing page and the listing. Between the 10 September and 13 October 2026 readings the bottom of the ladder was loosened at unchanged prices: languages went from one, one, three and five (Free to Advanced) to one, five, ten and twenty, glossary rules went from a cap per tier to unlimited on every paid tier, and the named engines moved down from Standard to Basic. By 17 November 2026 the language caps had moved again at unchanged prices, to ten on Basic and fifteen on Standard, with twenty from Advanced up.\n\nIn our own test session on 17 November 2026 on a Shopify development store, the app opened on its plan page and showed no Free card: Basic was the first card, then Standard, Advanced and Pro at the prices above with 10, 15, 20 and 20 languages, and a banner said a development store can test the app and translate up to 50 products for free until it moves to a paid plan. The listing and the vendor's pricing page both still show the Free plan.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3980,7 +4004,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/langshop",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "annual_lock",
@@ -3988,12 +4012,20 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/langshop",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-17"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "Seven published tiers in all, billed in USD, starting with a Free tier on the listing and on the vendor's page.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/langshop",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Later",
@@ -6340,6 +6372,21 @@
    "first_observed_at": null
   },
   {
+   "name": "Rewardful",
+   "category": "Growth & Revenue",
+   "domain": "rewardful.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/rewardful-review/",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "Starter · per month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-17 on rewardful.com/pricing, US dollars, taxes extra) Starter $49 a month or $490 a year (up to $7,500 a month in affiliate revenue, 1 campaign, 2 team members); Growth $99 a month or $990 a year (up to $15,000, unlimited campaigns, branded portal); Enterprise from $149 a month or $1,490 a year (up to $30,000 on the entry tier). 0% transaction fee. Managed Payouts optional, 3% processing fee. 14-day free trial on every plan. We have not paid for a plan.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
+  },
+  {
    "name": "Rewarx Studio AI",
    "category": "E-commerce",
    "domain": "rewarx.com",
@@ -6577,13 +6624,13 @@
    "review_url": "https://aibuildermarketplace.com/b2b/scarcity-ai-review/",
    "from_price_usd_mo": null,
    "entry_price": "$4.99",
-   "entry_price_terms": "Monthly Plan… · per month for the low stock counter, or $41.91 a year",
+   "entry_price_terms": "Monthly Plan… · per month for the low stock counter, or $41.92 a year on the listing",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-10 on apps.shopify.com, across all three listings) These are three separate apps from one developer, each installed and billed on its own. The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores, meaning development and partner stores only rather than a working free plan. The Visitors Counter has a genuine free plan with the counter itself, style customisation, image presets and a minimum-visitors threshold. Its Premium plan is $1.99 a month or $16.71 a year at a stated 30% saving, on a 3-day trial, and adds an upsell banner for your most-viewed product, the counter on collection pages, wiggle and blink animations, your own counter image and a buy-it-now button that goes straight to checkout. The Countdown Timer, which listed only a free tier when we read it on 22 August 2026, now has a paid ladder: Development Stores is free for development and partner stores only, the Monthly Plan is $4.99 a month or $41.88 a year with a 7-day trial, and the Plus Plan is $12.99 a month or $109.11 a year for Shopify Plus stores and adds a scarcity message on the checkout page. Charges are in USD. Developer Effective Apps. Ratings when read on 10 October 2026: 4.7 from 87 reviews on the low stock counter, 4.9 from 43 on the visitors counter and 4.7 from 31 on the countdown timer.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com, across all three listings, and the low stock counter also in our own test session on 17 November 2026) The Low Stock Counter is $4.99 a month, the Countdown Timer $6.99 a month or $12.99 on its Plus Plan, and the Visitors Counter is free or $4.99 a month on Premium. These are three separate apps from one developer, Effective Apps, each installed and billed on its own. The Low Stock Counter, now listed as Scarcity+Urgency Stock Counter, is $4.99 a month or $41.92 a year on the listing at a stated 30% saving, with a 7 day trial; its free tier is Development Stores, meaning development and partner stores only rather than a working free plan. In our own test session on 17 November 2026 on a Shopify development store, the app, called Scarcity.AI Stock Counter in the admin, showed no free plan at all: its first screen asked us to pick a plan to start a 7 day free trial, with a Yearly Plan at $3.49 a month billed annually, labelled “Save 30%”, which comes to $41.88 a year, and a Monthly Plan at $4.99. The Shopify approval screen for the Monthly Plan asked for a payment method. The Visitors Counter has a genuine free plan with the counter itself, style customisation, image presets and a minimum visitors threshold. Its Premium plan is $4.99 a month or $29.94 a year at a stated 50% saving, on a 7 day trial, and adds an upsell banner for your most viewed product, the counter on collection pages, wiggle and blink animations, your own counter image and a buy it now button that goes straight to checkout. The Countdown Timer, which listed only a free tier when we read it on 22 August 2026, has a paid ladder: Development Stores is free for development and partner stores only, the Monthly Plan is $6.99 a month or $41.94 a year at a stated 50% saving with a 7 day trial, and the Plus Plan is $12.99 a month or $109.11 a year for Shopify Plus stores and adds a scarcity message on the checkout page. Charges are in USD. Ratings when read on 17 November 2026: 4.7 from 88 reviews on the low stock counter, 4.9 from 46 on the visitors counter and 4.6 from 29 on the countdown timer.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
-   "first_observed_at": "2026-10-10"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Scrolly",
@@ -6762,6 +6809,30 @@
    "first_observed_at": "2026-11-10"
   },
   {
+   "name": "Selleasy",
+   "category": "Growth & Revenue",
+   "domain": "logbase.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/selleasy-review/",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Starter · per month, flat, unlimited orders and campaigns",
+   "pricing_status": "public",
+   "price_note": "(prices read 2026-10-30 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/selleasy/pricing; the order-based ladder read on 19 September and 20 October 2026 has been replaced) Billed in USD through Shopify, recurring charges every 30 days. Four flat plans, each with unlimited orders. Free costs nothing and allows up to 5 campaigns, with the 18 upsell and cross-sell strategies, Shopify and manual recommendations, and chat, email and Zoom support. Starter is $9 a month or $91 a year and adds unlimited campaigns, 50 free AI recommendations and free setup on a call. Pro is $29 a month or $295 a year and adds 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $59 a month or $601 a year and adds 2,500 AI recommendations a month, advanced customizations, a rules engine, an AOV advisor and priority support. The paid plans carry a 30-day free trial. An Enterprise plan is quoted on request.\n\nWhat changed: until October 2026 Starter was priced by your store's total monthly orders (free to 50, $9 to 500, $19 to 1,000, $29 above), and Pro and Max were $49 and $99. Logbase's pricing page still carries a block with that old ladder next to the new plan cards and comparison table on 30 October 2026; the App Store listing, which is what Shopify bills from, shows only the flat plans. Check the charge Shopify shows at install.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan now caps campaigns instead of orders: up to 5, against unlimited from Starter at $9.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-30"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-30",
+   "first_observed_at": "2026-10-30"
+  },
+  {
    "name": "Seller Investigators",
    "category": "E-commerce",
    "domain": "sellerinvestigators.com",
@@ -6929,6 +7000,30 @@
    "first_observed_at": "2026-09-16"
   },
   {
+   "name": "Seobility",
+   "category": "SEO & Marketing",
+   "domain": "seobility.net",
+   "review_url": "https://aibuildermarketplace.com/b2b/seobility-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-17 on seobility.net/pricing, euros, plus VAT) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit. Premium: 59.90 a month, or 575.04 a year (20% off), 3 projects, 25,000 pages per crawl, 300 keywords. Professional: 99.90 a month, or 959.04 a year, 7 projects, 50,000 pages, 700 keywords. Agency: 209.90 a month, or 2,015.04 a year, 20 projects, 100,000 pages, 2,000 keywords. The paid plans have a 14-day free trial, cancel any time. Extra projects 4.90 to 14.90 and extra 100 keywords 6.90 to 10.90 a month. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Prices are shown plus VAT, and extra keywords and projects are billed as monthly add-ons.",
+     "evidence_excerpt": null,
+     "source_url": "https://seobility.net/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
+  },
+  {
    "name": "SEOKart",
    "category": "SEO & Marketing",
    "domain": "seokart.com",
@@ -7089,7 +7184,7 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Lite · per month for Lite, which exports CSV only ($107.88 a year)",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-18 on apps.shopify.com/packeta) Three tiers, no free plan, every amount unchanged since 22 August 2026, and the entry tier still names its own limitation. Lite is $9.99 a month or $107.88 a year and is labelled 'only CSV': pickup point and home delivery, an email reminder, the pickup-point widget on the thank-you and order-status pages, unlimited carriers across more than twenty, and an order export to custom CSV. Basic is $14.99 or $161.89 a year and is the first tier that prints shipping labels, adding parcels created automatically after fulfilment and cash-on-delivery payment tracking. Shopify Plus is $24.99 or $269.89 and moves the pickup-point widget into the checkout itself rather than the pages after it. Annual billing saves a stated 10% on each. Trials are five days on Lite and Basic and ten on Plus. Charges are in USD and recur every 30 days. The listing now names its carriers rather than counting them: Packeta, Balíkovna, DPD, Magyar Posta, InPost, DHL24, Posti, GLS and myGLS, Omniva, Foxpost, PPL, One, Telli, Eserviss, Esiunt, Slovenská pošta, Česká pošta, Fan Courier, Easyship, Econt and PostNord. Developer happyapps.cz; the app sits in Shopify's delivery and pickup category, is offered in English and Czech, and carries 42 reviews at a 5.0 rating — the same total as in August, but now with every one of the 42 at five stars where our earlier reading recorded one at four.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/packeta, where the app is titled ShipD Labels & Pickup points, and in our own test session on 17 November 2026) On the listing Lite is $9.99 a month ($107.88 a year), Basic $14.99 ($161.89) and Shopify Plus $24.99 ($269.89). Every amount is unchanged since 22 August 2026. The listing has no free plan, and the entry tier still names its own limitation. Lite is labelled 'only CSV': pickup point and home delivery, an email reminder, the pickup-point widget on the thank-you and order-status pages, unlimited carriers across more than twenty, and an order export to custom CSV. Basic is the first tier that prints shipping labels, adding parcels created automatically after fulfilment and cash-on-delivery payment tracking. Shopify Plus moves the pickup-point widget into the checkout itself rather than the pages after it. Annual billing saves a stated 10% on each. Trials are five days on Lite and Basic and ten on Plus. Charges are in USD and recur every 30 days. The listing now names its carriers rather than counting them: Packeta, Balíkovna, DPD, Magyar Posta, InPost, DHL24, Posti, GLS and myGLS, Omniva, Foxpost, PPL, One, Telli, Eserviss, Esiunt, Slovenská pošta, Česká pošta, Fan Courier, Easyship, Econt and PostNord. Developer happyapps.cz; the app sits in Shopify's delivery and pickup category, is offered in English and Czech, and on 17 November 2026 carried 47 reviews, every one at five stars; in August there were 42, one of them at four.\n\nThe app itself showed a different ladder in our own test session on 17 November 2026, on a Shopify development store where the admin calls it ShipD Delivery. Its billing page showed two plans, not three: Lite at $9.99 a month (pickup point widget, export of orders to CSV, email support) and Full at $14.99 a month (adding shipping labels and cash on delivery payments through the carrier API), each with a 5 day trial, or $8.99 and $13.49 a month billed annually. It showed no Shopify Plus plan, and the label tier is called Full in the app where the listing calls it Basic. The current plan read Free ($0), but creating a provider and creating labels were both locked behind a paid plan. Twelve months at those yearly rates come to $107.88 and $161.88, within a cent of the listing's annual prices.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -7097,12 +7192,20 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/packeta",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-17"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The current plan read Free ($0), but creating a provider and creating labels were both locked behind a paid plan.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/packeta",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-02",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "ShopTrueProfit",
@@ -8155,14 +8258,14 @@
    "domain": "effectify.io",
    "review_url": "https://aibuildermarketplace.com/b2b/tnc-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$6.99",
-   "entry_price_terms": "Basic Plan · per month on the App Store listing, or $67.10 a year, for the checkbox…",
+   "entry_price": "$4.99",
+   "entry_price_terms": "Basic Plan · per month on the App Store listing, or $47.90 a year, for the checkbox…",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-25, re-verified 2026-09-09 and again on 2026-09-29 on apps.shopify.com/terms-and-conditions-checkbox, listed as “TnC: Terms and Conditions Box”, and in the vendor's own pricing article at www.effectify.help) The monthly ladder is $6.99, $10.99 and $12.99, and the annual prices are $67.10, $92.32 and $109.12. The listing puts the annual saving at 20% on Basic and 30% on Advanced and Pro.\n\nThis ladder has moved three times in five weeks, each time with the same feature lists. On 24 August 2026 the monthly plans were $6.99, $9.99 and $12.99. On 25 August they were $7.99, $12.99 and $14.99, with annual rates of $67.12, $109.12 and $125.92. By 9 September the annual rates had been cut to $47.94, $77.94 and $89.94 under a “save 50%” label while the monthly ones held. On 29 September both columns had changed again, with the monthly rates back down to $6.99, $10.99 and $12.99. Treat any figure here, ours included, as the price on the day it was read, and check the listing before you install.\n\nFour plans on the listing, and the free one is not for you. Development Stores is free and carries every Pro feature, but the listing states it is for development and partner stores only and that payment will be activated on upgrade — so the “Free plan available” line at the top of the listing describes a partner sandbox rather than a free tier for a store that takes orders. Basic is $6.99 a month or $67.10 a year and covers the AI terms-and-conditions checkbox with support for Buy It Now and express checkout buttons. Advanced is $10.99 a month or $92.32 a year and adds the consent date logged into the order's details plus the ability to show the checkbox for specific countries and products. Pro is $12.99 a month or $109.12 a year and adds newsletter and contact forms, translation of the checkbox into multiple languages, the checkbox in Shopify POS and an AI-powered policies generator. Every paid tier carries a 7-day free trial, and the listing states charges are billed in USD and recur every 30 days.\n\nThe vendor's own pricing article, re-read on 29 September 2026, now prints the same monthly and annual rates as the listing for all three plans; on 9 September the two pages disagreed on the annual price. The article still puts the annual saving at approximately 30%, which holds for Advanced and Pro and not for Basic, and still answers its own question “are there any hidden fees?” with “No. All pricing is transparent and listed above”. It is also the only page where a fifth plan appears at all: a Plus Plan at $19.99 a month or $167.92 a year, for Shopify Plus merchants only, adding “the ability to show the checkbox in the actual Checkout page of your store”. The Plus Plan is the one rate that has not moved in any of our readings, so it now sits $7 above Pro. The article also notes that uninstalling during an ongoing billing period still incurs that period's charge.\n\nDeveloper Effective Apps, trading as Effectify, at 13 Max Nordau, Ashdod, Israel; the app launched on 2 December 2019, carries Shopify's Built for Shopify badge, and stood at 565 listing reviews with a 4.9 average on 14 October 2026, up from 557 on 29 September and 550 on 9 September.\n\nRe-read on 14 October 2026: the listing and the vendor's pricing article (updated 17 September 2026) show the same three monthly and annual rates as on 29 September, and the article still lists the Plus Plan at $19.99 a month or $167.92 a year.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/terms-and-conditions-checkbox and in our own test session on 17 November 2026) Basic is $4.99 a month ($47.90 a year), Advanced $9.99 ($83.92) and Pro $14.99 ($89.94), each with a 7 day free trial. The listing, which now calls the app “TN Term and Condition Checkbox”, puts the annual saving at 20% on Basic, 30% on Advanced and 50% on Pro.\n\nIn the app, which the Shopify admin calls “TnC Terms Checkbox”, the plan screen in our own test session on 17 November 2026 showed the same monthly prices and, with the yearly toggle on, the listing's annual prices spread over twelve months and billed annually. It showed no free plan: on a Shopify development store the first screen asked us to pick a paid plan to start the 7 day free trial, and the approval screen for Basic asked for a payment method.\n\nThis ladder has changed four times since August 2026, each time with the same feature lists. Treat any figure here, ours included, as the price on the day it was read, and check the listing before you install.\n\nFour plans on the listing, and the free one is not for you. Development Stores is free and carries every Pro feature, but the listing states it is for development and partner stores only and that payment will be activated on upgrade, so the “Free plan available” line at the top of the listing describes a partner sandbox rather than a free tier for a store that takes orders, and in our test the app did not offer it on a development store either. Basic covers the AI terms and conditions checkbox, Buy It Now and express checkout buttons, the checkbox in the cart and cart drawer, and age verification and GDPR consent text. Advanced adds the consent date and time logged on each order and checkout rules by product and country. Pro adds newsletter, signup and contact form boxes, a multilingual checkbox for every market, the checkbox in Shopify POS and an AI terms and policies generator. The listing states charges are billed in USD and recur every 30 days.\n\nThe vendor's own pricing article, updated 12 November 2026 and read 17 November 2026, prints the same monthly and annual rates as the listing for all three plans and puts the annual saving at up to 50%. It still answers its own question “are there any hidden fees?” with “No. All pricing is transparent and listed above”. It is also the only page where a fifth plan appears at all: a Plus Plan at $19.99 a month or $167.92 a year, for Shopify Plus merchants only, which the article has described since September as the plan that shows the checkbox in the actual checkout page. The Plus Plan is the one rate that has not moved in any of our readings, so it now sits $5 above Pro. On 29 September 2026 the article also noted that uninstalling during an ongoing billing period still incurs that period's charge.\n\nDeveloper Effective Apps, trading as Effectify, at 13 Max Nordau, Ashdod, Israel; the app launched on 2 December 2019, carries Shopify's Built for Shopify badge, and stood at 570 listing reviews with a 4.9 average on 17 November 2026, up from 565 on 14 October and 550 on 9 September.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-22",
-   "first_observed_at": "2026-08-25"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Track123",

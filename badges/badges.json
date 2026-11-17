@@ -1,5 +1,21 @@
 [
  {
+  "slug": "addresshero",
+  "name": "AddressHero",
+  "review_url": "https://marketingandsalessoftware.com/addresshero-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/addresshero.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#addresshero",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "5 confirmed · 1 contradicted · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AddressHero hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 1 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/addresshero-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/addresshero.svg\" width=\"340\" height=\"115\" alt=\"AddressHero hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 1 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "agencyanalytics",
   "name": "AgencyAnalytics",
   "review_url": "https://marketingandsalessoftware.com/agencyanalytics-review.html",
@@ -74,6 +90,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/beehiiv-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/beehiiv.svg\" width=\"340\" height=\"81\" alt=\"Beehiiv hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "besure-checkout-rules",
+  "name": "BeSure Checkout Rules",
+  "review_url": "https://marketingandsalessoftware.com/besure-checkout-rules-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/besure-checkout-rules.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#besure-checkout-rules",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "3 confirmed · 1 contradicted · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "BeSure Checkout Rules hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/besure-checkout-rules-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/besure-checkout-rules.svg\" width=\"340\" height=\"115\" alt=\"BeSure Checkout Rules hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "bold-memberships",
   "name": "Bold Memberships",
   "review_url": "https://marketingandsalessoftware.com/bold-memberships-review.html",
@@ -136,6 +168,22 @@
   ],
   "alt": "Brand24 hands-on test by Marketing & Sales Software, 30 Oct 2026: Vendor claims checked 2; 2 not testable; Data export: file opened, re-import not tested",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/brand24-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/brand24.svg\" width=\"340\" height=\"115\" alt=\"Brand24 hands-on test by Marketing &amp; Sales Software, 30 Oct 2026: Vendor claims checked 2; 2 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "brandye",
+  "name": "Brandye",
+  "review_url": "https://marketingandsalessoftware.com/brandye-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/brandye.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#brandye",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "2 confirmed · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Brandye hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/brandye-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/brandye.svg\" width=\"340\" height=\"115\" alt=\"Brandye hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "campaign-monitor",
@@ -234,6 +282,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/code-bulk-discounts-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/code-bulk-discounts.svg\" width=\"340\" height=\"115\" alt=\"Code Bulk Discounts hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 4; 3 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "compass",
+  "name": "Compass",
+  "review_url": "https://marketingandsalessoftware.com/compass-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/compass.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#compass",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "5 confirmed · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Compass hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/compass-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/compass.svg\" width=\"340\" height=\"115\" alt=\"Compass hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "consentmo",
   "name": "Consentmo",
   "review_url": "https://marketingandsalessoftware.com/consentmo-review.html",
@@ -265,6 +329,22 @@
   ],
   "alt": "Content Raptor sign-up attempt by Marketing & Sales Software, 31 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/content-raptor-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/content-raptor.svg\" width=\"340\" height=\"132\" alt=\"Content Raptor sign-up attempt by Marketing &amp; Sales Software, 31 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "editengine",
+  "name": "EditEngine",
+  "review_url": "https://marketingandsalessoftware.com/editengine-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/editengine.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#editengine",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "5 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EditEngine hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/editengine-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/editengine.svg\" width=\"340\" height=\"115\" alt=\"EditEngine hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "elite-site-optimizer",
