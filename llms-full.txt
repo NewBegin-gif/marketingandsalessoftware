@@ -182,7 +182,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Bold Memberships
 - Review: https://marketingandsalessoftware.com/bold-memberships-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Each member counts toward your app plan's member total". What we saw: The setup step for a free plan says that each member counts toward the app plan member total, so free members are…
 - Verdict: Bold Memberships: The first 10 members are free forever, the first 30 days are free. Bold Memberships charges for every member, every month.
 - Price: (read 2026-10-05 on the Shopify App Store listing at apps.shopify.com/recurring-memberships, prices in USD) One plan, called Scale: free to install, then $0.13 per member per month. The first 10 members are free forever, the first 30 days are free, and the listing says there is no flat monthly base fee and no transaction fee.
 
@@ -536,7 +536,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Feedyio
 - Review: https://marketingandsalessoftware.com/feedyio-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan cards and the Shopify approval screen for Basic both show a 7-day free trial, ending on 24 Nov., with $9,99 due 24 Nov. The sentence about a test charge was not on the screen, a payment method was…
 - Verdict: Feedyio: Nine published tiers, billed in USD every 30 days through Shopify. Two gates decide your bill and neither is about how much value the feeds create.
 - Price: (read 2026-09-10 on apps.shopify.com/product-feed-10 and feedyio.com/pricing) Nine published tiers, billed in USD every 30 days through Shopify. The Shopify listing shows only the first four.
 
@@ -596,7 +596,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Grapevine
 - Review: https://marketingandsalessoftware.com/grapevine-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "$25/month. Free trial available". What we saw: The listing says $25/month with a free trial. The Shopify approval screen showed the plan Complete at $25,00 USD every 30 days with a 14-day…
 - Verdict: Grapevine: One plan, called Complete, at $25 a month, billed in USD every 30 days, with a 14-day free trial and no free tier.
 - Price: (read 2026-09-10 on apps.shopify.com/grapevine) One plan, called Complete, at $25 a month, billed in USD every 30 days, with a 14-day free trial and no free tier. There is no response limit and no per-response charge: unlimited post-purchase, NPS, CSAT and attribution responses are included at that price, on every Shopify plan.
 
@@ -728,7 +728,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kumo
 - Review: https://marketingandsalessoftware.com/kumo-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The PLUS card lists All of B2B features, Product catalog assignment and Shopify plus checkout integration, which are two Plus features; the listing names three, including company registration.
 - Verdict: Kumo: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. Five stars over nine reviews is not a track record.
 - Price: (read 2026-09-16 on apps.shopify.com/b2b-wholesale-tools; re-verified 2026-10-19, unchanged) Two plans and no free tier: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. B2B carries the whole working app — wholesale pricing, volume pricing, customer registration forms and the approval workflow — and pricing rules are unlimited rather than metered, so the ladder is not…
 

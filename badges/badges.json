@@ -74,6 +74,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/beehiiv-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/beehiiv.svg\" width=\"340\" height=\"81\" alt=\"Beehiiv hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "bold-memberships",
+  "name": "Bold Memberships",
+  "review_url": "https://marketingandsalessoftware.com/bold-memberships-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/bold-memberships.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#bold-memberships",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "6 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Bold Memberships hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/bold-memberships-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bold-memberships.svg\" width=\"340\" height=\"115\" alt=\"Bold Memberships hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "bouncer",
   "name": "Bouncer",
   "review_url": "https://marketingandsalessoftware.com/bouncer-review.html",
@@ -313,6 +329,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/fast-bundle-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/fast-bundle.svg\" width=\"340\" height=\"115\" alt=\"Fast Bundle hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "feedyio",
+  "name": "Feedyio",
+  "review_url": "https://marketingandsalessoftware.com/feedyio-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/feedyio.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#feedyio",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "6 confirmed · 1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Feedyio hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 9; 6 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/feedyio-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/feedyio.svg\" width=\"340\" height=\"115\" alt=\"Feedyio hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 6 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "folk",
   "name": "folk",
   "review_url": "https://marketingandsalessoftware.com/folk-review.html",
@@ -389,6 +421,22 @@
   ],
   "alt": "Geotargetly hands-on test by Marketing & Sales Software, 13 Nov 2026: Vendor claims checked 4; 4 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/geotargetly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/geotargetly.svg\" width=\"340\" height=\"115\" alt=\"Geotargetly hands-on test by Marketing &amp; Sales Software, 13 Nov 2026: Vendor claims checked 4; 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "grapevine",
+  "name": "Grapevine",
+  "review_url": "https://marketingandsalessoftware.com/grapevine-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/grapevine.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#grapevine",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "6 confirmed · 1 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Grapevine hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 1 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/grapevine-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/grapevine.svg\" width=\"340\" height=\"115\" alt=\"Grapevine hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 1 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "hello-bar",
@@ -483,6 +531,22 @@
   ],
   "alt": "Koala Bundles hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/koala-bundles-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/koala-bundles.svg\" width=\"340\" height=\"115\" alt=\"Koala Bundles hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "kumo",
+  "name": "Kumo",
+  "review_url": "https://marketingandsalessoftware.com/kumo-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/kumo.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#kumo",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "2 confirmed · 2 contradicted · 5 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Kumo hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 2 contradicted · 5 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/kumo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kumo.svg\" width=\"340\" height=\"115\" alt=\"Kumo hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 2 contradicted · 5 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "learnworlds",
