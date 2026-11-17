@@ -812,7 +812,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Loyalino
 - Review: https://marketingandsalessoftware.com/loyalino-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Starter says You have a 14-day free trial ending on 1 Dec., as the Plan page says for every paid plan; Starter was approved as a test charge without a card.
 - Verdict: Loyalino, Free: $0 for up to 200 loyalty orders a month. Reach your plan's order limit and the program does not cost more, it stops.
 - Price: (prices read 22 September 2026 on apps.shopify.com/loyalino-loyalty-rewards and on loyalino.io/pricing) Billed in USD through Shopify and metered by monthly loyalty orders rather than by features. The vendor puts it in those words on its own pricing page - you pay for volume, not for features - and every paid plan carries the same paid feature set.
 
@@ -1304,13 +1304,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Skip To Checkout
 - Review: https://marketingandsalessoftware.com/skip-to-checkout-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The app shows the label Free Plan and the listing says free; there was no plan page and no Shopify approval screen, nothing was paid and no card was asked.
 - Verdict: Skip To Checkout: Free, and free is the only plan. The cart skip blinds the measurement you would use to judge it.
 - Price: (re-verified 2026-10-19 on apps.shopify.com/cart-auto-update, where the listing now names the app PF: Skip To Checkout/Skip Cart; first read 2026-09-18) Free, and free is the only plan. The listing carries no pricing table at all: no paid tier, no usage meter and no surcharge tied to your Shopify plan.
 
 ## Smarty Discounts
 - Review: https://marketingandsalessoftware.com/smarty-discounts-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The app shows Free, Pro at $9.99 a month with unlimited discount rules, all discount types and a 7 day trial, and Custom at $99 a month. The dossier lists Lite at $9.99 and Pro at $25.99 and says Buy X Get…
 - Verdict: Smarty Discounts: Forever Free costs nothing, Lite is $9.99 a month or $99.99 a year. Add to that what the app needs to do its job.
 - Price: (read 2026-09-04 on apps.shopify.com/smarty-discount) Three tiers, all billed in USD and recurring every 30 days. Forever Free costs nothing, Lite is $9.99 a month or $99.99 a year, and Pro is $25.99 a month or $259.99 a year; the annual price on both paid tiers saves 17%, and both carry a 7-day free trial.
 
@@ -1472,7 +1472,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Try You
 - Review: https://marketingandsalessoftware.com/try-you-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Your volume tiers in the settings show Starter at full price for 0 to 499 try-ons a month, then -15%, -30%, -40% and -50% from 10,000 a month. The dossier says the thresholds are not published; the app…
 - Verdict: Try You: Free to install with 10 free try-ons, then pay per successful try-on with no monthly subscription. The cost scales with use, not with sales.
 - Price: (read 2026-10-24 on the Shopify App Store listing apps.shopify.com/tryyou, the vendor site tryyou.fly.dev, its terms and its privacy policy) Free to install with 10 free try-ons, then pay per successful try-on with no monthly subscription. The price depends on the quality level you pick: Light $0.04 (1024 × 1536), Medium $0.12, Pro $0.19 (1024 × 1536), HD $0.37 and Ultra $0.58 (1536 × 2048, 2K).
 
@@ -1532,7 +1532,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Warn
 - Review: https://marketingandsalessoftware.com/warn-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Premium card lists Prevent checkout for this store that is not on Shopify Plus, while the dossier says that blocking the checkout is only on the Plus plan; Premium was not started, so it was not tried.
 - Verdict: Warn: Premium is $6.99 a month or $41.94 a year. The app is called Warn: Warnings Checkout Blocks.
 - Price: (prices read 2026-09-20 on apps.shopify.com/product-notes) Billed in USD, every 30 days, and the ladder has three steps rather than the two the app's own summary suggests. Free gives you one textual warning across unlimited products, with the styling, per-product targeting and per-country targeting included.
 
