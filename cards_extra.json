@@ -2942,7 +2942,7 @@
   ],
   "price": "$19",
   "price_note": "from · per agent a month billed annually ($23 monthly)",
-  "verified": "2026-10-16",
+  "verified": "2026-11-17",
   "catch": "The free tier is useful for small teams, but AI features and higher-tier routing sit behind paid plans and add-ons, and being part of the wider Freshworks suite means you'll be nudged toward the full platform.",
   "best": "Small-to-mid support teams that want live chat and messaging with a real free tier to start."
  },
@@ -4022,7 +4022,7 @@
   ],
   "price": "$49",
   "price_note": "from · per month (or $44 annually) but with a $5 fee per paid enrollment",
-  "verified": "2026-10-29",
+  "verified": "2026-11-17",
   "catch": "The detail most people miss is Starter's $5-per-paid-enrollment fee: at any real sales volume it quietly makes Starter more expensive than the flat Pro Trainer plan, so the \"cheap\" tier often isn't.",
   "best": "Course creators and training businesses that want a branded school with interactive video, assessments, certificates and a built-in checkout."
  },
@@ -4303,7 +4303,7 @@
   ],
   "price": "$8",
   "price_note": "from · per member a month, billed annually ($10 billed monthly)",
-  "verified": "2026-09-23",
+  "verified": "2026-11-17",
   "catch": "Per-member pricing charges for every member added to the workspace, so an org-wide rollout multiplies at full headcount, and the free plan's cap of 3 editable boards is workspace-wide, not per person.",
   "best": "Teams that think visually: brainstorms, flowcharts, retros, workshops and planning on an infinite shared canvas with strong templates and facilitation tools."
  },
