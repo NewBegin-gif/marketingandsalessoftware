@@ -1208,7 +1208,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Selleasy
 - Review: https://marketingandsalessoftware.com/selleasy-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "No plans are available for your store". What we saw: The listing names Free, Starter, Pro and Max with prices; the Select a plan page in the app on our development store showed no plans…
 - Verdict: Selleasy: Billed in USD through Shopify, recurring charges every 30 days. The pricing changed under this review in October 2026.
 - Price: (prices read 2026-10-30 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/selleasy/pricing; the order-based ladder read on 19 September and 20 October 2026 has been replaced) Billed in USD through Shopify, recurring charges every 30 days. Four flat plans, each with unlimited orders.
 
