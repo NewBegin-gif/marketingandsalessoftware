@@ -11075,5 +11075,29 @@
    "label": "30% off your first payment with the code UMAYPTTB"
   },
   "best": "Creators, podcasters and small teams with long videos who want vertical clips with captions and reframing made automatically."
+ },
+ "Systeme.io": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "📅",
+    "Annual commit",
+    "annual_lock"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$17",
+  "price_note": "Startup · per month for 5,000 contacts, 10 funnels and 5 courses",
+  "verified": "2026-11-17",
+  "catch": "All-in-one funnels, email and courses; free to 2,000 contacts, paid from $17.",
+  "best": "Solo creators, coaches and small online businesses that want funnels, email, courses and an affiliate program under one login."
  }
 }
