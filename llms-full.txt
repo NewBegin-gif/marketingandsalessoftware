@@ -394,7 +394,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/easy-advanced-translations-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Easy Advanced Translations: Four tiers, all monthly and billed in USD. Auto-translation of new or changed content is reserved for the higher plans.
-- Price: (re-verified 2026-10-16 on apps.shopify.com/advanced-translation) Four tiers, all monthly and billed in USD. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language.
+- Price: (read 2026-11-17 on apps.shopify.com/advanced-translation and in our own test session on 17 November 2026) Four monthly tiers billed in USD: Free, Starter at $4.99, Basic at $19.99 and Pro at $29.99. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language.
 
 ## Easy Bundles
 - Review: https://marketingandsalessoftware.com/easy-bundles-review.html
@@ -742,7 +742,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/langshop-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: LangShop, Standard is $40 a month or $400 a year: ten languages, 2,000 products, automatic sync of 50 new items. The headline promise is 'unlimited words'.
-- Price: (read 2026-10-13 on apps.shopify.com/langshop and langshop.app/pricing) Seven published tiers, billed in USD. The Shopify listing shows only the first four and links to more pricing plans; the vendor's own pricing page prices the rest.
+- Price: (read 2026-11-17 on apps.shopify.com/langshop and langshop.io/pricing, and in our own test session on 17 November 2026) Basic is $10 a month or $100 a year, Standard $40 or $400, Advanced $75 or $750 and Pro $120 or $1,200. Seven published tiers in all, billed in USD, starting with a Free tier on the listing and on the vendor's page.
 
 ## Later
 - Review: https://marketingandsalessoftware.com/later-review.html
@@ -1186,7 +1186,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/scarcity-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Scarcity.AI: The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores.
-- Price: (read 2026-10-10 on apps.shopify.com, across all three listings) These are three separate apps from one developer, each installed and billed on its own. The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores, meaning development and partner stores only rather than a working free plan.
+- Price: (read 2026-11-17 on apps.shopify.com, across all three listings, and the low stock counter also in our own test session on 17 November 2026) The Low Stock Counter is $4.99 a month, the Countdown Timer $6.99 a month or $12.99 on its Plus Plan, and the Visitors Counter is free or $4.99 a month on Premium. These are three separate apps from one developer, Effective Apps, each installed and billed on its own.
 
 ## Scrolly
 - Review: https://marketingandsalessoftware.com/scrolly-review.html
@@ -1270,7 +1270,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/shipdock-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Shipdock: Lite is $9.99 a month or $107.88 a year and is labelled 'only CSV'. Read the carrier list against your own country before anything else.
-- Price: (re-read 2026-09-18 on apps.shopify.com/packeta) Three tiers, no free plan, every amount unchanged since 22 August 2026, and the entry tier still names its own limitation. Lite is $9.99 a month or $107.88 a year and is labelled 'only CSV': pickup point and home delivery, an email reminder, the pickup-point widget on the thank-you and order-status pages, unlimited carriers across more than twenty, and an order…
+- Price: (read 2026-11-17 on apps.shopify.com/packeta, where the app is titled ShipD Labels & Pickup points, and in our own test session on 17 November 2026) On the listing Lite is $9.99 a month ($107.88 a year), Basic $14.99 ($161.89) and Shopify Plus $24.99 ($269.89). Every amount is unchanged since 22 August 2026.
 
 ## ShopTrueProfit
 - Review: https://marketingandsalessoftware.com/shoptrueprofit-review.html
@@ -1444,7 +1444,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/tnc-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: TnC: The annual prices are $67.10, $92.32 and $109.12. Start with the badge at the top of the listing, because it is the one thing on this page that misleads.
-- Price: (read 2026-08-25, re-verified 2026-09-09 and again on 2026-09-29 on apps.shopify.com/terms-and-conditions-checkbox, listed as “TnC: Terms and Conditions Box”, and in the vendor's own pricing article at www.effectify.help) The monthly ladder is $6.99, $10.99 and $12.99, and the annual prices are $67.10, $92.32 and $109.12. The listing puts the annual saving at 20% on Basic and 30% on Advanced and Pro.
+- Price: (read 2026-11-17 on apps.shopify.com/terms-and-conditions-checkbox and in our own test session on 17 November 2026) Basic is $4.99 a month ($47.90 a year), Advanced $9.99 ($83.92) and Pro $14.99 ($89.94), each with a 7 day free trial. The listing, which now calls the app “TN Term and Condition Checkbox”, puts the annual saving at 20% on Basic, 30% on Advanced and 50% on Pro.
 
 ## Track123
 - Review: https://marketingandsalessoftware.com/track123-review.html
