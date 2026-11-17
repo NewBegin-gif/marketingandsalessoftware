@@ -448,7 +448,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Essent Preorder Back in Stock: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials. The plans are cheap until a launch works.
-- Price: (read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock notifications a month. Free covers 25 pre-orders and 300 back-in-stock notifications a month,…
+- Price: (read 2026-11-17 on apps.shopify.com/essential-preorder and in our own test that day; earlier: read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock…
 
 ## Essential Announcement Bar
 - Review: https://marketingandsalessoftware.com/essential-announcement-bar-review.html
@@ -718,7 +718,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/koala-gifts-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Koala Gifts: Basic is $9.99 a month or $95.88 a year, Shopify $29.99 or $287.88, Advanced $49.99 or $479.88. The fee does not move by itself.
-- Price: (read 2026-10-03 on apps.shopify.com/upsell-koala-gift and in the vendor's billing articles at koala-gift.crisp.help) Priced on the store's Shopify plan, not on use: the four plans carry the names of Shopify's own plans and the listing gives each the same feature list. Basic is $9.99 a month or $95.88 a year, Shopify $29.99 or $287.88, Advanced $49.99 or $479.88, and Shopify Plus $99.99 or $959.88.
+- Price: (read 2026-11-17 on apps.shopify.com/upsell-koala-gift and in our own test that day; earlier: read 2026-10-03 on apps.shopify.com/upsell-koala-gift and in the vendor's billing articles at koala-gift.crisp.help) Priced on the store's Shopify plan, not on use: the four plans carry the names of Shopify's own plans and the listing gives each the same feature list. Basic is $9.99 a month or $95.88 a year, Shopify…
 
 ## Koongo
 - Review: https://marketingandsalessoftware.com/koongo-review.html
