@@ -122,6 +122,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/besure-checkout-rules-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/besure-checkout-rules.svg\" width=\"340\" height=\"115\" alt=\"BeSure Checkout Rules hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "bold-custom-pricing",
+  "name": "Bold Custom Pricing",
+  "review_url": "https://marketingandsalessoftware.com/bold-custom-pricing-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/bold-custom-pricing.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#bold-custom-pricing",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "3 confirmed · 1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Bold Custom Pricing hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/bold-custom-pricing-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bold-custom-pricing.svg\" width=\"340\" height=\"115\" alt=\"Bold Custom Pricing hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "bold-memberships",
   "name": "Bold Memberships",
   "review_url": "https://marketingandsalessoftware.com/bold-memberships-review.html",
@@ -136,6 +152,22 @@
   ],
   "alt": "Bold Memberships hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 2 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/bold-memberships-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bold-memberships.svg\" width=\"340\" height=\"115\" alt=\"Bold Memberships hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "bold-upsell",
+  "name": "Bold Upsell",
+  "review_url": "https://marketingandsalessoftware.com/bold-upsell-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/bold-upsell.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#bold-upsell",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 1 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Bold Upsell hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/bold-upsell-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bold-upsell.svg\" width=\"340\" height=\"115\" alt=\"Bold Upsell hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "bot-it-ai",
@@ -774,6 +806,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/moosend-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/moosend.svg\" width=\"340\" height=\"115\" alt=\"Moosend hands-on test by Marketing &amp; Sales Software, 29 Oct 2026: Vendor claims checked 3; 3 confirmed; Data export: file opened, re-import tested\"></a>"
  },
  {
+  "slug": "my-stories",
+  "name": "My Stories",
+  "review_url": "https://marketingandsalessoftware.com/my-stories-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/my-stories.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#my-stories",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 1 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "My Stories hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/my-stories-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/my-stories.svg\" width=\"340\" height=\"115\" alt=\"My Stories hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "nocrm",
   "name": "noCRM",
   "review_url": "https://marketingandsalessoftware.com/nocrm-review.html",
@@ -1215,6 +1263,22 @@
   ],
   "alt": "Upsell & Cross Sell - AW hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 10; 4 confirmed · 3 contradicted · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/upsell-cross-sell-aw.svg\" width=\"340\" height=\"115\" alt=\"Upsell &amp; Cross Sell - AW hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 10; 4 confirmed · 3 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "vify-order-printer",
+  "name": "Vify Order Printer",
+  "review_url": "https://marketingandsalessoftware.com/vify-order-printer-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/vify-order-printer.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#vify-order-printer",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "4 confirmed · 1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Vify Order Printer hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/vify-order-printer-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vify-order-printer.svg\" width=\"340\" height=\"115\" alt=\"Vify Order Printer hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "webinargeek",

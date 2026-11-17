@@ -176,7 +176,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Bold Custom Pricing
 - Review: https://marketingandsalessoftware.com/bold-custom-pricing-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan screen shows Standard at $65 billed monthly, marked Most popular, with 1-10 Customer Tags, Auto-Emails and Auto-Tagging; the dossier names $69. Standard was not chosen and its features were not tried.
 - Verdict: Bold Custom Pricing: Three plans, each with a 14-day free trial. Bold Custom Pricing has no free plan and charges by customer group.
 - Price: (read 2026-10-06 on the Shopify App Store listing at apps.shopify.com/customer-pricing, where the app is titled Custom Pricing: Wholesale B2B; prices in USD) Three plans, each with a 14-day free trial, and the ladder is built on how many customer groups can see their own prices. Essential is $29 a month for 1 customer group, with storewide or product and variant discounts, unlimited quantity breaks, a…
 
@@ -194,7 +194,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Bold Upsell
 - Review: https://marketingandsalessoftware.com/bold-upsell-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Busy stores on the Shopify Basic plan". What we saw: About 8 minutes after the install and about 12 clicks from Manual Offers, one Upsell offer was made and shown in the preview inside…
 - Verdict: Bold Upsell: Shopify Basic is $4.99 a month, Shopify Grow $24.99, Shopify Advanced $74.99 and Shopify Plus $399.99. We have not run the app ourselves.
 - Price: (read 2026-10-06 on the Shopify App Store listing at apps.shopify.com/product-upsell, prices in USD) Four plans, and you do not choose between them: each is named after a Shopify plan, so the app costs what your store's own Shopify plan dictates. Shopify Basic is $4.99 a month, Shopify Grow $24.99, Shopify Advanced $74.99 and Shopify Plus $399.99.
 
@@ -860,7 +860,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## My Stories
 - Review: https://marketingandsalessoftware.com/my-stories-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Pro says You have a 7-day free trial ending on 24 Nov., as the plan card says 7 trial days, but it asks for a payment method and Approve was greyed out.
 - Verdict: My Stories, Beginner: $0, up to 10 uploaded videos, unlimited views, shoppable videos, watermark. Lead capture is capped at 20 a month on the $14 plan.
 - Price: (read 2026-11-17 on getmystories.com/pricing, US dollars) Beginner: $0, up to 10 uploaded videos, unlimited views, shoppable videos, watermark. Advanced: $14 a month, up to 100 videos, up to 20 leads a month, analytics, no watermark.
 
@@ -1508,7 +1508,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Vify Order Printer
 - Review: https://marketingandsalessoftware.com/vify-order-printer-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Plans page shows STARTER at $8.99 USD/Month (monthly) and the Shopify screen shows $8,99 USD every 30 days; the listing and the dossier name $10.99. The Yearly view was not opened.
 - Verdict: Vify Order Printer: Premium is $29.99 a month or $299 a year and adds more templates, custom invoices and quotes, a custom sender email, commercial invoices.
 - Price: (read 2026-10-11 on the Shopify App Store listing apps.shopify.com/vify-order-printer, USD; the listing says recurring charges are billed every 30 days) Four plans. Free: freely customised templates, the 50 latest orders, PDF invoice download for customers on the storefront, auto-detected address formats, draft orders and 24/7 support.
 
