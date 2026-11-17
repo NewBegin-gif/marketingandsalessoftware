@@ -92,7 +92,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Assortion
 - Review: https://marketingandsalessoftware.com/assortion-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify Approve screen says a 14-day free trial ending on 1 Dec. and that billing starts when the app is used, which matches the 14 days of the listing and the dossier; the screen also says the app…
 - Verdict: Assortion has one feature set and charges by the size of your store. The price follows your total store orders.
 - Price: (read 2026-10-15 on assortion.com/pricing and the Shopify App Store listing apps.shopify.com/assortion, prices in USD) Assortion has one feature set and charges by the size of your store: the price depends on your total monthly store orders, not only the orders that include an upsell. 0 to 50 orders a month costs $9.99, 51 to 200 costs $19.99, 201 to 500 costs $34.99, 501 to 1,000 costs $59.99, 1,001 to 2,500…
 
@@ -422,7 +422,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## EliteCart
 - Review: https://marketingandsalessoftware.com/elitecart-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Essentials says a 15-day free trial ending on 2 Dec., which matches the 15 days of the listing and not the 14 days of the dossier pricing page; Approve was greyed out and…
 - Verdict: EliteCart: Two published plans and one on request, with no free plan. The trial is 15 days on the listing and 14 on the pricing page.
 - Price: (read 2026-10-15 on the Shopify App Store listing apps.shopify.com/elite-cart-upsell and elitecart.app/pricing, prices in USD) Two published plans and one on request, with no free plan. Essentials, called Essential on EliteCart's own pricing page, is $29.99 a month and includes 200 orders a month with one language and conversion analytics; above that the price scales with order volume, and the listing gives one…
 
@@ -1154,7 +1154,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Rewarx Studio AI
 - Review: https://marketingandsalessoftware.com/rewarx-studio-ai-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Generate Photos (1 Credits)". What we saw: About 3 to 4 minutes and 9 clicks after the install a result stood in the Library with the source: two images (Variations 2 / 2), the snowboards…
 - Verdict: Rewarx Studio AI: Free gives 10 AI product photo credits. The listing states no refund terms, no rollover of unused credits and no price for extra credits.
 - Price: (read 2026-10-23 on the Rewarx listing in the Shopify App Store; the listing says all charges are billed in USD) Rewarx's own pricing page shows no amounts, so the Shopify listing is the public price list. Free gives 10 AI product photo credits.
 

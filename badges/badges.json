@@ -46,6 +46,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/alttext-ai-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/alttext-ai.svg\" width=\"340\" height=\"81\" alt=\"AltText.ai hands-on test by Marketing &amp; Sales Software, 20 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "assortion",
+  "name": "Assortion",
+  "review_url": "https://marketingandsalessoftware.com/assortion-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/assortion.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#assortion",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 2 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Assortion hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/assortion-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/assortion.svg\" width=\"340\" height=\"115\" alt=\"Assortion hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "atria",
   "name": "Atria",
   "review_url": "https://marketingandsalessoftware.com/atria-review.html",
@@ -361,6 +377,22 @@
   ],
   "alt": "Elite Site Optimizer hands-on test by Marketing & Sales Software, 13 Nov 2026: Vendor claims checked 5; 2 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/elite-site-optimizer-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/elite-site-optimizer.svg\" width=\"340\" height=\"115\" alt=\"Elite Site Optimizer hands-on test by Marketing &amp; Sales Software, 13 Nov 2026: Vendor claims checked 5; 2 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "elitecart",
+  "name": "EliteCart",
+  "review_url": "https://marketingandsalessoftware.com/elitecart-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/elitecart.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#elitecart",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "5 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EliteCart hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/elitecart-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/elitecart.svg\" width=\"340\" height=\"115\" alt=\"EliteCart hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "engagebay",
@@ -977,6 +1009,22 @@
   ],
   "alt": "Restream hands-on test by Marketing & Sales Software, 6 Nov 2026: Vendor claims checked 6; 6 confirmed; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/restream-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/restream.svg\" width=\"340\" height=\"115\" alt=\"Restream hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 6; 6 confirmed; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "rewarx-studio-ai",
+  "name": "Rewarx Studio AI",
+  "review_url": "https://marketingandsalessoftware.com/rewarx-studio-ai-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/rewarx-studio-ai.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#rewarx-studio-ai",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "3 confirmed · 2 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Rewarx Studio AI hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 2 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/rewarx-studio-ai-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/rewarx-studio-ai.svg\" width=\"340\" height=\"115\" alt=\"Rewarx Studio AI hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 2 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "riibase-crm",
