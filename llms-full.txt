@@ -393,7 +393,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Easy Advanced Translations
 - Review: https://marketingandsalessoftware.com/easy-advanced-translations-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Easy Advanced Translations: Four tiers, all monthly and billed in USD. Auto-translation of new or changed content is reserved for the higher plans.
+- Verdict: Easy Advanced Translations: Free, Starter at $4.99, Basic at $19.99 and Pro at $29.99. The track record is thin: 5.0 stars but only nine reviews.
 - Price: (read 2026-11-17 on apps.shopify.com/advanced-translation and in our own test session on 17 November 2026) Four monthly tiers billed in USD: Free, Starter at $4.99, Basic at $19.99 and Pro at $29.99. Free installs at no cost and gives you unlimited AI if you bring your own OpenAI or DeepSeek key, or free built-in AI for a small quota (50 products, 50 metafields, 100 variants, 5 articles) in one AI language.
 
 ## Easy Bundles
@@ -741,7 +741,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## LangShop
 - Review: https://marketingandsalessoftware.com/langshop-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: LangShop, Standard is $40 a month or $400 a year: ten languages, 2,000 products, automatic sync of 50 new items. The headline promise is 'unlimited words'.
+- Verdict: LangShop: Basic is $10 a month or $100 a year, Standard $40 or $400, Advanced $75 or $750 and Pro $120 or $1,200. The headline promise is 'unlimited words'.
 - Price: (read 2026-11-17 on apps.shopify.com/langshop and langshop.io/pricing, and in our own test session on 17 November 2026) Basic is $10 a month or $100 a year, Standard $40 or $400, Advanced $75 or $750 and Pro $120 or $1,200. Seven published tiers in all, billed in USD, starting with a Free tier on the listing and on the vendor's page.
 
 ## Later
@@ -1185,7 +1185,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Scarcity.AI
 - Review: https://marketingandsalessoftware.com/scarcity-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Scarcity.AI: The Low Stock Counter is $4.99 a month or $41.91 a year at a stated 30% saving, with a 7-day trial; its free tier is Development Stores.
+- Verdict: Scarcity.AI: The Low Stock Counter is $4.99 a month, the Countdown Timer $6.99 a month or $12.99 on its Plus Plan. Nothing here invents a number.
 - Price: (read 2026-11-17 on apps.shopify.com, across all three listings, and the low stock counter also in our own test session on 17 November 2026) The Low Stock Counter is $4.99 a month, the Countdown Timer $6.99 a month or $12.99 on its Plus Plan, and the Visitors Counter is free or $4.99 a month on Premium. These are three separate apps from one developer, Effective Apps, each installed and billed on its own.
 
 ## Scrolly
@@ -1269,7 +1269,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Shipdock
 - Review: https://marketingandsalessoftware.com/shipdock-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Shipdock: Lite is $9.99 a month or $107.88 a year and is labelled 'only CSV'. Read the carrier list against your own country before anything else.
+- Verdict: Shipdock: On the listing Lite is $9.99 a month ($107.88 a year), Basic $14.99 ($161.89) and Shopify Plus $24.99 ($269.89).
 - Price: (read 2026-11-17 on apps.shopify.com/packeta, where the app is titled ShipD Labels & Pickup points, and in our own test session on 17 November 2026) On the listing Lite is $9.99 a month ($107.88 a year), Basic $14.99 ($161.89) and Shopify Plus $24.99 ($269.89). Every amount is unchanged since 22 August 2026.
 
 ## ShopTrueProfit
@@ -1443,7 +1443,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## TnC
 - Review: https://marketingandsalessoftware.com/tnc-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: TnC: The annual prices are $67.10, $92.32 and $109.12. Start with the badge at the top of the listing, because it is the one thing on this page that misleads.
+- Verdict: TnC: Basic is $4.99 a month ($47.90 a year), Advanced $9.99 ($83.92) and Pro $14.99 ($89.94), each with a 7 day free trial.
 - Price: (read 2026-11-17 on apps.shopify.com/terms-and-conditions-checkbox and in our own test session on 17 November 2026) Basic is $4.99 a month ($47.90 a year), Advanced $9.99 ($83.92) and Pro $14.99 ($89.94), each with a 7 day free trial. The listing, which now calls the app “TN Term and Condition Checkbox”, puts the annual saving at 20% on Basic, 30% on Advanced and 50% on Pro.
 
 ## Track123
