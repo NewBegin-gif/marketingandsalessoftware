@@ -381,8 +381,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Dripshipper
 - Review: https://marketingandsalessoftware.com/dripshipper-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Dripshipper: Starter $30 a month, Professional $99 and Elite $197, each listed with a 14-day free trial. Read the ladder before you climb it.
-- Price: (re-read 2026-10-19 on apps.shopify.com/dripshipper, listed as “Dripshipper: Coffee & Tea”, and on dripshipper.io/pricing) Starter $30 a month, Professional $99 and Elite $197, each listed with a 14-day free trial — all three unchanged since 19 August 2026. The help centre's cancellation article (2 September 2026) contradicts that for Elite, saying it has no trial and bills immediately.
+- Verdict: Dripshipper: Starter is also sold annually at $240 a year, which is $20 a month for the same tier. Read the ladder before you climb it.
+- Price: (read 2026-11-17 on apps.shopify.com/dripshipper and in our own test the same day, read before on 2026-10-19 on apps.shopify.com/dripshipper, listed as “Dripshipper: Coffee & Tea”, and on dripshipper.io/pricing) Starter $30 a month, Professional $99 and Elite $197, each listed with a 14-day free trial — all three unchanged since 19 August 2026. The help centre's cancellation article (2 September 2026) contradicts…
 
 ## DropGenius
 - Review: https://marketingandsalessoftware.com/dropgenius-review.html
@@ -465,14 +465,14 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Essential Countdown Timer Bar
 - Review: https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Essential Countdown Timer Bar: Four plans priced on monthly timer views. The free plan is smaller than it looks, because of what counts as a view.
-- Price: (read 2026-09-28, re-read 2026-10-21 without changes, on apps.shopify.com/essential-countdown-timer, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers.
+- Verdict: Essential Countdown Timer Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The help centre says a view is every time a timer loads.
+- Price: (read 2026-11-17 on apps.shopify.com/essential-countdown-timer and in our own test the same day; read 2026-09-28 and 2026-10-21 there, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers.
 
 ## Essential Free Shipping Bar
 - Review: https://marketingandsalessoftware.com/essential-free-shipping-bar-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Essential Free Shipping Bar: Four plans priced on monthly booster views. Cart-page boosters start on Essential at $14.99 a month.
-- Price: (read 2026-09-29 on apps.shopify.com/essential-order-value-booster, on essential-apps.com/free-shipping-bar and in the vendor's help articles on views and on setup) Four plans priced on monthly booster views. Free covers up to 1,000 views a month with unlimited top-bar and product-page boosters.
+- Verdict: Essential Free Shipping Bar: Free covers up to 1,000 views a month with unlimited top-bar and product-page boosters. Past the limit there is no charge.
+- Price: (read 2026-11-17 on apps.shopify.com/essential-order-value-booster and in our own test the same day; read 2026-09-29 there, on essential-apps.com/free-shipping-bar and in the vendor's help articles on views and on setup) Four plans priced on monthly booster views. Free covers up to 1,000 views a month with unlimited top-bar and product-page boosters.
 
 ## Essential Loyalty
 - Review: https://marketingandsalessoftware.com/essential-loyalty-review.html
@@ -520,7 +520,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/fbtrack-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: FBtrack: Basic is $10 a month for one active pixel, Standard is $15 a month for five active pixels. A pixel app earns its fee by being dull.
-- Price: (read 2026-09-28 and re-verified unchanged 2026-11-12 on apps.shopify.com/facebook-pixel-conversion-api-fbtrack) Three paid plans and no free plan, each with a 14-day free trial. Basic is $10 a month for one active pixel, Standard is $15 a month for five active pixels, and Unlimited is $30 a month for unlimited Meta, TikTok, Snapchat and Pinterest pixels with unlimited Conversions API tracking and server-side events.
+- Price: (read 2026-11-17 on apps.shopify.com/facebook-pixel-conversion-api-fbtrack and in our own test the same day; first read 2026-09-28, amounts unchanged since) Three paid plans and no free plan, each with a 14-day free trial. Basic is $10 a month for one active pixel, Standard is $15 a month for five active pixels, and Unlimited is $30 a month for unlimited Meta, TikTok, Snapchat and Pinterest pixels with unlimited…
 
 ## FeedbackGate
 - Review: https://marketingandsalessoftware.com/feedbackgate-review.html
@@ -574,7 +574,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/gelato-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Gelato+ is $29.99 a month, or $19.99 a month billed annually. The free plan is usable, so the honest question is only whether Gelato+ earns its fee.
-- Price: (re-read 2026-09-23 on gelato.com/subscription-plans in a browser session, every figure unchanged since 26 August; the site serves a bot challenge that our capture cannot pass, so there is no dated screenshot beside this) Free is $0 forever with two connected stores and two account users. Gelato+ is $29.99 a month, or $19.99 a month billed annually, and lifts both of those to unlimited while adding…
+- Price: (read 2026-11-17 on apps.shopify.com/gelato-print-on-demand for Gelato+ and its trial, and in our own test account the same day; plan table read again 2026-09-23 on gelato.com/subscription-plans in a browser session, every figure unchanged since 26 August; the site serves a bot challenge that our capture cannot pass, so there is no dated screenshot beside this) Free is $0 forever with two connected stores and two…
 
 ## GeoStock
 - Review: https://marketingandsalessoftware.com/geostock-review.html
@@ -694,7 +694,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/kite-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Kite: The Free plan is free to install and covers the first 50 discount orders each month. 'Free to install' is doing a lot of work on this listing.
-- Price: (prices read 2026-09-06 on apps.shopify.com/kite-free-gift, re-verified unchanged 2026-11-01) Four plans, billed in USD every 30 days. The Free plan is free to install and covers the first 50 discount orders each month; the listing states that $29 a month is billed only if you go over 50 orders.
+- Price: (prices read 2026-11-17 on apps.shopify.com/kite-free-gift and in our own test the same day; first read 2026-09-06, unchanged since) Four plans, billed in USD every 30 days. The Free plan is free to install and covers the first 50 discount orders each month; the listing states that $29 a month is billed only if you go over 50 orders.
 
 ## Kiwi Sizing
 - Review: https://marketingandsalessoftware.com/kiwi-sizing-review.html
@@ -784,7 +784,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/lettrlabs-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: LettrLabs: Premium is $399/month billed annually or $449 month-to-month. Direct mail only pays off with a tight list and a real offer.
-- Price: (price re-verified 2026-09-22 against the vendor's own pricing page; EVERY rate identical to the 31 Aug 2026 reading, to the cent) (2026) Postage is included in every per-piece rate. Three PURCHASABLE tiers: Starter is free and pay-as-you-go; Premium is $399/month billed annually or $449 month-to-month; Enterprise is custom-priced.
+- Price: (price read 2026-11-17 on the vendor's own pricing page, with both Premium prices, the Starter rates and the free credit unchanged; full rate list verified 2026-09-22, identical to the 31 Aug 2026 reading, to the cent) Postage is included in every per-piece rate. Three PURCHASABLE tiers: Starter is free and pay-as-you-go; Premium is $399/month billed annually or $449 month-to-month; Enterprise is custom-priced.
 
 ## LifterLMS
 - Review: https://marketingandsalessoftware.com/lifterlms-review.html
@@ -891,8 +891,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Notify Me
 - Review: https://marketingandsalessoftware.com/notify-me-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Notify Me, Four tiers: Lite, a free plan with mostly lifetime allowances, then Kickstart $9.90/mo or $95/yr, Starter $19.90/mo or $191/yr.
-- Price: (price re-verified 2026-09-23 against the Shopify App Store listing and notify-me.io/pricing) Four tiers: Lite, a free plan with mostly lifetime allowances, then Kickstart $9.90/mo or $95/yr, Starter $19.90/mo or $191/yr, Standard $39.90/mo or $383/yr, with annual marked 20% off, plus an Enterprise tier arranged by meeting. Each paid tier runs a discounted first month ($3.96, $7.96 and $15.96).
+- Verdict: Notify Me: Preorders above the plan limit are $0.20 each and $0.15 on Standard. If your catalog rarely goes out of stock, you won't see much return.
+- Price: (read 2026-11-17 on the Shopify App Store listing at apps.shopify.com/preorder-back-in-stock, where the older address apps.shopify.com/back-in-stock-notifications now redirects, and in our own test on a development store the same day; earlier reads 2 and 23 September 2026) Four tiers on the listing: Lite free, Kickstart $9.90 a month or $79.21 a year, Starter $19.90 or $159.23 a year and Standard $39.90 or…
 
 ## Nutshell
 - Review: https://marketingandsalessoftware.com/nutshell-review.html
@@ -981,8 +981,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pickeasy
 - Review: https://marketingandsalessoftware.com/pickeasy-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Pickeasy: $215.99 for Smart, $323.99 for Premium and $647.99 for Custom. The rate features depend on something Pickeasy does not sell.
-- Price: (read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/order-delivery-date-time and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as total store orders, with date and…
+- Verdict: Pickeasy: Free covers one location and up to 10 orders a month. The rate features depend on something Pickeasy does not sell.
+- Price: (read 2026-11-17 on apps.shopify.com/order-delivery-date-time and in our own test the same day; read 2026-09-27 and 2026-10-21 there and on the vendor's pricing page at logbase.io/pickeasy-pricing-plan) Five tiers, gated on features and store locations rather than on how many deliveries you schedule, except at the bottom. Free covers one location and up to 10 orders a month, which the vendor's page defines as…
 
 ## PinBee
 - Review: https://marketingandsalessoftware.com/pinbee-review.html
@@ -1077,8 +1077,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pumper Bundles
 - Review: https://marketingandsalessoftware.com/pumper-bundles-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Pumper Bundles: Free covers up to $300 of extra revenue generated by the app. The bill therefore rises exactly when the app is working, and it rises in steps.
-- Price: (re-verified 2026-09-19 on apps.shopify.com/pumper-quantity-breaks-product-bundles-discounts AND on the vendor's own site, USD; listed amounts unchanged since 2 September) Four tiers on the listing, with a 7-day free trial on the paid ones. The ladder is priced by how much extra revenue the app is allowed to generate for you, not by what it can do: the feature list — unlimited bundles and quantity breaks, chat…
+- Verdict: Pumper Bundles, Four tiers on the listing: Free up to $300 of extra revenue generated by the app, Starter $9.99 a month, Growth $29.99 and Unlimited $49.99.
+- Price: (read 2026-11-17 on apps.shopify.com/pumper-quantity-breaks-product-bundles-discounts and in our own test the same day; vendor site read 2026-09-19; listed amounts unchanged since 2 September) Four tiers on the listing: Free up to $300 of extra revenue generated by the app, Starter $9.99 a month, Growth $29.99 and Unlimited $49.99, with a 7 day free trial on the paid ones. The paid ladder is priced by how much…
 
 ## Quartile
 - Review: https://marketingandsalessoftware.com/quartile-review.html
@@ -1197,8 +1197,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Scrolly
 - Review: https://marketingandsalessoftware.com/scrolly-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Scrolly: On 19 September 2026 it carried a Free Plan and an Unlimited Plan at $2.99 a month, or $25.11 a year with a 30% saving.
-- Price: (read 2026-08-25 and re-read 2026-09-19 on apps.shopify.com/custom-scroll-to-top) Two plans now, where there was one. On 25 August 2026 the listing carried no paid tier, no usage meter and no surcharge — the pricing block most App Store listings use to sell an upgrade was simply absent.
+- Verdict: Scrolly: The listing carries a Free Plan and the Unlimited Plan at $4.99 a month, or $29.94 a year with a 50% saving. What changed is which half you pay for.
+- Price: (read 2026-11-17 on apps.shopify.com/custom-scroll-to-top and in our own test the same day; earlier reads 2026-08-25, 2026-09-19 and 2026-11-02) Two plans now, where there was one. On 25 August 2026 the listing carried no paid tier, no usage meter and no surcharge — the pricing block most App Store listings use to sell an upgrade was simply absent.
 
 ## Seel
 - Review: https://marketingandsalessoftware.com/seel-review.html
@@ -1209,8 +1209,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Selixer
 - Review: https://marketingandsalessoftware.com/selixer-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Selixer: Three tiers, no free plan, each with a 14-day free trial. The real price of what this app is sold on is double the headline.
-- Price: (re-verified 2026-11-10 on apps.shopify.com/selixer; amounts unchanged since 10 September 2026) Three tiers, no free plan, each with a 14-day free trial. Essence $149 a month: two user seats, one connected ad platform, a year of historical data, the ad dashboard with campaigns and trends, stockout, overstock and dead-stock views, an inventory health score, 500 AI credits with top-ups from $25, and a site speed…
+- Verdict: Selixer: Three tiers on the listing, Essence $149, Catalyst $299 and Aether $399 a month, no free plan, each with a 14 day free trial.
+- Price: (read 2026-11-17 on apps.shopify.com/selixer and in our own trial account the same day; amounts unchanged since 10 September 2026) Three tiers on the listing, Essence $149, Catalyst $299 and Aether $399 a month, no free plan, each with a 14 day free trial. Essence $149 a month: two user seats, one connected ad platform, a year of historical data, the ad dashboard with campaigns and trends, stockout, overstock and…
 
 ## Selleasy
 - Review: https://marketingandsalessoftware.com/selleasy-review.html
@@ -1353,8 +1353,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Stamped
 - Review: https://marketingandsalessoftware.com/stamped-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Stamped: Reviews is $23 a month at 200 orders, $99 at 1,000, $199 at 5,000, $399 at 20,000, $599 at 50,000 and $799 on Unlimited.
-- Price: (re-read 16 November 2026 by plain fetch of stamped.io/pricing; the amount for each order step sits in the page's own HTML, in the data its order-volume selector reads) There is no free plan, and the bill follows monthly order volume per product. The page now shows two product cards, Repeat and Reviews.
+- Verdict: Stamped: In our own test on 17 November 2026, a new install of the app started on a free plan, “Reviews (Lite)” at $0.
+- Price: (read 2026-11-17 on apps.shopify.com/product-reviews-addon and in our own test on a development store the same day; stamped.io/pricing read 16 November 2026 by plain fetch, the amount for each order step in the page's own HTML) Reviews starts at $23 a month for 200 orders, the bill follows monthly order volume per product, and the free plan a new install starts on does not show reviews on your store. The page now…
 
 ## Stampezee
 - Review: https://marketingandsalessoftware.com/stampezee-review.html
@@ -1390,7 +1390,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/super-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Super: The free plan in the listing header is the Development tier. If you are on Shopify Plus, the price block on the listing is not the one you pay from.
-- Price: (re-verified 2026-11-13 on apps.shopify.com/super-gift-wraps; Basic, Advanced and Pro unchanged since 2026-11-02) Every tier on the listing was repriced since our October reading, and the vendor's help-centre price article has not been updated to match. Three paid tiers on the listing, billed in USD every 30 days through Shopify: Basic is $4.99 a month or $47.90 a year (was $9.99) for a paid or free gift message…
+- Price: (read 2026-11-17 on apps.shopify.com/super-gift-wraps and in our own test on a development store the same day; Basic, Advanced and Pro unchanged since 2026-11-02) Three paid tiers on the listing: Basic $4.99 a month or $47.90 a year, Advanced $9.99 or $83.92 and Pro $14.99 or $89.94, each with a 7 day trial and billed in USD every 30 days through Shopify. Every tier was repriced since our October reading, and the…
 
 ## Superlines
 - Review: https://marketingandsalessoftware.com/superlines-review.html
@@ -1431,8 +1431,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Tapstitch
 - Review: https://marketingandsalessoftware.com/tapstitch-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Tapstitch: No subscription, no monthly fee and no minimum order quantity. Printify is cheaper, higher-margin and has a far bigger catalogue.
-- Price: (re-verified 2026-10-12 on tapstitch.com/collections/all; the site publishes no /pricing page — that URL returns 404) No subscription, no monthly fee and no minimum order quantity — you pay per item, production plus shipping, so there is no plan price to compare. The all-products page lists 1,244 items, 48 to a page across 26 pages; in US dollars their 'from' prices run from $2.99 to $38.99, median $14.99, at…
+- Verdict: Tapstitch: In US dollars their 'from' prices run from $2.99 to $38.99, median $14.99, at fabric weights from 91 to 760 gsm.
+- Price: (read 2026-11-17 in our own Tapstitch account, prices shown in euros; US dollar figures verified 2026-10-12 on tapstitch.com/collections/all; the site publishes no pricing page, and tapstitch.com/pricing returns 404) No subscription, no monthly fee and no minimum order quantity — you pay per item, production plus shipping, so there is no plan price to compare. The all-products page lists 1,244 items, 48 to a page…
 
 ## Teachable
 - Review: https://marketingandsalessoftware.com/teachable-review.html
@@ -1456,7 +1456,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/track123-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Track123: Three published plans plus Enterprise, priced on synced orders a month. The overage is the most expensive order on the ladder.
-- Price: (read 2026-09-27, re-read 2026-10-21 without changes, on apps.shopify.com/track123 and in the vendor's pricing article on intercom.help/track123, dated 14 July 2026) Three published plans plus Enterprise, priced on synced orders a month; customer lookups are unlimited on every plan. Starter is free for 50 orders a month, and orders past that do not sync until the next billing cycle.
+- Price: (read 2026-11-17 on apps.shopify.com/track123 and in our own test the same day; read 2026-09-27 and 2026-10-21 there and in the vendor's pricing article on intercom.help/track123, dated 14 July 2026) Three published plans plus Enterprise, priced on synced orders a month; customer lookups are unlimited on every plan. Starter is free for 50 orders a month, and orders past that do not sync until the next billing cycle.
 
 ## Tradelle
 - Review: https://marketingandsalessoftware.com/tradelle-review.html
