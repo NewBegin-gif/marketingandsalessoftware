@@ -11057,5 +11057,23 @@
   "verified": "2026-11-16",
   "catch": "Pay vendors by card, earn points; 1.75% fee, no subscription.",
   "best": "US small businesses that pay many vendor bills and want to put them on a credit card or earn travel points even when the vendor only takes ACH or a check."
+ },
+ "Klap": {
+  "flags": [
+   [
+    "🧩",
+    "Add-ons extra",
+    "addons_extra"
+   ]
+  ],
+  "price": "$14.50",
+  "price_note": "Basic · per month billed yearly ($174 a year) for 100 clips a month",
+  "verified": "2026-11-17",
+  "catch": "Turns long videos into short clips; free on 1 video, paid from $14.50.",
+  "coupon": {
+   "code": "UMAYPTTB",
+   "label": "30% off your first payment with the code UMAYPTTB"
+  },
+  "best": "Creators, podcasters and small teams with long videos who want vertical clips with captions and reframing made automatically."
  }
 }

@@ -405,6 +405,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/kit-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kit.svg\" width=\"340\" height=\"81\" alt=\"Kit hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: Data export: file opened, re-import tested\"></a>"
  },
  {
+  "slug": "klap",
+  "name": "Klap",
+  "review_url": "https://marketingandsalessoftware.com/klap-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/klap.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#klap",
+  "tested_on": "2026-10-29",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "1 contradicted · 1 not comparable · 1 not testable",
+   "Data export: file opened, re-import not tested"
+  ],
+  "alt": "Klap hands-on test by Marketing & Sales Software, 29 Oct 2026: Vendor claims checked 3; 1 contradicted · 1 not comparable · 1 not testable; Data export: file opened, re-import not tested",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/klap-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/klap.svg\" width=\"340\" height=\"115\" alt=\"Klap hands-on test by Marketing &amp; Sales Software, 29 Oct 2026: Vendor claims checked 3; 1 contradicted · 1 not comparable · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
   "slug": "learnworlds",
   "name": "LearnWorlds",
   "review_url": "https://marketingandsalessoftware.com/learnworlds-review.html",
