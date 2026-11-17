@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 323,
-  "flags": 481,
+  "tools": 324,
+  "flags": 482,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -4706,6 +4706,30 @@
    "first_observed_at": "2026-09-16"
   },
   {
+   "name": "My Stories",
+   "category": "E-commerce",
+   "domain": "getmystories.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/my-stories-review/",
+   "from_price_usd_mo": 14.0,
+   "entry_price": "$14",
+   "entry_price_terms": "Advanced · per month, 7-day free trial",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-17 on getmystories.com/pricing, US dollars) Beginner: $0, up to 10 uploaded videos, unlimited views, shoppable videos, watermark. Advanced: $14 a month, up to 100 videos, up to 20 leads a month, analytics, no watermark. Pro: $45 a month, unlimited videos and leads. 7-day free trial on paid plans. The Shopify listing shows yearly prices of $140 and $450. We have not installed the app.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-17 on getmystories.com/pricing, US dollars) Beginner: $0, up to 10 uploaded videos, unlimited views, shoppable videos, watermark.",
+     "evidence_excerpt": null,
+     "source_url": "https://getmystories.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
+  },
+  {
    "name": "Mystrika",
    "category": "Sales & CRM",
    "domain": "mystrika.com",
@@ -5358,15 +5382,15 @@
    "entry_price": "$10",
    "entry_price_terms": "per member per month billed yearly ($15 monthly)",
    "pricing_status": "public",
-   "price_note": "(re-verified 6 September and again 19 September 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per month billed monthly or $10 billed annually ($120 a year), Business is $20 monthly or $17 billed annually ($204 a year), and Enterprise is quote-only from 101 members. Free stops at 2 PNG downloads — a flat total, not two a month — 1 GB of storage, 60 AI credits and free templates only, and is capped at four members (one owner plus three). Pro adds unlimited PNG downloads, premium templates and icons, 500 AI credits and 100 GB, and the annual rate is what the page calls 33% off. Business, 15% off annually, adds PDF and PowerPoint export on top of PNG, the Brand Kit (unlimited brand colours, fonts and logos), 1,000 AI credits and 250 GB. Enterprise adds SSO/SAML, workspace management, a dedicated account manager and a one-off hour of training. Three further cards on the same page price other audiences, and two of them beat Pro on both price and capability. Education is $39.99 per member billed annually — the card splits the cents into a separate element, which is why a careless reading gives $39; the FAQ prints the full figure — with 250 AI credits, a limited Brand Kit and unlimited PNG, PDF and PowerPoint downloads, and requires a valid educational email address. Campus is quote-only above 3,000 seats. Nonprofit is $60 per member billed annually with the same 250 credits, limited Brand Kit and unlimited PNG, PDF and PPT downloads. The page's own FAQ calls those two 'a 76% discount' and 'a 64% discount' from its annual pricing, which works back to a list of about $167 a year — a figure that appears nowhere on the page, where annual Pro is $120 and monthly Pro annualises to $180. The page can be switched between USD, GBP, EUR, SGD, MXN and INR. No free trial is offered on the paid tiers — the free plan is the trial — and you can cancel anytime, though the FAQ adds that refunds are generally not given under the Terms of Use and are reviewed case by case, and that purchases of $168 or more can be settled by bank deposit.",
+   "price_note": "(re-verified 6 September, 19 September and 17 November 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per month billed monthly or $10 billed annually ($120 a year), Business is $20 monthly or $17 billed annually ($204 a year), and Enterprise is quote-only from 101 members. Free stops at 2 PNG downloads — a flat total, not two a month — 1 GB of storage, 60 AI credits and free templates only, and is capped at four members (one owner plus three). Pro adds unlimited PNG downloads, premium templates and icons, 500 AI credits and 100 GB, and the annual rate is what the page calls 33% off. Business, 15% off annually, adds PDF and PowerPoint export on top of PNG, the Brand Kit (unlimited brand colours, fonts and logos), 1,000 AI credits and 250 GB. Enterprise adds SSO/SAML, workspace management, a dedicated account manager and a one-off hour of training. Three further cards on the same page price other audiences, and two of them beat Pro on both price and capability. Education is $39.99 per member billed annually — the card splits the cents into a separate element, which is why a careless reading gives $39; the FAQ prints the full figure — with 250 AI credits, a limited Brand Kit and unlimited PNG, PDF and PowerPoint downloads, and requires a valid educational email address. Campus is quote-only above 3,000 seats. Nonprofit is $60 per member billed annually with the same 250 credits, limited Brand Kit and unlimited PNG, PDF and PPT downloads. The page's own FAQ calls those two 'a 76% discount' and 'a 64% discount' from its annual pricing, which works back to a list of about $167 a year — a figure that appears nowhere on the page, where annual Pro is $120 and monthly Pro annualises to $180. The page can be switched between USD, GBP, EUR, SGD, MXN and INR. No free trial is offered on the paid tiers — the free plan is the trial — and you can cancel anytime, though the FAQ adds that refunds are generally not given under the Terms of Use and are reviewed case by case, and that purchases of $168 or more can be settled by bank deposit.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 6 September and again 19 September 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per month billed monthly or $10 billed annually ($120 a year), Business is $20 monthly or $17 billed annually ($204 a year), and Enterprise is quote-only from 101 members.",
-     "evidence_excerpt": "(re-verified 6 September and again 19 September 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per m…",
+     "evidence": "(re-verified 6 September, 19 September and 17 November 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per month billed monthly or $10 billed annually ($120 a year), Business is $20 monthly or $17 billed annually ($204 a year), and Enterprise is quote-only from 101 members.",
+     "evidence_excerpt": "(re-verified 6 September, 19 September and 17 November 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per membe…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "usage_metered",
@@ -5374,7 +5398,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "annual_lock",
@@ -5382,19 +5406,19 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 6 September and again 19 September 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per month billed monthly or $10 billed annually ($120 a year), Business is $20 monthly or $17 billed annually ($204 a year), and Enterprise is quote-only from 101 members.",
-     "evidence_excerpt": "(re-verified 6 September and again 19 September 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per m…",
+     "evidence": "(re-verified 6 September, 19 September and 17 November 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per member per month billed monthly or $10 billed annually ($120 a year), Business is $20 monthly or $17 billed annually ($204 a year), and Enterprise is quote-only from 101 members.",
+     "evidence_excerpt": "(re-verified 6 September, 19 September and 17 November 2026 on piktochart.com/pricing/, US dollar view; the plan amounts are unchanged from our 6 August 2026 reading) Free is $0, Pro is $15 per membe…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": null
   },
   {
@@ -8055,7 +8079,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-09-09 and re-read unchanged 2026-09-26 on tickettailor.com/pricing with the currency switched to USD) No subscription and no contract: pay-as-you-sell $0.85 a ticket, or prepaid credits from $0.70 down to $0.34 depending on volume — 100 credits (the minimum) cost $70, 500 cost $300, 1,000 cost $520 and 20,000 cost $6,800. Credits carry no time limit. Free events are free up to 5,000 tickets a year, the first five paid tickets cost nothing, and charities, B Corps, PTAs and not-for-profits get 50% off, as do very low-priced tickets. Seated tickets cost two credits rather than one. Prices switch across GBP, EUR, USD, AUD and CAD. Stripe, PayPal or Square fees apply separately and Ticket Tailor never touches the payment. Note one contradiction in their own FAQ: one answer puts the free-ticket allowance at 5,000 a year, another at 2,000. Re-read on 2026-10-20, when the page served pounds rather than dollars: pay as you go £0.60 a ticket and prepaid from £0.22, both plus VAT, with no fees for up to 5,000 free tickets a year. The help centre's cost article, read the same day, adds the extras billed outside usage: white label at $49 a month (£39, €45) with a custom domain included, or a custom domain alone at $8 a month (£7).",
+   "price_note": "(re-verified 2026-09-09 and re-read unchanged 2026-09-26 on tickettailor.com/pricing with the currency switched to USD) No subscription and no contract: pay-as-you-sell $0.85 a ticket, or prepaid credits from $0.70 down to $0.34 depending on volume — 100 credits (the minimum) cost $70, 500 cost $300, 1,000 cost $520 and 20,000 cost $6,800. Credits carry no time limit. Free events are free up to 5,000 tickets a year, the first five paid tickets cost nothing, and charities, B Corps, PTAs and not-for-profits get 50% off, as do very low-priced tickets. Seated tickets cost two credits rather than one. Prices switch across GBP, EUR, USD, AUD and CAD. Stripe, PayPal or Square fees apply separately and Ticket Tailor never touches the payment. Note one contradiction in their own FAQ: one answer puts the free-ticket allowance at 5,000 a year, another at 2,000. Re-read on 2026-10-20, when the page served pounds rather than dollars: pay as you go £0.60 a ticket and prepaid from £0.22, both plus VAT, with no fees for up to 5,000 free tickets a year. The help centre's cost article, read the same day, adds the extras billed outside usage: white label at $49 a month (£39, €45) with a custom domain included, or a custom domain alone at $8 a month (£7). Re-read 2026-11-17 by plain fetch, again in pounds: pay as you go £0.60 a ticket and prepaid from £0.22, both plus VAT, no fees for up to 5,000 free tickets a year, the first 5 tickets free and 50% off for charities and low-price tickets, unchanged from 20 October. The help centre's cost article still gives white label at £39/$49/€45 a month and a custom domain at £7/$8/€8, and still says the HubSpot, ActiveCampaign and Constant Contact fees are shown only on your Integrations page.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -8063,11 +8087,11 @@
      "evidence_excerpt": "(re-verified 2026-09-09 and re-read unchanged 2026-09-26 on tickettailor.com/pricing with the currency switched to USD) No subscription and no contract: pay-as-you-sell $0.85 a ticket, or prepaid cre…",
      "source_url": "https://www.tickettailor.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-20"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
+   "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-09-09"
   },
   {
