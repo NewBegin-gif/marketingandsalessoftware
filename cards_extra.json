@@ -7330,20 +7330,15 @@
  "Uniqode": {
   "flags": [
    [
-    "🪑",
-    "Per-seat pricing",
-    "per_seat"
-   ],
-   [
     "🧩",
     "Add-ons extra",
     "addons_extra"
    ]
   ],
   "price": "$9",
-  "price_note": "from · per month (FAQ-stated minimum)",
-  "verified": "2026-10-28",
-  "catch": "The tier jumps are steep and a lot is gated: analytics are capped at 60 days on the entry plan, scan limits apply across all tiers, and custom domains sit behind higher pricing.",
+  "price_note": "from · per month",
+  "verified": "2026-11-18",
+  "catch": "The tier jumps are steep and a lot is gated: analytics are capped at 30 days on the entry plan, only the first three plans have fixed prices, a second user means $99 a month, and reaching a plan's scan limit stops your dynamic codes.",
   "best": "Marketing teams that need dynamic QR codes with real analytics and enterprise compliance (SOC 2, GDPR, ISO 27001, optional HIPAA).",
   "pw": "price held",
   "pw_soort": "held"
@@ -11271,6 +11266,25 @@
   "verified": "2026-11-17",
   "catch": "SEO suite with a free Basic account; Premium from 59.90 EUR a month.",
   "best": "Small businesses, freelancers and agencies that want a website audit, rank tracking and backlink monitoring in one suite, with a free account to start."
+ },
+ "PageFly": {
+  "flags": [
+   [
+    "🧮",
+    "Usage-metered",
+    "usage_metered"
+   ],
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$24",
+  "price_note": "Builder · per month for 5 published pages or sections and 80 AI credits, billed…",
+  "verified": "2026-11-17",
+  "catch": "Shopify page builder with AI page generation and A/B testing: free plan, paid from $24 a month.",
+  "best": "Shopify merchants who want drag-and-drop landing, product and home pages plus A/B testing and heatmaps in one app, with a free plan to try first."
  },
  "Langwill": {
   "flags": [
