@@ -206,7 +206,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Bot It AI
 - Review: https://marketingandsalessoftware.com/bot-it-ai-review.html
-- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Pro says You have a 30-day free trial ending on 17 Dec., as the dossier says, but it asks for a payment method and Approve was greyed out.
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Pro says You have a 30-day free trial ending on 17 Dec. As the dossier says, but it asks for a payment method and Approve was greyed out.
 - Verdict: Bot It AI: Free is free forever, with no trial involved. Pro's automated fixes draw on a monthly token budget the vendor describes only as generous.
 - Price: (read 2026-09-24 on apps.shopify.com/bot-it and on the vendor's own botitai.com/pricing, which list the same two tiers; re-read unchanged on 2026-11-11) Free is free forever, with no trial involved: the full catalogue audit and Agent Readiness Score across 13 checks per product, the store gates check (password, robots.txt, UCP profile, sitemap), native llms.txt, agents.md and robots.txt theme files, a brand voice…
 
@@ -326,7 +326,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Consentmo
 - Review: https://marketingandsalessoftware.com/consentmo-review.html
-- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Standard says You have a 7-day free trial ending on 24 Nov., as the dossier says for each paid plan, but it asks for a payment method and Approve was greyed out.
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Standard says You have a 7-day free trial ending on 24 Nov. As the dossier says for each paid plan, but it asks for a payment method and Approve was greyed out.
 - Verdict: Consentmo: Billed in USD every 30 days, with a 7-day free trial on each paid tier. The accessibility side is a widget and a scanner.
 - Price: (read 2026-09-08 on apps.shopify.com/gdpr-backpack and on the vendor's own consentmo.com/pricing, which list the same four tiers) Billed in USD every 30 days, with a 7-day free trial on each paid tier. Banner impressions are unlimited on every tier, the free one included, so the ladder gates features rather than traffic.
 
@@ -422,7 +422,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## EliteCart
 - Review: https://marketingandsalessoftware.com/elitecart-review.html
-- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Essentials says a 15-day free trial ending on 2 Dec., which matches the 15 days of the listing and not the 14 days of the dossier pricing page; Approve was greyed out and…
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Essentials says a 15-day free trial ending on 2 Dec. Which matches the 15 days of the listing and not the 14 days of the dossier pricing page; Approve was greyed out and…
 - Verdict: EliteCart: Two published plans and one on request, with no free plan. The trial is 15 days on the listing and 14 on the pricing page.
 - Price: (read 2026-10-15 on the Shopify App Store listing apps.shopify.com/elite-cart-upsell and elitecart.app/pricing, prices in USD) Two published plans and one on request, with no free plan. Essentials, called Essential on EliteCart's own pricing page, is $29.99 a month and includes 200 orders a month with one language and conversion analytics; above that the price scales with order volume, and the listing gives one…
 
@@ -536,7 +536,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Feedyio
 - Review: https://marketingandsalessoftware.com/feedyio-review.html
-- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan cards and the Shopify approval screen for Basic both show a 7-day free trial, ending on 24 Nov., with $9,99 due 24 Nov. The sentence about a test charge was not on the screen, a payment method was…
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan cards and the Shopify approval screen for Basic both show a 7-day free trial, ending on 24 Nov. With $9,99 due 24 Nov. The sentence about a test charge was not on the screen, a payment method was…
 - Verdict: Feedyio: Nine published tiers, billed in USD every 30 days through Shopify. Two gates decide your bill and neither is about how much value the feeds create.
 - Price: (read 2026-09-10 on apps.shopify.com/product-feed-10 and feedyio.com/pricing) Nine published tiers, billed in USD every 30 days through Shopify. The Shopify listing shows only the first four.
 
@@ -818,7 +818,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Loyalino
 - Review: https://marketingandsalessoftware.com/loyalino-review.html
-- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Starter says You have a 14-day free trial ending on 1 Dec., as the Plan page says for every paid plan; Starter was approved as a test charge without a card.
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Starter says You have a 14-day free trial ending on 1 Dec. As the Plan page says for every paid plan; Starter was approved as a test charge without a card.
 - Verdict: Loyalino, Free: $0 for up to 200 loyalty orders a month. Reach your plan's order limit and the program does not cost more, it stops.
 - Price: (prices read 22 September 2026 on apps.shopify.com/loyalino-loyalty-rewards and on loyalino.io/pricing) Billed in USD through Shopify and metered by monthly loyalty orders rather than by features. The vendor puts it in those words on its own pricing page - you pay for volume, not for features - and every paid plan carries the same paid feature set.
 
@@ -866,7 +866,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## My Stories
 - Review: https://marketingandsalessoftware.com/my-stories-review.html
-- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Pro says You have a 7-day free trial ending on 24 Nov., as the plan card says 7 trial days, but it asks for a payment method and Approve was greyed out.
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Pro says You have a 7-day free trial ending on 24 Nov. As the plan card says 7 trial days, but it asks for a payment method and Approve was greyed out.
 - Verdict: My Stories, Beginner: $0, up to 10 uploaded videos, unlimited views, shoppable videos, watermark. Lead capture is capped at 20 a month on the $14 plan.
 - Price: (read 2026-11-17 on getmystories.com/pricing, US dollars) Beginner: $0, up to 10 uploaded videos, unlimited views, shoppable videos, watermark. Advanced: $14 a month, up to 100 videos, up to 20 leads a month, analytics, no watermark.
 
@@ -1334,7 +1334,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SocialDesk
 - Review: https://marketingandsalessoftware.com/socialdesk-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The account showed 7 days left in its free trial with the trial ending on 24 November, and no card, phone number or call was asked in the app.
 - Verdict: SocialDesk sells four monthly plans and every one starts with a 7-day free trial that, per the page, needs no credit card. Pinterest is not supported yet.
 - Price: (read 2026-11-06 on socialdesk.ai) SocialDesk sells four monthly plans and every one starts with a 7-day free trial that, per the page, needs no credit card. Starter costs $19 a month for 5 social accounts, 1 workspace, 1 user, unlimited scheduled posts, 10 AI images a month, AI auto-replies for comments and DMs, a unified inbox and MCP access.
 
