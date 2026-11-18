@@ -44,7 +44,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AgentNest
 - Review: https://marketingandsalessoftware.com/agentnest-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "View and edit store data". What we saw: At the install already on the Free plan, the dialog asked for rights to view and edit store data (products, orders, Shopify admin), while the Free…
 - Verdict: AgentNest, Free: unlimited catalogue scans, a catalogue readiness score, product-level issue reports and the full findings view.
 - Price: (re-verified 2026-10-09 on apps.shopify.com/agentnest; first read 2026-08-19, no amount or allowance changed in between, though the listing now calls the app 'AgentNest - ChatGPT Ad Catalog' and pitches the scan as preparation for ChatGPT Ads) Four tiers, and the split between them is unusual: the diagnosis is free and you pay only for the repairs. Free: unlimited catalogue scans, a catalogue readiness score,…
 
@@ -98,7 +98,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Atlas AI Store Builder
 - Review: https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Published product and landing pages Up to 10". What we saw: The Subscription page showed the Atlas base plan at $39 per month with a button Start 7-day free trial and the limits up to 10…
 - Verdict: Atlas AI Store Builder: The listing says “Free to install”, but that is the development-store tier. The meter runs on your success, not your usage.
 - Price: (re-verified 2026-10-09 on apps.shopify.com/dropshipt and helloatlas.io; first read 2026-08-18) The listing says “Free to install”, but that is the development-store tier. A real store runs on the All-in-One plan at $39 a month, billed in USD with a 7-day free trial.
 
@@ -110,7 +110,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Attribuly
 - Review: https://marketingandsalessoftware.com/attribuly-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Klaviyo or Omnisend stores with real traffic". What we saw: The first screen offered Klaviyo, MambaSMS, Omnisend and CartSee, and the onboarding for Klaviyo asked to connect a Klaviyo…
 - Verdict: Attribuly: Free, Pro at $99 a month and Enterprise at $219 a month, the paid two with a 7 day free trial and both marked “We charge based on your GMV”.
 - Price: (read 2026-11-17 on apps.shopify.com/attribuly, attribuly.com/pricing and attribuly.com/pricing-retention/, and in our own test session on 17 November 2026; the plan ladder changed again after 14 October 2026) Three plans on the listing: Free, Pro at $99 a month and Enterprise at $219 a month, the paid two with a 7 day free trial and both marked “We charge based on your GMV”. attribuly.com/pricing sets those two…
 
@@ -122,7 +122,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## AutoWrite
 - Review: https://marketingandsalessoftware.com/autowrite-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The dossier lists brand voices as a Starter feature, but on the Free plan Settings accepted a new voice and showed Brand voice saved and 1 voice, Test voice, professional. Whether the voice is used in a…
 - Verdict: AutoWrite, One conflict remains: the vendor's own FAQ on autowrite.blog, read 9 October 2026, says the Free plan includes 3 blog posts a month.
 - Price: (re-verified 2026-10-09 on apps.shopify.com/autowrite, no amount changed; first read 2026-08-19 in a browser, because the plan table then rendered client-side) Four tiers, metered on posts, images and workflows per month. Free: 10 posts, 10 images, 1 workflow, basic SEO.
 
@@ -578,7 +578,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## GeoStock
 - Review: https://marketingandsalessoftware.com/geostock-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The app and the listing offer a Free plan with a store locator for up to 2 locations (shown on the plan screen as Free, 2 locations, Standard design), while the dossier says there is no free plan.
 - Verdict: GeoStock: Free, Base Plan at $9.99 a month and Plus Plan at $29.99 a month, the paid two with a 14 day free trial, billed in USD every 30 days.
 - Price: (read 2026-11-17 on apps.shopify.com/product-inventory-information, and in our own test session on 17 November 2026; first read 2026-08-18) Three plans: Free, Base Plan at $9.99 a month and Plus Plan at $29.99 a month, the paid two with a 14 day free trial, billed in USD every 30 days. Free costs $0 and shows stock for up to 2 locations, availability by location, an interactive store locator with search,…
 
@@ -1058,7 +1058,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Postscript
 - Review: https://marketingandsalessoftware.com/postscript-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Use an email only you control". What we saw: Step 2 of 10 asked for a first and last name, a phone number and an e-mail address that only we control, for a separate Postscript account,…
 - Verdict: Postscript: Professional is $500 a month at $0.007 per SMS and $0.024 per MMS. The $0 a month is not free: it carries a $49 monthly minimum spend.
 - Price: (read 2026-11-17 on postscript.io/pricing and on the App Store listing apps.shopify.com/postscript-sms-marketing, and in our own test session on 17 November 2026; first read 2026-08-30) Starter is $0 a month with a $49 monthly minimum spend at $0.009 per SMS and $0.045 per MMS. Growth is $100 a month at $0.008 per SMS and $0.03 per MMS, and Professional is $500 a month at $0.007 per SMS and $0.024 per MMS; all…
 
@@ -1376,7 +1376,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## StoreSEO
 - Review: https://marketingandsalessoftware.com/storeseo-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan step says every plan starts with a 7-day free trial, but the Subscribe path for Lite showed a first charge of $3,99 due 17 Nov on the Shopify screen with no trial; the link Try free for 7 days was…
 - Verdict: StoreSEO: Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations.
 - Price: (read 2026-08-19 on apps.shopify.com/storeseo, re-verified 2026-09-28 and 2026-11-12; Lite was repriced in between) Free Forever covers 25 products with SEO scoring, 200 AI credits, 25 image optimisations, up to 5 tracked keywords, an LLMs.txt generator and Agents.md editor, an SEO migrator, alt-text optimisation and 24/7 chat support. Paid tiers are Lite $19.99, Essential $39.99 and Advanced $249.99 a month,…
 

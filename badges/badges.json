@@ -32,6 +32,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/agencyanalytics-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/agencyanalytics.svg\" width=\"340\" height=\"115\" alt=\"AgencyAnalytics hands-on test by Marketing &amp; Sales Software, 15 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "agentnest",
+  "name": "AgentNest",
+  "review_url": "https://marketingandsalessoftware.com/agentnest-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/agentnest.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#agentnest",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AgentNest hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/agentnest-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/agentnest.svg\" width=\"340\" height=\"115\" alt=\"AgentNest hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "alttext-ai",
   "name": "AltText.ai",
   "review_url": "https://marketingandsalessoftware.com/alttext-ai-review.html",
@@ -62,6 +78,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/assortion-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/assortion.svg\" width=\"340\" height=\"115\" alt=\"Assortion hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "atlas-ai-store-builder",
+  "name": "Atlas AI Store Builder",
+  "review_url": "https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/atlas-ai-store-builder.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#atlas-ai-store-builder",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "2 confirmed · 1 not comparable · 2 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Atlas AI Store Builder hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/atlas-ai-store-builder.svg\" width=\"340\" height=\"115\" alt=\"Atlas AI Store Builder hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "atria",
   "name": "Atria",
   "review_url": "https://marketingandsalessoftware.com/atria-review.html",
@@ -76,6 +108,38 @@
   ],
   "alt": "Atria hands-on test by Marketing & Sales Software, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/atria-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/atria.svg\" width=\"340\" height=\"115\" alt=\"Atria hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "attribuly",
+  "name": "Attribuly",
+  "review_url": "https://marketingandsalessoftware.com/attribuly-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/attribuly.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#attribuly",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "2 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Attribuly hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 5; 2 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/attribuly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/attribuly.svg\" width=\"340\" height=\"115\" alt=\"Attribuly hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 5; 2 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "autowrite",
+  "name": "AutoWrite",
+  "review_url": "https://marketingandsalessoftware.com/autowrite-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/autowrite.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#autowrite",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "1 confirmed · 1 contradicted · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AutoWrite hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/autowrite-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/autowrite.svg\" width=\"340\" height=\"115\" alt=\"AutoWrite hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "ava-ai",
@@ -663,6 +727,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/fullenrich-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/fullenrich.svg\" width=\"340\" height=\"115\" alt=\"FullEnrich hands-on test by Marketing &amp; Sales Software, 13 Nov 2026: Vendor claims checked 4; 1 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "geostock",
+  "name": "GeoStock",
+  "review_url": "https://marketingandsalessoftware.com/geostock-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/geostock.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#geostock",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "2 confirmed · 2 contradicted · 1 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "GeoStock hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 2 contradicted · 1 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/geostock-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/geostock.svg\" width=\"340\" height=\"115\" alt=\"GeoStock hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 2 contradicted · 1 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "geotargetly",
   "name": "Geotargetly",
   "review_url": "https://marketingandsalessoftware.com/geotargetly-review.html",
@@ -1123,6 +1203,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/post-purchase-upsell-hero-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/post-purchase-upsell-hero.svg\" width=\"340\" height=\"115\" alt=\"Post Purchase Upsell Hero hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "postscript",
+  "name": "Postscript",
+  "review_url": "https://marketingandsalessoftware.com/postscript-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/postscript.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#postscript",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "1 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Postscript hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 4; 1 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/postscript-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/postscript.svg\" width=\"340\" height=\"115\" alt=\"Postscript hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 4; 1 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "printify",
   "name": "Printify",
   "review_url": "https://marketingandsalessoftware.com/printify-review.html",
@@ -1375,6 +1471,22 @@
   ],
   "alt": "SocialDesk hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/socialdesk-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/socialdesk.svg\" width=\"340\" height=\"115\" alt=\"SocialDesk hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "storeseo",
+  "name": "StoreSEO",
+  "review_url": "https://marketingandsalessoftware.com/storeseo-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/storeseo.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#storeseo",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 2 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "StoreSEO hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 2 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/storeseo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/storeseo.svg\" width=\"340\" height=\"115\" alt=\"StoreSEO hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 2 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "storista",
