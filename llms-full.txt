@@ -956,8 +956,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## PageFly
 - Review: https://marketingandsalessoftware.com/pagefly-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: PageFly, Free: $0, 1 published page or section, 10 AI credits a month, 320+ templates, demo dashboard, no card. We have not yet run PageFly ourselves.
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "1 published slot". What we saw: The listing gives Free 1 published slot (1 page or 1 section) and 10 AI credits per month. In our test (18 Nov 2026) the app pop-up showed Free with 1 page…
+- Verdict: PageFly: $0, 1 published page or section, 10 AI credits a month, 320+ templates, demo dashboard, no card. The price depends on how many pages you publish.
 - Price: (read 2026-11-17 on pagefly.io/pages/pricing and apps.shopify.com/pagefly, US dollars, billed monthly unless stated) Free: $0, 1 published page or section, 10 AI credits a month, 320+ templates, demo dashboard, no card. Builder: $24 a month for 5 pages or sections and 80 AI credits; the website says the price moves with a slot slider and the App Store lists $5 per 5 extra pages or sections.
 
 ## PagePulse

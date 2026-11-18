@@ -1349,6 +1349,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/outgrow-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/outgrow.svg\" width=\"340\" height=\"115\" alt=\"Outgrow hands-on test by Marketing &amp; Sales Software, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "pagefly",
+  "name": "PageFly",
+  "review_url": "https://marketingandsalessoftware.com/pagefly-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/pagefly.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#pagefly",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 13",
+   "4 confirmed · 2 not comparable · 7 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "PageFly hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 13; 4 confirmed · 2 not comparable · 7 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/pagefly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/pagefly.svg\" width=\"340\" height=\"115\" alt=\"PageFly hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 13; 4 confirmed · 2 not comparable · 7 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "parallel-ai",
   "name": "Parallel AI",
   "review_url": "https://marketingandsalessoftware.com/parallel-ai-review.html",
