@@ -388,7 +388,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/dropgenius-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: DropGenius, Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
-- Price: Re-verified 19 September 2026 on their own pricing page, unchanged since August. Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
+- Price: On 18 November 2026 the 'Build my FREE store' button on dropgenius.com sent us to a card form titled 'Pay Securely' on a different domain and brand, app.storebuilder.ai/checkout. It asked for card details for a '7-day trial for just $1.
 
 ## Easy Advanced Translations
 - Review: https://marketingandsalessoftware.com/easy-advanced-translations-review.html
@@ -1286,7 +1286,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## ShopTrueProfit
 - Review: https://marketingandsalessoftware.com/shoptrueprofit-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: ""$99 $59 one time"". What we saw: The Pricing page shows Free $0, Monthly $7/month and Lifetime $59 one time with $99 crossed out and the label Founding member, which matches the dossier.
 - Verdict: ShopTrueProfit: Free costs $0 and gives a full sample-data demo, your latest month, the Etsy, eBay and Amazon fee calculators.
 - Price: (read 2026-11-13 on shoptrueprofit.com, dollar amounts as shown) ShopTrueProfit has three options. Free costs $0 and gives a full sample-data demo, your latest month, the Etsy, eBay and Amazon fee calculators, and files that stay in your browser.
 
