@@ -346,6 +346,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/campaign-monitor-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/campaign-monitor.svg\" width=\"340\" height=\"115\" alt=\"Campaign Monitor hands-on test by Marketing &amp; Sales Software, 24 Oct 2026: Vendor claims checked 1; 1 confirmed; Data export: file opened, re-import tested\"></a>"
  },
  {
+  "slug": "carouselbot",
+  "name": "CarouselBot",
+  "review_url": "https://marketingandsalessoftware.com/carouselbot-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/carouselbot.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#carouselbot",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "2 confirmed · 4 contradicted · 2 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "CarouselBot hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 9; 2 confirmed · 4 contradicted · 2 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/carouselbot-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/carouselbot.svg\" width=\"340\" height=\"115\" alt=\"CarouselBot hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 9; 2 confirmed · 4 contradicted · 2 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "circle",
   "name": "Circle",
   "review_url": "https://marketingandsalessoftware.com/circle-review.html",
@@ -585,6 +601,22 @@
   ],
   "alt": "EliteCart hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/elitecart-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/elitecart.svg\" width=\"340\" height=\"115\" alt=\"EliteCart hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "emailoctopus",
+  "name": "EmailOctopus",
+  "review_url": "https://marketingandsalessoftware.com/emailoctopus-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/emailoctopus.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#emailoctopus",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 10",
+   "5 confirmed · 1 not comparable · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EmailOctopus hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 10; 5 confirmed · 1 not comparable · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/emailoctopus-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/emailoctopus.svg\" width=\"340\" height=\"115\" alt=\"EmailOctopus hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 10; 5 confirmed · 1 not comparable · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "engagebay",

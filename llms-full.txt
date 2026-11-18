@@ -260,7 +260,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CarouselBot
 - Review: https://marketingandsalessoftware.com/carouselbot-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Slide 2 of the generated carousel gives a precise percentage that exists nowhere; coffee is mostly water, but this figure was made up by the AI.
 - Verdict: CarouselBot, Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total. Creator allows only 3 batches a month.
 - Price: (read 2026-11-18 in a browser on carouselbot.app/pricing, Monthly and Annual views; earlier: read 2026-10-17; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, 3 AI images, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. In our test (18 Nov 2026) the free app showed the same…
 
@@ -340,7 +340,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/crazy-egg-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Crazy Egg: A Free plan, no card required, covers web analytics, instant heatmaps, conversion analytics and surveys.
-- Price: (read 2026-10-10 on crazyegg.com/pricing, in a browser and by plain fetch, both showing the same ladder) Four plans, all billed annually, each with a 30-day free trial and, in the vendor's words, no overages, ever. Starter is $29 a month: 5,000 tracked pageviews, 5 heatmap reports and 50 recordings a month, with 6 months of recordings storage.
+- Price: (read 2026-10-10 on crazyegg.com/pricing, in a browser and by plain fetch, both showing the same ladder) Four plans, all billed annually, each with a 30-day free trial and, in the vendor's words, no overages, ever. When we signed up on 18 November 2026, the account went straight to a subscription step headed 'Enter your billing information' under 'Start your free 30-day trial': the trial asks for card details…
 
 ## DataHawk
 - Review: https://marketingandsalessoftware.com/datahawk-review.html
@@ -428,7 +428,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## EmailOctopus
 - Review: https://marketingandsalessoftware.com/emailoctopus-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "from $9 a month billed yearly (saves $12)". What we saw: The Upgrade to Pro pop-up showed $9 per month billed yearly with Save $12 at 500 subscribers and 10,000 emails per month, and in…
 - Verdict: EmailOctopus: $20 a month, or $18 a month billed yearly ($216 a year), for 1,001 to 2,500 subscribers and 25,000 emails. The price grows with your list.
 - Price: (read 2026-11-18 on emailoctopus.com/pricing and its Markdown version, US dollars; earlier: read 2026-11-17) Starter: free, 2,500 subscribers, 10,000 emails a month, branded emails, reports for 30 days, 1 landing page, 1 form, 1 user. Pro: $10 a month, or $9 a month billed yearly ($108 a year, saves $12), for up to 500 subscribers and 10,000 emails a month; $20 a month, or $18 a month billed yearly ($216 a year),…
 
