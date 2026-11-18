@@ -134,7 +134,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Ava AI
 - Review: https://marketingandsalessoftware.com/ava-ai-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan page and the approval screen both mention a 7-day free trial (ending on 24 Nov); the trial was not started because the approval screen was cancelled.
 - Verdict: Ava AI: Support is $29 a month and includes 100 call minutes, then $0.10 a minute. The monthly price is a minutes allowance, not a flat fee.
 - Price: (verified 2026-10-16 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over.
 
@@ -398,7 +398,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Easy Bundles
 - Review: https://marketingandsalessoftware.com/easy-bundles-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The app lists ten revenue bands from Starter under $500 (Free) to Enterprise Plus at $500,000 and above (Let's talk), including Pro $149, Advanced $199, Elite $299, Premier $399 and Enterprise $599. The…
 - Verdict: Easy Bundles: The free plan is free to install and covers up to $500 of bundle sales a month. The pricing is tied to the thing the app is supposed to grow.
 - Price: (read 2026-09-04 on apps.shopify.com/bundle-builder) Four tiers billed in USD every 30 days, and the meter is the part that matters: you are charged on bundle sales, not on orders, products or staff. The free plan is free to install and covers up to $500 of bundle sales a month.
 
@@ -494,7 +494,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Evey Events
 - Review: https://marketingandsalessoftware.com/evey-events-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for the free Lite plan said This app bills you for usage charges, asked for a payment method with an Add payment method row and had a greyed out Approve button, and the sentence…
 - Verdict: Evey Events: Lite is free to install and takes $1.00 per ticket. Nobody gets caught by the monthly fee here; they get caught by the per-ticket one.
 - Price: (re-verified 1 October 2026 on apps.shopify.com/event-tickets; every rate unchanged since 1 September 2026) Four tiers, and every one of them charges twice: a monthly fee and a fee per ticket processed. Lite is free to install and takes $1.00 per ticket.
 
@@ -698,7 +698,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kiwi Sizing
 - Review: https://marketingandsalessoftware.com/kiwi-sizing-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Matched with 23 products". What we saw: A size chart from the template Tops (product) was made for all products in about 3 minutes and 5 steps and showed Matched with 23 products and the…
 - Verdict: Kiwi Sizing: Free publishes up to three size charts with 22 templates and unlimited CSV import. Three charts is generous for a small catalogue.
 - Price: (read 5 September 2026 and re-read 19 September and 4 November 2026 on apps.shopify.com/kiwi-sizing, no amount changed) Four tiers, and the interesting line is not the price but the sentence under it. Free publishes up to three size charts with 22 templates and unlimited CSV import, and puts a Kiwi watermark on your storefront.
 
@@ -1244,7 +1244,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Sender
 - Review: https://marketingandsalessoftware.com/sender-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Your contact list is now ready". What we saw: A group Test List and one test contact were made by pasting an address; the message Your contact list is now ready came about 1 minute after…
 - Verdict: Sender: The Free Forever plan costs nothing, needs no card. The cheapest paid price only covers 500 subscribers, fewer than the 2,500 on the free plan.
 - Price: (re-verified 2026-10-20; first read 2026-10-13 in a live browser on sender.net/pricing from a Netherlands connection, which shows euros, in both the annual and the monthly view with the FAQ opened; the US copy of the same page read the same night lists Standard at $108 a year, $75.60 the first year, and Professional at $180 a year, $126 the first year) Sender prices by the size of your list on a slider, and every…
 

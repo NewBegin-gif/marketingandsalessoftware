@@ -78,6 +78,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/atria-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/atria.svg\" width=\"340\" height=\"115\" alt=\"Atria hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: Vendor claims checked 1; 1 contradicted; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "ava-ai",
+  "name": "Ava AI",
+  "review_url": "https://marketingandsalessoftware.com/ava-ai-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/ava-ai.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#ava-ai",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "4 confirmed · 2 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Ava AI hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 2 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/ava-ai-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/ava-ai.svg\" width=\"340\" height=\"115\" alt=\"Ava AI hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 2 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "beefree",
   "name": "Beefree",
   "review_url": "https://marketingandsalessoftware.com/beefree-review.html",
@@ -379,6 +395,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/content-raptor-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/content-raptor.svg\" width=\"340\" height=\"132\" alt=\"Content Raptor sign-up attempt by Marketing &amp; Sales Software, 31 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "easy-bundles",
+  "name": "Easy Bundles",
+  "review_url": "https://marketingandsalessoftware.com/easy-bundles-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/easy-bundles.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#easy-bundles",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "1 confirmed · 1 contradicted · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Easy Bundles hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 1 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/easy-bundles-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/easy-bundles.svg\" width=\"340\" height=\"115\" alt=\"Easy Bundles hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 1 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "editengine",
   "name": "EditEngine",
   "review_url": "https://marketingandsalessoftware.com/editengine-review.html",
@@ -487,6 +519,22 @@
   ],
   "alt": "Essential Upsell & Cross Sell hands-on test by Marketing & Sales Software, 16 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/essential-upsell-cross-sell-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/essential-upsell-cross-sell.svg\" width=\"340\" height=\"115\" alt=\"Essential Upsell &amp; Cross Sell hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "evey-events",
+  "name": "Evey Events",
+  "review_url": "https://marketingandsalessoftware.com/evey-events-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/evey-events.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#evey-events",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "3 confirmed · 1 contradicted · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Evey Events hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/evey-events-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/evey-events.svg\" width=\"340\" height=\"115\" alt=\"Evey Events hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "fast-bundle",
@@ -675,6 +723,22 @@
   ],
   "alt": "Kit hands-on test by Marketing & Sales Software, 23 Oct 2026: Data export: file opened, re-import tested",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/kit-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kit.svg\" width=\"340\" height=\"81\" alt=\"Kit hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: Data export: file opened, re-import tested\"></a>"
+ },
+ {
+  "slug": "kiwi-sizing",
+  "name": "Kiwi Sizing",
+  "review_url": "https://marketingandsalessoftware.com/kiwi-sizing-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/kiwi-sizing.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#kiwi-sizing",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Kiwi Sizing hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/kiwi-sizing-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kiwi-sizing.svg\" width=\"340\" height=\"115\" alt=\"Kiwi Sizing hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "klap",
@@ -1135,6 +1199,22 @@
   ],
   "alt": "RoverLead hands-on test by Marketing & Sales Software, 23 Oct 2026: No claim or export checks recorded",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/roverlead-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/roverlead.svg\" width=\"340\" height=\"81\" alt=\"RoverLead hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "sender",
+  "name": "Sender",
+  "review_url": "https://marketingandsalessoftware.com/sender-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/sender.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#sender",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "2 confirmed · 3 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Sender hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 2 confirmed · 3 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/sender-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/sender.svg\" width=\"340\" height=\"115\" alt=\"Sender hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 2 confirmed · 3 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "seokart",
