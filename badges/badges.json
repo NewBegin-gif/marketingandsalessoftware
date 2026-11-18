@@ -395,6 +395,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/content-raptor-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/content-raptor.svg\" width=\"340\" height=\"132\" alt=\"Content Raptor sign-up attempt by Marketing &amp; Sales Software, 31 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "easy-advanced-translations",
+  "name": "Easy Advanced Translations",
+  "review_url": "https://marketingandsalessoftware.com/easy-advanced-translations-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/easy-advanced-translations.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#easy-advanced-translations",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "6 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Easy Advanced Translations hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/easy-advanced-translations-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/easy-advanced-translations.svg\" width=\"340\" height=\"115\" alt=\"Easy Advanced Translations hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 6 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "easy-bundles",
   "name": "Easy Bundles",
   "review_url": "https://marketingandsalessoftware.com/easy-bundles-review.html",
@@ -409,6 +425,22 @@
   ],
   "alt": "Easy Bundles hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 1 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/easy-bundles-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/easy-bundles.svg\" width=\"340\" height=\"115\" alt=\"Easy Bundles hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 1 confirmed · 1 contradicted · 4 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "ecomxray",
+  "name": "EcomXray",
+  "review_url": "https://marketingandsalessoftware.com/ecomxray-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/ecomxray.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#ecomxray",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "1 confirmed · 5 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EcomXray hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 1 confirmed · 5 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/ecomxray-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/ecomxray.svg\" width=\"340\" height=\"115\" alt=\"EcomXray hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 1 confirmed · 5 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "editengine",
@@ -773,6 +805,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/koala-bundles-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/koala-bundles.svg\" width=\"340\" height=\"115\" alt=\"Koala Bundles hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 2 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "koongo",
+  "name": "Koongo",
+  "review_url": "https://marketingandsalessoftware.com/koongo-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/koongo.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#koongo",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "3 confirmed · 2 contradicted · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Koongo hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/koongo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/koongo.svg\" width=\"340\" height=\"115\" alt=\"Koongo hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 3 confirmed · 2 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "kumo",
   "name": "Kumo",
   "review_url": "https://marketingandsalessoftware.com/kumo-review.html",
@@ -868,6 +916,22 @@
   ],
   "alt": "Lusha sign-up attempt by Marketing & Sales Software, 6 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/lusha-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/lusha.svg\" width=\"340\" height=\"132\" alt=\"Lusha sign-up attempt by Marketing &amp; Sales Software, 6 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "meeri",
+  "name": "Meeri",
+  "review_url": "https://marketingandsalessoftware.com/meeri-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/meeri.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#meeri",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 1 contradicted · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Meeri hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/meeri-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/meeri.svg\" width=\"340\" height=\"115\" alt=\"Meeri hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "moosend",
@@ -1233,6 +1297,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/seokart-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/seokart.svg\" width=\"340\" height=\"115\" alt=\"SEOKart hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 10; 4 confirmed · 1 contradicted · 5 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "seomatic",
+  "name": "SEOmatic",
+  "review_url": "https://marketingandsalessoftware.com/seomatic-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/seomatic.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#seomatic",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SEOmatic hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/seomatic-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/seomatic.svg\" width=\"340\" height=\"115\" alt=\"SEOmatic hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "shorby",
   "name": "Shorby",
   "review_url": "https://marketingandsalessoftware.com/shorby-review.html",
@@ -1297,6 +1377,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/socialdesk-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/socialdesk.svg\" width=\"340\" height=\"115\" alt=\"SocialDesk hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "storista",
+  "name": "Storista",
+  "review_url": "https://marketingandsalessoftware.com/storista-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/storista.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#storista",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "3 confirmed · 1 contradicted · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Storista hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/storista-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/storista.svg\" width=\"340\" height=\"115\" alt=\"Storista hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "superlines",
   "name": "Superlines",
   "review_url": "https://marketingandsalessoftware.com/superlines-review.html",
@@ -1343,6 +1439,22 @@
   ],
   "alt": "Tapform hands-on test by Marketing & Sales Software, 6 Nov 2026: Vendor claims checked 7; 6 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/tapform-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/tapform.svg\" width=\"340\" height=\"115\" alt=\"Tapform hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 7; 6 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "tapita-seo-optimizer",
+  "name": "Tapita SEO Optimizer",
+  "review_url": "https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/tapita-seo-optimizer.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#tapita-seo-optimizer",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "4 confirmed · 1 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Tapita SEO Optimizer hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 1 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/tapita-seo-optimizer.svg\" width=\"340\" height=\"115\" alt=\"Tapita SEO Optimizer hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 1 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "timesact-preorder",
