@@ -272,7 +272,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CiteRoute
 - Review: https://marketingandsalessoftware.com/citeroute-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The scan says 0 JSON-LD detected, but a curl of the homepage shows 3 application/ld+json blocks (Organization, WebSite with a SearchAction, ItemList with 12 items). The Schema score of 73/100 stands next…
 - Verdict: CiteRoute: Four plans, billed monthly. The GEO score is CiteRoute's own algorithm, and its terms say outright that it cannot guarantee citations or rankings.
 - Price: (read 2026-11-18 on citeroute.com/pricing and the home page and in our own test that day; earlier: read 2026-10-13 in a live browser on those pages and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO Radar, a two-domain competitor comparison, 3 watchlist domains, the agent.json studio, a basic score…
 
@@ -800,7 +800,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## LinkShortener.io
 - Review: https://marketingandsalessoftware.com/linkshortener-io-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "Links and QR Codes remaining: 20/20". What we saw: The account page shows 20 links or QR codes a month on Free, as the dossier says; the counter read 20/20 after two links were made, so…
 - Verdict: LinkShortener.io: Free costs $0 for 20 a month on the shared tli.sh domain and needs an account but no card.
 - Price: (read 2026-11-18 on linkshortener.io/pricing, US dollars, and in our own test that day; earlier: read 2026-11-12) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes. Free costs $0 for 20 a month on the shared tli.sh domain and needs an account but no card.
 
@@ -1250,7 +1250,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Seobility
 - Review: https://marketingandsalessoftware.com/seobility-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The checker shows Additional markup as passed with the line No additional page markup was found, while a curl of the page shows 3 application/ld+json blocks (WebSite with a SearchAction, Organization with…
 - Verdict: Seobility, Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool credits, 3 tracked AI prompts.
 - Price: (read 2026-11-18 on seobility.net/pricing, euros, plus VAT; earlier: read 2026-11-17) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool credits, 3 tracked AI prompts. Premium: 59.90 a month, or 575.04 a year (20% off), 3 projects, 25,000 pages per crawl, 300 keywords.
 
@@ -1436,7 +1436,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Systeme.io
 - Review: https://marketingandsalessoftware.com/systeme-io-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "1 automation rule, 1 email campaign and 500 students". What we saw: The My plan page shows 1 automation rule, 1 campaign and 500 students on Free, as the dossier says; after one simple…
 - Verdict: Systeme.io, Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program. Plans are metered on contacts.
 - Price: (read 2026-11-18 on systeme.io/pricing, US dollars a month; earlier: read 2026-11-17) Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 workflow, 1 tag, 1 CRM pipeline, 1 email campaign, 500 students, no evergreen webinars, no card. The page structured data says Free processes up to $10,000 in total sales, then…
 

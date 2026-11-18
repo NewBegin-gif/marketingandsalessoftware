@@ -362,6 +362,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/circle-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/circle.svg\" width=\"340\" height=\"115\" alt=\"Circle hands-on test by Marketing &amp; Sales Software, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "citeroute",
+  "name": "CiteRoute",
+  "review_url": "https://marketingandsalessoftware.com/citeroute-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/citeroute.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#citeroute",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "1 confirmed · 4 contradicted · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "CiteRoute hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 8; 1 confirmed · 4 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/citeroute-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/citeroute.svg\" width=\"340\" height=\"115\" alt=\"CiteRoute hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 8; 1 confirmed · 4 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "clay",
   "name": "Clay",
   "review_url": "https://marketingandsalessoftware.com/clay-review.html",
@@ -1093,6 +1109,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/lemlist-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/lemlist.svg\" width=\"340\" height=\"115\" alt=\"lemlist hands-on test by Marketing &amp; Sales Software, 24 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not comparable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "linkshortener-io",
+  "name": "LinkShortener.io",
+  "review_url": "https://marketingandsalessoftware.com/linkshortener-io-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/linkshortener-io.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#linkshortener-io",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 11",
+   "4 confirmed · 1 contradicted · 5 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "LinkShortener.io hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 11; 4 confirmed · 1 contradicted · 5 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/linkshortener-io-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/linkshortener-io.svg\" width=\"340\" height=\"115\" alt=\"LinkShortener.io hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 11; 4 confirmed · 1 contradicted · 5 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "livestorm",
   "name": "Livestorm",
   "review_url": "https://marketingandsalessoftware.com/livestorm-review.html",
@@ -1601,6 +1633,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/sender-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/sender.svg\" width=\"340\" height=\"115\" alt=\"Sender hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 2 confirmed · 3 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "seobility",
+  "name": "Seobility",
+  "review_url": "https://marketingandsalessoftware.com/seobility-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/seobility.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#seobility",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "2 confirmed · 4 contradicted · 2 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Seobility hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 9; 2 confirmed · 4 contradicted · 2 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/seobility-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/seobility.svg\" width=\"340\" height=\"115\" alt=\"Seobility hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 9; 2 confirmed · 4 contradicted · 2 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "seokart",
   "name": "SEOKart",
   "review_url": "https://marketingandsalessoftware.com/seokart-review.html",
@@ -1775,6 +1823,22 @@
   ],
   "alt": "SurveySparrow hands-on test by Marketing & Sales Software, 15 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 contradicted; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/surveysparrow-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/surveysparrow.svg\" width=\"340\" height=\"115\" alt=\"SurveySparrow hands-on test by Marketing &amp; Sales Software, 15 Nov 2026: Vendor claims checked 4; 2 confirmed · 2 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "systeme-io",
+  "name": "Systeme.io",
+  "review_url": "https://marketingandsalessoftware.com/systeme-io-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/systeme-io.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#systeme-io",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 10",
+   "2 confirmed · 1 contradicted · 5 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Systeme.io hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 10; 2 confirmed · 1 contradicted · 5 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/systeme-io-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/systeme-io.svg\" width=\"340\" height=\"115\" alt=\"Systeme.io hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 10; 2 confirmed · 1 contradicted · 5 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "tapform",
