@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 330,
-  "flags": 494,
+  "flags": 495,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1516,7 +1516,7 @@
    "entry_price": "$10",
    "entry_price_terms": "Creator · billed monthly",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-17 in a browser on carouselbot.app/pricing, Monthly and Annual views; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited carousels, 3 card sets, 3 batches and 10 documents a month, up to 5,000 words per document, no watermark. Pro is $30 a month, or $249 a year (shown as $20.75 a month): unlimited card sets, batches and documents, up to 10,000 words per document. The annual cards cross out $120 and $360, twelve monthly payments. Business is a starting price of $50 a month for agencies and teams, adding bulk creation from up to 50 URLs; its final price and billing are not stated. The FAQ offers a 7-day money-back guarantee on all paid plans, requested by email; after cancelling you keep access until the billing period ends, then drop to Free, and saved work stays in your library.",
+   "price_note": "(read 2026-11-18 in a browser on carouselbot.app/pricing, Monthly and Annual views; earlier: read 2026-10-17; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, 3 AI images, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. In our test (18 Nov 2026) the free app showed the same allowances (3 carousels, 3 card sets, 1 batch, 1 document), and the watermark was a small CarouselBot logo in the slide footer, not a large mark across the slide. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited carousels, 3 card sets, 3 batches and 10 documents a month, up to 5,000 words per document, no watermark. Pro is $30 a month, or $249 a year (shown as $20.75 a month): unlimited card sets, batches and documents, up to 10,000 words per document. The annual cards cross out $120 and $360, twelve monthly payments. Business is a starting price of $50 a month for agencies and teams, adding bulk creation from up to 50 URLs; its final price and billing are not stated. The FAQ offers a 7-day money-back guarantee on all paid plans, requested by email; after cancelling you keep access until the billing period ends, then drop to Free, and saved work stays in your library.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -1524,12 +1524,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.carouselbot.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-17",
-   "first_observed_at": "2026-10-17"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "ChatGPT AI Product Description",
@@ -1612,7 +1612,7 @@
    "entry_price": "$79",
    "entry_price_terms": "Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-13 in a live browser on citeroute.com/pricing, the home page and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO Radar, a two-domain competitor comparison, 3 watchlist domains, the agent.json studio, a basic score report and community support. Pro is $79 a month with a 14-day trial: unlimited scans, 10 monitored prompts, a five-way competitor benchmark, one verified site with the tracking tag and a dashboard of real AI bot and crawler visits, 20 watchlist domains, an API key for 500 requests a day, history charts and priority support. Agency is $249 a month with a 14-day trial: 50 monitored prompts, 10 verified client sites, unlimited watchlist, white-label PDF reports, an embeddable badge and 10,000 API requests a day. Enterprise is custom. API calls beyond the daily plan limit are charged per call: $0.02 for a GEO score, $0.01 for a verification and $0.05 for AI-traffic data. The terms say Lemon Squeezy is the merchant of record and handles VAT and sales tax, subscriptions renew monthly until cancelled, you keep access to the end of the paid month after cancelling, and a full refund can be requested within 14 days of the initial purchase. CiteRoute operates from Kigali, Rwanda, under Rwandan law.",
+   "price_note": "(read 2026-11-18 on citeroute.com/pricing and the home page and in our own test that day; earlier: read 2026-10-13 in a live browser on those pages and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO Radar, a two-domain competitor comparison, 3 watchlist domains, the agent.json studio, a basic score report and community support. Pro is $79 a month with a 14-day trial: unlimited scans, 10 monitored prompts, a five-way competitor benchmark, one verified site with the tracking tag and a dashboard of real AI bot and crawler visits, 20 watchlist domains, an API key for 500 requests a day, history charts and priority support. Agency is $249 a month with a 14-day trial: 50 monitored prompts, 10 verified client sites, unlimited watchlist, white-label PDF reports, an embeddable badge and 10,000 API requests a day. Enterprise is custom. API calls beyond the daily plan limit are charged per call: $0.02 for a GEO score, $0.01 for a verification and $0.05 for AI-traffic data. The terms say Lemon Squeezy is the merchant of record and handles VAT and sales tax, subscriptions renew monthly until cancelled, you keep access to the end of the paid month after cancelling, and a full refund can be requested within 14 days of the initial purchase. CiteRoute operates from Kigali, Rwanda, under Rwandan law. Read 18 November 2026, the plans and prices were unchanged; the Free card lists daily automated re-scans as not included, while Pro and Agency include them, and in our test that day the scan page said it rescans every 7 days. The home page now also offers citation probes that check where a domain is cited, with source URLs. In our test the probe was unreliable: it scored 92/100 'Verified Citation' on an answer that said 'I don't have verified information'.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1620,12 +1620,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.citeroute.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Claap",
@@ -2535,22 +2535,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/emailoctopus-review/",
    "from_price_usd_mo": 9.0,
    "entry_price": "$9",
-   "entry_price_terms": "Pro · per month billed yearly at the entry tier",
+   "entry_price_terms": "Pro · per month billed yearly for up to 500 subscribers and 10,000 emails",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-17 on emailoctopus.com/pricing, US dollars) Starter: free, 2,500 subscribers, 10,000 emails a month, branded emails, reports for 30 days. Pro: from $9 a month billed yearly (saves $12), 10,000 emails a month at the entry tier; the price rises with subscriber count. Nonprofits get 20% off for life. No free trial. We have not paid for a plan.",
+   "price_note": "(read 2026-11-18 on emailoctopus.com/pricing and its Markdown version, US dollars; earlier: read 2026-11-17) Starter: free, 2,500 subscribers, 10,000 emails a month, branded emails, reports for 30 days, 1 landing page, 1 form, 1 user. Pro: $10 a month, or $9 a month billed yearly ($108 a year, saves $12), for up to 500 subscribers and 10,000 emails a month; $20 a month, or $18 a month billed yearly ($216 a year), for 1,001 to 2,500 subscribers and 25,000 emails. The price rises with subscriber count. In euros the entry tier is 10 EUR a month or 9 EUR billed yearly. In our test (18 Nov 2026) the app called the free plan Starter and said it is limited to one form, but did not show the subscriber, email or report limits; without a verified domain it sent from an EmailOctopus send address because of DMARC, and a campaign could only be saved once the list had at least one contact. Nonprofits get 20% off for life. No free trial. We have not paid for a plan.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "The free plan puts EmailOctopus branding on your emails and keeps reports for 30 days.",
-     "evidence_excerpt": null,
+     "evidence": "In our test (18 Nov 2026) the app called the free plan Starter and said it is limited to one form, but did not show the subscriber, email or report limits; without a verified domain it sent from an EmailOctopus send address because of DMARC, and a campaign could only be saved once the list had at least one contact.",
+     "evidence_excerpt": "In our test (18 Nov 2026) the app called the free plan Starter and said it is limited to one form, but did not show the subscriber, email or report limits; without a verified domain it sent from an E…",
      "source_url": "https://emailoctopus.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-17",
-   "first_observed_at": "2026-11-17"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "EngageBay",
@@ -4382,20 +4382,20 @@
    "entry_price": "$13",
    "entry_price_terms": "Basic · Basic $13 a month or $130 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-12 on linkshortener.io/pricing, US dollars) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes. Free costs $0 for 20 a month on the shared tli.sh domain and needs an account but no card. Basic costs $13 a month, or $130 a year, for 350 a month and 1 custom domain. Pro costs $34 a month, or $340 a year, for 2,000 a month and 3 custom domains. Elite costs $260 a month, or $2,600 a year, for 5,000 a month, 10 custom domains and a dedicated account manager. Enterprise has no listed price and covers unlimited volume, SSO and white-label options. The page says clicks and scans are never billed and no plan has overage fees: when you reach your monthly allowance, existing links keep working and new links wait until the allowance renews or you upgrade. Yearly billing is shown as two months free. We did not open the sign-up flow, so the tax added is not known.",
+   "price_note": "(read 2026-11-18 on linkshortener.io/pricing, US dollars, and in our own test that day; earlier: read 2026-11-12) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes. Free costs $0 for 20 a month on the shared tli.sh domain and needs an account but no card. Basic costs $13 a month, or $130 a year, for 350 a month and 1 custom domain. Pro costs $34 a month, or $340 a year, for 2,000 a month and 3 custom domains. Elite costs $260 a month, or $2,600 a year, for 5,000 a month, 10 custom domains and a dedicated account manager. Enterprise has no listed price and covers unlimited volume, SSO and white-label options. The page says clicks and scans are never billed and no plan has overage fees: when you reach your monthly allowance, existing links keep working and new links wait until the allowance renews or you upgrade. Yearly billing is shown as two months free. The page puts custom URL slugs and changing where a live link points on Pro and above, and says Basic and the free plan do not include destination editing. In our test on 18 November 2026 the free account had no custom slug and no Edit option, and the app showed that Basic can change a QR code's destination but not a short link's. The app's upgrade screen also offered two $6 plans, one for QR codes only and one for link in bio only, which the pricing page does not list. We did not pay, so the tax added is not known.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-11-12 on linkshortener.io/pricing, US dollars) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-18 on linkshortener.io/pricing, US dollars, and in our own test that day; earlier: read 2026-11-12) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly allowance of short links and QR codes.",
+     "evidence_excerpt": "(read 2026-11-18 on linkshortener.io/pricing, US dollars, and in our own test that day; earlier: read 2026-11-12) LinkShortener.io has a Free plan and three paid plans, each with a shared monthly all…",
      "source_url": "https://www.linkshortener.io/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-12",
-   "first_observed_at": "2026-11-12"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Livestorm",
@@ -7066,20 +7066,28 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(read 2026-11-17 on seobility.net/pricing, euros, plus VAT) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit. Premium: 59.90 a month, or 575.04 a year (20% off), 3 projects, 25,000 pages per crawl, 300 keywords. Professional: 99.90 a month, or 959.04 a year, 7 projects, 50,000 pages, 700 keywords. Agency: 209.90 a month, or 2,015.04 a year, 20 projects, 100,000 pages, 2,000 keywords. The paid plans have a 14-day free trial, cancel any time. Extra projects 4.90 to 14.90 and extra 100 keywords 6.90 to 10.90 a month. We have not paid for a plan.",
+   "price_note": "(read 2026-11-18 on seobility.net/pricing, euros, plus VAT; earlier: read 2026-11-17) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool credits, 3 tracked AI prompts. Premium: 59.90 a month, or 575.04 a year (20% off), 3 projects, 25,000 pages per crawl, 300 keywords. Professional: 99.90 a month, or 959.04 a year, 7 projects, 50,000 pages, 700 keywords. Agency: 209.90 a month, or 2,015.04 a year, 20 projects, 100,000 pages, 2,000 keywords. AI Visibility Tracking (Beta) covers 15 prompts on 1 platform on Premium, 50 prompts on 2 platforms on Professional and 250 prompts on 2 platforms on Agency. The paid plans have a 14-day free trial, cancel any time; the trial button on the free SEO Checker page says it automatically renews to the monthly Premium plan. In US dollars the page shows $69.90, $109.90 and $239.90 a month, or $671.04, $1,055.04 and $2,303.04 a year. The SEO Checker page lists 5 checks a day on Basic, 50 on Premium, 100 on Professional and 200 on Agency; in our test (18 Nov 2026) it allowed 3 checks a day without an account. Extra projects 4.90 to 14.90 and extra 100 keywords 6.90 to 10.90 a month. We have not paid for a plan.",
    "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "(read 2026-11-18 on seobility.net/pricing, euros, plus VAT; earlier: read 2026-11-17) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool credits, 3 tracked AI prompts.",
+     "evidence_excerpt": "(read 2026-11-18 on seobility.net/pricing, euros, plus VAT; earlier: read 2026-11-17) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool cred…",
+     "source_url": "https://seobility.net/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
     {
      "flag": "addons_extra",
      "evidence": "Prices are shown plus VAT, and extra keywords and projects are billed as monthly add-ons.",
      "evidence_excerpt": null,
      "source_url": "https://seobility.net/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-17",
-   "first_observed_at": "2026-11-17"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "SEOKart",
@@ -8048,15 +8056,15 @@
    "entry_price": "$17",
    "entry_price_terms": "Startup · per month for 5,000 contacts, 10 funnels and 5 courses",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-17 on systeme.io/pricing, US dollars a month) Free $0: 2,000 contacts, 3 sales funnels, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 email campaign, 500 students, no card. Startup $17: 5,000 contacts, 10 funnels, 5 courses. Webinar $47: 10,000 contacts, 50 funnels, 20 courses, evergreen webinars. Unlimited $97: unlimited contacts, funnels, courses and automation rules. All plans: unlimited email sends, unlimited sub-accounts, 0% transaction fees. Annual billing is offered with 2 months free; the page prints no yearly total. A team tier is sold by call. We have not paid for a plan.",
+   "price_note": "(read 2026-11-18 on systeme.io/pricing, US dollars a month; earlier: read 2026-11-17) Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 workflow, 1 tag, 1 CRM pipeline, 1 email campaign, 500 students, no evergreen webinars, no card. The page structured data says Free processes up to $10,000 in total sales, then gives 3 days to upgrade to keep accepting payments, and that accounts with no login or activity for 6 months are deactivated. Startup $17: 5,000 contacts, 10 funnels, 5 courses. Webinar $47: 10,000 contacts, 50 funnels, 20 courses, evergreen webinars. Unlimited $97: unlimited contacts, funnels, courses and automation rules. All plans: unlimited email sends, unlimited sub-accounts, 0% transaction fees. Annual billing is offered with 2 months free; the page prints no yearly total. A team tier is sold by call. In our test (18 Nov 2026) a new funnel was Active and public on the default systeme.io subdomain at once, the opt-in form refused addresses on a domain with no MX or A record, the templates offered were website templates with lorem ipsum text and no opt-in template, and Free pages showed \"Powered by systeme.io\". We have not paid for a plan.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Plans are metered on contacts, so the bill steps from $0 to $17, $47 and $97 as the list grows, and the free plan allows only 1 automation rule and 1 email campaign.",
+     "evidence": "Plans are metered on contacts, so the bill steps from $0 to $17, $47 and $97 as the list grows, and the free plan allows only 1 automation rule, 1 email campaign and $10,000 in total sales.",
      "evidence_excerpt": null,
      "source_url": "https://systeme.io/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "annual_lock",
@@ -8064,20 +8072,20 @@
      "evidence_excerpt": null,
      "source_url": "https://systeme.io/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-11-17 on systeme.io/pricing, US dollars a month) Free $0: 2,000 contacts, 3 sales funnels, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 email campaign, 500 students, no card.",
-     "evidence_excerpt": "(read 2026-11-17 on systeme.io/pricing, US dollars a month) Free $0: 2,000 contacts, 3 sales funnels, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 email campaign, 500 …",
+     "evidence": "(read 2026-11-18 on systeme.io/pricing, US dollars a month; earlier: read 2026-11-17) Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 workflow, 1 tag, 1 CRM pipeline, 1 email campaign, 500 students, no evergreen webinars, no card.",
+     "evidence_excerpt": "(read 2026-11-18 on systeme.io/pricing, US dollars a month; earlier: read 2026-11-17) Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program, …",
      "source_url": "https://systeme.io/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-17",
-   "first_observed_at": "2026-11-17"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Tapform",
