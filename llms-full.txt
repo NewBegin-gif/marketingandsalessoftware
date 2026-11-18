@@ -704,7 +704,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Klap
 - Review: https://marketingandsalessoftware.com/klap-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-10-29. Measured 2026-10-29: Create shorts estimated ~7, but the result is Shorts 4; the clip counter increases by 4.
 - Verdict: Klap, Basic: 100 clips a month, $14.50 a month billed yearly ($174 a year) or $29 month to month. The cheap price is the yearly one.
 - Price: (read 2026-11-17 on klap.app/pricing, US dollars) Three plans, each with AI clipping, captions, scheduling and analytics. Basic: 100 clips a month, $14.50 a month billed yearly ($174 a year) or $29 month to month.
 
