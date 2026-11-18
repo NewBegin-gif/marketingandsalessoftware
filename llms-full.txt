@@ -387,7 +387,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## DropGenius
 - Review: https://marketingandsalessoftware.com/dropgenius-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: DropGenius, Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial.
+- Verdict: DropGenius: Starter $39, Pro $59, Empire $99, Unicorn $299. An AI-generated store in 30 seconds is also just a starting template.
 - Price: On 18 November 2026 the 'Build my FREE store' button on dropgenius.com sent us to a card form titled 'Pay Securely' on a different domain and brand, app.storebuilder.ai/checkout. It asked for card details for a '7-day trial for just $1.
 
 ## Easy Advanced Translations

@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 330,
-  "flags": 496,
+  "flags": 499,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1087,10 +1087,10 @@
    "entry_price": "$24.99",
    "entry_price_terms": "Launch · per month, plus a 2% transaction fee",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-05 on the Shopify App Store listing at apps.shopify.com/bold-subscriptions, prices in USD) Three plans, each a monthly fee plus a transaction fee, and each with a 30-day free trial. Launch is $24.99 a month plus a 2% transaction fee and already includes the working core: subscription maximizers, customizable frequencies, order-based and fixed-date billing, dunning, prepaid subscriptions, unlimited subscribers and standard support. Grow is $49.99 a month plus 1%, and Scale is $74.99 a month plus 0.9%. The listing names no feature that Grow or Scale adds beyond the lower fee; the support line reads 'Standard support' on all three. All charges are billed in USD, and recurring and usage-based charges are billed every 30 days. The listing does not say which transactions the fee is charged on; we read it as the subscription orders the app processes, and that is worth confirming before you install.",
+   "price_note": "(read 2026-10-05 on the Shopify App Store listing at apps.shopify.com/bold-subscriptions, prices in USD) Three plans, each a monthly fee plus a transaction fee, and each with a 30-day free trial. Launch is $24.99 a month plus a 2% transaction fee and already includes the working core: subscription maximizers, customizable frequencies, order-based and fixed-date billing, dunning, prepaid subscriptions, unlimited subscribers and standard support. Grow is $49.99 a month plus 1%, and Scale is $74.99 a month plus 0.9%. The listing names no feature that Grow or Scale adds beyond the lower fee; the support line reads 'Standard support' on all three. All charges are billed in USD, and recurring and usage-based charges are billed every 30 days. The listing does not say which transactions the fee is charged on; we read it as the subscription orders the app processes, and that is worth confirming before you install. Our install on 18 November 2026 showed two more tiers in the app's own plan picker: Ultimate Retention at $399.99 a month plus 0.90%, and Enterprise on request; the picker says 'A 30-day free trial is available to first-time installs on all plans, excluding Ultimate Retention.' Choosing Launch opened Shopify's 'Approve subscription' screen with 'You have a 30-day free trial ending on 18 Dec', a total of $24.99 due 18 Dec and an 'Add payment method' row, and Approve stayed disabled until a payment method was added. We approved nothing.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-10-05"
   },
   {
@@ -1372,7 +1372,7 @@
    "entry_price": "$55",
    "entry_price_terms": "a month (plus usage), or $50 a month billed yearly",
    "pricing_status": "public",
-   "price_note": "Four plans, read on callrail.com/pricing on 13 October 2026 in a live browser, each 'plus additional usage': Lead Tracking $55 a month, Lead Tracking Complete $105, Lead Conversion $165 and Lead Conversion Complete $215; on yearly billing the same four read $50, $95, $150 and $195 a month (the page states 'Save up to 10% with a yearly plan'). Every plan includes 5 local numbers, 250 local minutes and 25 text messages a month (texting only after the trial); the Complete plans add 1,000 form submissions. Usage past the allowance: extra local numbers $3 each, local minutes $0.06, toll-free numbers $5, toll-free minutes $0.08, texts $0.03, form submissions $0.02. API access is in every plan, free to 1,500 calls a month, then $80 a month (1,501-12,000) or $200 (12,001-300,000). Voice Assist (the AI answering agent) starts at $95 a month on top of Lead Tracking, plus $1 a call after 50 calls over 15 seconds. Users are unlimited on every plan. 14-day free trial, no card.",
+   "price_note": "Four plans, read on callrail.com/pricing on 13 October 2026 in a live browser, each 'plus additional usage': Lead Tracking $55 a month, Lead Tracking Complete $105, Lead Conversion $165 and Lead Conversion Complete $215; on yearly billing the same four read $50, $95, $150 and $195 a month (the page states 'Save up to 10% with a yearly plan'). Every plan includes 5 local numbers, 250 local minutes and 25 text messages a month (texting only after the trial); the Complete plans add 1,000 form submissions. Usage past the allowance: extra local numbers $3 each, local minutes $0.06, toll-free numbers $5, toll-free minutes $0.08, texts $0.03, form submissions $0.02. API access is in every plan, free to 1,500 calls a month, then $80 a month (1,501-12,000) or $200 (12,001-300,000). Voice Assist (the AI answering agent) starts at $95 a month on top of Lead Tracking, plus $1 a call after 50 calls over 15 seconds. Users are unlimited on every plan. 14-day free trial, no card. When we signed up on 18 November 2026, the first phone verification did not accept a Dutch mobile number and sent no code; on a later attempt the account opened.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -2035,7 +2035,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month billed annually (5,000 pageviews, 50 recordings)",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-10 on crazyegg.com/pricing, in a browser and by plain fetch, both showing the same ladder) Four plans, all billed annually, each with a 30-day free trial and, in the vendor's words, no overages, ever. Starter is $29 a month: 5,000 tracked pageviews, 5 heatmap reports and 50 recordings a month, with 6 months of recordings storage. Plus is $99 a month: 150,000 pageviews, 75 heatmap reports, 1,000 recordings, 2 years of storage, and unlimited A/B testing, CTAs and error tracking, with A/B targeting by device type. Pro is $249 a month: 500,000 pageviews, 100 heatmap reports, 5,000 recordings, targeting by device, country, UTMs and conversions, and export of heatmaps and recordings to AI. Enterprise is $599 a month: 1,000,000 pageviews, 200 heatmap reports, 10,000 recordings, targeting by all audience segments and SAML single sign-on. Every plan includes unlimited website domains, unlimited team members, web analytics, conversion tracking and surveys. More heatmaps or recordings are sold as add-ons through sales, with no price printed. A Free plan, no card required, covers web analytics, instant heatmaps, conversion analytics and surveys. Historical: on 21 August 2026 the pricing page we read showed a different three-plan ladder, Analytics from $29 and Growth from $99 on pageview sliders plus a quoted Enterprise, while the vendor's pricing.md already listed Starter, Plus, Pro and Enterprise at $29, $99, $249 and $599.",
+   "price_note": "(read 2026-10-10 on crazyegg.com/pricing, in a browser and by plain fetch, both showing the same ladder) Four plans, all billed annually, each with a 30-day free trial and, in the vendor's words, no overages, ever. When we signed up on 18 November 2026, the account went straight to a subscription step headed 'Enter your billing information' under 'Start your free 30-day trial': the trial asks for card details before you see a dashboard, while the same page promises 'Pay NOTHING for the first 30 days' and 'Cancel at ANY time during your trial'. We stopped there. Starter is $29 a month: 5,000 tracked pageviews, 5 heatmap reports and 50 recordings a month, with 6 months of recordings storage. Plus is $99 a month: 150,000 pageviews, 75 heatmap reports, 1,000 recordings, 2 years of storage, and unlimited A/B testing, CTAs and error tracking, with A/B targeting by device type. Pro is $249 a month: 500,000 pageviews, 100 heatmap reports, 5,000 recordings, targeting by device, country, UTMs and conversions, and export of heatmaps and recordings to AI. Enterprise is $599 a month: 1,000,000 pageviews, 200 heatmap reports, 10,000 recordings, targeting by all audience segments and SAML single sign-on. Every plan includes unlimited website domains, unlimited team members, web analytics, conversion tracking and surveys. More heatmaps or recordings are sold as add-ons through sales, with no price printed. A Free plan, no card required, covers web analytics, instant heatmaps, conversion analytics and surveys. Historical: on 21 August 2026 the pricing page we read showed a different three-plan ladder, Analytics from $29 and Growth from $99 on pageview sliders plus a quoted Enterprise, while the vendor's pricing.md already listed Starter, Plus, Pro and Enterprise at $29, $99, $249 and $599.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -2043,7 +2043,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "free_tier",
@@ -2051,11 +2051,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-10-10"
   },
   {
@@ -2282,19 +2282,35 @@
    "entry_price": "$24",
    "entry_price_terms": "Pro · per month billed annually at $288 -- cheaper than the $39 monthly…",
    "pricing_status": "public",
-   "price_note": "Re-verified 19 September 2026 on their own pricing page, unchanged since August. Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 14-day free trial. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). The meter is catalogue size: Starter 25 unique products, Pro 250 unique plus 25 premium, Empire 10,000 and 10,000, Unicorn 25,000 and 25,000. The FAQ on their own homepage, re-read the same day, still quotes an older $39.99-$299.99 range plus a $1.99 one-time store-creation fee, so the marketing copy and the pricing table continue to disagree. Nothing anywhere on the pricing page mentions the Shopify subscription the generated store runs on.",
+   "price_note": "On 18 November 2026 the 'Build my FREE store' button on dropgenius.com sent us to a card form titled 'Pay Securely' on a different domain and brand, app.storebuilder.ai/checkout. It asked for card details for a '7-day trial for just $1. After 7 days, your selected plan renews at $99/month', with Empire ($99) preselected among Starter $39, Pro $59, Empire $99 and Unicorn $299, each $1 for the trial. A 'Get access to Winning Products for $19' add-on and the terms checkbox were already ticked, and a countdown claimed 'Only 26 trial spots left this month due to high demand'. We entered nothing and paid nothing. The monthly prices match the pricing page as re-verified on 19 September 2026 (unchanged since August): Starter $39, Pro $59, Empire $99, Unicorn $299; that page then described a 14-day free trial, which is not what the checkout offered. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). The meter is catalogue size: Starter 25 unique products, Pro 250 unique plus 25 premium, Empire 10,000 and 10,000, Unicorn 25,000 and 25,000. The FAQ on their own homepage, re-read the same day, still quotes an older $39.99-$299.99 range plus a $1.99 one-time store-creation fee, so the marketing copy and the pricing table continue to disagree. Nothing anywhere on the pricing page mentions the Shopify subscription the generated store runs on.",
    "flags": [
+    {
+     "flag": "renewal_jump",
+     "evidence": "After 7 days, your selected plan renews at $99/month', with Empire ($99) preselected among Starter $39, Pro $59, Empire $99 and Unicorn $299, each $1 for the trial.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "A 'Get access to Winning Products for $19' add-on and the terms checkbox were already ticked, and a countdown claimed 'Only 26 trial spots left this month due to high demand'.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    },
     {
      "flag": "annual_lock",
      "evidence": "Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948).",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": null
   },
   {
@@ -5243,7 +5259,7 @@
    "entry_price": "$19",
    "entry_price_terms": "Starter · billed monthly, excluding VAT",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts. Pro is $49 for 100,000 emails and 50,000 contacts, 1 seat, 50 AI credits a day and 10 warm-up accounts. Growth is $99 for 200,000 emails and 100,000 contacts, 1 seat, 100 credits and 20 warm-up accounts. Team / Agency is $199 for 350,000 emails, 200,000 contacts, 10 team seats, 200 credits and 50 warm-up accounts. Starter keeps logs for 30 days, the others for 60. Above that, Custom starts at $300 a month for 300K to 2M+ emails at $1.00 per 1,000 emails. Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout. Monthly plans start with a 14-day free trial. The terms say paid fees are non-refundable unless the law requires otherwise, and a cancellation takes effect at the end of the billing period.",
+   "price_note": "(read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts. Pro is $49 for 100,000 emails and 50,000 contacts, 1 seat, 50 AI credits a day and 10 warm-up accounts. Growth is $99 for 200,000 emails and 100,000 contacts, 1 seat, 100 credits and 20 warm-up accounts. Team / Agency is $199 for 350,000 emails, 200,000 contacts, 10 team seats, 200 credits and 50 warm-up accounts. Starter keeps logs for 30 days, the others for 60. Above that, Custom starts at $300 a month for 300K to 2M+ emails at $1.00 per 1,000 emails. Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout. Monthly plans start with a 14-day free trial. When we tested on 18 November 2026, a new account started on a Free plan inside the app that the pricing page does not show. It let us import contacts and save a template, but creating a follow-up sequence was blocked: 'Sequence limit reached. You have 0 sequences. Upgrade your plan to create more.' The Free plan also requires an unsubscribe footer. The terms say paid fees are non-refundable unless the law requires otherwise, and a cancellation takes effect at the end of the billing period.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5256,6 +5272,14 @@
     {
      "flag": "annual_lock",
      "evidence": "Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout.",
+     "evidence_excerpt": null,
+     "source_url": "https://outsends.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-17"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "When we tested on 18 November 2026, a new account started on a Free plan inside the app that the pricing page does not show.",
      "evidence_excerpt": null,
      "source_url": "https://outsends.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5783,7 +5807,7 @@
    "entry_price": "€69",
    "entry_price_terms": "Campaigns · per month billed annually, 1 seat included",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually; re-verified 2026-11-13 with a plain fetch) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a library of ready-made workflows, unlimited contacts, up to 60,000 emails a year, up to 6,000 WhatsApp messages a year and 5 active workflows. Marketing Automation Suite is €199 a month with 2 seats and adds real-time visitor tracking, website personalisation, pop-ups, event tracking, a 360-degree contact view, advanced segmentation and AI agents, with 24,000 WhatsApp messages a year, 20 active workflows, 50 forms and 50 landing pages. Customer Engagement Platform is €499 a month with 2 seats and adds product recommendations, web push and the advanced data platform, with up to 120,000 WhatsApp messages a year, 100 workflows, 100 forms and 100 landing pages. Every plan includes up to 60,000 emails a year. Extra seats cost €69, €99 or €199 a seat a month billed annually, depending on the plan. Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages were €29 a month each on 7 October (€49 each on 13 November). A separate Data & Activation Suite for teams of 10 or more users was not priced on the page on 7 October. The FAQ says monthly billing exists, but the page prints only annual prices; the free trial lasts 7 days with no card, auto-renewal is on by default, and cancelling stops the renewal without a refund. Re-read on 13 November 2026: the three Marketing Suite prices, included seats and extra-seat prices are unchanged. The page now gives the allowances per month, 5,000 emails on every Marketing Suite plan and 500, 2,000 or 10,000 WhatsApp messages, the same totals as the yearly figures above. Three things changed. Forms and landing pages on Campaigns now cost €49 a month each, and the Marketing Automation Suite lists a Website Experience add-on at €59 a month. The Data & Activation Suite now has a published plan: Performance at €999 a month billed annually with 10 seats (extra seats €199 a seat a month), up to 300,000 emails a month, up to 100,000 marketing contacts and 10,000 WhatsApp messages a month; Limitless, with unlimited seats and sending, is priced through sales. The same page also sells a Newsletter Suite of rapidmail plans: Essential €15 and Professional €25 a month, or €20 for a single pay-as-you-go send. The FAQ now says add-ons are billed per seat, and that switching off auto-renewal on a Data & Activation plan takes 90 days' notice before the annual renewal date.",
+   "price_note": "(read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually; re-verified 2026-11-13 with a plain fetch) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a library of ready-made workflows, unlimited contacts, up to 60,000 emails a year, up to 6,000 WhatsApp messages a year and 5 active workflows. Marketing Automation Suite is €199 a month with 2 seats and adds real-time visitor tracking, website personalisation, pop-ups, event tracking, a 360-degree contact view, advanced segmentation and AI agents, with 24,000 WhatsApp messages a year, 20 active workflows, 50 forms and 50 landing pages. Customer Engagement Platform is €499 a month with 2 seats and adds product recommendations, web push and the advanced data platform, with up to 120,000 WhatsApp messages a year, 100 workflows, 100 forms and 100 landing pages. Every plan includes up to 60,000 emails a year. Extra seats cost €69, €99 or €199 a seat a month billed annually, depending on the plan. Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages were €29 a month each on 7 October (€49 each on 13 November). A separate Data & Activation Suite for teams of 10 or more users was not priced on the page on 7 October. The FAQ says monthly billing exists, but the page prints only annual prices; the free trial lasts 7 days with no card, auto-renewal is on by default, and cancelling stops the renewal without a refund. Re-read on 13 November 2026: the three Marketing Suite prices, included seats and extra-seat prices are unchanged. The page now gives the allowances per month, 5,000 emails on every Marketing Suite plan and 500, 2,000 or 10,000 WhatsApp messages, the same totals as the yearly figures above. Three things changed. Forms and landing pages on Campaigns now cost €49 a month each, and the Marketing Automation Suite lists a Website Experience add-on at €59 a month. The Data & Activation Suite now has a published plan: Performance at €999 a month billed annually with 10 seats (extra seats €199 a seat a month), up to 300,000 emails a month, up to 100,000 marketing contacts and 10,000 WhatsApp messages a month; Limitless, with unlimited seats and sending, is priced through sales. The same page also sells a Newsletter Suite of rapidmail plans: Essential €15 and Professional €25 a month, or €20 for a single pay-as-you-go send. The FAQ now says add-ons are billed per seat, and that switching off auto-renewal on a Data & Activation plan takes 90 days' notice before the annual renewal date. Read again on 18 November 2026 during our own test: the pricing page now has a Monthly toggle, showing €89, €239 and €599 a month for the three plans with 5,000 emails a month, and on Campaigns forms and landing pages were back at €29 a month each. Our trial account showed 'Emails left: 10' above the campaign list.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5791,7 +5815,7 @@
      "evidence_excerpt": null,
      "source_url": "https://www.user.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "addons_extra",
@@ -5799,11 +5823,11 @@
      "evidence_excerpt": "Add-ons: Loyalty Program €199 a month, Sales €59, Customer Service €59 and Mobile App Marketing €59, all billed annually; on Campaigns, forms and landing pages were €29 a month each on 7 October (€49…",
      "source_url": "https://www.user.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-13",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-10-07"
   },
   {
@@ -7230,7 +7254,7 @@
    "flags": [
     {
      "flag": "addons_extra",
-     "evidence": "Postage is billed on top of every plan, the page shows no postage rates, and it names only UPS and USPS.",
+     "evidence": "Postage is billed on top of every plan, the pricing page shows no postage rates, and it names only UPS and USPS.",
      "evidence_excerpt": null,
      "source_url": "https://www.ship.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
