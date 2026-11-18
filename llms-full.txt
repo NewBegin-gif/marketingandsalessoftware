@@ -446,13 +446,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Essent Preorder Back in Stock
 - Review: https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "$3.47/first month, then $4.95/month". What we saw: The plans screen shows Lite at $3.47 first month, then $4.95 a month, with the label -30% first mo, 100 preorders and 1000 back in stock…
 - Verdict: Essent Preorder Back in Stock: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials. The plans are cheap until a launch works.
 - Price: (read 2026-11-17 on apps.shopify.com/essential-preorder and in our own test that day; earlier: read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock…
 
 ## Essential Announcement Bar
 - Review: https://marketingandsalessoftware.com/essential-announcement-bar-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Up to 2.000 monthly views, Unlimited simple bars, Unlimited rotating bars". What we saw: The Pricing plans page shows the Free Plan with Up to 2.000 monthly views, Unlimited simple bars…
 - Verdict: Essential Announcement Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The bar the listing leads with is not on the free plan.
 - Price: (read 2026-09-29 on apps.shopify.com/essential-announcement-bar, on essential-apps.com/announcement-bar and in the vendor's help articles on bar types and on views; plan prices, annual prices, view limits and the 7-day trial re-verified unchanged on the Shopify App Store listing on 2026-10-21) Four plans priced on monthly bar views. Free covers up to 2,000 views a month with unlimited simple bars and unlimited…
 
@@ -464,13 +464,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Essential Countdown Timer Bar
 - Review: https://marketingandsalessoftware.com/essential-countdown-timer-bar-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Up to 1000 monthly views, Unlimited product timers, Unlimited top bar timers". What we saw: The Pricing plans page shows the Free Plan with Up to 1000 monthly views, Unlimited product…
 - Verdict: Essential Countdown Timer Bar: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The help centre says a view is every time a timer loads.
 - Price: (read 2026-11-17 on apps.shopify.com/essential-countdown-timer and in our own test the same day; read 2026-09-28 and 2026-10-21 there, on essential-apps.com/countdown-timer and in the vendor's help article on timer views) Four plans priced on monthly timer views. Free covers up to 1,000 views a month with unlimited product-page and top-bar timers.
 
 ## Essential Free Shipping Bar
 - Review: https://marketingandsalessoftware.com/essential-free-shipping-bar-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Up to 1000 monthly views; Unlimited Top-bar boosters; Unlimited Product page boosters". What we saw: The Pricing plans page shows the Free Plan with Up to 1000 monthly views, Unlimited…
 - Verdict: Essential Free Shipping Bar: Free covers up to 1,000 views a month with unlimited top-bar and product-page boosters. Past the limit there is no charge.
 - Price: (read 2026-11-17 on apps.shopify.com/essential-order-value-booster and in our own test the same day; read 2026-09-29 there, on essential-apps.com/free-shipping-bar and in the vendor's help articles on views and on setup) Four plans priced on monthly booster views. Free covers up to 1,000 views a month with unlimited top-bar and product-page boosters.
 
@@ -482,7 +482,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Essential Trust Badges
 - Review: https://marketingandsalessoftware.com/essential-trust-badges-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "One product page banner or icon block with 3 icons". What we saw: The Pricing plans page shows the Free Plan with Up to 5.000 monthly views, One product page banner or icon block with 3…
 - Verdict: Essential Trust Badges: Essential is $9.99 a month or $95.88 a year for up to 50,000 views. The free plan is generous on views and tight on badges.
 - Price: (read 2026-09-30 on apps.shopify.com/essential-icon-badge-banners, on essential-apps.com/trust-badges and in the vendor's help articles on views, cart placement and badges not showing) Four plans priced on monthly widget views. Free covers up to 5,000 views a month, the full icon library, unlimited payment icons on product pages and one product-page banner or one block of three icons.
 
@@ -716,7 +716,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Koala Gifts
 - Review: https://marketingandsalessoftware.com/koala-gifts-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Choose your plan screen shows Basic Monthly at $9.99 a month with $19.99 struck through and Start 14-day free trial. The Shopify approval screen showed $19,99 struck through and $9,99 USD every 30 days…
 - Verdict: Koala Gifts: Basic is $9.99 a month or $95.88 a year, Shopify $29.99 or $287.88, Advanced $49.99 or $479.88. The fee does not move by itself.
 - Price: (read 2026-11-17 on apps.shopify.com/upsell-koala-gift and in our own test that day; earlier: read 2026-10-03 on apps.shopify.com/upsell-koala-gift and in the vendor's billing articles at koala-gift.crisp.help) Priced on the store's Shopify plan, not on use: the four plans carry the names of Shopify's own plans and the listing gives each the same feature list. Basic is $9.99 a month or $95.88 a year, Shopify…
 
@@ -830,7 +830,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## MailVeri
 - Review: https://marketingandsalessoftware.com/mailveri-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Upload Files page says Maximum emails per list: 100,000 and Maximum file size is 10 MB, not 1 million rows. The limit itself was not run: only a file of 20 rows was uploaded.
 - Verdict: MailVeri sells pay-as-you-go credit packs with no subscription. The accuracy and savings figures come from MailVeri’s own pricing page and comparison tables.
 - Price: (read 2026-11-18 on mailveri.com and its pricing page and in our own test that day; earlier: read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire. A new account gets 1,000 free credits.
 
@@ -1190,7 +1190,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SalesTarget.ai
 - Review: https://marketingandsalessoftware.com/salestarget-ai-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Growth plan of Email Outreach ($30 a month) lists Unlimited email accounts, but also Email warmup for 5 email accounts, and an add-on Extra warmup slots at $2 per email account a month. So the accounts…
 - Verdict: SalesTarget.ai: CRM $40 a month with 3 users included and $20 per extra user. The credit numbers on the plan cards shrink once you read the price list.
 - Price: (read 2026-11-18 on salestarget.ai/pricing and in our own test that day; earlier: re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed. Re-verified 2026-11-12 on the All In One tab and the plan comparison table) Sold either as one bundle or module by module.
 
