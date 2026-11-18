@@ -1281,6 +1281,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/smarty-discounts-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/smarty-discounts.svg\" width=\"340\" height=\"115\" alt=\"Smarty Discounts hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 1 contradicted · 6 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "socialdesk",
+  "name": "SocialDesk",
+  "review_url": "https://marketingandsalessoftware.com/socialdesk-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/socialdesk.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#socialdesk",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 8",
+   "4 confirmed · 2 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SocialDesk hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/socialdesk-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/socialdesk.svg\" width=\"340\" height=\"115\" alt=\"SocialDesk hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "superlines",
   "name": "Superlines",
   "review_url": "https://marketingandsalessoftware.com/superlines-review.html",
