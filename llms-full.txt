@@ -261,8 +261,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CarouselBot
 - Review: https://marketingandsalessoftware.com/carouselbot-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: CarouselBot, Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document.
-- Price: (read 2026-10-17 in a browser on carouselbot.app/pricing, Monthly and Annual views; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited…
+- Verdict: CarouselBot, Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total. Creator allows only 3 batches a month.
+- Price: (read 2026-11-18 in a browser on carouselbot.app/pricing, Monthly and Annual views; earlier: read 2026-10-17; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, 3 AI images, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. In our test (18 Nov 2026) the free app showed the same…
 
 ## Circle
 - Review: https://marketingandsalessoftware.com/circle-review.html
@@ -429,8 +429,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## EmailOctopus
 - Review: https://marketingandsalessoftware.com/emailoctopus-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: EmailOctopus, Pro: from $9 a month billed yearly (saves $12), 10,000 emails a month at the entry tier. The price grows with your list.
-- Price: (read 2026-11-17 on emailoctopus.com/pricing, US dollars) Starter: free, 2,500 subscribers, 10,000 emails a month, branded emails, reports for 30 days. Pro: from $9 a month billed yearly (saves $12), 10,000 emails a month at the entry tier; the price rises with subscriber count.
+- Verdict: EmailOctopus: $20 a month, or $18 a month billed yearly ($216 a year), for 1,001 to 2,500 subscribers and 25,000 emails. The price grows with your list.
+- Price: (read 2026-11-18 on emailoctopus.com/pricing and its Markdown version, US dollars; earlier: read 2026-11-17) Starter: free, 2,500 subscribers, 10,000 emails a month, branded emails, reports for 30 days, 1 landing page, 1 form, 1 user. Pro: $10 a month, or $9 a month billed yearly ($108 a year, saves $12), for up to 500 subscribers and 10,000 emails a month; $20 a month, or $18 a month billed yearly ($216 a year),…
 
 ## EngageBay
 - Review: https://marketingandsalessoftware.com/engagebay-review.html
@@ -1251,8 +1251,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Seobility
 - Review: https://marketingandsalessoftware.com/seobility-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Seobility, Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit. The AI visibility tracking is marked Beta.
-- Price: (read 2026-11-17 on seobility.net/pricing, euros, plus VAT) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit. Premium: 59.90 a month, or 575.04 a year (20% off), 3 projects, 25,000 pages per crawl, 300 keywords.
+- Verdict: Seobility, Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool credits, 3 tracked AI prompts.
+- Price: (read 2026-11-18 on seobility.net/pricing, euros, plus VAT; earlier: read 2026-11-17) Basic: free, no time limit, 1 project, 10 keywords, 100 pages per crawl, limited website audit, 5 daily tool credits, 3 tracked AI prompts. Premium: 59.90 a month, or 575.04 a year (20% off), 3 projects, 25,000 pages per crawl, 300 keywords.
 
 ## SEOKart
 - Review: https://marketingandsalessoftware.com/seokart-review.html
@@ -1437,8 +1437,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Systeme.io
 - Review: https://marketingandsalessoftware.com/systeme-io-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Systeme.io, Free $0: 2,000 contacts, 3 sales funnels, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 email campaign.
-- Price: (read 2026-11-17 on systeme.io/pricing, US dollars a month) Free $0: 2,000 contacts, 3 sales funnels, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 email campaign, 500 students, no card. Startup $17: 5,000 contacts, 10 funnels, 5 courses.
+- Verdict: Systeme.io, Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program. Plans are metered on contacts.
+- Price: (read 2026-11-18 on systeme.io/pricing, US dollars a month; earlier: read 2026-11-17) Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program, 1 custom domain, 1 automation rule, 1 workflow, 1 tag, 1 CRM pipeline, 1 email campaign, 500 students, no evergreen webinars, no card. The page structured data says Free processes up to $10,000 in total sales, then…
 
 ## Tapform
 - Review: https://marketingandsalessoftware.com/tapform-review.html
