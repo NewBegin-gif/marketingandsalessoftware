@@ -4701,19 +4701,19 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "No public pricing (re-verified 25 September 2026): mktg.ai/pricing still returns 404 and the navigation carries no pricing item, so every route ends at 'Book a Demo'. The tiers themselves are no longer secret, though — the FAQ names Growth and Enterprise above the entry level and describes what they add (dedicated onboarding on both; a dedicated customer success manager, SLA-backed response times and quarterly business reviews on top of that). Email support is on every plan; custom integrations and EU data residency are Enterprise-only, with US data centres the default. The machine-readable llms.txt is Wix boilerplate advertising an MCP endpoint and carries no price either. Rates require a sales conversation.",
+   "price_note": "No readable public price (re-verified 18 November 2026). mktg.ai/pricing no longer returns 404: it now serves a page titled 'mktg.ai pricing | What it costs and what you get', and the site also has an 'Enterprise Pricing' page, but both load their content in the browser and the served HTML carries no figure, so we publish no amount. The FAQ names Growth and Enterprise above the entry level: both include a dedicated customer success manager, SLA-backed response times and quarterly business reviews, and email support is on every plan. EU data residency is Enterprise-only, with US data centres the default. The site offers a pilot (one brand, one or two paid channels, one reporting cycle) and does not say whether it is paid. The llms.txt describes the product and carries no price.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No public pricing: /pricing 404s and every route ends at 'Book a Demo' (re-verified 25 Sep 2026)",
+     "evidence": "No readable price: /pricing and /enterprise-pricing load their content in the browser and the served HTML has no figure (re-verified 18 Nov 2026)",
      "evidence_excerpt": null,
      "source_url": "https://mktg.ai/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-25",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": null
   },
   {
