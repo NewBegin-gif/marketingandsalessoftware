@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 330,
-  "flags": 495,
+  "flags": 496,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1533,7 +1533,7 @@
   },
   {
    "name": "ChatGPT AI Product Description",
-   "category": "Design & Content",
+   "category": "E-commerce",
    "domain": "profitoniumapps.com",
    "review_url": "https://aibuildermarketplace.com/b2b/chatgpt-ai-product-description-review/",
    "from_price_usd_mo": 19.0,
@@ -3524,7 +3524,7 @@
   },
   {
    "name": "Imgify",
-   "category": "Design & Content",
+   "category": "E-commerce",
    "domain": "effectify.io",
    "review_url": "https://aibuildermarketplace.com/b2b/imgify-review/",
    "from_price_usd_mo": null,
@@ -4478,7 +4478,7 @@
   },
   {
    "name": "LumenCart",
-   "category": "Design & Content",
+   "category": "E-commerce",
    "domain": "lumencart.fleeta.co.uk",
    "review_url": "https://aibuildermarketplace.com/b2b/lumencart-review/",
    "from_price_usd_mo": 9.0,
@@ -4782,7 +4782,7 @@
   },
   {
    "name": "MX AI",
-   "category": "Design & Content",
+   "category": "E-commerce",
    "domain": "effectify.io",
    "review_url": "https://aibuildermarketplace.com/b2b/mx-ai-review/",
    "from_price_usd_mo": 4.99,
@@ -6780,7 +6780,7 @@
   },
   {
    "name": "Section Library",
-   "category": "Design & Content",
+   "category": "E-commerce",
    "domain": "sectionlibrary.com",
    "review_url": "https://aibuildermarketplace.com/b2b/section-library-review/",
    "from_price_usd_mo": 9.0,
@@ -8476,11 +8476,11 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-09-09 on www.ueni.com/pricing and re-read unchanged 2026-09-26; every figure below unchanged since the August reading) A done-for-you website, now sold in four tiers rather than one. Every tier carries the same setup fee of $599, currently promoted at $79. Launch is $24.99/mo and covers a custom-designed site, domain and SSL, hosting, one professional email address and 30 days of done-for-you edits. Plus is $59.00/mo and adds unlimited done-for-you edits, four email addresses, advanced SEO, integrations such as live chat and lead forms, promotion on Google, Facebook and Instagram, and VIP phone support. Ecommerce is $99.00/mo and adds a full online store with abandoned cart recovery, social selling, subscriptions and courses, advanced bookings and deposits, automated sales tax and a loyalty programme. Growth is $124.99/mo and adds a dedicated VIP Growth Team, a custom marketing plan, monthly one-on-one sessions and 2,000 words of fresh content a month. A yearly toggle advertises about 17% off: our August capture records $20.83 a month ($249.90 billed annually) on Launch and $49.17 ($590) on Plus, with two-year rates of $18.74 ($449.82) and $44.25 ($1,062). Transaction fees are 0% on every tier and there is a 30-day money-back guarantee.",
+   "price_note": "(re-verified 2026-11-18 on ueni.com/en-us/pricing and ueni.com/llms.txt; the separate Ecommerce tier recorded on 2026-09-09 and 2026-09-26 is no longer offered) A done-for-you website, now sold in three tiers. Every tier carries the same setup fee of $599, currently promoted at $79 (the page banner reads 'EARLY BLACK FRIDAY' and 'SAVE $520'). Launch is $24.99/mo and covers a custom-designed site, domain and SSL, hosting, one professional email address and 30 days of done-for-you edits. Plus is $59.00/mo and adds unlimited done-for-you edits, four email addresses, advanced SEO, Google Business Profile setup and management, calendar-synced online bookings, online payments for services, integrations such as live chat and lead forms, promotion on Google, Facebook and Instagram, and VIP phone support. Growth is $124.99/mo and adds a dedicated VIP Growth Team, a custom marketing plan, monthly one-on-one sessions, marketing across email, social, ads, SEO and reputation, and 2,000 words of fresh content a month. In the comparison table a basic shopping cart is ticked on all three tiers, while the full online store, abandoned cart recovery, product subscriptions, advanced bookings and deposits, and loyalty and reviews are ticked only on Growth. The yearly toggle ('Save ~17%') shows $20.83 a month ($249.90 billed annually) on Launch, $49.17 ($590) on Plus and $104.16 ($1,249.90) on Growth, which checks out at about 17% against twelve monthly payments. The two-year toggle says 'Save ~34%' and shows $18.74 ($449.82), $44.25 ($1,062) and $93.74 ($2,249.82); against twenty-four monthly payments ($599.76, $1,416 and $2,999.76) that is 25% off on every tier, not 34%. Transaction fees are 0% on every tier and there is a 30-day money-back guarantee.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
-   "first_observed_at": "2026-09-09"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Unbounce",
@@ -9007,7 +9007,7 @@
    "entry_price": "$30",
    "entry_price_terms": "a month (single account), includes $30/mo usage credit",
    "pricing_status": "public",
-   "price_note": "(re-verified 25 September 2026 on whatconverts.com/pricing) Two ladders behind one toggle, and the page opens on the single-account one. Single account: Call Tracking $30 a month, Plus $60 (forms, chat, ecommerce), Pro $100 (HIPAA, call flows, report builder), Elite $160 (customer journey, multi-click attribution) — each including $30 of monthly usage credit. Agency, on the second tab, is three plans rather than one, all with unlimited accounts: Plus $500 a month with $250 of credit, Pro $800 with $300, Elite $1,250 with $400. Every tier carries a 14-day free trial. Past the included credit, the comparison table on the same page prints the usage rates: on the single-account plans additional local numbers $2.50 each, local minutes 4.5 cents each, toll-free numbers $3.50 each and toll-free minutes 6.5 cents each, dropping on the agency plans to $1.75, 4 cents, $3.00 and 6 cents; inbound texts are 3 cents, call transcription 2 cents a minute and white label $50 a month on every tier. The same table puts the included allowance at up to 148 phone call leads on each single-account plan and up to 300 forms, chats and transactions on Plus, Pro and Elite (none on Call Tracking), and at 1,908, 2,325 and 3,158 calls and 2,500, 3,000 and 4,000 other leads on the three agency plans. The billing FAQ adds that minutes are rounded up to the full minute and that a busy or no-answer call still counts once it connected to the tracking number.",
+   "price_note": "(re-verified 25 September 2026 and again 18 November 2026 on whatconverts.com/pricing) Two ladders behind one toggle, and the page opens on the single-account one. Single account: Call Tracking $30 a month, Plus $60 (forms, chat, ecommerce), Pro $100 (HIPAA, call flows, report builder), Elite $160 (customer journey, multi-click attribution) — each including $30 of monthly usage credit. Agency, on the second tab, is three plans rather than one, all with unlimited accounts: Plus $500 a month with $250 of credit, Pro $800 with $300, Elite $1,250 with $400. Every tier carries a 14-day free trial. Past the included credit, the comparison table on the same page prints the usage rates: on the single-account plans additional local numbers $2.50 each, local minutes 4.5 cents each, toll-free numbers $3.50 each and toll-free minutes 6.5 cents each, dropping on the agency plans to $1.75, 4 cents, $3.00 and 6 cents; inbound texts are 3 cents, call transcription 2 cents a minute and white label $50 a month on every tier. The same table puts the included allowance at up to 148 phone call leads on each single-account plan and up to 300 forms, chats and transactions on Plus, Pro and Elite (none on Call Tracking), and at 1,908, 2,325 and 3,158 calls and 2,500, 3,000 and 4,000 other leads on the three agency plans. The billing FAQ adds that minutes are rounded up to the full minute and that a busy or no-answer call still counts once it connected to the tracking number. The billing FAQ in the help center (read 18 November 2026) adds PCI Redaction at $0.01 a minute as a further add-on and counts phone numbers, including disabled numbers, against the usage credit.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -9015,11 +9015,19 @@
      "evidence_excerpt": "Single account: Call Tracking $30 a month, Plus $60 (forms, chat, ecommerce), Pro $100 (HIPAA, call flows, report builder), Elite $160 (customer journey, multi-click attribution) — each including $30…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-11-18"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The billing FAQ in the help center (read 18 November 2026) adds PCI Redaction at $0.01 a minute as a further add-on and counts phone numbers, including disabled numbers, against the usage credit.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-25",
+   "price_verified_at": "2026-11-18",
    "first_observed_at": null
   },
   {
