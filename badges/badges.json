@@ -1825,6 +1825,23 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/storista-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/storista.svg\" width=\"340\" height=\"115\" alt=\"Storista hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "supaeasy",
+  "name": "SupaEasy",
+  "review_url": "https://marketingandsalessoftware.com/supaeasy-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/supaeasy.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#supaeasy",
+  "tested_on": "2026-11-17",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SupaEasy sign-up attempt by Marketing & Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/supaeasy-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/supaeasy.svg\" width=\"340\" height=\"132\" alt=\"SupaEasy sign-up attempt by Marketing &amp; Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "superlines",
   "name": "Superlines",
   "review_url": "https://marketingandsalessoftware.com/superlines-review.html",
