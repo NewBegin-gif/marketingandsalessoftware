@@ -1340,7 +1340,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## SoftSync
 - Review: https://marketingandsalessoftware.com/softsync-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The Business plan card says 5.000 AI chats, emails and enrichments a month. The public pricing page and our dossier list 10,000 a month for Business. The Credits panel of the trial shows 5,000 AI chats and…
 - Verdict: SoftSync: Pro is $29 per seat a month billed yearly or $39 billed monthly. Pro stops at five team members per workspace.
 - Price: (read 2026-09-26 on softsync.ai/pricing in a headless browser, including the plan table and every pricing FAQ answer; re-read 2026-11-11 on softsync.ai/pricing and softsync.ai/pricing.md, amounts unchanged) Two standard paid plans, priced per seat per month, plus a custom Enterprise tier; there is no free plan. Pro is $29 per seat a month billed yearly or $39 billed monthly, and Business is $59 per seat a month…
 

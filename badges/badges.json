@@ -1809,6 +1809,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/socialdesk-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/socialdesk.svg\" width=\"340\" height=\"115\" alt=\"SocialDesk hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 4 confirmed · 2 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "softsync",
+  "name": "SoftSync",
+  "review_url": "https://marketingandsalessoftware.com/softsync-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/softsync.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#softsync",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 13",
+   "5 confirmed · 2 contradicted · 3 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "SoftSync hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/softsync-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/softsync.svg\" width=\"340\" height=\"115\" alt=\"SoftSync hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "storeseo",
   "name": "StoreSEO",
   "review_url": "https://marketingandsalessoftware.com/storeseo-review.html",
