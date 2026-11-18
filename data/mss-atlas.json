@@ -3,8 +3,8 @@
   "title": "The cost-trap atlas for marketing, sales and e-commerce software (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 329,
-  "flags": 491,
+  "tools": 330,
+  "flags": 494,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -118,7 +118,7 @@
    "entry_price": "$49",
    "entry_price_terms": "per month minimum on Self-Serve",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-10, re-read unchanged 2026-09-27) Read on adwisely.com/pricing; every figure below stood unchanged from our previous reading on 2 August 2026. Both plans charge 10% of the ad spend Adwisely manages, with a monthly minimum that acts as a floor rather than a fee on top: $49 on Self-Serve and $249 on Concierge (managed). At $5,000 of monthly spend the Self-Serve fee is therefore $500, not $549, and total monthly Adwisely fees are capped at $3,250 (re-read 15 September 2026). 7-day free trial, no setup fee.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/adwisely and adwisely.com/pricing; earlier: price re-verified 2026-09-10, re-read unchanged 2026-09-27) Read on adwisely.com/pricing; every figure below stood unchanged from our previous reading on 2 August 2026. Both plans charge 10% of the ad spend Adwisely manages, with a monthly minimum that acts as a floor rather than a fee on top: $49 on Self-Serve and $249 on Concierge (managed). At $5,000 of monthly spend the Self-Serve fee is therefore $500, not $549, and total monthly Adwisely fees are capped at $3,250 (re-read 15 September 2026). 7-day free trial, no setup fee. Read again on 17 November 2026: adwisely.com/pricing still says the fee is 10% of ad spend with a minimum of $49 a month on Self-Serve and $249 on Concierge, and that the total monthly fee never exceeds $3,250, with a 7 day free trial. The Shopify listing (4.4 from 189 reviews) words it differently: Self-Serve is $49 a month and includes $500 of ad spend every 30 days, then 10% of the rest, up to $3,000 more; Concierge is $249 a month and includes $2,500 of ad spend every 30 days, then 10% of the rest, up to $3,000 more; ad spend is paid to Meta and Google; both carry a 7 day free trial. On the listing's wording $5,000 of monthly spend costs $499 on either plan, one dollar under the $500 the vendor's page gives, and the ceilings come to $3,049 and $3,249 (our arithmetic); we did not test which wording the billing follows.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -126,12 +126,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
-   "first_observed_at": "2026-09-10"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "AfterSell",
@@ -140,22 +140,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/aftersell-review/",
    "from_price_usd_mo": 34.99,
    "entry_price": "$34.99",
-   "entry_price_terms": "a month at 200 monthly orders, capped at $999.99",
+   "entry_price_terms": "a month, capped at $999.99",
    "pricing_status": "public",
-   "price_note": "Three plans, each metered by monthly order volume, read on aftersell.com/pricing and on the Shopify App Store listing on 22 September 2026 (re-verified 22 September 2026 and again 27 September 2026). The entry prices: Post-Purchase $34.99 a month for 200 monthly orders, capped at $999.99; Pre-Purchase $59.99 for 200, capped at $599.99; Complete $79.99, capped at $1,359.99 - and on 27 September 2026 the Complete card quotes that $79.99 for 500 monthly orders, where on 22 September it read 200 like the other two. The page does not say whether the Complete entry tier was widened or the card is wrong, so confirm the tier for your own volume in the app before you install. Complete is the other two together, which the vendor prices at 15% under buying them separately. Go over a volume tier and the fee steps up to the matching one on its own, with that cap as the ceiling. Every plan carries a 30-day free trial, all charges are billed in USD, and the Free plan on the listing is for development and partner stores only. Checkout upsells are Shopify Plus only and now sit inside Post-Purchase and Complete rather than being billed separately. Rokt Thanks, the third-party offers on the confirmation page, is free with no minimum order volume and pays up to $0.80 per order; for stores above 1,000 monthly orders whose primary market is the US, Canada, Australia or the UK those earnings are credited against the subscription dollar for dollar. Aftersell Max, for high-volume stores, is custom-priced and publishes no figure. The unexplained $19.99 we saw above the $79.99 on the Complete card on 22 September 2026 is no longer on the page on 27 September. This replaces the single order-volume ladder we recorded on 5 September 2026 ($34.99 for 0-500 orders, $54.99 for 501-1,000, $99.99 for 1,001-2,000); that ladder is on neither page any more.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/aftersell and in our own test that day) Three plans, each metered by monthly order volume, read on aftersell.com/pricing and on the Shopify App Store listing on 22 September 2026 (re-verified 22 September 2026 and again 27 September 2026). The entry prices: Post-Purchase $34.99 a month for 200 monthly orders, capped at $999.99; Pre-Purchase $59.99 for 200, capped at $599.99; Complete $79.99, capped at $1,359.99 - and on 27 September 2026 the Complete card quotes that $79.99 for 500 monthly orders, where on 22 September it read 200 like the other two. The page does not say whether the Complete entry tier was widened or the card is wrong, so confirm the tier for your own volume in the app before you install. Complete is the other two together, which the vendor prices at 15% under buying them separately. Go over a volume tier and the fee steps up to the matching one on its own, with that cap as the ceiling. Every plan carries a 30-day free trial, all charges are billed in USD, and the Free plan on the listing is for development and partner stores only. Checkout upsells are Shopify Plus only and now sit inside Post-Purchase and Complete rather than being billed separately. Rokt Thanks, the third-party offers on the confirmation page, is free with no minimum order volume and pays up to $0.80 per order; for stores above 1,000 monthly orders whose primary market is the US, Canada, Australia or the UK those earnings are credited against the subscription dollar for dollar. Aftersell Max, for high-volume stores, is custom-priced and publishes no figure. The unexplained $19.99 we saw above the $79.99 on the Complete card on 22 September 2026 is no longer on the page on 27 September. This replaces the single order-volume ladder we recorded on 5 September 2026 ($34.99 for 0-500 orders, $54.99 for 501-1,000, $99.99 for 1,001-2,000); that ladder is on neither page any more. Read again on 17 November 2026: the listing (Aftersell Post Purchase Upsell, 4.9 from 1,130 reviews) still shows the Free card reading “ONLY For Development & Partner Stores” and the three entry prices, Post-Purchase $34.99, Pre-Purchase $59.99 and Complete $79.99 a month, each with a 30 day free trial, and no longer says anything about order volume. In our own test the same day on a Shopify development store the app did not show the Free card. Its plan cards read Post-Purchase $34.99 a month with 5 cents per order above 500 orders, capped at $999.99; Pre-Purchase $59.99 with 3 cents per order above 500, capped at $599.99; and Complete $79.99 with 7 cents per order above 500, capped at $1,359.99, with a counter showing 2 monthly orders. That is a different description from the 200 order entry tiers and volume steps we took from the vendor's pricing page in September, so confirm in the app how your own volume is charged. Choosing Post-Purchase opened Shopify's approval screen: a 30 day free trial ending 17 December, an app spending limit of $999.99 per 30 days, the line “You will not be billed for this test charge” and an Add payment method row, so we did not approve it.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Three plans, each metered by monthly order volume, read on aftersell.com/pricing and on the Shopify App Store listing on 22 September 2026 (re-verified 22 September 2026 and again 27 September 2026).",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-17 on apps.shopify.com/aftersell and in our own test that day) Three plans, each metered by monthly order volume, read on aftersell.com/pricing and on the Shopify App Store listing on 22 September 2026 (re-verified 22 September 2026 and again 27 September 2026).",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/aftersell and in our own test that day) Three plans, each metered by monthly order volume, read on aftersell.com/pricing and on the Shopify App Store listing on 2…",
      "source_url": "https://apps.shopify.com/aftersell",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-27"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-27",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "AgencyAnalytics",
@@ -356,7 +356,7 @@
    "entry_price": "$39",
    "entry_price_terms": "per month (50 unique/25 premium products)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-02 on their own pricing page) Four monthly plans: Starter $39/mo (50 unique / 25 premium products), Professional $59/mo (500 unique / 250 premium), Empire $99/mo (5,000 unique / 2,500 premium) and Unicorn $299/mo (25,000 unique / 25,000 premium). A 7-day trial costs $1, and there are no transaction or hidden fees. Annual billing is listed only from Professional up — $288, $684 and $948 a year — and the discount grows with the tier: 6 months off Professional, 5 off Empire and 8 off Unicorn, so the advertised “up to 8 months off” is the Unicorn rate rather than a general one, and Starter has no annual column at all. An optional one-time custom-store build service starts at $299. The $1 trial converts to the full monthly rate of whichever plan you picked, and your card stays on file — set a reminder if you are only testing.",
+   "price_note": "(re-verified 2026-11-17 on their own pricing page at alidrop.co/pricing; earlier 2026-10-02) Four monthly plans: Starter $39/mo (50 unique / 25 premium products), Professional $59/mo (500 unique / 250 premium), Empire $99/mo (5,000 unique / 2,500 premium) and Unicorn $299/mo (25,000 unique / 25,000 premium). A 7-day trial costs $1, and there are no transaction or hidden fees. Annual billing is listed only from Professional up — $288, $684 and $948 a year — and the discount grows with the tier: 6 months off Professional, 5 off Empire and 8 off Unicorn, so the advertised “up to 8 months off” is the Unicorn rate rather than a general one, and Starter has no annual column at all. An optional one-time custom-store build service starts at $299. The $1 trial converts to the full monthly rate of whichever plan you picked, and your card stays on file — set a reminder if you are only testing. Read again on 17 November 2026: the four monthly amounts, the $1 for 7 days trial on any monthly plan, the no order fees line, the yearly tab marked up to 8 months off and the custom store build from $299 one time were unchanged; the page now also shows a slider for the number of products (50, 500, 5,000 and 25,000). AliDrop has no listing on the Shopify App Store that we could find, so there is no listing to read.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -364,12 +364,12 @@
      "evidence_excerpt": "Annual billing is listed only from Professional up — $288, $684 and $948 a year — and the discount grows with the tier: 6 months off Professional, 5 off Empire and 8 off Unicorn, so the advertised “u…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-02"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-02",
-   "first_observed_at": "2026-10-02"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "All in One SEO",
@@ -1008,7 +1008,7 @@
    "entry_price": "$7.99",
    "entry_price_terms": "Basic Plan · per month for unlimited country and IP blocking plus the Bot Killer",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-13 on apps.shopify.com/blocky-simple-country-blocker, where the app is now listed as Bloky Fraud Filter Bot Blocker) Four plans. The ladder was rebuilt after our 2 November reading: the Development Stores plan and the Advanced tier are gone, and a Free plan and a Plus plan have appeared. The Free plan allows up to 4 country and IP rules, blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support; its plan card carries no development-store restriction. Basic is $7.99 a month or $67.11 a year (a stated 30% saving; it was $9.99 and $59.94): unlimited country blocking, unlimited IP and IP-range blocking, an IP whitelist, the Bot Killer for VPN, proxy and Tor traffic, blocking directly in checkout, a fully customisable blocked page and a custom checkout blocked message. Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-ons checkout blocker, right-click and content protection and unlimited visitor analytics traffic logs. Plus is $39.99 a month or $239.94 a year, for Shopify Plus stores only, and adds automatic cancellation of fraud orders to everything in Pro. Basic and Pro state in their own plan text: all stores except for Shopify Plus stores. The plan cards no longer list a 7-day free trial; the developer's reply to a review dated 20 August 2026 still mentions one. All charges are billed in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, 7722119, Israel; the app launched 7 April 2021 and still carries Shopify's “Built for Shopify” badge. The review record keeps moving: 365 reviews averaging 4.7 on 13 November 2026, up from 324 on 22 August, 346 on 18 September, 355 on 5 October and 362 on 2 November, distributed 325 five-star, 16 four-star, 3 three-star, 1 two-star and 20 one-star. The developer replies to reviews on the listing, including an August 2026 reply explaining what the Basic plan is meant to cover.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/blocky-simple-country-blocker and in our own test that day; earlier: re-verified 2026-11-13 on apps.shopify.com/blocky-simple-country-blocker, where the app is now listed as Bloky Fraud Filter Bot Blocker) Four plans. The ladder was rebuilt after our 2 November reading: the Development Stores plan and the Advanced tier are gone, and a Free plan and a Plus plan have appeared. The Free plan allowed up to 4 country and IP rules on 13 November 2026 (the card read 2 on 17 November, see below), blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support; its plan card carries no development-store restriction. Basic is $7.99 a month or $67.11 a year (a stated 30% saving; it was $9.99 and $59.94): unlimited country blocking, unlimited IP and IP-range blocking, an IP whitelist, the Bot Killer for VPN, proxy and Tor traffic, blocking directly in checkout, a fully customisable blocked page and a custom checkout blocked message. Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-ons checkout blocker, right-click and content protection and unlimited visitor analytics traffic logs. Plus is $39.99 a month or $239.94 a year, for Shopify Plus stores only, and adds automatic cancellation of fraud orders to everything in Pro. Basic and Pro state in their own plan text: all stores except for Shopify Plus stores. On 13 November 2026 the plan cards no longer listed a 7-day free trial, though the developer's reply to a review dated 20 August 2026 still mentioned one; on 17 November 2026 the Basic, Pro and Plus cards listed the 7 day trial again. All charges are billed in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, 7722119, Israel; the app launched 7 April 2021 and still carries Shopify's “Built for Shopify” badge. The review record keeps moving: 365 reviews averaging 4.7 on 13 November 2026, up from 324 on 22 August, 346 on 18 September, 355 on 5 October and 362 on 2 November, distributed 325 five-star, 16 four-star, 3 three-star, 1 two-star and 20 one-star. The developer replies to reviews on the listing, including an August 2026 reply explaining what the Basic plan is meant to cover. Read again on 17 November 2026: the listing (Bloky Fraud Filter Bot Blocker, 4.7 from 367 reviews) shows the same four plans at the same amounts, Basic $7.99 a month or $67.11 a year, Pro $16.99 or $101.94 and Plus $39.99 or $239.94, but its Free card now reads up to 2 country and IP rules, where our reading of 13 November 2026 recorded 4. The Free card still lists blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support. We did not install the app.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -1016,7 +1016,7 @@
      "evidence_excerpt": "Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-o…",
      "source_url": "https://apps.shopify.com/blocky-simple-country-blocker",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -1024,12 +1024,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/blocky-simple-country-blocker",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-13",
-   "first_observed_at": "2026-11-13"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Bold Custom Pricing",
@@ -1055,7 +1055,7 @@
    "entry_price": "$0.13",
    "entry_price_terms": "Scale · per member, per month",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-05 on the Shopify App Store listing at apps.shopify.com/recurring-memberships, prices in USD) One plan, called Scale: free to install, then $0.13 per member per month. The first 10 members are free forever, the first 30 days are free, and the listing says there is no flat monthly base fee and no transaction fee. All charges are billed in USD. The listing does not define a member; we read it as each customer enrolled in one of your membership tiers, free tiers included, and that is worth confirming before you put a free tier in front of your whole customer list. Paid tiers collect their fees through Stripe (Stripe is listed under 'Works with', and an October 2024 review says membership fees are refunded through Stripe), so Stripe's own processing fees come on top of the app bill.",
+   "price_note": "(read 2026-10-05 on the Shopify App Store listing at apps.shopify.com/recurring-memberships, prices in USD) One plan, called Scale: free to install, then $0.13 per member per month. The first 10 members are free forever, the first 30 days are free, and the listing says there is no flat monthly base fee and no transaction fee. All charges are billed in USD. The listing does not define a member; we read it as each customer enrolled in one of your membership tiers, free tiers included, and that is worth confirming before you put a free tier in front of your whole customer list. Paid tiers collect their fees through Stripe (Stripe is listed under 'Works with', and an October 2024 review says membership fees are refunded through Stripe), so Stripe's own processing fees come on top of the app bill. Shopify's own charge notice in our test store on 17 November 2026 repeated the $0.13 per active member rate with the first 10 active members free and added that these pay-per-use charges will not go over a maximum of $10,000 per month.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1540,15 +1540,15 @@
    "entry_price": "$19",
    "entry_price_terms": "Basic · per month for 2,000 credits, billed in USD every 30 days",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-20 on apps.shopify.com/automated-description-writing) Four tiers, priced in credits per month, all amounts unchanged since 19 August 2026. Free Trial: 100 credits a month. Basic $19 a month or $190 a year (save 17%): 2,000 credits, product descriptions, titles and meta descriptions, formatted descriptions, automatic descriptions on import. Standard $49 or $399 a year (save 32%): 11,000 credits, same features. Pro $249 or $1,990 a year (save 33%): 110,000 credits, same features plus priority video-call support. Every paid card repeats 'Only $1 per 100 Descriptions', which only holds at the bottom of the ladder: $19 for 2,000 credits is 95 cents per hundred, $49 for 11,000 is 45 cents, $249 for 110,000 is 23 cents. The listing never says what a title, a meta description or an alt text costs in credits. It also carries the standard line that recurring AND USAGE-BASED charges are billed every 30 days, and no usage rate or threshold is published anywhere on the page. The app's own copy now calls it 'Descrii AI Product Descriptions' while the listing title still reads 'ChatGPT AI Product Description'; the Works-with row names Claude, Gemini, GPT-5, gpt 5 mini and grok. Developer Profitonium, Adugodi, Bangalore; launched 12 March 2021; Built for Shopify badge; 4.9 from 529 ratings.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/automated-description-writing and in our own test that day; earlier: re-verified 2026-09-20 on apps.shopify.com/automated-description-writing) Four tiers, priced in credits per month, all amounts unchanged since 19 August 2026. Free Trial: 100 credits a month. Basic $19 a month or $190 a year (save 17%): 2,000 credits, product descriptions, titles and meta descriptions, formatted descriptions, automatic descriptions on import. Standard $49 or $399 a year (save 32%): 11,000 credits, same features. Pro $249 or $1,990 a year (save 33%): 110,000 credits, same features plus priority video-call support. Every paid card repeated 'Only $1 per 100 Descriptions' on 20 September 2026, which only held at the bottom of the ladder: $19 for 2,000 credits is 95 cents per hundred, $49 for 11,000 is 45 cents, $249 for 110,000 is 23 cents. The listing never says what a title, a meta description or an alt text costs in credits. It also carries the standard line that recurring AND USAGE-BASED charges are billed every 30 days, and no usage rate or threshold is published anywhere on the page. The app's own copy then called it 'Descrii AI Product Descriptions' while the listing title still read 'ChatGPT AI Product Description'; by 17 November 2026 the listing and the app were both titled AI Product Description-ChatGPT; the Works-with row names Claude, Gemini, GPT-5, gpt 5 mini and grok. Developer Profitonium, Adugodi, Bangalore; launched 12 March 2021; Built for Shopify badge; 4.9 from 529 ratings. Read again on 17 November 2026: the listing, now titled AI Product Description-ChatGPT, shows the same four plans at the same amounts ($19 or $190 a year, $49 or $399, $249 or $1,990, and the free card with 100 credits a month), at 4.9 from 525 ratings. The 'Only $1 per 100 Descriptions' line was no longer on the cards. They now say add on credits cost 100 credits per $1 with a $5 minimum and that credit usage varies by AI model and features, and the Standard card also names a Catalog plan at $129 a month or $1,188 a year with 40,000 credits a month; our September reading recorded neither. The listing's Works with row names Claude, Gemini, GPT-5 mini, GPT-5 and grok. In our own test the same day on a Shopify development store the app opened on a Choose a plan screen. Monthly it showed Basic $19 (2,000 credits, about 1,000 descriptions), Standard $49 (11,000 credits) and Pro $249 (110,000 credits); on its default annual view it showed $15, $33 and $165 a month, which are the listing's yearly prices spread over twelve months and rounded down, with 50% more credits. A Free plan at $0 with 100 credits a month sat below the paid plans and started with no card and no Shopify approval screen. The Catalog plan was not on that screen, and the paywall said GPT-6 where the listing says GPT-5. One product description cost 2 credits, shown before we generated it, and the credit balance went from 100 to 98; the extra generation types (ads, collection descriptions, Instagram captions, product benefits) needed Standard or Pro. We did not publish the output to the product.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-09-20 on apps.shopify.com/automated-description-writing) Four tiers, priced in credits per month, all amounts unchanged since 19 August 2026.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-17 on apps.shopify.com/automated-description-writing and in our own test that day; earlier: re-verified 2026-09-20 on apps.shopify.com/automated-description-writing) Four tiers, priced in credits per month, all amounts unchanged since 19 August 2026.",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/automated-description-writing and in our own test that day; earlier: re-verified 2026-09-20 on apps.shopify.com/automated-description-writing) Four tiers, priced …",
      "source_url": "https://apps.shopify.com/automated-description-writing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-20"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "addons_extra",
@@ -1556,12 +1556,20 @@
      "evidence_excerpt": "Worse, the plan price may not be the whole bill: the listing carries Shopify's usage-based-charges line, and a merchant of twelve months, in a review edited 30 July 2026, itemised charges of $586.79,…",
      "source_url": "https://apps.shopify.com/automated-description-writing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-20"
+     "verified_at": "2026-11-17"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "A Free plan at $0 with 100 credits a month sat below the paid plans and started with no card and no Shopify approval screen.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/automated-description-writing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-20",
-   "first_observed_at": "2026-09-20"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Circle",
@@ -2298,11 +2306,28 @@
    "entry_price": "$99",
    "entry_price_terms": "Basic · per month for 25 sorted collections and 100,000 serves",
    "pricing_status": "public",
-   "price_note": "(re-read 3 October 2026 on apps.shopify.com/dynasort) Four tiers, all billed in USD and recurring every 30 days, and the cards have been rewritten since September. Demo is free for as long as you like: search, recommendations and post-purchase included, 2 collections sorted round the clock, 10 recipes drawn from 60+ signals, 2 managed collections, 10,000 serves a month, 7 days of serving analytics and a re-sort every 60 minutes. Basic is $99 a month for 25 sorted collections, 20 recipes, 10 managed collections, 100,000 serves a month, Customers Also Bought recipes, 7-day analytics and a 30-minute re-sort. The two upper cards are printed in a way that cannot be right as it stands: the card priced at $249 and named Pro opens with 'Everything in Pro, plus' and lists 1,000 collections, 250 recipes, 100 managed collections, unlimited serves, a 10-minute re-sort, 365-day analytics and priority onboarding, while the $499 Enterprise card opens with 'Everything in Basic, plus' and lists 100 collections, 50 recipes, 25 managed collections, 1 million serves a month, A/B testing with a one-click winner, a connector API, mobile-versus-desktop analytics, a 20-minute re-sort and 30-day analytics. Read by the headings, the 100-collection list belongs to Pro and the 1,000-collection list to Enterprise, the same swap we recorded on 14 September and saw corrected on 15 September; but the prices sit where they sit, so have the developer confirm which allowance comes with which price before you pay. Every paid tier carries a 30-day free trial. The September cards' yes/no lines for custom attributes, partner integration and product boost no longer appear.",
-   "flags": [],
+   "price_note": "(read 2026-11-17 on apps.shopify.com/dynasort and in our own test the same day; earlier reads 14 and 15 September and 3 October 2026) Four tiers, all billed in USD and recurring every 30 days. Demo is free for as long as you like: 2 sorted and 2 managed collections, 10 recipes built from 40+ signals, a sort refresh every 60 minutes, variant sorting on 2 products, 10,000 recommendation serves a month, A/B testing and collection analytics, and a connector API for your stack or an LLM. Basic is $99 a month and adds, on top of Demo, 25 sorted and 10 managed collections, 20 recipes, a refresh every 30 minutes, variant sorting on 50 products, 100,000 serves a month and Customers Also Bought recipes. Pro is $249 a month for 100 sorted and 25 managed collections, 50 recipes, a refresh every 20 minutes, variant sorting on 200 products, 1 million serves a month, mobile versus desktop analytics, 30 day serving analytics and A/B tests of recommendation recipes. Enterprise is $499 a month for 1,000 sorted and 100 managed collections, 250 recipes, a refresh every 10 minutes, variant sorting on 5,000 products, unlimited serves, 365 day analytics with custom ranges and priority support and onboarding. Every paid tier carries a 30 day free trial. The mix up we recorded on 14 September and again on 3 October 2026, with the Pro and Enterprise capacity blocks under each other's headings, is gone: on 17 November 2026 the Pro card listed the 100 collection allowance and the Enterprise card the 1,000 collection allowance. The prices have not moved. In our own test on a Shopify development store the app showed a banner, “Special pricing for your store”, with Basic, Pro and Enterprise marked down by half ($99 to $49, $249 to $124 and $499 to $249) and an end date six days away; that is a temporary offer on the app's screen and not on the listing, so we do not count it as the price. The app's own text said any plan is free for 30 days, “You pay $0 today”, with a first charge on 17 December 2026. We chose Demo and saw no payment screen. The listing's rating block read 4.6 from 14 reviews, thirteen five star and one one star.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Basic is $99 a month and adds, on top of Demo, 25 sorted and 10 managed collections, 20 recipes, a refresh every 30 minutes, variant sorting on 50 products, 100,000 serves a month and Customers Also Bought recipes.",
+     "evidence_excerpt": "Basic is $99 a month and adds, on top of Demo, 25 sorted and 10 managed collections, 20 recipes, a refresh every 30 minutes, variant sorting on 50 products, 100,000 serves a month and Customers Also …",
+     "source_url": "https://apps.shopify.com/dynasort",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "The app's own text said any plan is free for 30 days, “You pay $0 today”, with a first charge on 17 December 2026.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/dynasort",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    }
+   ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Easy Advanced Translations",
@@ -2592,7 +2617,7 @@
    "entry_price": "$4.95",
    "entry_price_terms": "Lite · per month for 100 pre-orders and 1,000 back-in-stock notifications…",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock notifications a month. Free covers 25 pre-orders and 300 back-in-stock notifications a month, with unlimited Notify me sign-ups, automated pre-orders and restock alerts, variant-level campaigns, full and partial payments, customisable buttons, forms and emails, and 24/7 support. Lite is $4.95 a month for 100 pre-orders and 1,000 notifications, and adds translations, a pre-order confirmation email sent from your own domain, scheduled pre-order campaigns, the Omnisend and Shopify Flow integrations and premium support. Starter is $8.95 a month for 300 pre-orders and 2,500 notifications, and adds campaigns limited to specific markets and mixed-cart validation, with all features included. Essentials is $24.95 a month for 500 pre-orders and 10,000 notifications, with priority support. Past the allowance each paid plan charges per use: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials, and $1.00 per 100 extra notifications on all three. The Essentials card adds that unlimited volume is available on a Professional plan at $59 a month. Paid plans carry a 14-day free trial. The listing does not say what happens on the free plan past 25 pre-orders. All charges are in USD; recurring and usage charges are billed through Shopify every 30 days. Developer Essential Apps, with an address in Vilnius, Lithuania; the listing gives a launch date of 22 November 2024 and shows 1,291 reviews, eleven of them at three stars or lower.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/essential-preorder and in our own test that day; earlier: read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock notifications a month. Free covers 25 pre-orders and 300 back-in-stock notifications a month, with unlimited Notify me sign-ups, automated pre-orders and restock alerts, variant-level campaigns, full and partial payments, customisable buttons, forms and emails, and 24/7 support. Lite is $4.95 a month for 100 pre-orders and 1,000 notifications, and adds translations, a pre-order confirmation email sent from your own domain, scheduled pre-order campaigns, the Omnisend and Shopify Flow integrations and premium support. Starter is $8.95 a month for 300 pre-orders and 2,500 notifications, and adds campaigns limited to specific markets and mixed-cart validation, with all features included. Essentials is $24.95 a month for 500 pre-orders and 10,000 notifications, with priority support. Past the allowance each paid plan charges per use: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials, and $1.00 per 100 extra notifications on all three. The Essentials card adds that unlimited volume is available on a Professional plan at $59 a month. Paid plans carry a 14-day free trial. The listing does not say what happens on the free plan past 25 pre-orders. All charges are in USD; recurring and usage charges are billed through Shopify every 30 days. Developer Essential Apps, with an address in Vilnius, Lithuania; the listing gives a launch date of 22 November 2024 and shows 1,291 reviews, eleven of them at three stars or lower. Read again on 17 November 2026: the listing (the Shopify admin lists the app as Essential Preorder) still shows the Free plan and the three paid plans at the amounts and allowances above, with the $59 Professional plan named on the Essentials card, and now carries 1,399 reviews at 5.0. In our own test the same day on a Shopify development store the app started without a plan choice and without asking for payment, but its plan screen showed no Free card, so we could not find the listing's free allowances of 25 preorders and 300 notifications anywhere in the app. The plan screen showed Lite, Starter, Essentials and Professional with a 30% discount on the first month: Lite $3.47 for the first month and then $4.95, Starter $6.27 then $8.95, Essentials $17.47 then $24.95 and Professional $41.30 then $59, each with a 14 day free trial and a 30 day money back guarantee, and the same allowances as the listing, with Professional unlimited and mixed cart validation from Starter. The first month discount is a temporary offer on the app's screen and is not on the listing, so we do not count it as the price. Shopify's approval screen for Lite read $4.95 every 30 days with $3.47 due for the first period, a 14 day trial ending 1 December and an app spending limit of $500 per 30 days; it listed an Add payment method row and did not carry the line saying the charge would not be billed, so we did not approve it.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -2600,7 +2625,7 @@
      "evidence_excerpt": "Each paid plan has a monthly allowance and then charges per use: on Lite, the 101st pre-order in a month costs $0.25, and so does every one after it, so a drop that sells 300 pre-orders on Lite costs…",
      "source_url": "https://apps.shopify.com/essential-pre-order",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -2608,12 +2633,12 @@
      "evidence_excerpt": "Free covers 25 pre-orders and 300 back-in-stock notifications a month, with unlimited Notify me sign-ups, automated pre-orders and restock alerts, variant-level campaigns, full and partial payments, …",
      "source_url": "https://apps.shopify.com/essential-pre-order",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
-   "first_observed_at": "2026-10-04"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Essential Announcement Bar",
@@ -3503,14 +3528,14 @@
    "domain": "effectify.io",
    "review_url": "https://aibuildermarketplace.com/b2b/imgify-review/",
    "from_price_usd_mo": null,
-   "entry_price": "$2.99",
-   "entry_price_terms": "a month, or $28.70 a year, 7-day trial",
+   "entry_price": "$4.99",
+   "entry_price_terms": "a month, or $29.94 a year, 7-day trial",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-09-20 on apps.shopify.com/custom-falling-effect; re-verified 2026-10-20 on the same listing, unchanged) Billed in USD, with recurring charges billed every 30 days. There are two plans and the cheaper one is almost certainly not for you: the Development plan is free, includes every feature, and the listing states its limit plainly — development and partner stores only, with billing activated on upgrade. A live shop is therefore on the paid plan from day one. Monthly Plan is $2.99 a month, or $28.70 a year with the annual saving the listing puts at 20%, and it carries the falling effect, the AI logo maker, custom image upload, appearance and density controls, the marquee logo slider, dozens of holiday presets, support for all themes and live chat support. A 7-day free trial applies to the paid plan. Effective Apps' own site, effectify.io, publishes no pricing page at all — /pricing and /apps both return 404, checked the same day, and the home page carries no prices — so unlike most Shopify apps there is no upper half of the ladder hiding on a vendor site. What the listing shows is the whole price record.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/custom-falling-effect and in our own test the same day; earlier reads 2026-09-20 and 2026-10-20 on the same listing, when the monthly plan was $2.99) Billed in USD, with recurring charges billed every 30 days. The listing shows two plans. The Development Stores plan is free, includes every feature, and the listing states its limit plainly: development and partner stores only, with payment activated on upgrade. Monthly Plan is $4.99 a month, or $29.94 a year with a saving the listing now puts at 50%, with a 7 day free trial, and the listing's feature list carries the falling effect, the AI Logo Maker, custom image upload, page choice, speed, size and density controls, the Logo Slider marquee carousel, dozens of holiday presets, support for all themes and live chat support. The price rose between our 20 October and 17 November 2026 readings: the monthly plan was $2.99 and the yearly plan $28.70 until then. In our own test on a Shopify development store the app did not offer the free plan: it opened on a plan screen with the Yearly Plan at $2.50 a month billed annually, marked “SALE: Save 50%”, and the Monthly Plan at $4.99 a month, with a note that each store gets at most 7 trial days altogether, and its settings stayed locked until a plan was approved. The in app plan cards list the falling effect, own image upload, design, placement, all themes and live chat, and do not mention the AI Logo Maker or the Logo Slider that the listing lists. Shopify's approval screen for the Monthly Plan showed $4.99 every 30 days after a 7 day trial ending 24 November, with an Add payment method row and Approve greyed out until a method is added; we added none, so we did not approve it. Effective Apps' own site, effectify.io, publishes no pricing page at all — /pricing and /apps both return 404, checked on 20 September 2026, and the home page carries no prices — so unlike most Shopify apps there is no upper half of the ladder hiding on a vendor site. What the listing shows is the whole price record.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-20",
-   "first_observed_at": "2026-09-20"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "InboxAlly",
@@ -3902,7 +3927,7 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Basic · per month for stores on Shopify's Basic plan, or $95.88 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-03 on apps.shopify.com/upsell-koala-gift and in the vendor's billing articles at koala-gift.crisp.help) Priced on the store's Shopify plan, not on use: the four plans carry the names of Shopify's own plans and the listing gives each the same feature list. Basic is $9.99 a month or $95.88 a year, Shopify $29.99 or $287.88, Advanced $49.99 or $479.88, and Shopify Plus $99.99 or $959.88. The listing says the yearly price saves 20%; a help article dated July 2025 says up to 50%, and the listing is the page you are billed from. Every plan has a 14-day free trial and is free for development stores. The help centre says there are no usage limits: unlimited orders and revenue at an unchanged price. Owners of several stores can ask support for special pricing. All charges are in USD, billed through Shopify every 30 days. Developer ProfitKoala, with an address in Vilnius, Lithuania; the listing gives a launch date of 9 October 2024 and shows 383 reviews, six of them at three stars or lower.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/upsell-koala-gift and in our own test that day; earlier: read 2026-10-03 on apps.shopify.com/upsell-koala-gift and in the vendor's billing articles at koala-gift.crisp.help) Priced on the store's Shopify plan, not on use: the four plans carry the names of Shopify's own plans and the listing gives each the same feature list. Basic is $9.99 a month or $95.88 a year, Shopify $29.99 or $287.88, Advanced $49.99 or $479.88, and Shopify Plus $99.99 or $959.88. The listing says the yearly price saves 20%; a help article dated July 2025 says up to 50%, and the listing is the page you are billed from. Every plan has a 14-day free trial and, according to the listing, is free for development stores (our own test of 17 November 2026, below, found no free plan in the app). The help centre says there are no usage limits: unlimited orders and revenue at an unchanged price. Owners of several stores can ask support for special pricing. All charges are in USD, billed through Shopify every 30 days. Developer ProfitKoala, with an address in Vilnius, Lithuania; the listing gives a launch date of 9 October 2024 and shows 383 reviews, six of them at three stars or lower. Read again on 17 November 2026: the listing is titled Koala Upsell Free Gift & BOGO, still shows the four plans and their monthly and yearly amounts unchanged, repeats “Free for development stores” on every plan card and carries 396 reviews at 5.0 (383 on our first reading). In our own test the same day on a Shopify development store (the app calls itself Koala Upsells & Gifts in the admin) the app opened on a plan screen with only Basic Monthly and Basic Annual, the price following the store's Shopify plan, and no free plan to pick. Basic Monthly showed $19.99 struck through next to $9.99 a month, with a “Save up to 50%” badge and a 14 day free trial; Basic Annual showed $19.99 struck through next to $7.99 a month billed yearly, which is the listing's $95.88 a year, with a “Save up to 60%” badge. The struck through $19.99 is not on the listing. Shopify's approval screen for Basic Monthly read $9.99 every 30 days after a 14 day trial ending 1 December, with a $10.00 discount line and the words “You will not be billed for this test charge”; it also showed an Add payment method row, which we left empty, and Approve worked without a card. So on a development store “free for development stores” meant approving a Shopify test charge that is not billed, not a free tier inside the app.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -3910,12 +3935,12 @@
      "evidence_excerpt": "A US merchant who paid $599 a year for another ProfitKoala app objected in November 2025 to needing a separate subscription for BOGO offers, and a merchant in Ecuador noted in April 2025 that the app…",
      "source_url": "https://apps.shopify.com/upsell-koala-gift",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-03"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-03",
-   "first_observed_at": "2026-10-03"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Koongo",
@@ -4035,6 +4060,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-11-17"
+  },
+  {
+   "name": "Langwill",
+   "category": "E-commerce",
+   "domain": "langwill.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/langwill-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "Starter · per month for 30,000 words and 10 languages",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-18 on the Shopify App Store listing, US dollars, billed every 30 days) Free: 5,000 words, 1 translated language, 153 currencies, multilingual SEO. Starter: $9.99 a month, 30,000 words a month, 10 languages, glossary, automatic currency switching. Growth: $19.99 a month, 80,000 words a month, 20 languages, auto-translate, image translation. Premium: $49.99 a month, 300,000 words a month, 20 languages, GPT-4 translation, extra words $9.99 per 30,000. Paid plans list a 3-day free trial. We have not paid for a plan.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-18 on the Shopify App Store listing, US dollars, billed every 30 days) Free: 5,000 words, 1 translated language, 153 currencies, multilingual SEO.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/localiser",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-18"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Later",
@@ -4436,7 +4485,7 @@
    "entry_price": "$9",
    "entry_price_terms": "per month (75 credits/mo)",
    "pricing_status": "public",
-   "price_note": "(read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a new store; then Starter $9, Growth $29, Pro $79 and Scale $199 a month, with annual billing taking 15% off. The Shopify listing publishes only the free plan and carries no dollar amount at all — it links out to this page with “See all pricing options”, so the App Store card is half the ladder.\n\nRead the plans in credits rather than images, because that is what you actually buy: the monthly allowances are 75, 300, 1,000 and 2,500 credits, refreshed monthly, and an image costs 1 credit at standard quality or 2 at the highest. So Starter's 75 credits is 75 standard images a month, or 37 at the better setting. Unused monthly credits do not appear to roll over — the page says refreshed monthly and says nothing about carrying them forward.\n\nOne-off credit packs sit alongside the plans and do carry a stated life: 25 credits for $22, 100 for $82, 300 for $234 and 1,000 for $749, valid for 12 months. Two things in the buyer's favour that the page states outright: technical failures and image-safety refusals do not consume credits, and the restore-point retention rises with the tier — 30, 90, 180 and 365 days. Prices are in USD and billed through Shopify, which shows the final amount before you approve it.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/lumencart and in our own test that day; earlier: read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a new store; then Starter $9, Growth $29, Pro $79 and Scale $199 a month, with annual billing taking 15% off. The Shopify listing publishes only the free plan and carries no dollar amount at all — it links out to this page with “See all pricing options”, so the App Store card is half the ladder.\n\nRead the plans in credits rather than images, because that is what you actually buy: the monthly allowances are 75, 300, 1,000 and 2,500 credits, refreshed monthly, and an image costs 1 credit at standard quality or 2 at the highest. So Starter's 75 credits is 75 standard images a month, or 37 at the better setting. Unused monthly credits do not appear to roll over — the page says refreshed monthly and says nothing about carrying them forward.\n\nOne-off credit packs sit alongside the plans and do carry a stated life: 25 credits for $22, 100 for $82, 300 for $234 and 1,000 for $749, valid for 12 months. Two things in the buyer's favour that the page states outright: technical failures and image-safety refusals do not consume credits, and the restore-point retention rises with the tier — 30, 90, 180 and 365 days. Prices are in USD and billed through Shopify, which shows the final amount before you approve it. Read again on 17 November 2026: the Shopify listing still prints only the Free plan (25 lifetime image generations, private previews before publishing, product search and multi image selection) and no dollar amount, and now shows one review, five stars, dated 6 September 2026, where our earlier readings found none. In our own test the same day on a Shopify development store the app opened on its overview with the Free plan active, no card and no plan choice, and 24 of 25 credits left after one studio image. The app's plan screen listed Free, Starter $9, Growth $29, Pro $79 and Scale $199 a month, with a 15% annual saving, matching the vendor's page. But when we chose Starter, Shopify's plan screen offered only a Free plan, marked free to test on this store with regular pricing applying when the store goes live, so the paid plans could not be selected on a development store and we saw no approval screen for them.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4444,28 +4493,28 @@
      "evidence_excerpt": "Read the plans in credits rather than images, because that is what you actually buy: the monthly allowances are 75, 300, 1,000 and 2,500 credits, refreshed monthly, and an image costs 1 credit at sta…",
      "source_url": "https://lumencart.fleeta.co.uk/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-11"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "annual_lock",
-     "evidence": "(read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a new store; then Starter $9, Growth $29, Pro $79 and Scale $199 a month, with annual billing taking 15% off.",
-     "evidence_excerpt": "(read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a n…",
+     "evidence": "(read 2026-11-17 on apps.shopify.com/lumencart and in our own test that day; earlier: read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a new store; then Starter $9, Growth $29, Pro $79 and Scale $199 a month, with annual billing taking 15% off.",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/lumencart and in our own test that day; earlier: read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing pag…",
      "source_url": "https://lumencart.fleeta.co.uk/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-11"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a new store; then Starter $9, Growth $29, Pro $79 and Scale $199 a month, with annual billing taking 15% off.",
-     "evidence_excerpt": "(read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a n…",
+     "evidence": "(read 2026-11-17 on apps.shopify.com/lumencart and in our own test that day; earlier: read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing page, lumencart.fleeta.co.uk/pricing) Free $0 with 25 lifetime image generations for a new store; then Starter $9, Growth $29, Pro $79 and Scale $199 a month, with annual billing taking 15% off.",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/lumencart and in our own test that day; earlier: read 22 September 2026 and re-read unchanged on 27 September and 11 November 2026 on the vendor's own pricing pag…",
      "source_url": "https://lumencart.fleeta.co.uk/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-11"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-11",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Lusha",
@@ -4508,20 +4557,20 @@
    "entry_price": "$9",
    "entry_price_terms": "10,000 credits · per one-time, 10,000 credits $9",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire. A new account gets 1,000 free credits. Packs cost $9 for 10,000 credits, $19 for 25,000, $39 for 50,000 (shown with a 20% bonus, 60,000 credits in total), $59 for 100,000, $119 for 250,000, $199 for 500,000, $299 for 1,000,000, $599 for 2,500,000 and $999 for 5,000,000. Above 5 million credits the page points to custom enterprise pricing. Every pack includes the same features: syntax, domain and SMTP checks, disposable, role-based, catch-all and full-inbox detection, file upload of up to 1 million rows, a REST API and MCP server, webhooks and a 7-status report. The page compares its prices with other verifiers, and those figures are the vendor’s own. We did not buy credits, so we do not know the tax added or the refund terms.",
+   "price_note": "(read 2026-11-18 on mailveri.com and its pricing page and in our own test that day; earlier: read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire. A new account gets 1,000 free credits. Packs cost $9 for 10,000 credits, $19 for 25,000, $39 for 50,000 (shown with a 20% bonus, 60,000 credits in total), $59 for 100,000, $119 for 250,000, $199 for 500,000, $299 for 1,000,000, $599 for 2,500,000 and $999 for 5,000,000. Above 5 million credits the page points to custom enterprise pricing. Every pack includes the same features: syntax, domain and SMTP checks, disposable, role-based, catch-all and full-inbox detection, file upload (the site says up to 1 million rows and 100 MB per file; the app's own upload screen in our test on 18 November 2026 said a maximum of 100,000 emails per list and 10 MB, so check the limit before you plan a one million row clean), a REST API and MCP server, webhooks and a 7-status report. The page compares its prices with other verifiers, and those figures are the vendor’s own. We did not buy credits, so we do not know the tax added or the refund terms. Read again on 18 November 2026: the pack prices and the 1,000 free credits are unchanged on the site and on the app's Buy Credits screen (nine packs from $9 for 10,000 credits to $999 for 5,000,000, with 60,000 credits in the $39 pack). The homepage and its FAQ still say files of up to 1,000,000 rows and 100 MB, and up to 1,000,000 emails per list. In our own test the same day the app's Upload Files screen said Maximum emails per list: 100,000 and Maximum file size is 10 MB. We did not upload anything larger, so we cannot say which limit is enforced. A test file of 20 invented addresses came back from the upload as 16 unique emails, with 4 rows without a valid email skipped. Verification took about 19 seconds and used 16 credits (1,000 down to 984); the results were 13 invalid and 3 disposable and none deliverable, risky, role account, catch all, full inbox or unknown, so those categories were not exercised. Lists are deleted automatically after 30 days.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-18 on mailveri.com and its pricing page and in our own test that day; earlier: read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire.",
+     "evidence_excerpt": "(read 2026-11-18 on mailveri.com and its pricing page and in our own test that day; earlier: read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no sub…",
      "source_url": "https://mailveri.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-13"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-13",
-   "first_observed_at": "2026-11-13"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "ManyChat",
@@ -4740,11 +4789,11 @@
    "entry_price": "$4.99",
    "entry_price_terms": "Monthly Plan · per month for the whole app, with no usage tier above it",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-16 and 2026-10-03, re-read 2026-11-13 on apps.shopify.com/custom-background-music; the price rose between the October and November readings) Two plans, and the free one is not for you. Development Stores is free with unlimited access to every feature, but the listing restricts it to development and partner stores and says payment is activated on upgrade. A live store runs on the Monthly Plan: $4.99 a month, or $29.94 a year paid up front, which the listing labels a 50% saving (it was $2.99 and $25.12 on 16 September and 3 October 2026). Both are billed in USD every 30 days, and the paid plan opens with a 7-day free trial. The pricing block lists nothing above the Monthly Plan — no traffic tier, no play-count tier, no second paid step — so $4.99 is the whole app whether the storefront sees ten visitors a day or ten thousand.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/custom-background-music and in our own test that day; earlier: read 2026-09-16 and 2026-10-03, re-read 2026-11-13 on apps.shopify.com/custom-background-music; the price rose between the October and November readings) Two plans, and the free one is not for you. Development Stores is free with unlimited access to every feature, but the listing restricts it to development and partner stores and says payment is activated on upgrade. A live store runs on the Monthly Plan: $4.99 a month, or $29.94 a year paid up front, which the listing labels a 50% saving (it was $2.99 and $25.12 on 16 September and 3 October 2026). Both are billed in USD every 30 days, and the paid plan opens with a 7-day free trial. The pricing block lists nothing above the Monthly Plan — no traffic tier, no play-count tier, no second paid step — so $4.99 is the whole app whether the storefront sees ten visitors a day or ten thousand. Read again on 17 November 2026: the listing still shows the Development Stores plan and the Monthly Plan at $4.99 a month or $29.94 a year with a 7 day trial, now at 4.8 from 70 reviews. In our own test the same day on a Shopify development store the app did not offer the Development Stores plan: it opened on “Pick your plan to start a 7 days free trial”, with a Yearly Plan at $2.50 a month billed annually, marked “SALE: Save 50%”, and a Monthly Plan that the app labelled $0.00 a month. Shopify's approval screen for the Monthly Plan showed $4.99 every 30 days after a 7 day trial ending 24 November, and the annual plan $29.94 every year, each with an Add payment method row and no line saying the charge would not be billed. So the $0.00 on the app's card is not what Shopify charges, and we did not approve either plan. The app notes that each store gets at most 7 trial days altogether.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-13",
-   "first_observed_at": "2026-09-16"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "My Stories",
@@ -4826,7 +4875,7 @@
    "entry_price": "$9",
    "entry_price_terms": "Pro · per month, or $99 a year",
    "pricing_status": "public",
-   "price_note": "(read 14 September 2026 and re-read unchanged on 3 October 2026 on apps.shopify.com/nexis-cro-ai-seo-aeo-audit) Free, then Pro $9 a month or $99 a year, Growth $21 or $121, and Agency $44 or $344. All charges are in USD and recur every 30 days, and the paid tiers carry a 2-day free trial — short for judging a tool whose whole promise is a change in how AI engines see you. The meter is AI credits: Free gives 5 a month and a single audit, Pro 100 with unlimited audits and history, Growth 300, Agency 500. Read Agency's “500 AI credits (unlimited usage)” against that number rather than past it: the credits are the ceiling. The yearly discounts the vendor advertises do hold up when you check them — 8% on Pro, 52% on Growth, 35% on Agency. Re-read on 28 October 2026 with a plain fetch: the Shopify listing is unchanged (Free; Pro $9 or $99 a year; Growth $21 or $121; Agency $44 or $344; 2-day trial on paid plans; charges in USD every 30 days) and still shows no reviews. nexiscro.com repeats those prices and states Agency as $29 a month billed yearly. Its llms.txt file, which AI assistants read, still lists Pro $29, Growth $59 and Agency $149; billing runs through Shopify, so the plan card on the approval screen is the number to check. The site's comparison table fills in the meters: AI Rank Tracker checks per 30 days are 5 on Free (1 prompt), 150 on Pro (5 prompts), 1,200 on Growth (20 prompts) and 5,000 on Agency (50 prompts); the AI FAQ Generator covers 3 products on Free, 50 on Pro and unlimited above; a Deep Scan audit costs up to 2 credits and a Full Report 3.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/nexis-cro-ai-seo-aeo-audit and in our own test that day; earlier: read 14 September 2026 and re-read unchanged on 3 October 2026 on apps.shopify.com/nexis-cro-ai-seo-aeo-audit) Free, then Pro $9 a month or $99 a year, Growth $21 or $121, and Agency $44 or $344. All charges are in USD and recur every 30 days, and the paid tiers carry a 2-day free trial — short for judging a tool whose whole promise is a change in how AI engines see you. The meter is AI credits: Free gives 5 a month and a single audit, Pro 100 with unlimited audits and history, Growth 300, Agency 500. Read Agency's “500 AI credits (unlimited usage)” against that number rather than past it: the credits are the ceiling. The yearly discounts the vendor advertises do hold up when you check them — 8% on Pro, 52% on Growth, 35% on Agency. Re-read on 28 October 2026 with a plain fetch: the Shopify listing is unchanged (Free; Pro $9 or $99 a year; Growth $21 or $121; Agency $44 or $344; 2-day trial on paid plans; charges in USD every 30 days) and still shows no reviews. nexiscro.com repeats those prices and states Agency as $29 a month billed yearly. Its llms.txt file, which AI assistants read, still lists Pro $29, Growth $59 and Agency $149; billing runs through Shopify, so the plan card on the approval screen is the number to check. The site's comparison table fills in the meters: AI Rank Tracker checks per 30 days are 5 on Free (1 prompt), 150 on Pro (5 prompts), 1,200 on Growth (20 prompts) and 5,000 on Agency (50 prompts); the AI FAQ Generator covers 3 products on Free, 50 on Pro and unlimited above; a Deep Scan audit costs up to 2 credits and a Full Report 3. Read again on 17 November 2026: the listing is unchanged (Free; Pro $9 or $99 a year; Growth $21 or $121; Agency $44 or $344; a 2 day trial on the paid plans) and still shows no reviews. In our own test the same day on a Shopify development store, Shopify's plan screen offered only the Free plan, marked free to test on this store, with 5 AI credits and 1 audit a month, and showed Pro, Growth and Agency as not available while the store is in development, at the same amounts as the listing. We saw no approval screen for a paid plan. The free audit finished in about ten seconds and gave a store score plus a product readiness score of 32 out of 100 across 20 products; the AI description optimiser asked for Pro. We saw no separate JSON-LD or llms.txt check in the free audit, only a schema completeness sub score on each product, and we did not test the AI Rank Tracker or the deployment of schema or llms.txt.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4834,7 +4883,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/nexis-cro-ai-seo-aeo-audit",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-28"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -4842,12 +4891,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/nexis-cro-ai-seo-aeo-audit",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-28"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-28",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Nextify.ai",
@@ -5996,17 +6045,17 @@
    "review_url": "https://aibuildermarketplace.com/b2b/pushowl-review/",
    "from_price_usd_mo": 19.0,
    "entry_price": "$19",
-   "entry_price_terms": "per month for 10,000 web push messages",
+   "entry_price_terms": "per month ($180/yr) for 10,000 web push messages",
    "pricing_status": "public",
-   "price_note": "(prices read 2026-08-17 in a browser and re-read unchanged on 2026-10-04 on pushowl.com/pricing, with both billing toggles) This is priced per channel and then added up, which is the part worth understanding before you compare it with anything. Each bundle sets a separate rate for email, web push and SMS, and the monthly figure is their sum. Basic is $0 and covers 500 emails and 500 web push notifications a month with no SMS credits. Plus is $19/month for 10,000 web push (10,000-30,000 band) and adds abandoned-cart automation. Power is $79/month for 25,000 up to unlimited web push, with flash-sale and browse-abandonment triggers, segmentation and custom attribution windows. Yearly billing is advertised at 10% off, and 20% on the web push side of Plus: billed yearly, Plus shows $15 a month and Power $71, with email still $0 for 500 sends and SMS still zero credits in every bundle. It is Shopify-only.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/pushowl and in our own test that day; earlier: prices read 2026-08-17 in a browser and re-read unchanged on 2026-10-04 on pushowl.com/pricing, with both billing toggles) This is priced per channel and then added up, which is the part worth understanding before you compare it with anything. Each bundle sets a separate rate for email, web push and SMS, and the monthly figure is their sum. Basic is $0 and covers 500 emails and 500 web push notifications a month with no SMS credits. Plus is $19/month for 10,000 web push (10,000-30,000 band) and adds abandoned-cart automation. Power is $79/month for 25,000 up to unlimited web push, with flash-sale and browse-abandonment triggers, segmentation and custom attribution windows. Yearly billing is advertised at 10% off, and 20% on the web push side of Plus: billed yearly, Plus shows $15 a month and Power $71, with email at 500 sends on Basic and SMS at zero credits in every bundle as read on 4 October 2026 (on 17 November 2026 the app showed 1,000 emails on Plus and 1,500 on Power). It is Shopify-only. Read again on 17 November 2026: the Shopify listing, now titled Brevo PushOwl: Email, Push, SMS with Brevo PushOwl as the developer, shows the Basic Bundle free (500 web push notifications a month, emails from 500, unlimited subscribers), the Plus Bundle at $19 a month or $180 a year ($15 a month) and the Power Bundle at $79 a month or $852 a year ($71 a month), at 4.8 from 2,322 reviews. The Plus card now gives emails from 1,000 a month. In our own test the same day on a Shopify development store the dashboard pricing page showed the Basic Bundle as the current plan at $0.00 with 0 of 500 web push impressions and 0 of 500 email credits used, Plus at $19.00 with 10,000 push and 1,000 emails, Power at $79.00 with 25,000 push and 1,500 emails, and no SMS credits on any plan, with a Buy credits button. Abandoned cart recovery was marked as available on the Plus bundle and browse abandonment on the Power bundle. Selecting Plus opened Shopify's approval screen: $19.00 every 30 days, with an Add payment method row and no line saying the charge would not be billed, so we did not approve it.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits, and consumption-based pricing gets harder to predict as your sends climb.",
-     "evidence_excerpt": "The bundles are push-first: every paid tier still caps included email at 500 a month, so 'omnichannel' email at any real volume means buying separate credits, and consumption-based pricing gets harde…",
+     "evidence": "In our own test the same day on a Shopify development store the dashboard pricing page showed the Basic Bundle as the current plan at $0.00 with 0 of 500 web push impressions and 0 of 500 email credits used, Plus at $19.00 with 10,000 push and 1,000 emails, Power at $79.00 with 25,000 push and 1,500 emails, and no SMS credits on any plan, with a Buy credits button.",
+     "evidence_excerpt": "In our own test the same day on a Shopify development store the dashboard pricing page showed the Basic Bundle as the current plan at $0.00 with 0 of 500 web push impressions and 0 of 500 email credi…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -6014,12 +6063,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-04"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-04",
-   "first_observed_at": "2026-08-17"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Pythago",
@@ -6625,9 +6674,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/salestarget-ai-review/",
    "from_price_usd_mo": 30.0,
    "entry_price": "$30",
-   "entry_price_terms": "Email Outreach Growth · per month for 10,000 emails, email module only, 1 user",
+   "entry_price_terms": "Email Outreach Growth · per month for 10,000 emails, email module only, 1 user, warmup…",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed. Re-verified 2026-11-12 on the All In One tab and the plan comparison table) Sold either as one bundle or module by module. All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Scale $319 (100,000 emails, 4,500 credits, 2 LinkedIn accounts, 500 AI credits, 3 users, warm-up for 20 accounts), Ultimate $639 (500,000 emails, 7,000 credits, 3 LinkedIn accounts, 1,000 AI credits, 5 users, warm-up for 50 accounts, 3 client workspaces and a one-time $300 wallet credit), Enterprise on request. Lead Explorer on its own: Launch Credit $49 for 2,000 credits a month (1 user), Builder Credit $99 for 4,500 (3 users), Expansion Credit $149 for 7,000 (5 users). Email Outreach on its own: Growth $30 for 10,000 emails a month (1 user, 30,000 contacts stored), Hypergrowth $79 for 100,000 (3 users), Light Speed $299 for 500,000 (5 users) with a one-time $200 wallet credit; new customers get 30% off the first month on any monthly Email Outreach plan. CRM $40 a month with 3 users included and $20 per extra user; Dialer $29 a month with one number and 400 credits, extra numbers $3 local or $5 toll-free. Add-ons on the plans: extra LinkedIn accounts $49 each a month, extra warm-up slots $2 per email account, client workspaces $29, extra AI credits $10 per 400, extra users $20. A 'Customize Yourself' builder prices each part with sliders. The yearly toggle says 'Save 10%' on All In One and 'Save 15%' on Email Outreach; we did not re-read the yearly prices on 28 October. The wallet credits can only be spent on domains bought inside SalesTarget, not on email accounts, and are non-refundable. Free trial: the pricing FAQ says 50 Lead Explorer credits and no credit card. A banner reading 'Subscribe Today & Get $200 or $300 Domain Credit, Limited Time Only!' runs across the top of the page. Payment is by credit card. Salestarget LLC, with an address in Wilmington, Delaware. On 12 November 2026 the All In One amounts were unchanged ($169, $319, $639), and each plan carries an email-volume menu: Growth $169 for 10,000 emails or $199 for 50,000; Scale $319 for 100,000, $389 for 250,000 or $459 for 400,000; Ultimate from $639 for 500,000 up to $2,339 for 5,000,000. The comparison table shows that Growth has no extra-user option, no API or webhooks, no integrations (HubSpot, Salesforce, Zapier, Slack, Calendly, Google Calendar, Zoom) and no MCP server; all of those start on Scale. The Customize builder now prices connected LinkedIn accounts at $49 each for 1 to 15, $39 for 16 to 50 and $29 above 50. The Lead Explorer and Email Outreach tabs did not load without JavaScript on that date, so their prices were not re-read.",
+   "price_note": "(read 2026-11-18 on salestarget.ai/pricing and in our own test that day; earlier: re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed. Re-verified 2026-11-12 on the All In One tab and the plan comparison table) Sold either as one bundle or module by module. All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Scale $319 (100,000 emails, 4,500 credits, 2 LinkedIn accounts, 500 AI credits, 3 users, warm-up for 20 accounts), Ultimate $639 (500,000 emails, 7,000 credits, 3 LinkedIn accounts, 1,000 AI credits, 5 users, warm-up for 50 accounts, 3 client workspaces and a one-time $300 wallet credit), Enterprise on request. Lead Explorer on its own: Launch Credit $49 for 2,000 credits a month (1 user), Builder Credit $99 for 4,500 (3 users), Expansion Credit $149 for 7,000 (5 users). Email Outreach on its own: Growth $30 for 10,000 emails a month (1 user, 30,000 contacts stored), Hypergrowth $79 for 100,000 (3 users), Light Speed $299 for 500,000 (5 users) with a one-time $200 wallet credit; new customers get 30% off the first month on any monthly Email Outreach plan. CRM $40 a month with 3 users included and $20 per extra user; Dialer $29 a month with one number and 400 credits, extra numbers $3 local or $5 toll-free. Add-ons on the plans: extra LinkedIn accounts $49 each a month, extra warm-up slots $2 per email account, client workspaces $29, extra AI credits $10 per 400, extra users $20. A 'Customize Yourself' builder prices each part with sliders. The yearly toggle says 'Save 10%' on All In One and 'Save 15%' on Email Outreach; we did not re-read the yearly prices on 28 October. The wallet credits can only be spent on domains bought inside SalesTarget, not on email accounts, and are non-refundable. Free trial: the pricing FAQ says 50 Lead Explorer credits and no credit card. A banner reading 'Subscribe Today & Get $200 or $300 Domain Credit, Limited Time Only!' runs across the top of the page. Payment is by credit card. Salestarget LLC, with an address in Wilmington, Delaware. On 12 November 2026 the All In One amounts were unchanged ($169, $319, $639), and each plan carries an email-volume menu: Growth $169 for 10,000 emails or $199 for 50,000; Scale $319 for 100,000, $389 for 250,000 or $459 for 400,000; Ultimate from $639 for 500,000 up to $2,339 for 5,000,000. The comparison table shows that Growth has no extra-user option, no API or webhooks, no integrations (HubSpot, Salesforce, Zapier, Slack, Calendly, Google Calendar, Zoom) and no MCP server; all of those start on Scale. The Customize builder now prices connected LinkedIn accounts at $49 each for 1 to 15, $39 for 16 to 50 and $29 above 50. The Lead Explorer and Email Outreach tabs did not load without JavaScript on that date, so their prices were not re-read. Read again on 18 November 2026 with a plain fetch: the All In One amounts were unchanged ($169, $319, $639), as were the email volume menus, the 4,500 credits and 3 users on Scale and the banner across the top offering a $200 or $300 domain credit. The Email Outreach tab needs JavaScript and did not load that way, so its cards were not re read; the plan comparison table on the same page lists warmup for 5 email accounts at a time on Growth, 20 on Hypergrowth and 50 on Light Speed, with extra warmup slots at $2 per email account a month on all three, and it states no number of email accounts you can connect. Our reading of 28 October 2026 took the Email Outreach card to mean unlimited email accounts with warmup included; that wording is not on the page now. In our own test the same day, on the Pricing screen inside the app, the Email Outreach Growth card at $30 a month (10,000 emails, 30,000 contacts stored, 1 user, 100 AI credits) read Unlimited email accounts but Email warmup for 5 email accounts, and the add ons listed Extra warmup slots at +$2 / email account / month. So connecting more mailboxes cost nothing extra on the screen we saw, but warming up more than 5 of them does, at $2 each a month. The Hypergrowth ($79) and Light Speed ($299) cards matched the amounts above, the app showed 30% off the first month for new Email Outreach customers and the yearly toggle read Save 15% on Email Outreach and Save 10% on All In One. We did not click Buy Now, and Settings, Subscription showed no active subscription.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -6635,7 +6684,7 @@
      "evidence_excerpt": "All In One, the default tab with a 'Super Saver' badge: Growth $169 a month (10,000 emails, 2,000 Lead Explorer credits, 1 LinkedIn account, 100 AI credits, 1 user, warm-up for 5 email accounts), Sca…",
      "source_url": "https://salestarget.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-18"
     },
     {
      "flag": "addons_extra",
@@ -6643,12 +6692,12 @@
      "evidence_excerpt": null,
      "source_url": "https://salestarget.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-12",
-   "first_observed_at": "2026-10-28"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Scarcity.AI",
@@ -6738,28 +6787,28 @@
    "entry_price": "$9",
    "entry_price_terms": "Starter · per month for 25 credits and access to the full section library, billed…",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation. Starter $9 a month: 25 credits, all sections accessible, AI section generation, email support. Pro $19 a month: 55 credits, all sections, priority support. Business $29 a month: 90 credits, all sections, priority support. All charges are billed in USD and recur every 30 days, and the listing shows no free trial on the paid tiers — the free plan is the trial. One thing the pricing table still never states is what a credit actually buys. Whether one credit is one AI generation, one section added to a theme, or something else is defined nowhere on the listing — and the credit count is the only thing separating the four plans. The old site, sectionlibrary.com, answered HTTP 402 with Shopify’s “Store unavailable” page on 17 September, 5 October and 12 November 2026. The product now has a page at optifyapps.com/mason (read 12 November 2026), which says Section Library is now Mason: the same app from the same team, repositioned as an AI page builder that generates full pages and custom sections from a prompt on top of the section library. That page repeats the free plan (8 AI credits a month) and paid plans from $9, and it does not define a credit either. Developer Optify, 16 Rue Cuvier, Lyon, France; the app launched 10 October 2023. It still carries a 5.0 rating from exactly one App Store review, left in October 2023 by a merchant who had the app installed for four minutes; still the only review on 12 November 2026.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/mason and in our own test that day; earlier: re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation. Starter $9 a month: 25 credits, all sections accessible, AI section generation, email support. Pro $19 a month: 55 credits, all sections, priority support. Business $29 a month: 90 credits, all sections, priority support. All charges are billed in USD and recur every 30 days, and the listing shows no free trial on the paid tiers — the free plan is the trial. The pricing table on the listing still never states what a credit buys: whether one credit is one AI generation, one section added to a theme, or something else is defined nowhere on it, and the credit count is the only thing separating the four plans. The app itself does say, on its home screen and plans page (our own test of 17 November 2026): a full AI page costs 5 credits, an AI section 1 credit, an AI edit 0.5 credits, and a library section costs 5 credits once, after which reinstalling and customizing it are free. The old site, sectionlibrary.com, answered HTTP 402 with Shopify’s “Store unavailable” page on 17 September, 5 October and 12 November 2026. The product now has a page at optifyapps.com/mason (read 12 November 2026), which says Section Library is now Mason: the same app from the same team, repositioned as an AI page builder that generates full pages and custom sections from a prompt on top of the section library. That page repeats the free plan (8 AI credits a month) and paid plans from $9, and it does not define a credit either. Developer Optify, 16 Rue Cuvier, Lyon, France; the app launched 10 October 2023. It still carries a 5.0 rating from exactly one App Store review, left in October 2023 by a merchant who had the app installed for four minutes; still the only review on 12 November 2026. Read again on 17 November 2026: the listing (apps.shopify.com/section-library now redirects to apps.shopify.com/mason; the title is Mason: AI Page Builder, formerly Section Library) shows the same amounts, Free 8 credits, Starter $9 for 25, Pro $19 for 55 and Business $29 for 90, with no trial on the paid plans and still one review, five stars, from October 2023. In our own test the same day on a Shopify development store the app, named Mason in the install dialog and in the admin, opened on its Free plan with 8 credits, no card and no plan choice. The listing says the Free plan has access to free sections only; in the app the Free plan showed library access, but the one library section we installed cost 5 of the 8 credits and we saw none marked free, though we did not open them all. The plans page showed Starter at about 5 AI pages a month, Pro about 11 and Business about 18. Choosing Starter opened Shopify's approval screen: $9.00 every 30 days, with the line “You will not be billed for this test charge” and an Add payment method row, so we did not approve it.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
-     "evidence_excerpt": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amou…",
+     "evidence": "(read 2026-11-17 on apps.shopify.com/mason and in our own test that day; earlier: re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/mason and in our own test that day; earlier: re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Libr…",
      "source_url": "https://apps.shopify.com/section-library",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
-     "evidence_excerpt": "(re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amou…",
+     "evidence": "(read 2026-11-17 on apps.shopify.com/mason and in our own test that day; earlier: re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Library: AI Sections” and on 12 November 2026 as “Mason: AI Page Builder”; every amount is unchanged since 19 August 2026) Free plan: 8 credits a month, access to the free sections only, basic AI generation.",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/mason and in our own test that day; earlier: re-read 2026-09-17, 2026-10-05 and 2026-11-12 on apps.shopify.com/section-library; listed in October as “Section Libr…",
      "source_url": "https://apps.shopify.com/section-library",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-12"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-12",
-   "first_observed_at": "2026-09-17"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Securify",
@@ -6770,20 +6819,20 @@
    "entry_price": "$19",
    "entry_price_terms": "Pro · per month, or $159 a year",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus two paid tiers. The listing changed after the reading of 20 October 2026: Pro rose from $5.99 to $19 a month, and the Advanced tier is gone. Free: unlimited country and IP blocking, 500 blocked visitors, up to 5 high-risk orders per 30 days, the last 1,000 visitor records and 7 days of analytics. Pro $19 a month or $159 a year (the card says save 30%): unlimited blocked visitors, up to 25 high-risk orders a month, the last 2,000 visitor records with export and 30 days of analytics. Growth $49 a month or $490 a year (save 17%): unlimited high-risk orders, AI-powered bot blocking, blocking risky emails at checkout and unlimited visitor logs. Both paid plans show a 7-day free trial. All charges are billed in USD every 30 days. Listed as 'Country Blocker Fraud Securify' from siimple.ai, with Shopify Flow actions and triggers.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/easy-block-customer-ip-country and in our own test that day; earlier: re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus two paid tiers. The listing changed after the reading of 20 October 2026: Pro rose from $5.99 to $19 a month, and the Advanced tier is gone. Free: unlimited country and IP blocking, 500 blocked visitors, up to 5 high-risk orders per 30 days, the last 1,000 visitor records and 7 days of analytics. Pro $19 a month or $159 a year (the card says save 30%): unlimited blocked visitors, up to 25 high-risk orders a month, the last 2,000 visitor records with export and 30 days of analytics. Growth $49 a month or $490 a year (save 17%): unlimited high-risk orders, AI-powered bot blocking, blocking risky emails at checkout and unlimited visitor logs. Both paid plans show a 7-day free trial. All charges are billed in USD every 30 days. Listed as 'Country Blocker Fraud Securify' from siimple.ai, with Shopify Flow actions and triggers. Read again on 17 November 2026: the listing now prints a single Free plan card and no Pro or Growth card, with feature lines that read unlimited country and IP blocking, unlimited blocked visitors, unlimited high risk order alerts and unlimited visitor logs, and that name AI powered bot blocking and blocking of fake and risky emails; it shows 4.6 from 111 reviews. In our own test the same day on a Shopify development store the app started on its Free plan with no card and no account, and its Choose Your Plan screen listed Free, Pro at $19 a month or $159 a year and Growth at $49 a month or $490 a year, the amounts we recorded on 25 October 2026, with a 7 day trial on both paid plans. The in app Free plan was not unlimited: it allowed 500 blocked visitors a month, 5 risky orders reviewed a month and the last 1,000 visitor logs with 7 days of analytics. VPN, proxy and datacenter blocking, an email check on every new order and a custom block page sat in Pro, and smart bot blocking and a customer risk scan in Growth. So the Free card on the listing promises more than the Free plan gave us inside the app. We did not start a paid trial.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus two paid tiers.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-11-17 on apps.shopify.com/easy-block-customer-ip-country and in our own test that day; earlier: re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus two paid tiers.",
+     "evidence_excerpt": "(read 2026-11-17 on apps.shopify.com/easy-block-customer-ip-country and in our own test that day; earlier: re-verified 2026-10-25 on apps.shopify.com/easy-block-customer-ip-country) Free plan plus tw…",
      "source_url": "https://apps.shopify.com/easy-block-customer-ip-country",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-25"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-25",
-   "first_observed_at": "2026-10-25"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Seel",
@@ -6840,30 +6889,6 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-11-17"
-  },
-  {
-   "name": "Selleasy",
-   "category": "Growth & Revenue",
-   "domain": "logbase.io",
-   "review_url": "https://aibuildermarketplace.com/b2b/selleasy-review/",
-   "from_price_usd_mo": 9.0,
-   "entry_price": "$9",
-   "entry_price_terms": "Starter · per month, flat, unlimited orders and campaigns",
-   "pricing_status": "public",
-   "price_note": "(prices read 2026-10-30 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/selleasy/pricing; the order-based ladder read on 19 September and 20 October 2026 has been replaced) Billed in USD through Shopify, recurring charges every 30 days. Four flat plans, each with unlimited orders. Free costs nothing and allows up to 5 campaigns, with the 18 upsell and cross-sell strategies, Shopify and manual recommendations, and chat, email and Zoom support. Starter is $9 a month or $91 a year and adds unlimited campaigns, 50 free AI recommendations and free setup on a call. Pro is $29 a month or $295 a year and adds 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $59 a month or $601 a year and adds 2,500 AI recommendations a month, advanced customizations, a rules engine, an AOV advisor and priority support. The paid plans carry a 30-day free trial. An Enterprise plan is quoted on request.\n\nWhat changed: until October 2026 Starter was priced by your store's total monthly orders (free to 50, $9 to 500, $19 to 1,000, $29 above), and Pro and Max were $49 and $99. Logbase's pricing page still carries a block with that old ladder next to the new plan cards and comparison table on 30 October 2026; the App Store listing, which is what Shopify bills from, shows only the flat plans. Check the charge Shopify shows at install.",
-   "flags": [
-    {
-     "flag": "free_tier",
-     "evidence": "The free plan now caps campaigns instead of orders: up to 5, against unlimited from Starter at $9.",
-     "evidence_excerpt": null,
-     "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-30"
-    }
-   ],
-   "researched": "2026-07",
-   "price_verified_at": "2026-10-30",
-   "first_observed_at": "2026-10-30"
   },
   {
    "name": "Seller Investigators",
@@ -7367,7 +7392,7 @@
    "entry_price": "$39",
    "entry_price_terms": "per month, monthly only (drops on annual billing)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-11 and re-read 2026-09-27 on smartli.ai/pricing; Monthly and Yearly tabs both unchanged since 5 Aug 2026) Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day free trial. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). Starter was $29/mo when we first checked, so the entry price has gone up. Re-read on 27 October 2026 with a plain fetch: smartli.ai/pricing unchanged (monthly Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day trial; yearly Pro $24 billed $288, Empire $57 billed $684, Unicorn $79 billed $948, Starter absent). The Shopify App Store listing, now titled 'Smartli: AI Tools & SEO Writer', shows a Free plan card with 24/7 chat support above the same paid tiers, and says all charges are billed in USD every 30 days. Re-read on 16 November 2026 with a plain fetch: the same monthly $39, $59, $99 and $299 with a 7-day trial each, and the same yearly $288, $684 and $948 in the page's data; Smartli's help centre now gives the monthly range as $39 to $299.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/smartli-ai-product-description and in our own test that day; earlier: re-verified 2026-09-11 and re-read 2026-09-27 on smartli.ai/pricing; Monthly and Yearly tabs both unchanged since 5 Aug 2026) Monthly: Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day free trial. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). Starter was $29/mo when we first checked, so the entry price has gone up. Re-read on 27 October 2026 with a plain fetch: smartli.ai/pricing unchanged (monthly Starter $39, Pro $59, Empire $99, Unicorn $299, each with a 7-day trial; yearly Pro $24 billed $288, Empire $57 billed $684, Unicorn $79 billed $948, Starter absent). The Shopify App Store listing, now titled 'Smartli: AI Tools & SEO Writer', shows a Free plan card with 24/7 chat support above the same paid tiers, and says all charges are billed in USD every 30 days. Re-read on 16 November 2026 with a plain fetch: the same monthly $39, $59, $99 and $299 with a 7-day trial each, and the same yearly $288, $684 and $948 in the page's data; Smartli's help centre now gives the monthly range as $39 to $299. Read again on 17 November 2026: the listing is now titled Smartli: AI Writer, Logo & SEO and shows a Free card with 24/7 chat support above Starter $39 (20 SEO optimized descriptions a month), Pro $59 (100 descriptions and 10 AI blog posts) and Empire $99 (1,000 descriptions and 50 blog posts), each with a 7 day trial, at 4.1 from 66 reviews. In our own test the same day on a Shopify development store the install screen called the app “ChatGPT: 6 AI Tools in 1”, and the free plan on the listing did not appear: setup led to a checkout page on app.smartli.ai, not to a Shopify billing screen, and skipping setup led to the same page. It listed Monthly Starter $39, Pro $59, Empire $99, preselected and marked Most Popular, and Unicorn $299, each shown with its monthly price struck through next to $1, with a yearly tab advertising up to 5 months off. The total due now read $0 with a button saying Claim Your Trial, and the page asked for a card or Google Pay. A box to add AI generated keywords for $19 after the 7 day trial was ticked in advance, and a notice with a countdown said only 26 trial spots were left that month. We entered no card, so we could not see what the $1 is charged as.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -7375,12 +7400,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-16"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-16",
-   "first_observed_at": "2026-09-11"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Smarty Discounts",
@@ -7420,6 +7445,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-19",
    "first_observed_at": "2026-10-19"
+  },
+  {
+   "name": "Social Snowball",
+   "category": "Growth & Revenue",
+   "domain": "socialsnowball.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/social-snowball-review/",
+   "from_price_usd_mo": 249.0,
+   "entry_price": "$249",
+   "entry_price_terms": "Snow Day · per month plus 3% of affiliate revenue",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-18 on the Shopify App Store listing, US dollars, billed every 30 days) Snow Day: $249 a month plus 3% of affiliate revenue; unlimited affiliates, influencer management, post-purchase referrals, automated payouts, fraud and code-leak prevention, tiers and gamification, live chat support. Blizzard: from $899 a month with a custom plan set up after install; adds TikTok Shop, creator search and outreach, social listening, UGC, Instagram DM chat, dedicated customer success manager, no usage charges. No free plan or trial listed. We have not paid for a plan.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "SocialBee",
@@ -7835,11 +7875,11 @@
    "entry_price": "$29",
    "entry_price_terms": "per month ($278/yr)",
    "pricing_status": "public",
-   "price_note": "(verified 2026-08-28 on apps.shopify.com/supaeasy and supaeasy.com/pricing; re-verified 2026-10-22 on both) A free plan plus four paid monthly tiers. The catch is in the free plan: it works only on a development store, not a live one. Starter is $29 a month ($278 a year), Premium is $49 a month ($470 a year) and Advanced is $99 a month ($950 a year), each with a 7-day trial on the App Store listing, which bills in USD; Ultimate is $399 a month ($3,830 a year) on the vendor's own pricing page and is not on the listing. Starter is new since our 16 October check: it covers the flow interface for conditional discounts, payment-gateway and delivery-rate rules, validation functions and import/export between stores. The headline feature — the AI Functions Generator, which writes a function from a plain-language description — does not appear until Advanced at $99, alongside the Scripts Editor and the Functions Wizard, and the App Store listing prices AI credits for it separately: $25 per 50, $40 per 100 or $149 per 500. So using SupaEasy the way it markets itself, on a live store, realistically starts at $99 a month.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/supaeasy and in our own test that day; earlier: verified 2026-08-28 on apps.shopify.com/supaeasy and supaeasy.com/pricing; re-verified 2026-10-22 on both) A free plan plus four paid monthly tiers. The catch is in the free plan: it works only on a development store, not a live one. Starter is $29 a month ($278 a year), Premium is $49 a month ($470 a year) and Advanced is $99 a month ($950 a year), each with a 7-day trial on the App Store listing, which bills in USD; Ultimate is $399 a month ($3,830 a year) on the vendor's own pricing page and is not on the listing. Starter is new since our 16 October check: it covers the flow interface for conditional discounts, payment-gateway and delivery-rate rules, validation functions and import/export between stores. The headline feature — the AI Functions Generator, which writes a function from a plain-language description — does not appear until Advanced at $99, alongside the Scripts Editor and the Functions Wizard, and the App Store listing prices AI credits for it separately: $25 per 50, $40 per 100 or $149 per 500. So using SupaEasy the way it markets itself, on a live store, realistically starts at $99 a month. Read again on 17 November 2026: the listing (now 239 reviews at 5.0) still carries the FREE DEV STORE plan, with unlimited payment, delivery and discount customizations for testing and API access, and the paid plans at the amounts above, with the AI credit packs. In our own test the same day on a Shopify development store the app did not show that free plan: it opened with “No active plan” and a setup list asking us to subscribe, its billing screen offered only Starter $29, Premium $49 and Advanced $99 a month, each with a 7 day trial, with a monthly and an annual tab (annual marked as a 20% saving) and a coupon field, and the Flow and Wizard options did nothing until a plan was chosen. Shopify's approval screen for Starter read $29 every 30 days after a 7 day trial ending 24 November, with an Add payment method row and Approve greyed out; it did not carry the line saying the charge would not be billed, so we did not approve it. So on our development store the listing's free dev store plan was not available inside the app.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-22",
-   "first_observed_at": "2026-08-28"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Super",
@@ -7861,24 +7901,24 @@
    "category": "Growth & Revenue",
    "domain": "superfiliate.com",
    "review_url": "https://aibuildermarketplace.com/b2b/superfiliate-review/",
-   "from_price_usd_mo": null,
-   "entry_price": null,
-   "entry_price_terms": null,
-   "pricing_status": "quote_only",
-   "price_note": "(read 25 August 2026, re-checked 5 and 24 September 2026) Superfiliate publishes no price on its own site. superfiliate.com/pricing returns 404 with and without www, /llms.txt returns 404, there is no pricing item anywhere in the navigation, and the only commercial call to action is Book Demo. Their Shopify App Store listing (apps.shopify.com/superfiliate) publishes the shape rather than the amount: a single plan named Custom, 'Free to install. Additional charges may apply', the note that the app 'Requires an active Superfiliate subscription for app activation and use. Contact Superfiliate for plan details', and one hard fact — 'All charges are billed in USD.' So the free-to-install label covers the app, not the platform. Our dossier has carried a range of roughly $299 to $999 a month which we cannot trace to their site or to any dated reading; treat it as an unverified order of magnitude rather than a price, and ask for the number in writing on the demo call.",
+   "from_price_usd_mo": 1500.0,
+   "entry_price": "$1,500",
+   "entry_price_terms": "Tier 1 · per month plus 3% of the revenue generated by your affiliates…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/superfiliate and superfiliate.com/pricing; earlier reads 25 August, 5 and 24 September 2026, when the listing published a single plan called Custom and no amount) The Shopify App Store listing now prints four tiers, billed in USD every 30 days, each with a 21 day free trial and each adding 3% of the revenue generated by your affiliates: Tier 1 $1,500 a month, Tier 2 $2,499, Tier 3 $3,499 and All access $5,000. The listing's header reads From $1,500/month with a free trial available, and the cards give no definition of what separates the tiers, so we cannot say what each one includes. The wording of September, a single plan named Custom that was free to install and needed an active Superfiliate subscription, is gone from the cards. superfiliate.com/pricing, which returned 404 on 5 and 24 September 2026, now loads. It says Superfiliate is priced as a custom monthly subscription built on the channels you want to activate and your trailing twelve months of ecommerce revenue, with no charge per creator, per click or per program, and it prints no amount. The range of roughly $299 to $999 a month that an earlier version of this dossier carried traced to no dated source and is wrong against the listing: the lowest published tier is $1,500 a month. The listing shows 5.0 from 44 reviews.",
    "flags": [
     {
-     "flag": "quote_only",
-     "evidence": "No published price: superfiliate.com/pricing and /llms.txt both 404, only CTA is Book Demo; the $299-999/mo range cited elsewhere is unverified and untraceable to the vendor (read 24 Sep 2026)",
+     "flag": "usage_metered",
+     "evidence": "meter: revenue_share · affiliate revenue",
      "evidence_excerpt": null,
      "source_url": "https://www.superfiliate.com/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Superlines",
@@ -8072,7 +8112,7 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-read 2026-09-19 on apps.shopify.com/tapita-ai-seo-blog-builder, and again on 2026-10-15 with the same result: no plan block, the header Price field reads Free, and the only dollar figure on the page, $39 a month, belongs to another app in the “More apps like this” rail) The paid tier has left the listing. Where the page carried a Pro plan in August, it now publishes no plan block at all: the Pricing field in the header reads simply “Free”, the word Pricing appears exactly once on the whole page, and the only dollar figure anywhere on it belongs to a different app in the “More apps like this” rail. We checked that against the same developer's other listing in the same session — apps.shopify.com/google-seo-schema-meta-data renders its header as “Free plan available” and prints its full ladder — so this is the state of this listing rather than a page that failed to load. What that removes is everything a buyer could previously plan against: Pro at $9.99 a month on Shopify Basic rising to $14.99, $39.99 and $69.99 by Shopify plan, the $101.89 annual rate, the 250 monthly AI credits and the $0.06 charge for each credit beyond them. The free tier's own allowance is gone from the page too — the 50 non-recurring credits are no longer stated — so as the listing stands there is no published number for what the app gives you or what exceeding it costs. On 19 September the listing was titled Tapita SEO AI Blog Builder and stood at 4.9 from 485 reviews, up from 450 in August. Read on 15 October 2026 it has been renamed Tapita GEO Studio & AI Blog and now pitches being cited by ChatGPT and Gemini alongside ranking in Google. It still carries Shopify's “Built for Shopify” badge, works with Shopify Admin and the developer's own Tapita SEO Optimizer & Speed, is offered in English only, and stands at 4.9 from 488 reviews, distributed 469 five-star, 13 four-star, 2 three-star, 1 two-star and 3 one-star.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/tapita-ai-seo-blog-builder and in our own test that day; earlier: re-read 2026-09-19 on apps.shopify.com/tapita-ai-seo-blog-builder, and again on 2026-10-15 with the same result: no plan block, the header Price field reads Free, and the only dollar figure on the page, $39 a month, belongs to another app in the “More apps like this” rail) The paid tier has left the listing. Where the page carried a Pro plan in August, it now publishes no plan block at all: the Pricing field in the header reads simply “Free”, the word Pricing appears exactly once on the whole page, and the only dollar figure anywhere on it belongs to a different app in the “More apps like this” rail. We checked that against the same developer's other listing in the same session — apps.shopify.com/google-seo-schema-meta-data renders its header as “Free plan available” and prints its full ladder — so this is the state of this listing rather than a page that failed to load. What that removes is everything a buyer could previously plan against: Pro at $9.99 a month on Shopify Basic rising to $14.99, $39.99 and $69.99 by Shopify plan, the $101.89 annual rate, the 250 monthly AI credits and the $0.06 charge for each credit beyond them. The free tier's own allowance is gone from the page too — the 50 non-recurring credits are no longer stated — so as the listing stands there is no published number for what the app gives you or what exceeding it costs. On 19 September the listing was titled Tapita SEO AI Blog Builder and stood at 4.9 from 485 reviews, up from 450 in August. Read on 15 October 2026 it has been renamed Tapita GEO Studio & AI Blog and now pitches being cited by ChatGPT and Gemini alongside ranking in Google. It still carries Shopify's “Built for Shopify” badge, works with Shopify Admin and the developer's own Tapita SEO Optimizer & Speed, is offered in English only, and stands at 4.9 from 488 reviews, distributed 469 five-star, 13 four-star, 2 three-star, 1 two-star and 3 one-star. Read again on 17 November 2026: the listing is now titled Tapita AEO/GEO AI Blog (Tapita SEO AI Blog Builder in August and September, Tapita GEO Studio & AI Blog on 15 October), still has no plan block and gives its pricing as Free, and shows 4.9 from 494 reviews. In our own test the same day on a Shopify development store the app started on a free level with no plan screen and no payment step, labelled Free on its dashboard, with GEO Studio described as free. Its Create blog post form showed “55 AI credits”, the dashboard read “Published posts 0 / 1”, and a banner said that AI writing runs on credits from the developer's separate paid app SEO & Speed, with 50% off its first 3 months until 4 December. That banner is a temporary promotion for another app and not a price for this one. A first draft article took about 45 seconds; setting a publish date was marked as a paid feature. We saw no text confirming the limit of 1 published post, and we did not publish the draft.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -8080,7 +8120,7 @@
      "evidence_excerpt": "What that removes is everything a buyer could previously plan against: Pro at $9.99 a month on Shopify Basic rising to $14.99, $39.99 and $69.99 by Shopify plan, the $101.89 annual rate, the 250 mont…",
      "source_url": "https://apps.shopify.com/tapita-ai-seo-blog-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -8088,12 +8128,12 @@
      "evidence_excerpt": "We checked that against the same developer's other listing in the same session — apps.shopify.com/google-seo-schema-meta-data renders its header as “Free plan available” and prints its full ladder — …",
      "source_url": "https://apps.shopify.com/tapita-ai-seo-blog-builder",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-15",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Tapita SEO Optimizer",
@@ -8456,30 +8496,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/uniqode-review/",
    "from_price_usd_mo": 9.0,
    "entry_price": "$9",
-   "entry_price_terms": "per month (FAQ-stated minimum)",
+   "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-28 on their own pricing page, read both as plain HTML and as a live browser render) The plan cards are rendered in the browser and carry no price in either reading, so what we can hold Uniqode to is its own pricing FAQ on that page, read 13 September 2026. Static QR codes are free and there is no limit on how many you create; dynamic QR codes start at a stated minimum of $9/month. NEW since our August reading: the FAQ now prices one named tier, Core at $49/month, which it calls the best value -- it does not say where Core sits in the Starter, Lite, Pro, Plus and Business+ ladder the same FAQ uses elsewhere. A custom domain is a Plus add-on at $2,000 per domain per year. Your first digital business card is free, with extra seats on a Team plan at $6 per user per month; Business+ card pricing is custom. There is a 14-day free trial, and when it expires the dynamic codes made during it go inactive while static codes keep working (without account access). Billing is annual only, in USD, invoice billing is Business+ only, and there is a 30-day money-back guarantee. Third-party listings quote a $5 entry tier; that is not what Uniqode's own page says, and we are not repeating a Lite or Pro figure we could not read at the source.",
+   "price_note": "(re-verified 2026-11-18 on their own pricing page, plain HTML) The page now shows four plans. Essential $9 USD a month, billed yearly: 1 user, 30 days of scan analytics, 15 dynamic QR codes, 5 Linkpages. Core $49 a month, billed yearly: 1 user, 90 days of analytics, 250 dynamic codes, 10 Linkpages, the Una AI assistant. Plus $99 a month, billed yearly: 3 users, 180 days of analytics, 500 dynamic codes, 25 Linkpages, Una AI and a custom domain. Business+ is custom priced through sales and adds SSO, multi-org, 2-year analytics and pay by invoice. The comparison table lists annual scan allowances of 50,000, 1,000,000 and 2,000,000 for the first three plans. The page offers a 14-day free trial without a credit card, a 30-day money-back guarantee and no free plan: Uniqode confirmed to us by mail on 18 November 2026 that it has no free lifetime plan, and an earlier version of this review wrongly said static codes were free and unlimited. Per its FAQ, static codes you already made keep working after you cancel but you cannot create new ones, and dynamic codes stop working when the subscription ends or when you reach the scan limit. Our earlier figures for a $2,000-a-year custom domain add-on and $6-a-seat business cards are not on the page any more, so we no longer quote them.",
    "flags": [
     {
-     "flag": "per_seat",
-     "evidence": "Your first digital business card is free, with extra seats on a Team plan at $6 per user per month; Business+ card pricing is custom.",
-     "evidence_excerpt": null,
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-28"
-    },
-    {
      "flag": "addons_extra",
-     "evidence": "A custom domain is a Plus add-on at $2,000 per domain per year.",
+     "evidence": "Our earlier figures for a $2,000-a-year custom domain add-on and $6-a-seat business cards are not on the page any more, so we no longer quote them.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-28"
+     "verified_at": "2026-11-18"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-28",
-   "first_observed_at": "2026-10-28"
+   "price_verified_at": "2026-11-18",
+   "first_observed_at": "2026-11-18"
   },
   {
    "name": "Upsell & Cross Sell - AW",
@@ -8514,15 +8546,15 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Growth · per month for 51-100 monthly store orders or upsell revenue…",
    "pricing_status": "public",
-   "price_note": "(prices re-verified 2026-11-09 on upsell.com/pricing in the Shopify view and on the Shopify App Store listing apps.shopify.com/reconvert-upsell-cross-sell the same day; this replaces the $199 Scale and $499 Elite rungs we recorded on 19 September) Billed in USD. The vendor's comparison still says \"Every feature is included on every plan. Tiers differ by order volume and support\", so you are buying volume and support, not features. Free covers up to 50 monthly store orders or upsell revenue, whichever is higher. Growth is priced by volume band up to 2,000. The Shopify listing prints the first three paid bands: $9.99 a month for 51-100, $19.99 for 101-200 and $39.99 for 201-500. The 1,000 and 2,000 bands sit behind a slider on upsell.com whose amounts are not in the served page, so we do not state them. Scale is $299 a month billed monthly, or $249 a month on the annual toggle, up to 10,000. Elite is $899 a month, or $749 on annual, up to 20,000. Enterprise is quote-only above 20,000 and adds one invoice across multiple stores. The page labels the annual toggle \"Save 25% with Annual\", but $249 against $299 and $749 against $899 both work out at about 17% off (our arithmetic). The page still disagrees with itself on billing: the Scale and Elite cards say \"Billed monthly\" while the comparison table lists both as \"Annual only\" and only Growth as \"Monthly or annual\". Both the pricing page and the listing offer a 14-day free trial. Checkout upsells remain for Shopify Plus stores only.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/reconvert-upsell-cross-sell and in our own test that day; earlier: prices re-verified 2026-11-09 on upsell.com/pricing in the Shopify view and on the Shopify App Store listing apps.shopify.com/reconvert-upsell-cross-sell the same day; this replaces the $199 Scale and $499 Elite rungs we recorded on 19 September) Billed in USD. The vendor's comparison still says \"Every feature is included on every plan. Tiers differ by order volume and support\", so you are buying volume and support, not features. Free covers up to 50 monthly store orders or upsell revenue, whichever is higher. Growth is priced by volume band up to 2,000. The Shopify listing prints the first three paid bands: $9.99 a month for 51-100, $19.99 for 101-200 and $39.99 for 201-500. The 1,000 and 2,000 bands sit behind a slider on upsell.com whose amounts are not in the served page, so we do not state them. Scale is $299 a month billed monthly, or $249 a month on the annual toggle, up to 10,000. Elite is $899 a month, or $749 on annual, up to 20,000. Enterprise is quote-only above 20,000 and adds one invoice across multiple stores. The page labels the annual toggle \"Save 25% with Annual\", but $249 against $299 and $749 against $899 both work out at about 17% off (our arithmetic). The page still disagrees with itself on billing: the Scale and Elite cards say \"Billed monthly\" while the comparison table lists both as \"Annual only\" and only Growth as \"Monthly or annual\". Both the pricing page and the listing offer a 14-day free trial. Checkout upsells remain for Shopify Plus stores only. Read again on 17 November 2026: the Shopify listing (ReConvert Post Purchase Upsell, developer Upsell.com ex ReConvert, 4.8 from 3,144 reviews) still shows Free for up to 50 orders or $50 of upsell revenue and the Growth bands at $9.99 (51 to 100), $19.99 (101 to 200) and $39.99 (201 to 500), each paid band with a 14 day trial. In our own test the same day on a Shopify development store, installing the app did not open a plan list or a free plan: it went straight to Shopify's approval screen for a usage based subscription called Upsell.com, with an app spending limit of $2,000.00 per 30 days, a 14 day free trial ending 1 December, the line “You will not be billed for this test charge” and an Add payment method row. The screen said the app bills for usage when you begin to use it, and showed no $0 plan. We did not approve it, so we could not confirm how the free tier is applied.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "meter: unit · orders or upsell revenue per month",
-     "evidence_excerpt": null,
+     "evidence": "In our own test the same day on a Shopify development store, installing the app did not open a plan list or a free plan: it went straight to Shopify's approval screen for a usage based subscription called Upsell.com, with an app spending limit of $2,000.00 per 30 days, a 14 day free trial ending 1 December, the line “You will not be billed for this test charge” and an Add payment method row.",
+     "evidence_excerpt": "In our own test the same day on a Shopify development store, installing the app did not open a plan list or a free plan: it went straight to Shopify's approval screen for a usage based subscription c…",
      "source_url": "https://upsell.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-09"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -8530,12 +8562,12 @@
      "evidence_excerpt": null,
      "source_url": "https://upsell.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-09"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-09",
-   "first_observed_at": "2026-11-09"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "UpsellPlus",
@@ -8544,9 +8576,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/upsellplus-review/",
    "from_price_usd_mo": null,
    "entry_price": "$49",
-   "entry_price_terms": "Launch · per month, or $500 a year",
+   "entry_price_terms": "Basic · per month, or $500 a year",
    "pricing_status": "public",
-   "price_note": "(listing and vendor pricing page re-verified 2026-09-19 on apps.shopify.com/upsellpluscheckout, USD; the Scale ladder confirmed in writing by UpsellPlus support on 2026-09-21) Fixed monthly tiers based on the revenue generated through UpsellPlus offers, with no percentage commission. The listing shows four: Free runs one offer, opens all twelve upsell types plus analytics, and allows up to $500 in upsell revenue. Launch is $49 a month or $500 a year (saves 15%) and allows the same $500 of app-generated revenue a month, adding cart, pop-up and drawer upsells, product page and post-purchase upsells, multivariate A/B testing, progress bars and free gifts. The tier named Shopify Plus is $119 a month or $1,149 a year (save 20%), raises the ceiling to $2,000 a month and adds checkout customization, checkout upsells, thank-you page customization and AI recommendations. Scale is $199 a month or $1,899 a year (save 20%) for up to $5,000 a month, live support and multivariate A/B testing. 14-day free trial on the paid tiers; charges billed every 30 days. The vendor's own page adds two things the listing does not carry: a fifth Enterprise tier with no published price, sold through a demo, and a Managed Service at an extra $499 a month. That page contradicts itself on Scale - the plan card and the listing both say up to $5,000 a month, while its comparison table puts Scale under Unlimited - so we asked the vendor. UpsellPlus support answered on 21 September 2026 that Scale is a ladder rather than a single price: $199 up to $5,000 of upsell revenue a month, $299 up to $10,000, $399 up to $15,000, $499 up to $20,000, $699 up to $30,000, $799 up to $40,000, and an Unlimited plan at $999 with no ceiling. A store that goes past $5,000 is moved automatically to the $299 tier, which covers up to $10,000. So the plan card is the accurate one and the comparison table is wrong, and the amounts above $199 appear nowhere on the published pricing page (figures from UpsellPlus support, 21 September 2026). Hitting a ceiling is not a stop: their FAQ says you automatically upgrade to the next tier so upsells are not interrupted, so the bill rises by itself. Their FAQ also states Shopify Plus is NOT required except for checkout customization and checkout upsells, which is a Shopify restriction; cart, product page, cart drawer, thank-you and post-purchase offers work without it.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/upsellpluscheckout and in our own test that day; earlier: listing and vendor pricing page re-verified 2026-09-19 on apps.shopify.com/upsellpluscheckout, USD; the Scale ladder confirmed in writing by UpsellPlus support on 2026-09-21) Fixed monthly tiers based on the revenue generated through UpsellPlus offers, with no percentage commission. The listing shows four: Free runs one offer, opens all twelve upsell types plus analytics, and allows up to $500 in upsell revenue. Launch is $49 a month or $500 a year (saves 15%) and allows the same $500 of app-generated revenue a month, adding cart, pop-up and drawer upsells, product page and post-purchase upsells, multivariate A/B testing, progress bars and free gifts. The tier named Shopify Plus is $119 a month or $1,149 a year (save 20%), raises the ceiling to $2,000 a month and adds checkout customization, checkout upsells, thank-you page customization and AI recommendations. Scale is $199 a month or $1,899 a year (save 20%) for up to $5,000 a month, live support and multivariate A/B testing. 14-day free trial on the paid tiers; charges billed every 30 days. The vendor's own page adds two things the listing does not carry: a fifth Enterprise tier with no published price, sold through a demo, and a Managed Service at an extra $499 a month. That page contradicts itself on Scale - the plan card and the listing both say up to $5,000 a month, while its comparison table puts Scale under Unlimited - so we asked the vendor. UpsellPlus support answered on 21 September 2026 that Scale is a ladder rather than a single price: $199 up to $5,000 of upsell revenue a month, $299 up to $10,000, $399 up to $15,000, $499 up to $20,000, $699 up to $30,000, $799 up to $40,000, and an Unlimited plan at $999 with no ceiling. A store that goes past $5,000 is moved automatically to the $299 tier, which covers up to $10,000. So the plan card is the accurate one and the comparison table is wrong, and the amounts above $199 appear nowhere on the published pricing page (figures from UpsellPlus support, 21 September 2026). Hitting a ceiling is not a stop: their FAQ says you automatically upgrade to the next tier so upsells are not interrupted, so the bill rises by itself. Their FAQ also states Shopify Plus is NOT required except for checkout customization and checkout upsells, which is a Shopify restriction; cart, product page, cart drawer, thank-you and post-purchase offers work without it. Read again on 17 November 2026: the listing (4.9 stars is not stated; it shows 5.0 from 151 reviews) now names the plans Free, Basic $49, Pro $119 and Advanced $199 a month, the tiers we recorded as Launch, Shopify Plus and Scale, each paid plan with a 14 day free trial, and its Free card now reads “Build for free. Launch with a free trial” without the $500 ceiling it carried before. In our own test the same day the app showed no Free plan: on our Shopify development store its billing page said the store had full access to every feature, free, and that development, partner and Shopify staff stores are never charged, so no Shopify approval screen appeared. Its “How pricing works” table followed the upsell revenue the app generates: Basic $49 up to $500, Pro $119 up to $2,000, Advanced $199 up to $5,000, then the steps the vendor's support gave us in September, Scale 1 $299 up to $10,000, Scale 2 $399 up to $15,000, Scale 3 $499 up to $20,000, Scale 4 $699 up to $30,000, Scale 5 $799 up to $40,000 and Unlimited $999. The listing shows tiers only up to $199, so the app's table is the first public place the higher steps appear. The app called the entry plan Basic, not Launch. We could not test the listing's Free plan on a development store.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -8554,12 +8586,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/upsellpluscheckout",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "UserTrail",
@@ -8991,11 +9023,20 @@
    "entry_price": "$34.95",
    "entry_price_terms": "Lite · a month, billed every 30 days",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-08 and re-read 2026-09-19 on apps.shopify.com/wholesale-gorilla and checked against the vendor's own plan-comparison page at wholesalegorilla.com/plan-comparison/, which lists the same three figures) Three tiers, all billed in USD every 30 days: Lite $34.95 a month, Advanced $69.95 and Premium $149.95. There is no free plan. Every tier carries a 21-day free trial and nothing beyond it, so budget from day 22. Nothing here is metered — pricing rules and customer price groups are unlimited on all three tiers — so what you are buying as you climb is features, not volume. The app has been on the Shopify App Store since 26 September 2018 and on 19 September 2026 showed 4.8 stars over 317 reviews — 275 five-star, 17 four, 8 three, 5 two and 12 one — up from 4.7 over 313 eleven days earlier. Its Works with field names only Checkout, customer accounts and Shopify Admin.",
-   "flags": [],
+   "price_note": "(read 2026-11-17 on apps.shopify.com/wholesale-gorilla and in our own test that day; earlier: read 2026-09-08 and re-read 2026-09-19 on apps.shopify.com/wholesale-gorilla and checked against the vendor's own plan-comparison page at wholesalegorilla.com/plan-comparison/, which lists the same three figures) Three tiers, all billed in USD every 30 days: Lite $34.95 a month, Advanced $69.95 and Premium $149.95. There is no free plan. Every tier carries a 21-day free trial and nothing beyond it, so budget from day 22. Nothing here is metered — pricing rules and customer price groups are unlimited on all three tiers — so what you are buying as you climb is features, not volume. The app has been on the Shopify App Store since 26 September 2018 and on 19 September 2026 showed 4.8 stars over 317 reviews — 275 five-star, 17 four, 8 three, 5 two and 12 one — up from 4.7 over 313 eleven days earlier. Its Works with field names only Checkout, customer accounts and Shopify Admin. Read again on 17 November 2026: the three amounts, the 21 day free trial and the absence of a free plan are unchanged on the listing, and the rating block read 4.8 over 321 reviews. The Lite card on the listing no longer names Shopify Markets among its features, which our earlier plan list did. In our own test the same day on a Shopify development store the install dialog warned that Wholesale Gorilla does not support market driven shipping. Choosing Lite opened Shopify's approval screen: $34.95 every 30 days after a 21 day trial ending 8 December, with the line “You will not be billed for this test charge”. We uninstalled the app without approving it.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "Read again on 17 November 2026: the three amounts, the 21 day free trial and the absence of a free plan are unchanged on the listing, and the rating block read 4.8 over 321 reviews.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/wholesale-gorilla",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-17"
+    }
+   ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-03",
-   "first_observed_at": "2026-09-08"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Wiz Checkout Upsell",
@@ -9006,11 +9047,11 @@
    "entry_price": "$49",
    "entry_price_terms": "Essential · per month",
    "pricing_status": "public",
-   "price_note": "(prices re-verified 2026-09-19 on apps.shopify.com/checkout-pro; the ladder is unchanged since 2 September, one promotion is new) Three tiers, billed in USD every 30 days, each with a 14-day free trial and no free plan. Essential is $49 a month and covers post-purchase upsell funnels, thank-you page upsells and customization, order status page upsells and a review block, and all shipping and payment customizations; the listing marks that tier as not applicable for Shopify Plus. Plus Growth is $99 a month, or $999 a year (the listing says that saves 16%), and is the tier that opens the checkout itself: checkout upsells, subscription upgrades, checkout banners, reviews and trust badges, checkout input fields and gift messages, a checkout discount list and free gifts, on top of everything in Essential. That card now also carries a BFCM offer — \"Pay only $1 for first month!\" — with no end date printed beside it. Checkout concierge is $199 a month or $1,999 a year (save 16%) and adds custom onboarding and launch, A/B testing and analysis across all extensions, monthly performance review calls and custom extension development.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/checkout-pro; earlier: prices re-verified 2026-09-19 on apps.shopify.com/checkout-pro; the ladder is unchanged since 2 September, one promotion is new) Three tiers, billed in USD every 30 days, each with a 14-day free trial and no free plan. Essential is $49 a month and covers post-purchase upsell funnels, thank-you page upsells and customization, order status page upsells and a review block, and all shipping and payment customizations; the listing marks that tier as not applicable for Shopify Plus. Plus Growth is $99 a month, or $999 a year (the listing says that saves 16%), and is the tier that opens the checkout itself: checkout upsells, subscription upgrades, checkout banners, reviews and trust badges, checkout input fields and gift messages, a checkout discount list and free gifts, on top of everything in Essential. That card now also carries a BFCM offer — \"Pay only $1 for first month!\" — with no end date printed beside it. Checkout concierge is $199 a month or $1,999 a year (save 16%) and adds custom onboarding and launch, A/B testing and analysis across all extensions, monthly performance review calls and custom extension development. Read again on 17 November 2026: the listing (4.9 from 58 reviews) shows the same three tiers and amounts, Essential $49 a month, Plus Growth $99 or $999 a year and Checkout concierge $199 or $1,999 a year, each with a 14 day free trial, and the Plus Growth card still carries the BFCM offer “Pay only $1 for first month!” with no end date printed. We did not install the app.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "Woodpecker",
@@ -9053,7 +9094,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Beginner · per month for 1-20 linked products",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-09-18 and again on 2026-10-05 on apps.shopify.com/zendrop and on zendrop.com/pricing — the two do not carry the same ladder) On the Shopify listing: free to install, with three paid tiers, Beginner $29, Pro $49 and Plus $79 a month. What separates them is not features but how many products you may link to your store. The free tier allows none at all (“No linked products allowed”), Beginner covers 1-20, Pro 21-100 and Plus 101 or more; the feature list on all three paid tiers is identical (trending products, Zendrop Academy, Zendrop AI access, custom branding). Product and shipping cost is charged per order on top of every plan, and the listing states that external charges may be billed by Zendrop separately from your Shopify invoice. All charges are billed in USD and recur every 30 days. Rating 4.5 from 1,264 App Store reviews on 5 October 2026, after 4.6 from 1,258 on 18 September and 4.5 from 1,191 on 19 August; the spread is 83% five-star (1.0K), 7% four-star (94), 1% three-star (18), 1% two-star (18) and 7% one-star (86). The listing does not carry Shopify's “Built for Shopify” badge. Developer Zendrop, 5499 North Federal Highway, Suite R, Boca Raton, FL, 33487, US; the app launched 4 November 2020. On zendrop.com/pricing the ladder is different: Free $0, Pro $49 a month or $399 a year, and Plus $79 a month or $549 a year, marked Most Popular. There is no $29 Beginner tier on their own site, and the annual rates appear only there — $399 is $33.25 a month and $549 is $45.75. The Summer Promo recorded here on 19 August 2026 (65% off annual Plus for the first year, advertised as a $357 saving, plus $100 in order credits, ending 31 August 2026) is gone: the page carries no percentage-off offer at all on 18 September or 5 October 2026. Their own site also lists products the App Store listing does not mention, including AI-Built Stores, an AI Ad Generator and an MCP Server for connecting AI agents to a store.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/zendrop and in our own test that day; earlier: re-read 2026-09-18 and again on 2026-10-05 on apps.shopify.com/zendrop and on zendrop.com/pricing — the two do not carry the same ladder) On the Shopify listing: free to install, with three paid tiers, Beginner $29, Pro $49 and Plus $79 a month. What separates them is not features but how many products you may link to your store. The free tier allows none at all (“No linked products allowed”), Beginner covers 1-20, Pro 21-100 and Plus 101 or more; the feature list on all three paid tiers is identical (trending products, Zendrop Academy, Zendrop AI access, custom branding). Product and shipping cost is charged per order on top of every plan, and the listing states that external charges may be billed by Zendrop separately from your Shopify invoice. All charges are billed in USD and recur every 30 days. Rating 4.5 from 1,264 App Store reviews on 5 October 2026, after 4.6 from 1,258 on 18 September and 4.5 from 1,191 on 19 August; the spread is 83% five-star (1.0K), 7% four-star (94), 1% three-star (18), 1% two-star (18) and 7% one-star (86). The listing does not carry Shopify's “Built for Shopify” badge. Developer Zendrop, 5499 North Federal Highway, Suite R, Boca Raton, FL, 33487, US; the app launched 4 November 2020. On zendrop.com/pricing the ladder is different: Free $0, Pro $49 a month or $399 a year, and Plus $79 a month or $549 a year, marked Most Popular. There is no $29 Beginner tier on their own site, and the annual rates appear only there — $399 is $33.25 a month and $549 is $45.75. The Summer Promo recorded here on 19 August 2026 (65% off annual Plus for the first year, advertised as a $357 saving, plus $100 in order credits, ending 31 August 2026) is gone: the page carries no percentage-off offer at all on 18 September or 5 October 2026. Their own site also lists products the App Store listing does not mention, including AI-Built Stores, an AI Ad Generator and an MCP Server for connecting AI agents to a store. Read again on 17 November 2026: the listing is unchanged, free to install with no linked products allowed, Beginner $29, Pro $49 and Plus $79 a month, and shows 4.5 from 1,300 reviews. In our own test the same day on a Shopify development store the app's onboarding did not show that ladder. It offered two ways to activate: Plus, “7 days free, then $79/mo”, with a one off upsell at $197 a year that the same screen marked down from $549, and Flex, pay as you go, for which Shopify's approval screen showed a usage subscription with an app spending limit of $79.00 per 30 days and an Add payment method row. We saw no Beginner or Pro plan and no free level inside the app, and we could not reach the product catalogue without choosing one of the two. The $197 offer is a temporary promotion on the app's screen and not on the listing, so we do not count it as the price. We did not approve anything.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -9061,7 +9102,7 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/zendrop",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-17"
     },
     {
      "flag": "free_tier",
@@ -9069,12 +9110,12 @@
      "evidence_excerpt": "The free tier allows none at all (“No linked products allowed”), Beginner covers 1-20, Pro 21-100 and Plus 101 or more; the feature list on all three paid tiers is identical (trending products, Zendr…",
      "source_url": "https://apps.shopify.com/zendrop",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-05"
+     "verified_at": "2026-11-17"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-05",
-   "first_observed_at": "2026-09-18"
+   "price_verified_at": "2026-11-17",
+   "first_observed_at": "2026-11-17"
   },
   {
    "name": "ZoomInfo",
