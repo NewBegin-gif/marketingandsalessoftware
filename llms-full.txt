@@ -826,7 +826,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/mailveri-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: MailVeri sells pay-as-you-go credit packs with no subscription. The accuracy and savings figures come from MailVeri’s own pricing page and comparison tables.
-- Price: (read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire. A new account gets 1,000 free credits.
+- Price: (read 2026-11-18 on mailveri.com and its pricing page and in our own test that day; earlier: read 2026-11-13 on mailveri.com/pricing, US dollars) MailVeri sells pay-as-you-go credit packs with no subscription, and the page says credits never expire. A new account gets 1,000 free credits.
 
 ## ManyChat
 - Review: https://marketingandsalessoftware.com/manychat-review.html
@@ -927,7 +927,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Optizen
 - Review: https://marketingandsalessoftware.com/optizen-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Optizen: Three tiers, billed in USD. AI video is the reason to install this, and it is the one thing the subscription does not cover.
+- Verdict: Optizen: Extra credits are $2 each, sold in bundles of $2, $10, $20 and $40. In our own test on 17 November 2026 the app installed but would not open.
 - Price: (prices read 2026-08-31 on apps.shopify.com/optizen-video-upsell; re-read 2026-09-17 and 2026-10-05, every amount unchanged) Three tiers, billed in USD. Free gives one active video upsell campaign, up to 5 conversions and bundles, YouTube or Vimeo videos only and all available placements, with a 7-day free trial.
 
 ## Outgrow
@@ -1186,7 +1186,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/salestarget-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: SalesTarget.ai: CRM $40 a month with 3 users included and $20 per extra user. The credit numbers on the plan cards shrink once you read the price list.
-- Price: (re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed. Re-verified 2026-11-12 on the All In One tab and the plan comparison table) Sold either as one bundle or module by module.
+- Price: (read 2026-11-18 on salestarget.ai/pricing and in our own test that day; earlier: re-read 2026-10-28 on salestarget.ai/pricing, tab by tab, monthly billing; the vendor told us on 28 October that its plans had changed. Re-verified 2026-11-12 on the All In One tab and the plan comparison table) Sold either as one bundle or module by module.
 
 ## Scarcity.AI
 - Review: https://marketingandsalessoftware.com/scarcity-ai-review.html
