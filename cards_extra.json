@@ -4781,8 +4781,8 @@
   "price": "$9.99",
   "price_note": "Starter · per month, plus $2 per extra AI video credit beyond the 2 included",
   "verified": "2026-10-05",
-  "catch": "AI video is the reason to install this, and it is the one thing the subscription does not cover.",
-  "best": "Nobody for now: we do not recommend Optizen while its app does not open (checked 17 November 2026)."
+  "catch": "We do not recommend Optizen right now.",
+  "best": "Nobody for now: we do not recommend Optizen while its app does not open (checked 17 November 2026 and 18 November 2026)."
  },
  "Outgrow": {
   "flags": [
@@ -8070,7 +8070,7 @@
   ],
   "price": "$10",
   "price_note": "from · per month or $96/yr (400 shipments/mo)",
-  "verified": "2026-10-13",
+  "verified": "2026-11-18",
   "catch": "The reviews are split rather than soft, 45 five-star and seven one-star of 56 on 12 September 2026, and the complaints name downtime on the page customers open when they are already worried about a parcel.",
   "best": "Shopify stores shipping a few hundred to a few thousand parcels a month that want where-is-my-order traffic off the support desk: one branded tracking page across every carrier, estimated delivery dates, and proactive email, WhatsApp or US SMS updates, and that like the idea of tracking living in Apple and Google Wallet instead of in an email thread."
  },
@@ -8633,10 +8633,10 @@
    ]
   ],
   "price": "$30",
-  "price_note": "Email Outreach Growth · per month for 10,000 emails, email module only, 1 user",
-  "verified": "2026-11-12",
+  "price_note": "Email Outreach Growth · per month for 10,000 emails, email module only, 1 user, warmup…",
+  "verified": "2026-11-18",
   "catch": "The credit numbers on the plan cards shrink once you read the price list.",
-  "best": "Small sales teams and agencies that want a B2B lead database, cold email with unlimited inboxes and warm-up, LinkedIn automation and a basic CRM under one login."
+  "best": "Small sales teams and agencies that want a B2B lead database."
  },
  "StoreLock": {
   "flags": [
@@ -10908,7 +10908,7 @@
   ],
   "price": "$9",
   "price_note": "10,000 credits · per one-time, 10,000 credits $9",
-  "verified": "2026-11-13",
+  "verified": "2026-11-18",
   "catch": "Bulk email verification with credits that never expire; from $9 for 10,000.",
   "best": "Marketers and developers who verify email lists in bursts and want to buy credits once instead of paying a monthly subscription."
  },
@@ -11271,5 +11271,26 @@
   "verified": "2026-11-17",
   "catch": "SEO suite with a free Basic account; Premium from 59.90 EUR a month.",
   "best": "Small businesses, freelancers and agencies that want a website audit, rank tracking and backlink monitoring in one suite, with a free account to start."
+ },
+ "Langwill": {
+  "flags": [
+   [
+    "🆓",
+    "Free tier",
+    "free_tier"
+   ]
+  ],
+  "price": "$9.99",
+  "price_note": "Starter · per month for 30,000 words and 10 languages",
+  "verified": "2026-11-18",
+  "catch": "Translates a Shopify store and converts currencies; free for 5,000 words.",
+  "best": "Shopify merchants who want their store in several languages and currencies without hiring translators, and who can start on a free or $9.99 plan."
+ },
+ "Social Snowball": {
+  "price": "$249",
+  "price_note": "Snow Day · per month plus 3% of affiliate revenue",
+  "verified": "2026-11-18",
+  "catch": "Affiliate, referral and influencer programmes for Shopify; from $249 a month.",
+  "best": "Shopify brands with enough sales to justify $249 or more a month on affiliate, referral and influencer programmes, and that want payouts."
  }
 }
