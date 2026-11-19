@@ -547,12 +547,12 @@
   "tested_on": "2026-11-19",
   "signup_blocked": false,
   "lines": [
-   "Vendor claims checked: 5",
-   "4 confirmed · 1 contradicted",
+   "Vendor claims checked: 6",
+   "5 confirmed · 1 contradicted",
    "Data export: route checked, file not opened"
   ],
-  "alt": "Doba hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 contradicted; Data export: route checked, file not opened",
-  "snippet": "<a href=\"https://marketingandsalessoftware.com/doba-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/doba.svg\" width=\"340\" height=\"115\" alt=\"Doba hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
+  "alt": "Doba hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/doba-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/doba.svg\" width=\"340\" height=\"115\" alt=\"Doba hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "easy-advanced-translations",
@@ -1331,6 +1331,22 @@
   ],
   "alt": "Livestorm hands-on test by Marketing & Sales Software, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/livestorm-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/livestorm.svg\" width=\"340\" height=\"115\" alt=\"Livestorm hands-on test by Marketing &amp; Sales Software, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "localtry",
+  "name": "LocalTry",
+  "review_url": "https://marketingandsalessoftware.com/localtry-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/localtry.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#localtry",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "LocalTry hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/localtry-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/localtry.svg\" width=\"340\" height=\"115\" alt=\"LocalTry hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "loyalino",
@@ -2209,6 +2225,22 @@
   ],
   "alt": "Tapstitch hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 2 not testable · 1 out of date; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/tapstitch-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/tapstitch.svg\" width=\"340\" height=\"115\" alt=\"Tapstitch hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 2 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "teachable",
+  "name": "Teachable",
+  "review_url": "https://marketingandsalessoftware.com/teachable-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/teachable.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#teachable",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "2 confirmed · 1 not comparable · 1 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Teachable hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 1 not comparable · 1 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/teachable-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/teachable.svg\" width=\"340\" height=\"115\" alt=\"Teachable hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 1 not comparable · 1 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "timesact-preorder",

@@ -160,7 +160,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/bidx-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: BidX: €295 for the default report, custom reports quote-only. The number that decides your bill is the one number the page does not print.
-- Price: (re-verified 2026-10-13 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month.
+- Price: (re-verified 2026-11-19 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month.
 
 ## Birch
 - Review: https://marketingandsalessoftware.com/birch-review.html
@@ -292,13 +292,13 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/cloro-review.html
 - Hands-on: tested by us on 2026-08-19
 - Verdict: Cloro: Free is $0 for 500 credits a month, one concurrent job and one seat. The free tier is a sampler, not a trial of the real thing.
-- Price: (prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat.
+- Price: (prices re-read 2026-11-19 on cloro.dev/pricing, identical to 2026-11-09; plan prices unchanged since 2026-09-17, while the 9 November credit table dropped Copilot and Perplexity and added Bing AI Mode) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat.
 
 ## Close
 - Review: https://marketingandsalessoftware.com/close-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: On the day of sign-up the app showed 'Subscribe · 14d left'; no card was asked, but the trial only started after ticking consent to sales calls and texts.
 - Verdict: Close costs $19 to $149 per user a month, or $9 to $139 billed annually. No free plan, a 14-day trial without a card, and workflows start at Growth.
-- Price: (re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling…
+- Price: (re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October and 19 November 2026. No free plan; the trial runs 14 days and close.com states no credit card is required…
 
 ## Cloze CRM
 - Review: https://marketingandsalessoftware.com/cloze-crm-review.html
@@ -812,7 +812,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## LocalTry
 - Review: https://marketingandsalessoftware.com/localtry-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: The same offer for the next 7 days was still shown on 19 November, nine days after the dossier reading.
 - Verdict: LocalTry: Core is $59 a month for 2 users and 1 workspace, Operator is $99 a month for 5 users and 15 workspaces. A card is needed even for the 3-day trial.
 - Price: (read 2026-11-10 on localtry.com/pricing) LocalTry has three plans that all include the same 133 capabilities and differ by team size and workspace count: Core is $59 a month for 2 users and 1 workspace, Operator is $99 a month for 5 users and 15 workspaces, and Scale is $199 a month for 10 users and 50 workspaces. Each plan starts with a 3-day free trial, and the page says to add a card through Stripe and that…
 
@@ -1472,7 +1472,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Teachable
 - Review: https://marketingandsalessoftware.com/teachable-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Advanced $309/mo ($3,708)". What we saw: The plan page lists a fourth self-serve plan, Advanced at $309 a month billed annually, where the dossier names a Custom plan through sales.
 - Verdict: Teachable: Builder is $89 a month, or $69 billed annually. Starter takes 7.5% of every sale on top of the $39 plan.
 - Price: (read 2026-11-02 on teachable.com/pricing, teachable.com/legal/usage-fees and Teachable's help article on transaction fees and bundles; the pricing page says all prices are in US dollars) Teachable has three self-serve plans and a Custom plan. Starter is $39 a month billed monthly, or $29 a month billed annually: 5 published products, 1 admin and a 7.5% transaction fee on your sales.
 

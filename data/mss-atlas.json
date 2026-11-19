@@ -848,15 +848,15 @@
    "entry_price": "€495",
    "entry_price_terms": "Self Service Platform · per month PLUS an unpublished percentage of connected ad spend…",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-13 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month. The tiers differ mainly in how much of a human you get. That is one monthly strategy call on Self Service, up to two calls and up to 10h of assistance a month on Managed Platform, and up to four calls and up to 32h on Managed Service. Amazon DSP is priced separately on the same page: Self Service €495/month and Managed Service €995/month, again plus a percentage of ad spend. Amazon Marketing Cloud is sold as reporting: €295 for the default report, custom reports quote-only. The Share of Voice add-on covers the first 100 keywords free and charges $250 a month per additional 500 keywords. All prices are net with VAT added on top, and the page states that plans are based on an annual commitment paid monthly; the FAQ adds that new customers can take a paid three-month proof-of-concept period first. Walmart Managed Service, high ad-spend volumes and large agencies are contact-sales. Sellers under €10,000 a month in ad spend are pointed to a separate product, BidX Essential, whose own landing page at get.bidx.io/essentials lists $195/month for up to $10K in monthly ad spend — a flat fee with no percentage attached.",
+   "price_note": "(re-verified 2026-11-19 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend. They are Self Service Platform €495/month, Managed Platform €1,995/month and Managed Service €4,995/month. The tiers differ mainly in how much of a human you get. That is one monthly strategy call on Self Service, up to two calls and up to 10h of assistance a month on Managed Platform, and up to four calls and up to 32h on Managed Service. Amazon DSP is priced separately on the same page: Self Service €495/month and Managed Service €995/month, again plus a percentage of ad spend. Amazon Marketing Cloud is sold as reporting: €295 for the default report, custom reports quote-only. The Share of Voice add-on covers the first 100 keywords free and charges $250 a month per additional 500 keywords. All prices are net with VAT added on top, and the page states that plans are based on an annual commitment paid monthly; the FAQ adds that new customers can take a paid three-month proof-of-concept period first. Walmart Managed Service, high ad-spend volumes and large agencies are contact-sales. Sellers under €10,000 a month in ad spend are pointed to a separate product, BidX Essential, whose own landing page at get.bidx.io/essentials lists $195/month for up to $10K in monthly ad spend — a flat fee with no percentage attached.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-10-13 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend.",
-     "evidence_excerpt": "(re-verified 2026-10-13 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified per…",
+     "evidence": "(re-verified 2026-11-19 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified percentage of connected ad spend.",
+     "evidence_excerpt": "(re-verified 2026-11-19 on their own pricing page, EUR view; every figure unchanged since 6 Aug 2026) Amazon PPC is sold in three tiers, and every one of them is a monthly fee plus an unspecified per…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "addons_extra",
@@ -864,7 +864,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "annual_lock",
@@ -872,12 +872,12 @@
      "evidence_excerpt": "All prices are net with VAT added on top, and the page states that plans are based on an annual commitment paid monthly; the FAQ adds that new customers can take a paid three-month proof-of-concept p…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
-   "first_observed_at": "2026-10-13"
+   "price_verified_at": "2026-11-19",
+   "first_observed_at": "2026-11-19"
   },
   {
    "name": "Birch",
@@ -1732,15 +1732,15 @@
    "entry_price": "$30",
    "entry_price_terms": "Lite · per month for 37,500 credits",
    "pricing_status": "public",
-   "price_note": "(prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat. Paid runs Lite $30 (37,500 credits, $0.80 per 1k, 10 concurrent jobs), Hobby $100 (250,000, $0.40, 20 jobs) and Starter $250 (650,000, $0.39, 50 jobs). Above that come Growth $500 (1,350,000, $0.37, 75 jobs) and Business $1,000 (2,800,000, $0.36, 100 jobs). Four self-serve Enterprise steps follow: $2,000 for 5,871,025 credits at $0.34, $3,000 for 9,306,606 at $0.32, $4,000 for 12,756,261 at $0.31 and $5,000 for 16,391,783 at $0.31, where concurrency reaches 255. Seats are unlimited from Lite up. What a request costs varies by engine. ChatGPT full response is 7 credits, ChatGPT web search 5, and AI Overview including the SERP 5. AI Mode, Bing AI Mode and Gemini are 4, and Google Search and Google News 3 plus 2 per extra page. The page states that “sync requests add a +2 credit surcharge” on top of all of those. Engines come and go: Perplexity (3 credits on 17 August 2026, 4 from September) and Copilot (5) are no longer in the table as read on 9 November 2026, after cloro wrote to customers on 7 November that it would discontinue the Copilot endpoint and that Bing AI Mode costs 4 credits. Grok left the table by 19 October 2026. Credits do not roll over: unused credits expire at the end of the billing cycle, and at zero the API returns 403 until you upgrade or the cycle resets.",
+   "price_note": "(prices re-read 2026-11-19 on cloro.dev/pricing, identical to 2026-11-09; plan prices unchanged since 2026-09-17, while the 9 November credit table dropped Copilot and Perplexity and added Bing AI Mode) Credit-metered, and the credit table matters more than the plan price. Free is $0 for 500 credits a month, one concurrent job and one seat. Paid runs Lite $30 (37,500 credits, $0.80 per 1k, 10 concurrent jobs), Hobby $100 (250,000, $0.40, 20 jobs) and Starter $250 (650,000, $0.39, 50 jobs). Above that come Growth $500 (1,350,000, $0.37, 75 jobs) and Business $1,000 (2,800,000, $0.36, 100 jobs). Four self-serve Enterprise steps follow: $2,000 for 5,871,025 credits at $0.34, $3,000 for 9,306,606 at $0.32, $4,000 for 12,756,261 at $0.31 and $5,000 for 16,391,783 at $0.31, where concurrency reaches 255. Seats are unlimited from Lite up. What a request costs varies by engine. ChatGPT full response is 7 credits, ChatGPT web search 5, and AI Overview including the SERP 5. AI Mode, Bing AI Mode and Gemini are 4, and Google Search and Google News 3 plus 2 per extra page. The page states that “sync requests add a +2 credit surcharge” on top of all of those. Engines come and go: Perplexity (3 credits on 17 August 2026, 4 from September) and Copilot (5) are no longer in the table as read on 9 November 2026, after cloro wrote to customers on 7 November that it would discontinue the Copilot endpoint and that Bing AI Mode costs 4 credits. Grok left the table by 19 October 2026. Credits do not roll over: unused credits expire at the end of the billing cycle, and at zero the API returns 403 until you upgrade or the cycle resets.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the credit table matters more than the plan price.",
-     "evidence_excerpt": "(prices re-read 2026-11-09 on cloro.dev/pricing; plan prices unchanged since 2026-09-17, the credit table changed: Copilot and Perplexity are gone and Bing AI Mode is new) Credit-metered, and the cre…",
+     "evidence": "(prices re-read 2026-11-19 on cloro.dev/pricing, identical to 2026-11-09; plan prices unchanged since 2026-09-17, while the 9 November credit table dropped Copilot and Perplexity and added Bing AI Mode) Credit-metered, and the credit table matters more than the plan price.",
+     "evidence_excerpt": "(prices re-read 2026-11-19 on cloro.dev/pricing, identical to 2026-11-09; plan prices unchanged since 2026-09-17, while the 9 November credit table dropped Copilot and Perplexity and added Bing AI Mo…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-09"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "free_tier",
@@ -1748,12 +1748,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-09"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-09",
-   "first_observed_at": "2026-11-09"
+   "price_verified_at": "2026-11-19",
+   "first_observed_at": "2026-11-19"
   },
   {
    "name": "Close",
@@ -1764,36 +1764,36 @@
    "entry_price": "$19",
    "entry_price_terms": "Solo, per user · per month, billed month to month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling and enrichment credits included, and the page carries a 30-day money-back guarantee. AI credits are pooled per tier (500 a month on Solo, then 1,000, 1,500 and 2,000 per user up to 10,000, 15,000 and 20,000). Chloe, the AI sales agent Close now leads the page with, is free to access on every plan but spends those AI credits plus telephony as she works, so she is metered rather than included. Call minutes, SMS and dialer credits are billed separately and can meaningfully raise the real cost: outbound calls run about $0.02 a minute and phone lines start at about $1 a month. The Call Assistant add-on is $50 a month per organisation plus $0.02 a minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org. Premium Phone Numbers are listed as a feature with no price attached.",
+   "price_note": "(re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October and 19 November 2026. No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the page carries a 30-day money-back guarantee. AI credits are pooled per tier (500 a month on Solo, then 1,000, 1,500 and 2,000 per user up to 10,000, 15,000 and 20,000). Chloe, the AI assistant Close now leads the page with, is included on every plan with a weekly chat allowance that resets every Sunday; beyond that, and for AI Agents, AI Enrichment and AI steps in Workflows, she spends those AI credits (plus telephony on calls), so heavy use is metered rather than included. Call minutes, SMS and dialer credits are billed separately and can meaningfully raise the real cost: outbound calls run about $0.02 a minute and phone lines start at about $1 a month. The Call Assistant add-on is $50 a month per account plus $0.02 per recorded minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org. Monthly plans can be changed or cancelled anytime; annual plans can be upgraded during the term, while downgrades and cancellations take effect at the end of the term.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026.",
-     "evidence_excerpt": "(re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually …",
+     "evidence": "(re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October and 19 November 2026.",
+     "evidence_excerpt": "(re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed a…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-19"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "usage_metered",
-     "evidence": "No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling and enrichment credits included, and the page carries a 30-day money-back guarantee.",
-     "evidence_excerpt": null,
+     "evidence": "No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the page carries a 30-day money-back guarantee.",
+     "evidence_excerpt": "No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the pa…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-19"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "addons_extra",
-     "evidence": "The Call Assistant add-on is $50 a month per organisation plus $0.02 a minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org.",
+     "evidence": "The Call Assistant add-on is $50 a month per account plus $0.02 per recorded minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-19"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-19",
-   "first_observed_at": "2026-10-19"
+   "price_verified_at": "2026-11-19",
+   "first_observed_at": "2026-11-19"
   },
   {
    "name": "Cloze CRM",
@@ -2282,7 +2282,7 @@
    "entry_price": "$24",
    "entry_price_terms": "Pro · per month billed annually at $288 -- cheaper than the $39 monthly…",
    "pricing_status": "public",
-   "price_note": "On 18 November 2026 the 'Build my FREE store' button on dropgenius.com sent us to a card form titled 'Pay Securely' on a different domain and brand, app.storebuilder.ai/checkout. It asked for card details for a '7-day trial for just $1. After 7 days, your selected plan renews at $99/month', with Empire ($99) preselected among Starter $39, Pro $59, Empire $99 and Unicorn $299, each $1 for the trial. A 'Get access to Winning Products for $19' add-on and the terms checkbox were already ticked, and a countdown claimed 'Only 26 trial spots left this month due to high demand'. We entered nothing and paid nothing. The monthly prices match the pricing page as re-verified on 19 September 2026 (unchanged since August): Starter $39, Pro $59, Empire $99, Unicorn $299; that page then described a 14-day free trial, which is not what the checkout offered. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). The meter is catalogue size: Starter 25 unique products, Pro 250 unique plus 25 premium, Empire 10,000 and 10,000, Unicorn 25,000 and 25,000. The FAQ on their own homepage, re-read the same day, still quotes an older $39.99-$299.99 range plus a $1.99 one-time store-creation fee, so the marketing copy and the pricing table continue to disagree. Nothing anywhere on the pricing page mentions the Shopify subscription the generated store runs on.",
+   "price_note": "On 18 November 2026 the 'Build my FREE store' button on dropgenius.com sent us to a card form titled 'Pay Securely' on a different domain and brand, app.storebuilder.ai/checkout. It asked for card details for a '7-day trial for just $1. After 7 days, your selected plan renews at $99/month', with Empire ($99) preselected among Starter $39, Pro $59, Empire $99 and Unicorn $299, each $1 for the trial. A 'Get access to Winning Products for $19' add-on and the terms checkbox were already ticked, and a countdown claimed 'Only 26 trial spots left this month due to high demand'. We entered nothing and paid nothing. The monthly prices match the pricing page, re-read on 19 November 2026 at www.dropgenius.com/pricing (the bare dropgenius.com address timed out that day) and unchanged since August: Starter $39, Pro $59, Empire $99, Unicorn $299. That page now labels every plan '7-day free trial' (it said 14 days in September), while the checkout a day earlier asked for $1 and a card for the same seven days. Switch to annual billing and Starter disappears from the table; the rest become Pro $24/mo (billed annually at $288), Empire $57/mo ($684) and Unicorn $79/mo ($948). The meter is catalogue size: Starter 25 unique products, Pro 250 unique plus 25 premium, Empire 10,000 and 10,000, Unicorn 25,000 and 25,000. The FAQ on their own homepage, re-read the same day, still quotes an older $39.99-$299.99 range plus a $1.99 one-time store-creation fee, so the marketing copy and the pricing table continue to disagree. Nothing anywhere on the pricing page mentions the Shopify subscription the generated store runs on.",
    "flags": [
     {
      "flag": "renewal_jump",
@@ -2290,7 +2290,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "addons_extra",
@@ -2298,7 +2298,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-19"
     },
     {
      "flag": "annual_lock",
@@ -2306,11 +2306,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-19"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-18",
+   "price_verified_at": "2026-11-19",
    "first_observed_at": null
   },
   {
