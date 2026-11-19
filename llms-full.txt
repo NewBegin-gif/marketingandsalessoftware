@@ -87,7 +87,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Amplemarket
 - Review: https://marketingandsalessoftware.com/amplemarket-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Amplemarket: The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase.
+- Verdict: Amplemarket's one public price is Startup: $600/mo on an annual term for 2 users. Growth and Elite are custom. European contact data gets the most complaints.
 - Price: (re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial.
 
 ## Assortion
@@ -297,7 +297,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Close
 - Review: https://marketingandsalessoftware.com/close-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: On the day of sign-up the app showed 'Subscribe · 14d left'; no card was asked, but the trial only started after ticking consent to sales calls and texts.
-- Verdict: Close: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually. The built-in calling is the draw.
+- Verdict: Close costs $19 to $149 per user a month, or $9 to $139 billed annually. No free plan, a 14-day trial without a card, and workflows start at Growth.
 - Price: (re-verified 2026-10-19 on close.com/pricing and close.com/pricing.md, unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September and 19 October 2026. No free plan; the trial runs 14 days and close.com states no credit card is required, with $5 of calling…
 
 ## Cloze CRM
@@ -1040,7 +1040,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Positive User
 - Review: https://marketingandsalessoftware.com/positive-user-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: On the yearly view, forms and landing pages on Campaigns cost 29 euro a month, billed yearly. The dossier gave 49 euro on 13 November.
 - Verdict: Positive User: Campaigns is €69 a month billed annually with 1 seat. Every Marketing Suite plan stops at 60,000 emails a year, about 5,000 a month.
 - Price: (read 2026-10-07 on user.com/pricing in a browser render, prices in EUR as the page prints them, billed annually; re-verified 2026-11-13 with a plain fetch) Positive User, the platform formerly called User.com and now part of the French Positive group, sells a Marketing Suite in three plans. Campaigns is €69 a month billed annually with 1 seat: email, SMS and WhatsApp marketing, the drag-and-drop editor, a…
 
