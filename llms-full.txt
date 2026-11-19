@@ -620,7 +620,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## HubSpot
 - Review: https://marketingandsalessoftware.com/hubspot-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The plans page lists credits a month: Starter 5,000, Professional 10,000 and Enterprise 15,000. The dossier names a lower number of credits for each paid plan.
 - Verdict: HubSpot: Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Three numbers on this pricing page are not what they look like.
 - Price: (re-verified 2026-10-09 in a live browser on their own marketing and CRM pricing pages, USD view; first read 2026-08-18, no amount changed in between) Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Starter is advertised at $7 per seat a month against a list price of $20 per seat a month, under a banner reading “Save up to 65% on Starter — new customers only, select offers available…
 
@@ -632,7 +632,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## InboxAlly
 - Review: https://marketingandsalessoftware.com/inboxally-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The pricing page says this and it matches the dossier trial of 10 days without a card. The trial was not started, so the card step was not seen.
 - Verdict: InboxAlly: Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly'.
 - Price: (price re-verified 2026-08-31 against the vendor's own pricing page, read from a European exit, and unchanged on 2026-09-29 and 2026-10-14) Every amount unchanged and confirmed on the plan comparison table, which states 'Pricing in USD, billed monthly': Starter $149/mo (100 seed emails/day, 1 sender profile), Plus $645/mo (500/day, 5 profiles), Premium $1,190/mo (1,000/day, 10 profiles), Enterprise custom (custom…
 
@@ -734,7 +734,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Landingi
 - Review: https://marketingandsalessoftware.com/landingi-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The trial banner showed 14 days and 200 unique visits. After one test visit the counter read 1 out of 200, and Build lifts the limit to 2,000 unique visits.
 - Verdict: Landingi: Build $24/month, Optimize $119/month, Scale from $229/month and Enterprise from $1,199/month. You trade away the high-end optimisation.
 - Price: (re-verified 2026-08-17 and again on 2026-09-28; the English page quotes USD while the same page served from a Dutch address quotes euros at the same numerals, so check your own currency) Four plans, billed annually: Build $24/month, Optimize $119/month, Scale from $229/month and Enterprise from $1,199/month. Annual billing includes two months free against monthly.
 
@@ -945,7 +945,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## OutSends
 - Review: https://marketingandsalessoftware.com/outsends-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: OutSends: Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. The cards do not name their currency.
+- Verdict: OutSends: When we tested on 18 November 2026, a new account started on a Free plan inside the app that the pricing page does not show.
 - Price: (read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts.
 
 ## P2COS
@@ -1238,7 +1238,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Sellfy
 - Review: https://marketingandsalessoftware.com/sellfy-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "Publish product". What we saw: Publish product worked without any payment connection, and the owner preview through View my store showed the product at $5 with a Buy now button.
 - Verdict: Sellfy: Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year. The honest mechanic is the revenue ladder.
 - Price: (re-verified 2026-09-07 and again 2026-09-30) Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year; Business $79 or $59, up to $50k; Premium $159 or $119, up to $200k; above that Sellfy quotes you. Yearly billing saves 25%, there is a 14-day trial, a 30-day money-back guarantee and no free tier.
 
@@ -1274,8 +1274,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Ship.com
 - Review: https://marketingandsalessoftware.com/ship-com-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Ship.com: Growth costs $19.99 a month, or $14 a month on the yearly toggle. Postage is billed on top of every plan, the page shows no postage rates.
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: For a 2 lb box (12 x 10 x 6 in) from 10001 to 94105 the calculator listed 11 services with postage: USPS Ground Advantage $10.15 against $19.80 retail (Save 49%), UPS Ground Saver $10.25, UPS Ground $10.79…
+- Verdict: Ship.com: Growth costs $19.99 a month, or $14 a month on the yearly toggle. Postage is billed on top of every plan, the pricing page shows no postage rates.
 - Price: (read 2026-11-12 on ship.com/pricing, US dollars) Ship.com sells four plans, and you pay postage on top of every one. Starter costs $4.99 a month, is sold monthly only and covers up to 10 shipments a month, discounted rates, email support and one platform integration.
 
 ## Shipdock

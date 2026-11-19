@@ -951,6 +951,38 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/hello-bar-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/hello-bar.svg\" width=\"340\" height=\"115\" alt=\"Hello Bar hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "hubspot",
+  "name": "HubSpot",
+  "review_url": "https://marketingandsalessoftware.com/hubspot-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/hubspot.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#hubspot",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 15",
+   "6 confirmed · 2 contradicted · 2 not comparable · 5 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "HubSpot hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 15; 6 confirmed · 2 contradicted · 2 not comparable · 5 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/hubspot-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/hubspot.svg\" width=\"340\" height=\"115\" alt=\"HubSpot hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 15; 6 confirmed · 2 contradicted · 2 not comparable · 5 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "inboxally",
+  "name": "InboxAlly",
+  "review_url": "https://marketingandsalessoftware.com/inboxally-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/inboxally.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#inboxally",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 11",
+   "9 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "InboxAlly hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 11; 9 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/inboxally-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/inboxally.svg\" width=\"340\" height=\"115\" alt=\"InboxAlly hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 11; 9 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "kedra-ai-index",
   "name": "Kedra AI Index",
   "review_url": "https://marketingandsalessoftware.com/kedra-ai-index-review.html",
@@ -1107,6 +1139,22 @@
   ],
   "alt": "Kumo hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 2 contradicted · 5 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/kumo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kumo.svg\" width=\"340\" height=\"115\" alt=\"Kumo hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 2 contradicted · 5 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "landingi",
+  "name": "Landingi",
+  "review_url": "https://marketingandsalessoftware.com/landingi-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/landingi.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#landingi",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 12",
+   "5 confirmed · 1 contradicted · 3 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Landingi hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 12; 5 confirmed · 1 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/landingi-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/landingi.svg\" width=\"340\" height=\"115\" alt=\"Landingi hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 12; 5 confirmed · 1 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "learnworlds",
@@ -1665,6 +1713,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/scrolly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/scrolly.svg\" width=\"340\" height=\"115\" alt=\"Scrolly hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "sellfy",
+  "name": "Sellfy",
+  "review_url": "https://marketingandsalessoftware.com/sellfy-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/sellfy.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#sellfy",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 14",
+   "8 confirmed · 1 not comparable · 5 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Sellfy hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 14; 8 confirmed · 1 not comparable · 5 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/sellfy-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/sellfy.svg\" width=\"340\" height=\"115\" alt=\"Sellfy hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 14; 8 confirmed · 1 not comparable · 5 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "sender",
   "name": "Sender",
   "review_url": "https://marketingandsalessoftware.com/sender-review.html",
@@ -1727,6 +1791,22 @@
   ],
   "alt": "SEOmatic hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/seomatic-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/seomatic.svg\" width=\"340\" height=\"115\" alt=\"SEOmatic hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "ship-com",
+  "name": "Ship.com",
+  "review_url": "https://marketingandsalessoftware.com/ship-com-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/ship-com.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#ship-com",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 13",
+   "5 confirmed · 2 contradicted · 1 not comparable · 5 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Ship.com hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 1 not comparable · 5 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/ship-com-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/ship-com.svg\" width=\"340\" height=\"115\" alt=\"Ship.com hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 1 not comparable · 5 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "shoptrueprofit",
