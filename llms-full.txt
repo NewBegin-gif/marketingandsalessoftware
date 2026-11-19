@@ -590,7 +590,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## GrapeLeads
 - Review: https://marketingandsalessoftware.com/grapeleads-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "It costs one credit to initiate a search, and one credit for each filtered lead in your results". What we saw: Search 1 used 1 credit for 0 leads, search 3 used 12 credits for 11 leads;…
 - Verdict: GrapeLeads: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51).
 - Price: (re-verified 2026-10-27, read on their own buy-credits page; every amount unchanged since 12 August) Pay-as-you-go credit packs, bought once rather than subscribed to: Freelancer $28 for 50 credits ($0.56 each), Startup $55 for 100 credits ($0.54) and Agency $127 for 250 credits ($0.51). Bulk pricing is on request and signing up gives 20 free credits.
 
@@ -764,7 +764,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Leadpages
 - Review: https://marketingandsalessoftware.com/leadpages-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Plans starting at $49/mo to build and publish. Testing & Optimization features starting at just $99/mo". What we saw: The billing page offers Business EUR 49, Grow EUR 115, Optimize EUR…
 - Verdict: Leadpages, Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access.
 - Price: (re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise and a 7-day free trial that requires a credit card and converts unless you cancel.
 
@@ -1268,7 +1268,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Serpstat
 - Review: https://marketingandsalessoftware.com/serpstat-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "API is unavailable for your plan". What we saw: The trial account shows API credits 0/0 with this line, which matches the dossier: no API on the entry plan.
 - Verdict: Serpstat: Individual $69/month, or $50 on annual billing. The thing you are actually buying is data coverage, and that is the one thing you cannot verify.
 - Price: (2026-07-24, read on their own pricing page) Four plans, and the page opens on the annual view — so the first number you see is not the month-to-month price. Individual $69/month, or $50 on annual billing.
 
