@@ -523,6 +523,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/content-raptor-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/content-raptor.svg\" width=\"340\" height=\"132\" alt=\"Content Raptor sign-up attempt by Marketing &amp; Sales Software, 31 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "doba",
+  "name": "Doba",
+  "review_url": "https://marketingandsalessoftware.com/doba-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/doba.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#doba",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "4 confirmed · 1 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Doba hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/doba-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/doba.svg\" width=\"340\" height=\"115\" alt=\"Doba hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "easy-advanced-translations",
   "name": "Easy Advanced Translations",
   "review_url": "https://marketingandsalessoftware.com/easy-advanced-translations-review.html",
@@ -1205,6 +1221,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/lemlist-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/lemlist.svg\" width=\"340\" height=\"115\" alt=\"lemlist hands-on test by Marketing &amp; Sales Software, 24 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not comparable; Data export: file opened, re-import not tested\"></a>"
  },
  {
+  "slug": "lensmor",
+  "name": "Lensmor",
+  "review_url": "https://marketingandsalessoftware.com/lensmor-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/lensmor.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#lensmor",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "5 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Lensmor hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/lensmor-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/lensmor.svg\" width=\"340\" height=\"115\" alt=\"Lensmor hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "linkshortener-io",
   "name": "LinkShortener.io",
   "review_url": "https://marketingandsalessoftware.com/linkshortener-io-review.html",
@@ -1489,6 +1521,22 @@
   ],
   "alt": "Pippit hands-on test by Marketing & Sales Software, 31 Oct 2026: Vendor claims checked 3; 1 confirmed · 1 not comparable · 1 not testable; Data export: file opened, re-import not tested",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/pippit-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/pippit.svg\" width=\"340\" height=\"115\" alt=\"Pippit hands-on test by Marketing &amp; Sales Software, 31 Oct 2026: Vendor claims checked 3; 1 confirmed · 1 not comparable · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "ploy",
+  "name": "Ploy",
+  "review_url": "https://marketingandsalessoftware.com/ploy-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/ploy.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#ploy",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 2 contradicted · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Ploy hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/ploy-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/ploy.svg\" width=\"340\" height=\"115\" alt=\"Ploy hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 7; 3 confirmed · 2 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "poptin",
