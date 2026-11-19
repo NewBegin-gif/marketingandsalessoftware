@@ -668,7 +668,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Kartra
 - Review: https://marketingandsalessoftware.com/kartra-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Transaction fee 5% of sales". What we saw: The Essentials plan card lists a 5% transaction fee on sales, as the dossier says; the tiers above it list None.
 - Verdict: Kartra: The $119 plan is now called Starter and the $229 plan Growth. If your core need is polished course delivery, Kajabi's creator features are stronger.
 - Price: (re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the same.
 
@@ -1496,7 +1496,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Tradelle
 - Review: https://marketingandsalessoftware.com/tradelle-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Your trial will end on November 26, 2026 and you will be charged $49.99". What we saw: Subscriptions shows Tradelle Starter Monthly Plan $49.99 / month after a 7-day trial, and the Stripe…
 - Verdict: Tradelle: Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year. The subscription is only the start of the bill.
 - Price: (read 2026-11-08 on tradelle.io/pricing, US dollars) Tradelle sells dropshipping product research and order fulfillment in three subscription tiers plus a one-time Lifetime Max. Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year; Starter is $49.99 a month, or $32.50 a month billed as $390 a year; Pro is $79.99 a month, or $54.99 a month billed as $659.88 a year.
 
