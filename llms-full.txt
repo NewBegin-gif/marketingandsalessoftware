@@ -32,7 +32,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Adwave
 - Review: https://marketingandsalessoftware.com/adwave-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: The dossier says the first campaign comes with free starter ads. The sample started at 09:09; at 09:23 it was 0 of 4 finished, and at about 11:10 all 5 phone ads in the Library showed Render failed and…
 - Verdict: Adwave: A top-up can be any amount from $30 to $50,000, with presets of $100, $250 and $1,000. Most of the product sits behind an account.
 - Price: (read 2026-11-09 on waverunner.adwave.com/pricing, the wallet and billing help page) Adwave has no subscription for businesses: you fund a prepaid wallet and live campaigns charge their daily budget from it. A top-up can be any amount from $30 to $50,000, with presets of $100, $250 and $1,000.
 

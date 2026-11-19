@@ -16,6 +16,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/addresshero-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/addresshero.svg\" width=\"340\" height=\"115\" alt=\"AddressHero hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 1 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "adwave",
+  "name": "Adwave",
+  "review_url": "https://marketingandsalessoftware.com/adwave-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/adwave.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#adwave",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "4 confirmed · 1 contradicted · 1 not comparable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Adwave hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 contradicted · 1 not comparable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/adwave-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/adwave.svg\" width=\"340\" height=\"115\" alt=\"Adwave hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 contradicted · 1 not comparable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "agencyanalytics",
   "name": "AgencyAnalytics",
   "review_url": "https://marketingandsalessoftware.com/agencyanalytics-review.html",
