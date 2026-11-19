@@ -161,7 +161,7 @@ LocalTry,Sales & CRM,localtry.com,,,https://aibuildermarketplace.com/b2b/localtr
 Loyalino,E-commerce,loyalino.io,,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/loyalino-review/,2026-07,$29,a month or $290 a year (up to 500 orders),public,2026-10-14
 LumenCart,E-commerce,lumencart.fleeta.co.uk,9.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/lumencart-review/,2026-07,$9,per month (75 credits/mo),public,2026-11-17
 Lusha,Sales & CRM,lusha.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/lusha-review/,2026-07,$37.45,"Starter · per month billed yearly, 4,800 credits a year granted upfront, 1 seat",public,2026-10-10
-MailVeri,Marketing,mailveri.com,,usage_metered,https://aibuildermarketplace.com/b2b/mailveri-review/,2026-07,$9,"10,000 credits · per one-time, 10,000 credits $9",public,2026-11-18
+MailVeri,Marketing,mailveri.com,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/mailveri-review/,2026-07,$9,"10,000 credits · per one-time, 10,000 credits $9",public,2026-11-18
 ManyChat,Growth & Revenue,manychat.com,17.0,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/manychat-review/,2026-07,$17,"per month, or $14/mo billed annually, at 250 contacts",public,2026-09-25
 MarketerHire,Growth & Revenue,marketerhire.com,,quote_only,https://aibuildermarketplace.com/b2b/marketerhire-review/,2026-07,,,quote_only,2026-10-23
 Marketing 360,Growth & Revenue,marketing360.com,,quote_only|usage_metered,https://aibuildermarketplace.com/b2b/marketing-360-review/,2026-07,,,quote_only,2026-10-23
@@ -187,7 +187,7 @@ Optizen,Growth & Revenue,optizenapp.com,9.99,usage_metered|free_tier,https://aib
 Outgrow,Growth & Revenue,outgrow.co,22.0,annual_lock,https://aibuildermarketplace.com/b2b/outgrow-review/,2026-07,$22,per month or $14/mo billed annually,public,2026-09-30
 OutSends,Sales & CRM,outsends.com,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/outsends-review/,2026-07,$19,"Starter · billed monthly, excluding VAT",public,2026-10-17
 P2COS,Sales & CRM,p2cos.com,19.99,,https://aibuildermarketplace.com/b2b/p2cos-review/,2026-07,$19.99,Starter · Standard monthly prices,public,2026-11-11
-PageFly,E-commerce,pagefly.io,24.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pagefly-review/,2026-07,$24,"Builder · per month for 5 published pages or sections and 80 AI credits, billed…",public,2026-11-17
+PageFly,E-commerce,pagefly.io,24.0,usage_metered,https://aibuildermarketplace.com/b2b/pagefly-review/,2026-07,$24,"Builder · per month for 5 published pages or sections and 80 AI credits, billed…",public,2026-11-17
 PagePulse,Marketing,getpagepulse.io,29.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/pagepulse-review/,2026-07,$29,a month billed annually ($36 billed monthly) for two pages,public,2026-10-16
 Pangram,Operations & Workflow,pangram.com,20.0,per_seat|usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pangram-review/,2026-07,$20,per month ($15 billed yearly),public,2026-09-30
 Parallel AI,Growth & Revenue,parallellabs.app,29.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/parallel-ai-review/,2026-07,$29,"Starter · Starter billed monthly, unlimited AI work and leads under fair use…",public,2026-11-03
