@@ -1015,6 +1015,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/inboxally-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/inboxally.svg\" width=\"340\" height=\"115\" alt=\"InboxAlly hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 11; 9 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "indiemade",
+  "name": "IndieMade",
+  "review_url": "https://marketingandsalessoftware.com/indiemade-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/indiemade.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#indiemade",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "1 confirmed · 1 not comparable · 2 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "IndieMade hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/indiemade-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/indiemade.svg\" width=\"340\" height=\"115\" alt=\"IndieMade hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "kedra-ai-index",
   "name": "Kedra AI Index",
   "review_url": "https://marketingandsalessoftware.com/kedra-ai-index-review.html",

@@ -638,7 +638,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## IndieMade
 - Review: https://marketingandsalessoftware.com/indiemade-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Plan & Billing showed Free trial, 30 days left, free until Dec 19, 2026, and No payment method on file; the product was added and published without any card step.
 - Verdict: IndieMade lists two plans, Essential and Plus. The pricing page no longer shows plan prices, so you only see the cost at signup.
 - Price: (read 2026-11-09 on indiemade.com/plans-pricing) IndieMade lists two plans, Essential and Plus, and every plan starts with a 30-day free trial that needs no credit card. The pricing page now says the live plan lineup is shown at signup, so we cannot quote a current monthly price; an earlier reading on 16 October 2026 showed Essential at $15 a month and Plus at $25 a month, with lower rates billed annually, but…
 
