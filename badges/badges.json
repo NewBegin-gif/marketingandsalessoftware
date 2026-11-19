@@ -330,6 +330,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/brandye-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/brandye.svg\" width=\"340\" height=\"115\" alt=\"Brandye hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "callrail",
+  "name": "CallRail",
+  "review_url": "https://marketingandsalessoftware.com/callrail-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/callrail.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#callrail",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 12",
+   "5 confirmed · 6 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "CallRail hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 12; 5 confirmed · 6 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/callrail-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/callrail.svg\" width=\"340\" height=\"115\" alt=\"CallRail hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 12; 5 confirmed · 6 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "campaign-monitor",
   "name": "Campaign Monitor",
   "review_url": "https://marketingandsalessoftware.com/campaign-monitor-review.html",
@@ -1919,6 +1935,23 @@
   ],
   "alt": "SoftSync hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/softsync-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/softsync.svg\" width=\"340\" height=\"115\" alt=\"SoftSync hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "stampezee",
+  "name": "Stampezee",
+  "review_url": "https://marketingandsalessoftware.com/stampezee-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/stampezee.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#stampezee",
+  "tested_on": "2026-11-18",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 6",
+   "2 confirmed · 4 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Stampezee sign-up attempt by Marketing & Sales Software, 18 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 6; 2 confirmed · 4 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/stampezee-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/stampezee.svg\" width=\"340\" height=\"132\" alt=\"Stampezee sign-up attempt by Marketing &amp; Sales Software, 18 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 6; 2 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "storeseo",

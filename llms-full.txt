@@ -236,7 +236,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## CallRail
 - Review: https://marketingandsalessoftware.com/callrail-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "No numbers available for that area code". What we saw: The area code 212 gave this message in a red field and the button Number routing stayed grey. The area code 415 typed right after…
 - Verdict: CallRail: On yearly billing the same four read $50, $95, $150 and $195 a month (the page states 'Save up to 10% with a yearly plan').
 - Price: Four plans, read on callrail.com/pricing on 13 October 2026 in a live browser, each 'plus additional usage': Lead Tracking $55 a month, Lead Tracking Complete $105, Lead Conversion $165 and Lead Conversion Complete $215; on yearly billing the same four read $50, $95, $150 and $195 a month (the page states 'Save up to 10% with a yearly plan'). Every plan includes 5 local numbers, 250 local minutes and 25 text…
 
