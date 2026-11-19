@@ -614,7 +614,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## HighLevel
 - Review: https://marketingandsalessoftware.com/highlevel-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Billing says the card is charged automatically when the trial ends; the cancellation flow gives 3 December as the trial end. The dossier says billing begins automatically at the end of the trial unless you…
 - Verdict: HighLevel: Starter costs $97 a month ($970 a year) and is meant for one business or a few clients. The headline plan price is only part of the bill.
 - Price: (read 2026-11-07 on gohighlevel.com/pricing) HighLevel sells its agency CRM and marketing-automation platform in three published plans plus a custom Enterprise plan. Starter costs $97 a month ($970 a year) and is meant for one business or a few clients; the FAQ says it includes 3 sub-accounts.
 
@@ -650,7 +650,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## Instapage
 - Review: https://marketingandsalessoftware.com/instapage-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: After cancelling, Subscription said the plan features stay until 3 DEC 2026 and the first billing date became N/A.
 - Verdict: Instapage does publish plan prices; they are not on the URL we had recorded. The 14-day trial needs a card and carries its own cap of 2,500 visitors.
 - Price: (re-verified 24 Sep 2026; amounts unchanged since 4 Sep) Instapage does publish plan prices; they are not on the URL we had recorded. instapage.com/en/pricing redirects to the homepage at instapage.com/lp, and the plan table sits at instapage.com/plans.
 
@@ -1502,7 +1502,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## TrueReview
 - Review: https://marketingandsalessoftware.com/truereview-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Cancelling on 19 November ended the trial at once; Billing then asked for a card to start a new trial. The dossier only says to cancel at least 24 hours before renewal.
 - Verdict: TrueReview: Small Business $99, or $59 yearly ($708). The yearly discount is steep but the terms make every payment non-refundable.
 - Price: (read 2026-10-15 on truereview.co/pricing with the Monthly and Yearly toggles, and on its help-centre price list for request add-ons) TrueReview has three plans. Starter is $49 a month, or $29 a month on a yearly plan ($348 a year); Small Business $99, or $59 yearly ($708); Premium $299, or $179 yearly ($2,148).
 
@@ -1556,7 +1556,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 
 ## VoiceDrop
 - Review: https://marketingandsalessoftware.com/voicedrop-review.html
-- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "$995/mo Billed Monthly". What we saw: The Growth upgrade card shows 15.000 Units for $995/mo Billed Monthly, the same as the dossier Growth plan of $995 for 15,000 units.
 - Verdict: VoiceDrop sells ringless voicemail by usage units. The callback rates on the page are the vendor's own and cannot be checked.
 - Price: (read 2026-11-15 on voicedrop.ai/pricing and the home page FAQ, US dollars a month) VoiceDrop sells ringless voicemail by usage units. Budget costs $95 a month for 500 units and 1,000 static voicemails, with one voice clone seat and no account manager.
 

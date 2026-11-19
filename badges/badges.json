@@ -999,6 +999,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/hello-bar-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/hello-bar.svg\" width=\"340\" height=\"115\" alt=\"Hello Bar hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "highlevel",
+  "name": "HighLevel",
+  "review_url": "https://marketingandsalessoftware.com/highlevel-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/highlevel.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#highlevel",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "4 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "HighLevel hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/highlevel-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/highlevel.svg\" width=\"340\" height=\"115\" alt=\"HighLevel hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "hubspot",
   "name": "HubSpot",
   "review_url": "https://marketingandsalessoftware.com/hubspot-review.html",
@@ -1045,6 +1061,22 @@
   ],
   "alt": "IndieMade hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/indiemade-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/indiemade.svg\" width=\"340\" height=\"115\" alt=\"IndieMade hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 1 confirmed · 1 not comparable · 2 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "instapage",
+  "name": "Instapage",
+  "review_url": "https://marketingandsalessoftware.com/instapage-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/instapage.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#instapage",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "4 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Instapage hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/instapage-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/instapage.svg\" width=\"340\" height=\"115\" alt=\"Instapage hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 4 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "kedra-ai-index",
@@ -2211,6 +2243,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/track123-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/track123.svg\" width=\"340\" height=\"115\" alt=\"Track123 hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "truereview",
+  "name": "TrueReview",
+  "review_url": "https://marketingandsalessoftware.com/truereview-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/truereview.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#truereview",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "TrueReview hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/truereview-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/truereview.svg\" width=\"340\" height=\"115\" alt=\"TrueReview hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "try-you",
   "name": "Try You",
   "review_url": "https://marketingandsalessoftware.com/try-you-review.html",
@@ -2273,6 +2321,22 @@
   ],
   "alt": "Vify Order Printer hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/vify-order-printer-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vify-order-printer.svg\" width=\"340\" height=\"115\" alt=\"Vify Order Printer hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "voicedrop",
+  "name": "VoiceDrop",
+  "review_url": "https://marketingandsalessoftware.com/voicedrop-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/voicedrop.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#voicedrop",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 5",
+   "2 confirmed · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "VoiceDrop hands-on test by Marketing & Sales Software, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/voicedrop-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/voicedrop.svg\" width=\"340\" height=\"115\" alt=\"VoiceDrop hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 5; 2 confirmed · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "vyreel",
