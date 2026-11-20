@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent reviews of marketing, sales, e-commerce and growth software. 263 full reviews live here as the canonical version, 163 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-19.
+> Independent reviews of marketing, sales, e-commerce and growth software. 265 full reviews live here as the canonical version, 164 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-20.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -34,7 +34,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Build a Repeatable Content Workflow](https://marketingandsalessoftware.com/build-content-engine.html): Build a repeatable research, creation, distribution and newsletter workflow with reviewed tools, documented limits and dated evidence.
 - [Build a Shopify Store Workflow (2026)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): Plan a Shopify store workflow by task: theme, fulfilment, campaign pages, reviews and post-purchase offers, with documented fit and costs.
 
-## Tested hands-on (163): first-hand findings
+## Tested hands-on (164): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
 - [Adwave](https://marketingandsalessoftware.com/adwave-review.html): tested 2026-11-19. Measured 2026-11-19: The dossier says the first campaign comes with free starter ads. The sample started at 09:09; at 09:23 it was 0 of 4 finished, and at about 11:10 all 5 phone ads in the Library showed Render failed and…
 - [Doba](https://marketingandsalessoftware.com/doba-review.html): tested 2026-11-19. Measured 2026-11-19: With Quarterly selected the pricing page shows Basic at $57.00 a month, billed quarterly, with a 7-day Trial for US$ 0.99. The trial window from Add to Inventory List showed Basic, Billed quarterly, 7-day…
@@ -127,6 +127,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [SocialDesk](https://marketingandsalessoftware.com/socialdesk-review.html): tested 2026-11-17. Measured 2026-11-17: The account showed 7 days left in its free trial with the trial ending on 24 November, and no card, phone number or call was asked in the app.
 - [StoreSEO](https://marketingandsalessoftware.com/storeseo-review.html): tested 2026-11-17. Measured 2026-11-17: The plan step says every plan starts with a 7-day free trial, but the Subscribe path for Lite showed a first charge of $3,99 due 17 Nov on the Shopify screen with no trial; the link Try free for 7 days was…
 - [Storista](https://marketingandsalessoftware.com/storista-review.html): tested 2026-11-17. Measured 2026-11-17: The Growth card on the plan page says Auto captions 60 languages; the dossier says auto captions in 40 languages. No caption was made, so the real number of languages was not tried.
+- [Tapita AI SEO Blog Builder](https://marketingandsalessoftware.com/tapita-ai-seo-blog-builder-review.html): tested 2026-11-17. Measured 2026-11-17: The listing price is Free, as in the dossier. In our test (17 Nov 2026) the create form showed 55 AI credits, the dashboard showed Published posts 0 / 1, and a banner said GEO Studio is free while AI…
 - [Tapita SEO Optimizer](https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html): tested 2026-11-17. Measured 2026-11-17: Text we checked: "Alt updated!". What we saw: Optimize on one image gave an AI alt text in the window Alt updated! with 5 AI credits available, written to the store at once for that one image; the alt text…
 - [Tapstitch](https://marketingandsalessoftware.com/tapstitch-review.html): tested 2026-11-17. Measured 2026-11-17: Text we checked: "1-5 Pieces €5.45", "6-29 Pieces €5.18", "30-99 Pieces €4.91", "≥ 100 Pieces €4.36". What we saw: On the product page of the Essential Cotton T-Shirt the unit price was EUR 5.45 for 1 to 5…
 - [Timesact Preorder](https://marketingandsalessoftware.com/timesact-preorder-review.html): tested 2026-11-17. Measured 2026-11-17: Text we checked: "Small Shopify stores with occasional pre-order drops". What we saw: About 4 minutes and about 24 steps after the install, one pre-order for one product showed in the theme editor preview…
@@ -200,7 +201,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [PartnerStack](https://marketingandsalessoftware.com/partnerstack-review.html): tested 2026-08-26
 - [Cloro](https://marketingandsalessoftware.com/cloro-review.html): tested 2026-08-19
 
-## Reviews (263) — canonical versions
+## Reviews (265) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [ActiveCampaign Review (2026): From $15/mo, Tested Sep 2026](https://marketingandsalessoftware.com/activecampaign-review.html) (tested hands-on): ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
@@ -443,10 +444,12 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [SurveySparrow Review (2026): No Monthly Billing, Only Quarterly](https://marketingandsalessoftware.com/surveysparrow-review.html) (tested hands-on): SurveySparrow: On quarterly billing those same three plans are $39, $59 and $149 a month, roughly double. The conversational-survey UX is the draw.
 - [Systeme.io Review (Tested Nov 2026): Free to 2,000 Contacts](https://marketingandsalessoftware.com/systeme-io-review.html) (tested hands-on): Systeme.io, Free $0: 2,000 contacts, 3 sales funnels with 15 funnel steps, 1 website, 1 blog, 1 course, 1 affiliate program. Plans are metered on cont
 - [Tapform Review (2026): Lead Forms, Free Tier Capped at 5 Leads](https://marketingandsalessoftware.com/tapform-review.html) (tested hands-on): Tapform: Free $0.00 and Unlimited $4.99 a month billed monthly, unchanged. The free plan stops at 5 leads a month on one form.
+- [Tapita AEO/GEO AI Blog Review (Tested 2026): Free to Install](https://marketingandsalessoftware.com/tapita-ai-seo-blog-builder-review.html) (tested hands-on): Tapita AI SEO Blog Builder: The free tier's own allowance is gone from the page too. Publishing volume is the trap this tool makes cheap.
 - [Tapita SEO Optimizer Review: Your Shopify Plan Sets the Price](https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html) (tested hands-on): Tapita SEO Optimizer: Free, Business at $9.99 a month and Premium at $49.99 a month. The price on the listing is a Shopify-Basic price.
 - [Tapstitch Review (2026): No Subscription, Tested Nov 2026](https://marketingandsalessoftware.com/tapstitch-review.html) (tested hands-on): Tapstitch: In US dollars their 'from' prices run from $2.99 to $38.99, median $14.99, at fabric weights from 91 to 760 gsm.
 - [Teachable Review (2026): Plans From $39/mo, 7.5% Fee on Starter](https://marketingandsalessoftware.com/teachable-review.html) (tested hands-on): Teachable: Builder is $89 a month, or $69 billed annually. Starter takes 7.5% of every sale on top of the $39 plan.
 - [Timesact Preorder Review (2026): Free to 20 Orders, Tested](https://marketingandsalessoftware.com/timesact-preorder-review.html) (tested hands-on): Timesact Preorder: Free costs $0 and covers 20 orders a month on unlimited products. The Fixed price depends on your Shopify plan, not on what you use
+- [TiXel Review (2026): It Works, or It Tracks Nothing](https://marketingandsalessoftware.com/tixel-review.html): TiXel: Unlimited Plan is $19.99 a month, or $119.94 a year at a stated 50% saving. The rating is the most useful number on this listing.
 - [TnC Review (2026): The Free Plan Is Dev Stores Only](https://marketingandsalessoftware.com/tnc-review.html): TnC: Basic is $4.99 a month ($47.90 a year), Advanced $9.99 ($83.92) and Pro $14.99 ($89.94), each with a 7 day free trial.
 - [Track123 Review (2026): $9 for 300 Orders, Then 5 Cents Each](https://marketingandsalessoftware.com/track123-review.html) (tested hands-on): Track123: Three published plans plus Enterprise, priced on synced orders a month. The overage is the most expensive order on the ladder.
 - [Tradelle Review (2026): Dropshipping Research, From $19.99/mo](https://marketingandsalessoftware.com/tradelle-review.html) (tested hands-on): Tradelle: Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year. The subscription is only the start of the bill.

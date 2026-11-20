@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 263 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-19.
+> All 265 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-20.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -1458,6 +1458,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Tapform: Free $0.00 and Unlimited $4.99 a month billed monthly, unchanged. The free plan stops at 5 leads a month on one form.
 - Price: (read 2026-10-18 in a browser on tapform.com/pricing in the monthly and yearly view; the page shows $ without naming a currency) Two plans. Free is $0.00 a month: 5 leads a month, 1 form, 1 workspace, 1 user, 100 MB of storage, 15+ templates, the embed code and email lead notifications.
 
+## Tapita AI SEO Blog Builder
+- Review: https://marketingandsalessoftware.com/tapita-ai-seo-blog-builder-review.html
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The listing price is Free, as in the dossier. In our test (17 Nov 2026) the create form showed 55 AI credits, the dashboard showed Published posts 0 / 1, and a banner said GEO Studio is free while AI…
+- Verdict: Tapita AI SEO Blog Builder: The free tier's own allowance is gone from the page too. Publishing volume is the trap this tool makes cheap.
+- Price: (read 2026-11-17 on apps.shopify.com/tapita-ai-seo-blog-builder and in our own test that day; earlier: re-read 2026-09-19 on apps.shopify.com/tapita-ai-seo-blog-builder, and again on 2026-10-15 with the same result: no plan block, the header Price field reads Free, and the only dollar figure on the page, $39 a month, belongs to another app in the “More apps like this” rail) The paid tier has left the listing.…
+
 ## Tapita SEO Optimizer
 - Review: https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Alt updated!". What we saw: Optimize on one image gave an AI alt text in the window Alt updated! with 5 AI credits available, written to the store at once for that one image; the alt text…
@@ -1481,6 +1487,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "Small Shopify stores with occasional pre-order drops". What we saw: About 4 minutes and about 24 steps after the install, one pre-order for one product showed in the theme editor preview…
 - Verdict: Timesact Preorder: Free costs $0 and covers 20 orders a month on unlimited products. The Fixed price depends on your Shopify plan, not on what you use.
 - Price: (read 2026-09-25, re-read 2026-10-21 without changes, on timesact.com/pages/pricing, including its volume selector and yearly toggle, and on the Shopify App Store listing apps.shopify.com/timesact-discount-pre-order, which shows the same figures) Two families of plans, all billed in USD through Shopify every 30 days with no transaction fees. Free costs $0 and covers 20 orders a month on unlimited products,…
+
+## TiXel
+- Review: https://marketingandsalessoftware.com/tixel-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: TiXel: Unlimited Plan is $19.99 a month, or $119.94 a year at a stated 50% saving. The rating is the most useful number on this listing.
+- Price: (re-verified 2026-11-02 on apps.shopify.com/tixel) One paid plan and no ladder to climb, and the amounts are unchanged since 22 August 2026. Unlimited Plan is $19.99 a month, or $119.94 a year at a stated 50% saving, and carries unlimited pixels, server-side Events API pixels, regular pixels via pixel code, pixels scoped to specific products, automatic event triggers with no manual event configuration, accurate…
 
 ## TnC
 - Review: https://marketingandsalessoftware.com/tnc-review.html

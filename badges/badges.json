@@ -2259,6 +2259,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/tapform-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/tapform.svg\" width=\"340\" height=\"115\" alt=\"Tapform hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 7; 6 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "tapita-ai-seo-blog-builder",
+  "name": "Tapita AI SEO Blog Builder",
+  "review_url": "https://marketingandsalessoftware.com/tapita-ai-seo-blog-builder-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/tapita-ai-seo-blog-builder.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#tapita-ai-seo-blog-builder",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 10",
+   "1 confirmed · 1 contradicted · 1 not comparable · 6 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Tapita AI SEO Blog Builder hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 10; 1 confirmed · 1 contradicted · 1 not comparable · 6 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/tapita-ai-seo-blog-builder-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/tapita-ai-seo-blog-builder.svg\" width=\"340\" height=\"115\" alt=\"Tapita AI SEO Blog Builder hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 10; 1 confirmed · 1 contradicted · 1 not comparable · 6 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "tapita-seo-optimizer",
   "name": "Tapita SEO Optimizer",
   "review_url": "https://marketingandsalessoftware.com/tapita-seo-optimizer-review.html",
@@ -2321,6 +2337,23 @@
   ],
   "alt": "Timesact Preorder hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 10; 6 confirmed · 1 not comparable · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/timesact-preorder-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/timesact-preorder.svg\" width=\"340\" height=\"115\" alt=\"Timesact Preorder hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 10; 6 confirmed · 1 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "tixel",
+  "name": "TiXel",
+  "review_url": "https://marketingandsalessoftware.com/tixel-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/tixel.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#tixel",
+  "tested_on": "2026-11-17",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 4",
+   "3 confirmed · 1 contradicted",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "TiXel sign-up attempt by Marketing & Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 4; 3 confirmed · 1 contradicted; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/tixel-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/tixel.svg\" width=\"340\" height=\"132\" alt=\"TiXel sign-up attempt by Marketing &amp; Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 4; 3 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "track123",
