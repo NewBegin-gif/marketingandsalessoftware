@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent reviews of marketing, sales, e-commerce and growth software. 265 full reviews live here as the canonical version, 164 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-20.
+> Independent reviews of marketing, sales, e-commerce and growth software. 266 full reviews live here as the canonical version, 164 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-20.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -201,7 +201,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [PartnerStack](https://marketingandsalessoftware.com/partnerstack-review.html): tested 2026-08-26
 - [Cloro](https://marketingandsalessoftware.com/cloro-review.html): tested 2026-08-19
 
-## Reviews (265) — canonical versions
+## Reviews (266) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [ActiveCampaign Review (2026): From $15/mo, Tested Sep 2026](https://marketingandsalessoftware.com/activecampaign-review.html) (tested hands-on): ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
@@ -322,6 +322,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Koala Bundles Review (2026): The Cap Counts the Whole Bundle](https://marketingandsalessoftware.com/koala-bundles-review.html) (tested hands-on): Koala Bundles: Scale Koala is $19.99 a month or $191.88 a year for up to $5,000. The meter is revenue, and it counts more of it than you might expect.
 - [Koala Gifts Review (2026): Your Shopify Plan Sets the Price](https://marketingandsalessoftware.com/koala-gifts-review.html) (tested hands-on): Koala Gifts: Basic is $9.99 a month or $95.88 a year, Shopify $29.99 or $287.88, Advanced $49.99 or $479.88. The fee does not move by itself.
 - [Koongo Review (Tested): From $39/mo Plus Item Surcharges](https://marketingandsalessoftware.com/koongo-review.html) (tested hands-on): Koongo: Lite is $39 a month and updates every 6 hours, Starter is $79 and updates every 30 minutes. The headline price is a base, not a bill.
+- [KudosCRM Review (2026): Free CRM, Paid From $9 a Seat](https://marketingandsalessoftware.com/kudoscrm-review.html): KudosCRM: Basic costs $9 per seat a month billed yearly or $12 monthly. The Free plan allows 1 pipeline and 3 seats.
 - [Kumo Review (2026): From $15/mo, Tested Nov 2026](https://marketingandsalessoftware.com/kumo-review.html) (tested hands-on): Kumo: B2B at $15 a month and PLUS at $30, both with a 7-day free trial, billed in USD every 30 days. Five stars over nine reviews is not a track recor
 - [Landingi Review (2026): From $24/mo, Tested Nov 2026](https://marketingandsalessoftware.com/landingi-review.html) (tested hands-on): Landingi: Build $24/month, Optimize $119/month, Scale from $229/month and Enterprise from $1,199/month. You trade away the high-end optimisation.
 - [LangShop Review (2026): From $10/mo, Checked Nov 2026](https://marketingandsalessoftware.com/langshop-review.html): LangShop: Basic is $10 a month or $100 a year, Standard $40 or $400, Advanced $75 or $750 and Pro $120 or $1,200. The headline promise is 'unlimited w
