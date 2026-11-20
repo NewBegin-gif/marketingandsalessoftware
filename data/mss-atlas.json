@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 331,
-  "flags": 502,
+  "flags": 503,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -3664,15 +3664,15 @@
    "entry_price": "$29",
    "entry_price_terms": "per person a month on annual billing ($49 month-to-month)",
    "pricing_status": "public",
-   "price_note": "(re-verified 19 September 2026 on the public pricing page; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI funnel builder, and involve.me branding on every page. No team seats at all. The pricing FAQ does publish the number that decides when it runs out: a free account runs to 50 submissions or 500 visits a month, and if you reach that without upgrading your funnels lock until the next calendar month starts. Paid, per person per month, annual against monthly: Start $29 / $49 with 3 live funnels and 1 user, Grow $69 / $99 with 5 funnels and 2 users, Scale $139 / $199 with 25 funnels, 5 users, A/B testing and lead verification. Enterprise is from $499/mo on annual contracts only. In the app the same tiers are priced in euros — €29, €69, €139 — and the annual toggle says “save up to 41%” where the public page says 40%. Two meters that decide more than the funnel count does are still missing from the tier pages: funnel visits a month (10,000 / 25,000 / 100,000) and contacts collected a month (300 / 1,000 / 3,000); the AI-credit allowance (50 / 100 / 300) is on the public comparison table. Each is toppable: +5,000 visits €8.33, +200 contacts €8.33, +250 AI credits €7.50, +1 seat €7.50, +5 live funnels €7.50. Prices exclude EU VAT. Every tier is higher than at the 17 Jul 2026 reading, when Start was $19/mo annual and $29 month-to-month.",
+   "price_note": "(re-verified 20 November 2026 on the public pricing page, amounts unchanged since 19 September; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI funnel builder, and involve.me branding on every page. No team seats at all. The pricing FAQ does publish the number that decides when it runs out: a free account runs to 50 submissions or 500 visits a month, and if you reach that without upgrading your funnels lock until the next calendar month starts. The same FAQ, re-read 20 November 2026, adds three limits: funnels on Free collect up to 25 new contacts a month, Free includes no AI credits (the AI Agent still runs on its Light and Balanced effort levels), and email workflows are on paid plans only. Paid, per person per month, annual against monthly: Start $29 / $49 with 3 live funnels and 1 user, Grow $69 / $99 with 5 funnels and 2 users, Scale $139 / $199 with 25 funnels, 5 users, A/B testing and lead verification. Enterprise is from $499/mo on annual contracts only. In the app the same tiers are priced in euros — €29, €69, €139 — and the annual toggle says “save up to 41%” where the public page says 40%. Two meters that decide more than the funnel count does are still missing from the tier pages: funnel visits a month (10,000 / 25,000 / 100,000) and contacts collected a month (300 / 1,000 / 3,000); the AI-credit allowance is on the public comparison table, 50 / 100 / 300 a month, and on the yearly toggle the cards print 100 / 200 / 600 with the note 2x vs. monthly (read 20 November 2026). Each is toppable: +5,000 visits €8.33, +200 contacts €8.33, +250 AI credits €7.50, +1 seat €7.50, +5 live funnels €7.50. Prices exclude EU VAT. Every tier is higher than at the 17 Jul 2026 reading, when Start was $19/mo annual and $29 month-to-month. On 20 November 2026 the yearly cards also showed a Black Friday price of $34.50/mo on Grow and $69.50/mo on Scale; the page prints no end date, so treat it as a promotion and not as the list price.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Two meters that decide more than the funnel count does are still missing from the tier pages: funnel visits a month (10,000 / 25,000 / 100,000) and contacts collected a month (300 / 1,000 / 3,000); the AI-credit allowance (50 / 100 / 300) is on the public comparison table.",
+     "evidence": "Two meters that decide more than the funnel count does are still missing from the tier pages: funnel visits a month (10,000 / 25,000 / 100,000) and contacts collected a month (300 / 1,000 / 3,000); the AI-credit allowance is on the public comparison table, 50 / 100 / 300 a month, and on the yearly toggle the cards print 100 / 200 / 600 with the note 2x vs.",
      "evidence_excerpt": "Two meters that decide more than the funnel count does are still missing from the tier pages: funnel visits a month (10,000 / 25,000 / 100,000) and contacts collected a month (300 / 1,000 / 3,000); t…",
      "source_url": "https://www.involve.me/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "annual_lock",
@@ -3680,19 +3680,19 @@
      "evidence_excerpt": null,
      "source_url": "https://www.involve.me/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 19 September 2026 on the public pricing page; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI funnel builder, and involve.me branding on every page.",
-     "evidence_excerpt": "(re-verified 19 September 2026 on the public pricing page; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is…",
+     "evidence": "(re-verified 20 November 2026 on the public pricing page, amounts unchanged since 19 September; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI funnel builder, and involve.me branding on every page.",
+     "evidence_excerpt": "(re-verified 20 November 2026 on the public pricing page, amounts unchanged since 19 September; the free plan's feature set was measured inside the product, because the plan cards still do not state …",
      "source_url": "https://www.involve.me/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": null
   },
   {
@@ -7258,7 +7258,7 @@
    "entry_price": "$50",
    "entry_price_terms": "Individual · per month on annual billing",
    "pricing_status": "public",
-   "price_note": "(2026-07-24, read on their own pricing page) Four plans, and the page opens on the annual view — so the first number you see is not the month-to-month price. Individual $69/month, or $50 on annual billing. Team $129, or $100 annually. Team x2 $209, or $169. Agency $499, or $410. There is a hidden middle step: two dropdowns inside the Team column (position checks 50,000 or 99,999, API credits 200,000 or 400,000) move Team to $169/month monthly or $135 annually, so Team is really three price points. Seats are capped rather than sold: Individual is single-user, Team 3, Team x2 6, Agency 30, and no per-seat price is published anywhere — a fourth user means the next tier. The limits matter more than the prices: 100 searches a day on Individual (500 / 1,000 / 5,000 above it), export rows 50,000 a month, and no API at all on the entry plan. The 7-day trial takes a card, charges $1 to verify, turns on auto-renewal and bills the plan after seven days unless you cancel. Re-verified 2026-08-26: the four annual prices are unchanged, and the page now heads the table with 'save up to 27% with annual discount' and prints the saving per plan — $228, $348, $484 and $1,068 a year. That is the arithmetic that turns $50, $100, $169 and $410 back into $69, $129, $209 and $499, which matters because the monthly column itself is not in the page's HTML at all; only the annual one renders. The comparison table still carries the two-value Team column (position checks 50,000 or 99,999, API credits 200,000 or 400,000), so the hidden middle step is still there, but its price is printed nowhere on the page today. Three limits worth reading before anyone picks Individual: Site Audit does no JavaScript rendering on that plan, it scans at most 5,000 pages, and its data retention figure is 2 where Team gets 10 and Agency 100. Re-verified 2026-09-19 on the same page: the four annual figures, the four annual savings and the two-value Team column are all unchanged, as are the seat caps of 1, 3, 6 and 30 and the seven-day trial with its $1 card verification and automatic renewal. What is new on the page is what the plans now sell rather than what they cost — Team upward advertises a ChatGPT and Claude integration over MCP and an AI Overview brand-opportunities report, and a separate LLM Brand Monitor is promoted underneath the plans with its own free scan and no price attached to it.",
+   "price_note": "(2026-07-24, read on their own pricing page) Four plans, and the page opens on the annual view — so the first number you see is not the month-to-month price. Individual $69/month, or $50 on annual billing. Team $129, or $100 annually. Team x2 $209, or $169. Agency $499, or $410. There is a hidden middle step: two dropdowns inside the Team column (position checks 50,000 or 99,999, API credits 200,000 or 400,000) move Team to $169/month monthly or $135 annually, so Team is really three price points. Seats are capped rather than sold: Individual is single-user, Team 3, Team x2 6, Agency 30, and no per-seat price is published anywhere — a fourth user means the next tier. The limits matter more than the prices: 100 searches a day on Individual (500 / 1,000 / 5,000 above it), export rows 50,000 a month, and no API at all on the entry plan. The 7-day trial takes a card, charges $1 to verify, turns on auto-renewal and bills the plan after seven days unless you cancel. Re-verified 2026-08-26: the four annual prices are unchanged, and the page now heads the table with 'save up to 27% with annual discount' and prints the saving per plan — $228, $348, $484 and $1,068 a year. That is the arithmetic that turns $50, $100, $169 and $410 back into $69, $129, $209 and $499, which matters because the monthly column itself is not in the page's HTML at all; only the annual one renders. The comparison table still carries the two-value Team column (position checks 50,000 or 99,999, API credits 200,000 or 400,000), so the hidden middle step is still there, but its price is printed nowhere on the page today. Three limits worth reading before anyone picks Individual: Site Audit does no JavaScript rendering on that plan, it scans at most 5,000 pages, and its data retention figure is 2 where Team gets 10 and Agency 100. Re-verified 2026-09-19 on the same page: the four annual figures, the four annual savings and the two-value Team column are all unchanged, as are the seat caps of 1, 3, 6 and 30 and the seven-day trial with its $1 card verification and automatic renewal. What is new on the page is what the plans now sell rather than what they cost — Team upward advertises a ChatGPT and Claude integration over MCP and an AI Overview brand-opportunities report, and a separate LLM Brand Monitor is promoted underneath the plans with its own free scan and no price attached to it. Re-verified 20 November 2026: the four annual prices ($50, $100, $169 and $410), the seat caps of 1, 3, 6 and 30 and the seven-day trial with its $1 card verification and automatic renewal are unchanged. The printed saving on Team x2 now reads $480 a year instead of $484, which matches $209 a month exactly. AI Visibility, the renamed LLM Brand Monitor, is now included with Team, Team x2 and Agency at no extra cost: 1,500 checks a month on Team and Team x2 and 3,000 on Agency, with extra checks at $20 per 1,000 and a minimum top-up of $40. A Black Friday offer runs from 23 to 30 November 2026: 20% off monthly plans and up to 36% saved on annual billing, for the first billing period only, after which the plan renews at the standard price.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7266,7 +7266,15 @@
      "evidence_excerpt": "There is a hidden middle step: two dropdowns inside the Team column (position checks 50,000 or 99,999, API credits 200,000 or 400,000) move Team to $169/month monthly or $135 annually, so Team is rea…",
      "source_url": "https://serpstat.com/page/pricing-plans/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-20"
+    },
+    {
+     "flag": "renewal_jump",
+     "evidence": "A Black Friday offer runs from 23 to 30 November 2026: 20% off monthly plans and up to 36% saved on annual billing, for the first billing period only, after which the plan renews at the standard price.",
+     "evidence_excerpt": "A Black Friday offer runs from 23 to 30 November 2026: 20% off monthly plans and up to 36% saved on annual billing, for the first billing period only, after which the plan renews at the standard pric…",
+     "source_url": "https://serpstat.com/page/pricing-plans/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-20"
     },
     {
      "flag": "annual_lock",
@@ -7274,11 +7282,11 @@
      "evidence_excerpt": null,
      "source_url": "https://serpstat.com/page/pricing-plans/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-02"
+     "verified_at": "2026-11-20"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-02",
+   "price_verified_at": "2026-11-20",
    "first_observed_at": "2026-07-24"
   },
   {
