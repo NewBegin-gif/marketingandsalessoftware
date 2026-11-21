@@ -640,7 +640,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/iconosquare-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Iconosquare: Launch is €33 billed yearly (€39 monthly) for 5 profiles, 1 user and 100 posts. Its depth is strongest on Instagram and the core networks.
-- Price: (price re-verified 2026-10-03) Read on iconosquare.com/pricing (now served at /plans-and-pricing) from a Netherlands connection, with both billing toggles. Free covers 2 social profiles, 1 user and 10 posts a month per profile, with one month of analytics history.
+- Price: (price re-verified 2026-10-03 and 2026-11-21) Read on iconosquare.com/pricing (now served at /plans-and-pricing) from a Netherlands connection, with both billing toggles. Free covers 2 social profiles, 1 user and 10 posts a month per profile, with one month of analytics history.
 
 ## InboxAlly
 - Review: https://marketingandsalessoftware.com/inboxally-review.html
@@ -1258,7 +1258,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/sellfy-review.html
 - Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: Text we checked: "Publish product". What we saw: Publish product worked without any payment connection, and the owner preview through View my store showed the product at $5 with a Buy now button.
 - Verdict: Sellfy: Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year. The honest mechanic is the revenue ladder.
-- Price: (re-verified 2026-09-07 and again 2026-09-30) Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year; Business $79 or $59, up to $50k; Premium $159 or $119, up to $200k; above that Sellfy quotes you. Yearly billing saves 25%, there is a 14-day trial, a 30-day money-back guarantee and no free tier.
+- Price: (re-verified 2026-09-07, 2026-09-30 and 2026-11-21) Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year; Business $79 or $59, up to $50k; Premium $159 or $119, up to $200k; above that Sellfy quotes you. Yearly billing saves 25%, there is a 14-day trial, a 30-day money-back guarantee and no free tier.
 
 ## Sender
 - Review: https://marketingandsalessoftware.com/sender-review.html
