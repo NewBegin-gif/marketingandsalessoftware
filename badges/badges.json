@@ -78,6 +78,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/alttext-ai-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/alttext-ai.svg\" width=\"340\" height=\"81\" alt=\"AltText.ai hands-on test by Marketing &amp; Sales Software, 20 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "apollo",
+  "name": "Apollo",
+  "review_url": "https://marketingandsalessoftware.com/apollo-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/apollo.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#apollo",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "1 confirmed · 1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Apollo hands-on test by Marketing & Sales Software, 31 Oct 2026: Vendor claims checked 3; 1 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/apollo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/apollo.svg\" width=\"340\" height=\"115\" alt=\"Apollo hands-on test by Marketing &amp; Sales Software, 31 Oct 2026: Vendor claims checked 3; 1 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "assortion",
   "name": "Assortion",
   "review_url": "https://marketingandsalessoftware.com/assortion-review.html",
@@ -2434,6 +2450,23 @@
   ],
   "alt": "Uniqode hands-on test by Marketing & Sales Software, 2 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/uniqode-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/uniqode.svg\" width=\"340\" height=\"115\" alt=\"Uniqode hands-on test by Marketing &amp; Sales Software, 2 Nov 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: file opened, re-import not tested\"></a>"
+ },
+ {
+  "slug": "upsell-com",
+  "name": "Upsell.com",
+  "review_url": "https://marketingandsalessoftware.com/upsell-com-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/upsell-com.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#upsell-com",
+  "tested_on": "2026-11-17",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 3",
+   "1 confirmed · 1 contradicted · 1 not comparable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Upsell.com sign-up attempt by Marketing & Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 3; 1 confirmed · 1 contradicted · 1 not comparable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/upsell-com-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/upsell-com.svg\" width=\"340\" height=\"132\" alt=\"Upsell.com sign-up attempt by Marketing &amp; Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 3; 1 confirmed · 1 contradicted · 1 not comparable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "upsell-cross-sell-aw",

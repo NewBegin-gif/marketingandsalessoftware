@@ -1,9 +1,9 @@
 {
  "meta": {
-  "title": "Cost Traps in 331 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 332 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 331,
+  "tools": 332,
   "flags": 503,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -2426,7 +2426,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Pro · per month for in-place product editing, SEO fields and automatic…",
    "pricing_status": "public",
-   "price_note": "(re-verified 17 October 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products. Pro is $29 a month, with a 14-day free trial. It carries everything in Free plus editing product name, description and price in place, SEO fields with automatic URL redirects, publishing to channels and managing collections. There is also a full product activity log, and a Chrome extension showing stock value and editing on your storefront product pages. There is no annual rate on the listing. All charges are billed in USD and recur every 30 days. Developer aMemory ApS, Ellegardvej 36, Sonderborg, Denmark; the app launched 20 July 2026 and, three months on, still carries a 0.0 rating from zero reviews. The listing's own summary bullets put in-place editing and the audit log among the app's five headline features without marking them Pro, which is the one place the listing reads as more generous than the plan table it sits above.",
+   "price_note": "(re-verified 21 November 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products. Pro is $29 a month, with a 14-day free trial. It carries everything in Free plus editing product name, description and price in place, SEO fields with automatic URL redirects, publishing to channels and managing collections. There is also a full product activity log, and a Chrome extension showing stock value and editing on your storefront product pages. There is no annual rate on the listing. All charges are billed in USD and recur every 30 days. Developer aMemory ApS, Ellegardvej 36, Sonderborg, Denmark; the app launched 20 July 2026 and, four months on, still carries a 0.0 rating from zero reviews. The listing's own summary bullets put in-place editing and the audit log among the app's five headline features without marking them Pro, which is the one place the listing reads as more generous than the plan table it sits above.",
    "flags": [
     {
      "flag": "free_tier",
@@ -2434,11 +2434,11 @@
      "evidence_excerpt": "Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a…",
      "source_url": "https://apps.shopify.com/ecomxray",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-17",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": null
   },
   {
@@ -4971,15 +4971,15 @@
    "entry_price": "$29",
    "entry_price_terms": "per month",
    "pricing_status": "public",
-   "price_note": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter. Free is $0 for 50 credits a month, watermarked, on the basic models only, and the page sells that as up to 2 videos and 25 images. Billed monthly the paid tiers are Starter $29, Pro $79 and Business $189. Billed annually the same tiers are $21, $52 and $114 a month, charged $244, $617 and $1,361 a year — the 30%, 35% and 40% badges check out at 28%, 34% and 40% against the monthly rate. Credit allowances are 1,000, 3,000 and 8,000 a month; Business is the only tier with a second seat. A one-off pack of 1,250 credits is $50, never expires and does not auto-renew, which works out at $0.04 a credit against $0.017 on annual Pro — so topping up costs more than twice what the subscription does. Subscription credits do not roll over between cycles. Refunds are limited to three days from a first subscription, and add-on packs are non-refundable.",
+   "price_note": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October and again 21 November 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter. Free is $0 for 50 credits a month, watermarked, on the basic models only, and the page sells that as up to 2 videos and 25 images. Billed monthly the paid tiers are Starter $29, Pro $79 and Business $189. Billed annually the same tiers are $21, $52 and $114 a month, charged $244, $617 and $1,361 a year — the 30%, 35% and 40% badges check out at 28%, 34% and 40% against the monthly rate. Credit allowances are 1,000, 3,000 and 8,000 a month; Business is the only tier with a second seat. A one-off pack of 1,250 credits is $50, never expires and does not auto-renew, which works out at $0.04 a credit against $0.017 on annual Pro — so topping up costs more than twice what the subscription does. Subscription credits do not roll over between cycles. Refunds are limited to three days from a first subscription, and add-on packs are non-refundable.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter.",
-     "evidence_excerpt": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the…",
+     "evidence": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October and again 21 November 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter.",
+     "evidence_excerpt": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October and again 21 November 2026 signed out, where the annual figures, the $29, $79 and $18…",
      "source_url": "https://nextify.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
@@ -4987,19 +4987,19 @@
      "evidence_excerpt": null,
      "source_url": "https://nextify.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter.",
-     "evidence_excerpt": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the…",
+     "evidence": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October and again 21 November 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter.",
+     "evidence_excerpt": "(read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October and again 21 November 2026 signed out, where the annual figures, the $29, $79 and $18…",
      "source_url": "https://nextify.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-17",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": null
   },
   {
@@ -5521,11 +5521,11 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(read 2026-08-27 on pecan.ai/pricing, and unchanged on 2026-09-29: the same three quote-only tiers, batch and row meters, SSO split and FAQ) No public price at any tier. Pecan publishes three plans — Starter, Team and Business — and each one carries a Talk to sales button where the number would be, with a fourth enterprise route for special deployment and granular explainability. Billing is annual only and Pecan states there is no setup fee. What the page does publish is the meter, and it is not the one most buyers expect: the tier is set by monthly prediction batches and stored rows, not by seats. Starter gives 2 batches a month and 500M rows, Team 10 batches and 2Bn rows, Business custom batches and 5Bn rows; support runs from in-app only, to in-app plus Essential enablement, to Pro enablement. A batch is one run against a dataset, so two a month is a fortnightly cadence — the number that decides your tier before any conversation about team size.",
+   "price_note": "(Update 21 November 2026: pecan.ai/pricing now redirects to the demo-booking page and no pricing page is left in the sitemap, so the tier details below can no longer be checked on Pecan's site.) (read 2026-08-27 on pecan.ai/pricing, and unchanged on 2026-09-29: the same three quote-only tiers, batch and row meters, SSO split and FAQ) No public price at any tier. Pecan publishes three plans — Starter, Team and Business — and each one carries a Talk to sales button where the number would be, with a fourth enterprise route for special deployment and granular explainability. Billing is annual only and Pecan states there is no setup fee. What the page does publish is the meter, and it is not the one most buyers expect: the tier is set by monthly prediction batches and stored rows, not by seats. Starter gives 2 batches a month and 500M rows, Team 10 batches and 2Bn rows, Business custom batches and 5Bn rows; support runs from in-app only, to in-app plus Essential enablement, to Pro enablement. A batch is one run against a dataset, so two a month is a fortnightly cadence — the number that decides your tier before any conversation about team size.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Starter, Team and Business all route to a Talk to sales button (read 27 Aug 2026)",
+     "evidence": "No published price: pecan.ai/pricing redirects to the demo-booking page (read 21 Nov 2026); before that, Starter, Team and Business all routed to a Talk to sales button (read 27 Aug 2026)",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -5534,7 +5534,7 @@
    ],
    "researched": "2026-07",
    "price_verified_at": "2026-09-29",
-   "first_observed_at": "2026-08-27"
+   "first_observed_at": null
   },
   {
    "name": "Pickeasy",
@@ -8499,6 +8499,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-15",
    "first_observed_at": "2026-11-08"
+  },
+  {
+   "name": "TrueMargin",
+   "category": "E-commerce",
+   "domain": "fleeta.co.uk",
+   "review_url": "https://aibuildermarketplace.com/b2b/truemargin-review/",
+   "from_price_usd_mo": null,
+   "entry_price": null,
+   "entry_price_terms": null,
+   "pricing_status": "see_details",
+   "price_note": "(read 2026-11-20 on apps.shopify.com/truemargin-eu) TrueMargin by Fleeta Limited is listed as Free on the Shopify App Store, with the text \"free right now\". The page shows no paid plans. On 20 November 2026 Shopify showed \"No plan selected\" under Billing for the app on our test store and asked for no charge approval. We have not paid anything.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-20",
+   "first_observed_at": "2026-11-20"
   },
   {
    "name": "TrueReview",

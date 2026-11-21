@@ -412,7 +412,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/ecomxray-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "$29 /month". What we saw: The app page shows Pro at $29 a month with a 14-day free trial and the Shopify plan screen shows Pro at $29 / 30 days with 14 trial days, as the dossier says; no…
 - Verdict: EcomXray: Pro is $29 a month, with a 14-day free trial. The split between the two tiers is unusually clean, and worth seeing clearly.
-- Price: (re-verified 17 October 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products.
+- Price: (re-verified 21 November 2026 on apps.shopify.com/ecomxray; unchanged since 21 August 2026) Two tiers. Free: product analytics inside Shopify, cost price and gross margin, net units sold over 30, 90 and 365 days with refunds, cancellations and test orders excluded, 30-day restock recommendations and a revenue rank for top products.
 
 ## EditEngine
 - Review: https://marketingandsalessoftware.com/editengine-review.html
@@ -892,7 +892,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/nextify-ai-review.html
 - Hands-on: tested by us on 2026-09-07
 - Verdict: Nextify.ai: Free is $0 for 50 credits a month, watermarked, on the basic models only. The plans are sold in videos and images.
-- Price: (read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter. Free is $0 for 50 credits…
+- Price: (read 7 September 2026 on nextify.ai/pricing, signed in and signed out, in both billing modes; re-read 17 October and again 21 November 2026 signed out, where the annual figures, the $29, $79 and $189 monthly rates in the page data, the credit allowances and the $50 pack were unchanged) Five ways to pay, and the free plan is only visible when you are logged out — the signed-in pricing page starts at Starter. Free…
 
 ## NiceJob
 - Review: https://marketingandsalessoftware.com/nicejob-review.html
@@ -993,8 +993,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Pecan AI
 - Review: https://marketingandsalessoftware.com/pecan-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Pecan AI: No public price at any tier. The pricing page argues instead of quoting. Starter's two prediction batches a month is a fortnightly cadence.
-- Price: (read 2026-08-27 on pecan.ai/pricing, and unchanged on 2026-09-29: the same three quote-only tiers, batch and row meters, SSO split and FAQ) No public price at any tier. Pecan publishes three plans — Starter, Team and Business — and each one carries a Talk to sales button where the number would be, with a fourth enterprise route for special deployment and granular explainability.
+- Verdict: Pecan AI: Pecan publishes three plans, Starter, Team and Business. The pricing page argues instead of quoting.
+- Price: (Update 21 November 2026: pecan.ai/pricing now redirects to the demo-booking page and no pricing page is left in the sitemap, so the tier details below can no longer be checked on Pecan's site.) (read 2026-08-27 on pecan.ai/pricing, and unchanged on 2026-09-29: the same three quote-only tiers, batch and row meters, SSO split and FAQ) No public price at any tier. Pecan publishes three plans — Starter, Team and…
 
 ## Pickeasy
 - Review: https://marketingandsalessoftware.com/pickeasy-review.html
