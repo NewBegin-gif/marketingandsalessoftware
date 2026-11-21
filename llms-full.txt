@@ -1131,8 +1131,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Redeemly
 - Review: https://marketingandsalessoftware.com/redeemly-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Redeemly: Free covers 0 to 50 orders. The price follows every order your store takes, not the orders that earn cashback, and the higher tiers climb to $249.
-- Price: (read 2026-10-15 on Redeemly's pricing article in its help centre, the Shopify App Store listing apps.shopify.com/cashback-redeemly and redeemly.ai; prices in USD) Redeemly has one product and charges by the size of your store: the price follows your store's total orders during each 30-day app billing cycle, and the help article says that count resets each cycle regardless of whether Redeemly is active in your…
+- Verdict: Redeemly: Free costs $0 and includes 50 orders. Every order your store takes counts towards the plan allowance, not just the orders that earn cashback.
+- Price: (read 2026-11-21 on the Shopify App Store listing apps.shopify.com/cashback-redeemly and on the Plans and billing article in Redeemly's help centre; prices in USD) Redeemly changed its plans on 3 November 2026. Stores that install now choose from four plans, each billed through Shopify every 30 days.
 
 ## Reditus
 - Review: https://marketingandsalessoftware.com/reditus-review.html
