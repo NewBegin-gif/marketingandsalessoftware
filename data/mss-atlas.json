@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 334 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 335 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 334,
-  "flags": 505,
+  "tools": 335,
+  "flags": 507,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1330,6 +1330,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-09-19",
    "first_observed_at": null
+  },
+  {
+   "name": "BSS B2B Solution",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/bss-b2b-solution-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "Essential · per month, Essential, the first paid plan, as listed on the Shopify App Store…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-21 on apps.shopify.com/b2b-solution-custom-pricing) Free plan: basic B2B price, basic B2B registration management, 1 custom pricing rule and 1 registration form on live stores, all features free on development stores. Essential is $29 a month or $313.20 a year, Advanced is $49 a month or $529.20 a year and Platinum is $99 a month or $1,069.20 a year, each with a 14 day free trial. Add-ons per month: Invoice PDF $12, Recurring orders $99, Quick Order $9, Credit limit $39 and Sales rep $29 with 3 reps plus $9 per extra rep. On our development store Shopify showed Platinum as a test charge of $99.00 every 30 days and we paid nothing.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Add-ons per month: Invoice PDF $12, Recurring orders $99, Quick Order $9, Credit limit $39 and Sales rep $29 with 3 reps plus $9 per extra rep.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/b2b-solution-custom-pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-21"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-21 on apps.shopify.com/b2b-solution-custom-pricing) Free plan: basic B2B price, basic B2B registration management, 1 custom pricing rule and 1 registration form on live stores, all features free on development stores.",
+     "evidence_excerpt": "(read 2026-11-21 on apps.shopify.com/b2b-solution-custom-pricing) Free plan: basic B2B price, basic B2B registration management, 1 custom pricing rule and 1 registration form on live stores, all feat…",
+     "source_url": "https://apps.shopify.com/b2b-solution-custom-pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-21"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "Buzz.ai",
