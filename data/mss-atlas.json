@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 332,
-  "flags": 503,
+  "flags": 504,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1580,7 +1580,7 @@
    "entry_price": "$89",
    "entry_price_terms": "Professional · per month billed annually ($129 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(2026) Professional about $89/mo billed annually ($129 monthly), Business $199/mo annual, Scale $419/mo annual, plus a custom Circle Plus tier for fully branded apps. On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts. 14-day free trial, but no always-free option. Re-verified 12 October 2026 on circle.so/pricing and its pricing.md: Professional $89, Business $199 and Scale $419 a month, all marked as annual-billing USD prices excluding tax, Circle Plus on custom pricing; transaction fees 2%, 1%, 1% and 0.5%; Circle AI credits 2,500, 2,500 and 5,000 a month, extra credits $10 per 1,000; Business includes 5,000 Admin API requests a month ($.005 per extra request), Scale 30,000 ($.002). The $129 monthly figure is not printed on the page we read.",
+   "price_note": "(2026) Professional about $89/mo billed annually ($129 monthly), Business $199/mo annual, Scale $419/mo annual, plus a custom Circle Plus tier for fully branded apps. On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts. 14-day free trial, but no always-free option. Re-verified 12 October 2026 on circle.so/pricing and its pricing.md: Professional $89, Business $199 and Scale $419 a month, all marked as annual-billing USD prices excluding tax, Circle Plus on custom pricing; transaction fees 2%, 1%, 1% and 0.5%; Circle AI credits 2,500, 2,500 and 5,000 a month, extra credits $10 per 1,000; Business includes 5,000 Admin API requests a month ($.005 per extra request), Scale 30,000 ($.002). The $129 monthly figure is not printed on the page we read. Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%, 1%, 1% and 0.5%; AI credits 2,500, 2,500 and 5,000 a month with extra credits at $10 per 1,000; unchanged. The monthly-billing price is still not printed on the page.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1588,7 +1588,7 @@
      "evidence_excerpt": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-12"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
@@ -1596,11 +1596,19 @@
      "evidence_excerpt": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-12"
+     "verified_at": "2026-11-21"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%, 1%, 1% and 0.5%; AI credits 2,500, 2,500 and 5,000 a month with extra credits at $10 per 1,000; unchanged.",
+     "evidence_excerpt": "Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%,…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-12",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": null
   },
   {
@@ -4182,7 +4190,7 @@
    "entry_price": "$79",
    "entry_price_terms": "Discover · per month billed annually",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on leadfeeder.com/pricing over a US connection) Lite is free forever with a 14-day full trial, seven days of visitor history and the last 100 companies a month. Discover starts at $79 a month, Activate at $369 and Scale at $599, all billed annually, which the page marks as 30% off. Worth knowing: the page carries both currencies with the same figures — $79 for an American is €79 for a European, not a converted amount — so the euro price is the more expensive of the two. Re-verified 12 October 2026 from a Netherlands exit: Lite €0, Discover from €79, Activate from €369 and Scale from €599 a month billed annually, the toggle still marked SAVE 30%. The page now publishes the full tier table behind its 'How is the price calculated?' link: Discover €79 / €109 / €139 / €179 / €249 / €309 for up to 50, 51-100, 101-200, 201-400, 401-500 and 501-1,000 identified companies a month (month to month €113 / €156 / €199 / €256 / €356 / €441); Activate from €369 (1,000 companies, 200 credits; €527 month to month) to €729 (4,000 companies, 1,500 credits; €1,041); Scale, billed annually only, from €599 (2,000 companies, 1,000 credits) to €2,089 (10,000 companies, 5,500 credits). Extra credits come in non-renewing blocks of 100 to 5,000, valid for two years; plan credits do not roll over at the end of the contract period.",
+   "price_note": "(read 2026-08-26 on leadfeeder.com/pricing over a US connection) Lite is free forever with a 14-day full trial, seven days of visitor history and the last 100 companies a month. Discover starts at $79 a month, Activate at $369 and Scale at $599, all billed annually, which the page marks as 30% off. Worth knowing: the page carries both currencies with the same figures — $79 for an American is €79 for a European, not a converted amount — so the euro price is the more expensive of the two. Re-verified 12 October 2026 from a Netherlands exit: Lite €0, Discover from €79, Activate from €369 and Scale from €599 a month billed annually, the toggle still marked SAVE 30%. The page now publishes the full tier table behind its 'How is the price calculated?' link: Discover €79 / €109 / €139 / €179 / €249 / €309 for up to 50, 51-100, 101-200, 201-400, 401-500 and 501-1,000 identified companies a month (month to month €113 / €156 / €199 / €256 / €356 / €441); Activate from €369 (1,000 companies, 200 credits; €527 month to month) to €729 (4,000 companies, 1,500 credits; €1,041); Scale, billed annually only, from €599 (2,000 companies, 1,000 credits) to €2,089 (10,000 companies, 5,500 credits). Extra credits come in non-renewing blocks of 100 to 5,000, valid for two years; plan credits do not roll over at the end of the contract period. Re-read 21 November 2026 from the same Netherlands exit: Lite €0, Discover from €79 (€113 month to month), Activate from €369 (€527) and Scale from €599 a month billed annually only, the full tier table unchanged up to €309 for Discover and €2,089 for Scale.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4190,7 +4198,7 @@
      "evidence_excerpt": "The page now publishes the full tier table behind its 'How is the price calculated?' link: Discover €79 / €109 / €139 / €179 / €249 / €309 for up to 50, 51-100, 101-200, 201-400, 401-500 and 501-1,00…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-12"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
@@ -4198,11 +4206,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-12"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-12",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-08-26"
   },
   {
@@ -6167,19 +6175,19 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "(2026-09-11, re-read on their own site and again on 13 October 2026) There is no public pricing. quartile.com/pricing serves the same page as the homepage — no tier, no rate card and no entry figure anywhere on it, and the only call to action is Request Demo. The dollar amounts the site does show are volume claims about their customer base rather than prices: over $2B in annual retail advertising spend managed and over $25B in annual managed revenue, across 5,300+ customers in more than 32 countries. Two audiences are named, Small Business and Mid-Market/Enterprise, with no rate attached to either. The 40% introductory discount that the referral route carried in August 2026 is no longer published: quartile.com/partners now rewards the referrer by an unnamed amount instead. Budget for this one from a written quote, because nothing else exists.",
+   "price_note": "(2026-09-11, re-read on their own site and again on 13 October 2026) There is no public pricing. quartile.com/pricing serves the same page as the homepage — no tier, no rate card and no entry figure anywhere on it, and the only call to action is Request Demo. The dollar amounts the site does show are volume claims about their customer base rather than prices: over $2B in annual retail advertising spend managed and over $25B in annual managed revenue, across 5,300+ customers in more than 32 countries. Two audiences are named, Small Business and Mid-Market/Enterprise, with no rate attached to either. The 40% introductory discount that the referral route carried in August 2026 is no longer published: quartile.com/partners now rewards the referrer by an unnamed amount instead. Budget for this one from a written quote, because nothing else exists. Re-read 21 November 2026: quartile.com/pricing still shows the homepage, with Request Demo as the only call to action and no plan or rate anywhere; the same volume claims ($2B+ retail ad spend managed, $25B+ managed sales, 5,300+ customers in over 32 countries) are still there.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: quartile.com/pricing mirrors the homepage with no tier or rate card, only a Request Demo CTA (read 11 Sep 2026)",
+     "evidence": "No published price: quartile.com/pricing mirrors the homepage with no tier or rate card, only a Request Demo CTA (re-read 21 Nov 2026)",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-13"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-13",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-09-11"
   },
   {

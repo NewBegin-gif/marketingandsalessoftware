@@ -1101,7 +1101,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Quartile
 - Review: https://marketingandsalessoftware.com/quartile-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Quartile: Budget for this one from a written quote, because nothing else exists. Everything about the sales motion here is a conversation.
+- Verdict: Quartile: The same volume claims ($2B+ retail ad spend managed, $25B+ managed sales, 5,300+ customers in over 32 countries) are still there.
 - Price: (2026-09-11, re-read on their own site and again on 13 October 2026) There is no public pricing. quartile.com/pricing serves the same page as the homepage — no tier, no rate card and no entry figure anywhere on it, and the only call to action is Request Demo.
 
 ## Rank Math

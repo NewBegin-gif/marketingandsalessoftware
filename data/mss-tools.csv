@@ -56,7 +56,7 @@ Campaigner,Growth & Revenue,campaigner.com,14.0,usage_metered|addons_extra,https
 Capsule,Growth & Revenue,capsulecrm.com,,per_seat|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/capsule-review/,2026-07,,,see_details,2026-10-17
 CarouselBot,Marketing,carouselbot.app,10.0,annual_lock,https://aibuildermarketplace.com/b2b/carouselbot-review/,2026-07,$10,Creator · billed monthly,public,2026-11-18
 ChatGPT AI Product Description,E-commerce,profitoniumapps.com,19.0,usage_metered|addons_extra|free_tier,https://aibuildermarketplace.com/b2b/chatgpt-ai-product-description-review/,2026-07,$19,"Basic · per month for 2,000 credits, billed in USD every 30 days",public,2026-11-17
-Circle,Growth & Revenue,circle.so,89.0,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/circle-review/,2026-07,$89,Professional · per month billed annually ($129 billed monthly),public,2026-10-12
+Circle,Growth & Revenue,circle.so,89.0,usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/circle-review/,2026-07,$89,Professional · per month billed annually ($129 billed monthly),public,2026-11-21
 CiteRoute,Marketing,citeroute.com,79.0,usage_metered,https://aibuildermarketplace.com/b2b/citeroute-review/,2026-07,$79,"Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",public,2026-11-18
 Claap,Sales & CRM,claap.io,32.0,per_seat|usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/claap-review/,2026-07,$32,per month,public,2026-10-17
 Clay,Growth & Revenue,clay.com,,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/clay-review/,2026-07,$167,"Launch: smallest action… · per year, billed annually ($54 actions + $113 data credits a month)",public,2026-10-19
@@ -149,7 +149,7 @@ Landingi,Growth & Revenue,landingi.com,24.0,usage_metered|renewal_jump|annual_lo
 LangShop,E-commerce,langshop.io,10.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/langshop-review/,2026-07,$10,"per month (10 languages, 250 products, unlimited glossary rules)",public,2026-11-17
 Langwill,E-commerce,langwill.com,9.99,free_tier,https://aibuildermarketplace.com/b2b/langwill-review/,2026-07,$9.99,"Starter · per month for 30,000 words and 10 languages",public,2026-11-18
 Later,Growth & Revenue,later.com,18.75,usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/later-review/,2026-07,$18.75,a month billed yearly,public,2026-10-07
-Leadfeeder,Growth & Revenue,leadfeeder.com,79.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/leadfeeder-review/,2026-07,$79,Discover · per month billed annually,public,2026-10-12
+Leadfeeder,Growth & Revenue,leadfeeder.com,79.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/leadfeeder-review/,2026-07,$79,Discover · per month billed annually,public,2026-11-21
 Leadpages,Growth & Revenue,leadpages.com,29.0,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/leadpages-review/,2026-07,$29,"per month ($23 billed annually), 25 pages, 1 site",public,2026-11-15
 LearnWorlds,Growth & Revenue,learnworlds.com,49.0,usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/learnworlds-review/,2026-07,$49,per month (or $44 annually) but with a $5 fee per paid enrollment,public,2026-11-17
 lemlist,Growth & Revenue,lemlist.com,69.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/lemlist-review/,2026-07,$69,per month ($55 billed yearly) for unlimited users,public,2026-10-05
@@ -215,7 +215,7 @@ ProtectMyOrder,E-commerce,protectmyorder.com,,usage_metered,https://aibuildermar
 Pumper Bundles,Growth & Revenue,pumper.run,,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pumper-bundles-review/,2026-07,$9.99,"Starter · per month, or $94.68 a year",public,2026-11-17
 PushOwl,Growth & Revenue,pushowl.com,19.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/pushowl-review/,2026-07,$19,"per month ($180/yr) for 10,000 web push messages",public,2026-11-17
 Pythago,E-commerce,pythago.io,59.0,usage_metered,https://aibuildermarketplace.com/b2b/pythago-review/,2026-07,$59,a month,public,2026-09-22
-Quartile,E-commerce,quartile.com,,quote_only,https://aibuildermarketplace.com/b2b/quartile-review/,2026-07,,,quote_only,2026-10-13
+Quartile,E-commerce,quartile.com,,quote_only,https://aibuildermarketplace.com/b2b/quartile-review/,2026-07,,,quote_only,2026-11-21
 Rank Math,Growth & Revenue,rankmath.com,,usage_metered|renewal_jump|free_tier,https://aibuildermarketplace.com/b2b/rank-math-review/,2026-07,€7.99,"a month billed annually, excl",public,2026-10-16
 RankBolt,SEO & Marketing,rankbolt.ai,,addons_extra,https://aibuildermarketplace.com/b2b/rankbolt-review/,2026-07,,,see_details,2026-11-06
 RankSlide,SEO & Marketing,rankslide.com,,,https://aibuildermarketplace.com/b2b/rankslide-review/,2026-07,$48,Starter yearly · Starter is $48 a year for 1 site,public,2026-11-11
