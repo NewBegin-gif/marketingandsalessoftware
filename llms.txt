@@ -1,6 +1,6 @@
 # Marketing & Sales Software
 
-> Independent reviews of marketing, sales, e-commerce and growth software. 266 full reviews live here as the canonical version, 164 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-20.
+> Independent reviews of marketing, sales, e-commerce and growth software. 269 full reviews live here as the canonical version, 165 of them tested hands-on by us (listed below with the date and what we measured); prices are read on the vendor's page and dated. Last updated 2026-11-21.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -34,7 +34,7 @@ AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former ban
 - [Build a Repeatable Content Workflow](https://marketingandsalessoftware.com/build-content-engine.html): Build a repeatable research, creation, distribution and newsletter workflow with reviewed tools, documented limits and dated evidence.
 - [Build a Shopify Store Workflow (2026)](https://marketingandsalessoftware.com/build-shopify-store-stack.html): Plan a Shopify store workflow by task: theme, fulfilment, campaign pages, reviews and post-purchase offers, with documented fit and costs.
 
-## Tested hands-on (164): first-hand findings
+## Tested hands-on (165): first-hand findings
 We signed up and ran these tools ourselves. The date is the test date; the line is what we measured, not the vendor's claim. All other reviews are researched from the vendor's own pages and buyer reviews, and say so on the page.
 - [Adwave](https://marketingandsalessoftware.com/adwave-review.html): tested 2026-11-19. Measured 2026-11-19: The dossier says the first campaign comes with free starter ads. The sample started at 09:09; at 09:23 it was 0 of 4 finished, and at about 11:10 all 5 phone ads in the Library showed Render failed and…
 - [Doba](https://marketingandsalessoftware.com/doba-review.html): tested 2026-11-19. Measured 2026-11-19: With Quarterly selected the pricing page shows Basic at $57.00 a month, billed quarterly, with a 7-day Trial for US$ 0.99. The trial window from Add to Inventory List showed Basic, Billed quarterly, 7-day…
@@ -158,6 +158,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Riibase CRM](https://marketingandsalessoftware.com/riibase-crm-review.html): tested 2026-11-02. Measured 2026-11-02: The banner read '10 days left in your free trial (ends Nov 12, 2026)', matching the pricing page, and the toolbar showed 500 AI credits.
 - [Superlines](https://marketingandsalessoftware.com/superlines-review.html): tested 2026-11-02. Measured 2026-11-02: Onboarding read our website and filled in the brand, market (United States, English), description, audience and four competitors by itself.
 - [Uniqode](https://marketingandsalessoftware.com/uniqode-review.html): tested 2026-11-02. Measured 2026-11-02: The sidebar counted the 14-day trial down ('Your QR Codes will expire in 13d : 23hr : 58m') and warned that the codes expire when the trial ends: something to plan for before you print anything.
+- [Apollo](https://marketingandsalessoftware.com/apollo-review.html): tested 2026-10-31. Measured 2026-10-31: A new account starts on a Professional trial; the add-on page showed '14 days left'. No card was needed.
 - [Bouncer](https://marketingandsalessoftware.com/bouncer-review.html): tested 2026-10-31. Measured 2026-10-31: The new account had 100 free credits, with no card.
 - [Circle](https://marketingandsalessoftware.com/circle-review.html): tested 2026-10-31. Measured 2026-10-31: The welcome banner warned of losing access on November 14 and showed nearly fourteen days remaining.
 - [Cloze CRM](https://marketingandsalessoftware.com/cloze-crm-review.html): tested 2026-10-31. Measured 2026-10-31: Settings showed trial ending 16 November 2026, sixteen days after the account date of 31 October.
@@ -201,7 +202,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [PartnerStack](https://marketingandsalessoftware.com/partnerstack-review.html): tested 2026-08-26
 - [Cloro](https://marketingandsalessoftware.com/cloro-review.html): tested 2026-08-19
 
-## Reviews (266) — canonical versions
+## Reviews (269) — canonical versions
 - [24-7PressRelease Review (2026): $29 to $479 per Release](https://marketingandsalessoftware.com/24-7pressrelease-review.html): 24-7PressRelease: Six plans, each paid per press release rather than by subscription. Every release is paid separately, from $29 to $479.
 - [ActiveCampaign Review (2026): From $15/mo, Tested Sep 2026](https://marketingandsalessoftware.com/activecampaign-review.html) (tested hands-on): ActiveCampaign: No free plan, trial only. Pricing climbs with contact count and the add-ons (CRM, SMS, extra seats) stack up fast.
 - [AdCreative.ai Review (2026): $39/mo, Pay Per Download](https://marketingandsalessoftware.com/adcreative-ai-review.html): AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
@@ -216,6 +217,7 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [All in One SEO Review (2026): WordPress SEO Plugin](https://marketingandsalessoftware.com/all-in-one-seo-review.html): All in One SEO sells four yearly plans. The first-year price is half the regular price and every renewal is at full price.
 - [AltText.ai Review (2026): From $5/mo, Tested Oct 2026](https://marketingandsalessoftware.com/alttext-ai-review.html) (tested hands-on): AltText.ai: Credit-metered, one credit = one image. The headline ‘5¢ per image’ only holds for a plain JPG in one language.
 - [Amplemarket Review (2026): $600/mo for 2 Users, No Free Tier](https://marketingandsalessoftware.com/amplemarket-review.html): Amplemarket's one public price is Startup: $600/mo on an annual term for 2 users. Growth and Elite are custom. European contact data gets the most com
+- [Apollo Review (Tested Oct 2026): Free Tier, Then $49/mo](https://marketingandsalessoftware.com/apollo-review.html) (tested hands-on): Apollo: A free plan (900 credits per seat per year, 2 sequences). The credit and export caps are the catch.
 - [Assortion Review (Tested): Shopify Upsells Priced by Orders](https://marketingandsalessoftware.com/assortion-review.html) (tested hands-on): Assortion has one feature set and charges by the size of your store. The price follows your total store orders.
 - [Atlas AI Store Builder Review (Tested Nov 2026): From $39/mo](https://marketingandsalessoftware.com/atlas-ai-store-builder-review.html) (tested hands-on): Atlas AI Store Builder: The listing says “Free to install”, but that is the development-store tier. The meter runs on your success, not your usage.
 - [Atria Review (2026): From $129/mo, Tested Oct 2026](https://marketingandsalessoftware.com/atria-review.html) (tested hands-on): Atria: Core is $129/mo, a stated $360 saving a year. Its edge is competitor ad intelligence plus creative generation in one place.
@@ -456,8 +458,10 @@ We signed up and ran these tools ourselves. The date is the test date; the line 
 - [Tradelle Review (2026): Dropshipping Research, From $19.99/mo](https://marketingandsalessoftware.com/tradelle-review.html) (tested hands-on): Tradelle: Lite is $29.99 a month, or $19.99 a month billed as $239.88 a year. The subscription is only the start of the bill.
 - [TrueReview Review (2026): Request Limits, Locations and Add-ons](https://marketingandsalessoftware.com/truereview-review.html) (tested hands-on): TrueReview: Small Business $99, or $59 yearly ($708). The yearly discount is steep but the terms make every payment non-refundable.
 - [Try You Review (2026): AI Try-On With No Monthly Fee, From $0.04](https://marketingandsalessoftware.com/try-you-review.html) (tested hands-on): Try You: Free to install with 10 free try-ons, then pay per successful try-on with no monthly subscription. The cost scales with use, not with sales.
+- [UENI Review (2026): $79 Build, $900 in Subscriptions](https://marketingandsalessoftware.com/ueni-review.html): UENI: Every tier carries the same setup fee of $599, currently promoted at $79 (the page banner reads 'EARLY BLACK FRIDAY' and 'SAVE $520').
 - [Uniqode Review (Tested Nov 2026): Cancel and the Codes Stop](https://marketingandsalessoftware.com/uniqode-review.html) (tested hands-on): Uniqode: Essential $9 USD a month, billed yearly. The tier jumps are steep and a lot is gated: analytics are capped at 30 days on the entry plan.
 - [Upsell & Cross Sell - AW Review (Tested): Priced by Clicks](https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html) (tested hands-on): Upsell & Cross Sell - AW: StartUp Upsell is $29.99 a month or $299 a year (the listing says save 17%). The meter is recommendation clicks.
+- [Upsell.com Review (2026): Free to 50 Orders, $299 Past 2,000](https://marketingandsalessoftware.com/upsell-com-review.html): Upsell.com: The screen said the app bills for usage when you begin to use it, and showed no $0 plan.
 - [UserTrail Review (2026): Sessions Shared Across All Your Sites](https://marketingandsalessoftware.com/usertrail-review.html) (tested hands-on): UserTrail: Basic is $39 a month billed yearly or $47 billed monthly. The session allowance is shared across all websites on a plan.
 - [Vendoo Review (2026): $12.49 Crosslisting, Auto Offers on Pro](https://marketingandsalessoftware.com/vendoo-review.html): Vendoo: Free £0 for 5 items, Simple £16.99 a month for 125, Plus £27.99 for 250 and Pro £49.99 for 600, with 6 marketplaces.
 - [VideoUpload Review (2026): YouTube Team Board From $20/mo](https://marketingandsalessoftware.com/videoupload-review.html): VideoUpload charges one flat price per workspace, with no per-seat fees. AI writing uses credits that reset monthly; extra credits are a paid top-up.
