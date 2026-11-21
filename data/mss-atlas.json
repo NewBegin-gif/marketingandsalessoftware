@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 332 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 334 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 332,
-  "flags": 504,
+  "tools": 334,
+  "flags": 505,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1530,6 +1530,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-18",
    "first_observed_at": "2026-11-18"
+  },
+  {
+   "name": "Cartly",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/cartly-review/",
+   "from_price_usd_mo": 16.99,
+   "entry_price": "$16.99",
+   "entry_price_terms": "Growth · Growth for up to 100 orders a month, as the in-app pricing table…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-21 in the Cartly app and on apps.shopify.com/cartly-cart-drawer-upsell) Free for the first 20 lifetime orders. Growth is $16.99 a month for up to 100 orders, $24.99 for 101 to 300, $49.99 for 301 to 750, $84.99 for 751 to 1,500, $114.99 for 1,501 to 3,000 and $144.99 for 3,001 to 5,000, then $199.99 above 5,000 orders, with a 14 day free trial. Enterprise is a fixed $199.99 a month with no usage fees. All plans are free on development stores. On our development store Shopify showed Growth as a test charge of $16.99 every 30 days with a spending limit of $199.99 per 30 days, and we paid nothing.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "ChatGPT AI Product Description",
@@ -3723,11 +3738,11 @@
    "category": "Growth & Revenue",
    "domain": "keap.com",
    "review_url": "https://aibuildermarketplace.com/b2b/keap-review/",
-   "from_price_usd_mo": 299.0,
-   "entry_price": "$299",
-   "entry_price_terms": "the whole platform · billed monthly",
+   "from_price_usd_mo": 320.0,
+   "entry_price": "$320",
+   "entry_price_terms": "the whole platform · billed monthly for 2 users and 1,500 contacts",
    "pricing_status": "public",
-   "price_note": "Starting at $299/mo billed monthly for the whole platform, with no feature-based tiers and no free plan (re-verified 2026-09-24 on their own pricing page; amounts unchanged since 5 September). That $299 is what the calculator quotes for its own minimum: 2 users and 1,500 contacts. Raising only the contact count on the same calculator gives $335 at 2,500, $449 at 5,000, $539 at 10,000 and $719 at 25,000, and users beyond the first two are $39 a month each. Keap also requires paid implementation services — strategy consulting, data import and migration — quoted separately before you go live. Text marketing is bundled at Tier 1 (500 messages and 100 voice minutes) and steps to $24, $39, $79, $139 and $279 a month above that, with overages at $0.015 a message and $0.01 a voice minute; it is US-only. Cancelling an annual contract before its term ends carries a $299 early termination fee, and cancellation must be started by phone at least ten days before the next invoice date. Keap has been acquired by Thryv; its own pages now route training to Thryv Academy.",
+   "price_note": "Starting at $320 a month billed monthly for the whole platform, with no feature-based tiers and no free plan (re-read 21 November 2026 from the plan data behind the calculator on keap.com/pricing; on 24 September 2026 the same minimum was $299). That $320 is what the calculator quotes for its own minimum: 2 users and 1,500 contacts. The contact steps did not move, so raising only the contact count now gives $356 at 2,500, $470 at 5,000, $560 at 10,000 and $740 at 25,000, and users beyond the first two are $39 a month each. The same price card carries an annual line, 'Billed at $3,195 /year', for the base configuration. Keap also requires paid implementation services (strategy consulting, data import and migration), quoted separately before you go live. Text marketing is bundled at Tier 1 (500 messages and 100 voice minutes) and steps to $24, $39, $79, $139 and $279 a month above that, with overages at $0.015 a message and $0.01 a voice minute; it is US-only. Cancelling an annual contract before its term ends carries a $299 early termination fee, and cancellation must be started by phone at least ten days before the next invoice date. Keap has been acquired by Thryv; its own pages now route training to Thryv Academy.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3735,7 +3750,7 @@
      "evidence_excerpt": "Text marketing is bundled at Tier 1 (500 messages and 100 voice minutes) and steps to $24, $39, $79, $139 and $279 a month above that, with overages at $0.015 a message and $0.01 a voice minute; it i…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "annual_lock",
@@ -3743,11 +3758,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": null
   },
   {
@@ -6354,24 +6369,24 @@
    "category": "E-commerce",
    "domain": "redeemly.ai",
    "review_url": "https://aibuildermarketplace.com/b2b/redeemly-review/",
-   "from_price_usd_mo": 19.0,
-   "entry_price": "$19",
-   "entry_price_terms": "Startup · per month, billed every 30 days through Shopify in USD, set by the store's total…",
+   "from_price_usd_mo": 15.0,
+   "entry_price": "$15",
+   "entry_price_terms": "Starter · per month, billed every 30 days through Shopify in USD",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-15 on Redeemly's pricing article in its help centre, the Shopify App Store listing apps.shopify.com/cashback-redeemly and redeemly.ai; prices in USD) Redeemly has one product and charges by the size of your store: the price follows your store's total orders during each 30-day app billing cycle, and the help article says that count resets each cycle regardless of whether Redeemly is active in your store. Free covers 0 to 50 orders. Startup is $19 for 51 to 500 orders, Growth $29 for 501 to 800, Scaling $49 for 801 to 1,000, Advanced $79 for 1,001 to 1,200, Professional $99 for 1,200 to 1,500, Enterprise $149 for 1,500 to 1,800 and Elite $249 with unlimited orders. The table's boundaries overlap at 1,200 and 1,500 orders, and the Shopify listing only shows the first three tiers. Charges are billed in USD every 30 days through Shopify, and the terms say fees exclude taxes and are non-refundable except where the law requires otherwise or Redeemly agrees in writing. The trial length is inconsistent: when we looked again on 21 October 2026 the pricing article said 'You have a 10 day trial', while the homepage showed both a '25-day free trial' badge and '10 Days Free'; the listing shows the free plan without trial details. We found no annual price.",
+   "price_note": "(read 2026-11-21 on the Shopify App Store listing apps.shopify.com/cashback-redeemly and on the Plans and billing article in Redeemly's help centre; prices in USD) Redeemly changed its plans on 3 November 2026. Stores that install now choose from four plans, each billed through Shopify every 30 days. Free costs $0 and includes 50 orders. Starter is $15 with 500 orders included, Growth is $79 with 1,000 and Scale is $199 with 2,500. Each order above the allowance costs $0.20, or $0.10 on Scale. The help article says every order counts, not just orders that earn credit, that the count starts when you turn on the cashback program and that it resets every 30 days. The plans now differ in features as well: widgets on the product page, cart and checkout, the referral program, the Klaviyo, Omnisend and Attentive connections and removal of Redeemly branding start on Starter, and campaigns start on Growth. Paid plans come with a 14-day free trial, once per store, the first time you choose one. On Free, going over 50 orders locks the Redeemly admin until the next 30 days start; paid plans do not lock. The help article says there are no other fees. Stores that installed before 3 November 2026 keep the earlier price table, which ran from $0 for up to 50 orders to $249 for 1,801 or more. We found no annual price.",
    "flags": [
     {
      "flag": "free_tier",
-     "evidence": "Free covers 0 to 50 orders.",
+     "evidence": "Free costs $0 and includes 50 orders.",
      "evidence_excerpt": null,
-     "source_url": "https://redeemlyhelpdesk.crisp.help/en/article/redeemly-pricing-1fa2xll/",
+     "source_url": "https://apps.shopify.com/cashback-redeemly",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-15"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-15",
-   "first_observed_at": "2026-10-15"
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "Reditus",
@@ -6961,6 +6976,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-11-17"
+  },
+  {
+   "name": "Selleasy",
+   "category": "Growth & Revenue",
+   "domain": "logbase.io",
+   "review_url": "https://aibuildermarketplace.com/b2b/selleasy-review/",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Starter · per month, flat, unlimited orders and campaigns",
+   "pricing_status": "public",
+   "price_note": "(prices read 2026-10-30 on apps.shopify.com/upsell-cross-sell-kit-1 and on logbase.io/selleasy/pricing; the order-based ladder read on 19 September and 20 October 2026 has been replaced) Billed in USD through Shopify, recurring charges every 30 days. Four flat plans, each with unlimited orders. Free costs nothing and allows up to 5 campaigns, with the 18 upsell and cross-sell strategies, Shopify and manual recommendations, and chat, email and Zoom support. Starter is $9 a month or $91 a year and adds unlimited campaigns, 50 free AI recommendations and free setup on a call. Pro is $29 a month or $295 a year and adds 1,000 AI recommendations a month, an AI campaign optimizer, checkout upsells for Shopify Plus, advanced campaign targeting and metafield bulk recommendations. Max is $59 a month or $601 a year and adds 2,500 AI recommendations a month, advanced customizations, a rules engine, an AOV advisor and priority support. The paid plans carry a 30-day free trial. An Enterprise plan is quoted on request.\n\nWhat changed: until October 2026 Starter was priced by your store's total monthly orders (free to 50, $9 to 500, $19 to 1,000, $29 above), and Pro and Max were $49 and $99. Logbase's pricing page still carries a block with that old ladder next to the new plan cards and comparison table on 30 October 2026; the App Store listing, which is what Shopify bills from, shows only the flat plans. Check the charge Shopify shows at install.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan now caps campaigns instead of orders: up to 5, against unlimited from Starter at $9.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/upsell-cross-sell-kit-1",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-30"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-10-30",
+   "first_observed_at": "2026-10-30"
   },
   {
    "name": "Seller Investigators",
@@ -7867,23 +7906,23 @@
    "entry_price": "$49",
    "entry_price_terms": "Pro, per user · per user per month billed annually ($59 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly; Enterprise $129 annual or $159 monthly - a flat 20% annual discount. CORRECTION 22 Sep 2026: Enterprise is NOT annual-only and carries no published seat minimum. The FAQ 'Can I pay monthly instead of annually?' answers yes and prices all three plans monthly, Enterprise at $159; the words minimum, ten seats and 10+ do not occur on the page. Everyone on a team must be on the same plan (FAQ: 'Can team members be on different Streak plans? No'), and there is no view-only or read-only seat price, so every user on the team is billed a full seat. AI credits are a second meter: 20 per user per month on Pro, 150 on Pro+, 500 on Enterprise, pooled across the team, spent only on successful operations and expiring each period with no roll-over. Credit costs published 22 Sep 2026: deal summary 1, deal Q&A 1, autofill from the deal timeline 1, autofill with web research 2, meeting agenda 1, automated AI actions 1 credit per 10 runs. Top-ups, purchasable by team admins only and billed as a separate recurring add-on on your billing cycle: 1,000 credits $100/mo, 2,500 $200/mo, 10,000 $500/mo, 25,000 $1,000/mo - $0.10 down to $0.04 a credit. The free CRM tier was eliminated in 2024-25, but the free email tools remain - email and link tracking, snippets, Streak Share, a thread splitter, and mail merge at 50/day against 1,500*/day on all three paid plans; the free plan has no CRM pipelines. Pro+ has a 14-day free trial that includes 1,000 AI credits.",
+   "price_note": "(price re-verified 2026-11-21 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly; Enterprise $129 annual or $159 monthly - a flat 20% annual discount. CORRECTION 22 Sep 2026: Enterprise is NOT annual-only and carries no published seat minimum. The FAQ 'Can I pay monthly instead of annually?' answers yes and prices all three plans monthly, Enterprise at $159; the words minimum, ten seats and 10+ do not occur on the page. Everyone on a team must be on the same plan (FAQ: 'Can team members be on different Streak plans? No'), and there is no view-only or read-only seat price, so every user on the team is billed a full seat. AI credits are a second meter: 20 per user per month on Pro, 150 on Pro+, 500 on Enterprise, pooled across the team, spent only on successful operations and expiring each period with no roll-over. Credit costs published 22 Sep 2026: deal summary 1, deal Q&A 1, autofill from the deal timeline 1, autofill with web research 2, meeting agenda 1, automated AI actions 1 credit per 10 runs. Top-ups, purchasable by team admins only and billed as a separate recurring add-on on your billing cycle: 1,000 credits $100/mo, 2,500 $200/mo, 10,000 $500/mo, 25,000 $1,000/mo - $0.10 down to $0.04 a credit. The free CRM tier was eliminated in 2024-25, but the free email tools remain - email and link tracking, snippets, Streak Share, a thread splitter, and mail merge at 50/day against 1,500*/day on all three paid plans; the free plan has no CRM pipelines. Pro+ has a 14-day free trial that includes 1,000 AI credits.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly; Enterprise $129 annual or $159 monthly - a flat 20% annual discount.",
-     "evidence_excerpt": "(price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 month…",
+     "evidence": "(price re-verified 2026-11-21 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly; Enterprise $129 annual or $159 monthly - a flat 20% annual discount.",
+     "evidence_excerpt": "(price re-verified 2026-11-21 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-ve…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "usage_metered",
-     "evidence": "AI credits are a second meter: 20 per user per month on Pro, 150 on Pro+, 500 on Enterprise, pooled across the team, spent only on successful operations and expiring each period with no roll-over.",
-     "evidence_excerpt": null,
+     "evidence": "(price re-verified 2026-11-21 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly; Enterprise $129 annual or $159 monthly - a flat 20% annual discount.",
+     "evidence_excerpt": "(price re-verified 2026-11-21 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-ve…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
@@ -7891,7 +7930,7 @@
      "evidence_excerpt": "Top-ups, purchasable by team admins only and billed as a separate recurring add-on on your billing cycle: 1,000 credits $100/mo, 2,500 $200/mo, 10,000 $500/mo, 25,000 $1,000/mo - $0.10 down to $0.04 …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
@@ -7899,12 +7938,12 @@
      "evidence_excerpt": "The free CRM tier was eliminated in 2024-25, but the free email tools remain - email and link tracking, snippets, Streak Share, a thread splitter, and mail merge at 50/day against 1,500*/day on all t…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-22",
-   "first_observed_at": "2026-09-22"
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "Success.co",

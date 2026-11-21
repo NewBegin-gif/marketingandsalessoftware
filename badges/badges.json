@@ -64,6 +64,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/agentnest-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/agentnest.svg\" width=\"340\" height=\"115\" alt=\"AgentNest hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "aisdr",
+  "name": "AISDR",
+  "review_url": "https://marketingandsalessoftware.com/aisdr-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/aisdr.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#aisdr",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "AISDR hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/aisdr-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/aisdr.svg\" width=\"340\" height=\"81\" alt=\"AISDR hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "alttext-ai",
   "name": "AltText.ai",
   "review_url": "https://marketingandsalessoftware.com/alttext-ai-review.html",
@@ -408,6 +422,20 @@
   ],
   "alt": "CarouselBot hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 9; 2 confirmed · 4 contradicted · 2 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/carouselbot-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/carouselbot.svg\" width=\"340\" height=\"115\" alt=\"CarouselBot hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 9; 2 confirmed · 4 contradicted · 2 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "cartly",
+  "name": "Cartly",
+  "review_url": "https://marketingandsalessoftware.com/cartly-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/cartly.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#cartly",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Cartly hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/cartly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/cartly.svg\" width=\"340\" height=\"81\" alt=\"Cartly hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "circle",
@@ -857,6 +885,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/fast-bundle-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/fast-bundle.svg\" width=\"340\" height=\"115\" alt=\"Fast Bundle hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 6; 4 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "fbtrack",
+  "name": "FBtrack",
+  "review_url": "https://marketingandsalessoftware.com/fbtrack-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/fbtrack.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#fbtrack",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "FBtrack hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/fbtrack-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/fbtrack.svg\" width=\"340\" height=\"81\" alt=\"FBtrack hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "feedyio",
   "name": "Feedyio",
   "review_url": "https://marketingandsalessoftware.com/feedyio-review.html",
@@ -1299,6 +1341,34 @@
   ],
   "alt": "Landingi hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 12; 5 confirmed · 1 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/landingi-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/landingi.svg\" width=\"340\" height=\"115\" alt=\"Landingi hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 12; 5 confirmed · 1 contradicted · 3 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "langshop",
+  "name": "LangShop",
+  "review_url": "https://marketingandsalessoftware.com/langshop-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/langshop.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#langshop",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "LangShop hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/langshop-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/langshop.svg\" width=\"340\" height=\"81\" alt=\"LangShop hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "langwill",
+  "name": "Langwill",
+  "review_url": "https://marketingandsalessoftware.com/langwill-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/langwill.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#langwill",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Langwill hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/langwill-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/langwill.svg\" width=\"340\" height=\"81\" alt=\"Langwill hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "leadpages",
@@ -1937,6 +2007,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/scrolly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/scrolly.svg\" width=\"340\" height=\"115\" alt=\"Scrolly hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "selleasy",
+  "name": "Selleasy",
+  "review_url": "https://marketingandsalessoftware.com/selleasy-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/selleasy.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#selleasy",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 7",
+   "3 confirmed · 1 contradicted · 1 not comparable · 2 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Selleasy hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/selleasy-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/selleasy.svg\" width=\"340\" height=\"115\" alt=\"Selleasy hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 1 not comparable · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "sellfy",
   "name": "Sellfy",
   "review_url": "https://marketingandsalessoftware.com/sellfy-review.html",
@@ -2483,6 +2569,20 @@
   ],
   "alt": "Upsell & Cross Sell - AW hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 10; 4 confirmed · 3 contradicted · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/upsell-cross-sell-aw.svg\" width=\"340\" height=\"115\" alt=\"Upsell &amp; Cross Sell - AW hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 10; 4 confirmed · 3 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "vendoo",
+  "name": "Vendoo",
+  "review_url": "https://marketingandsalessoftware.com/vendoo-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/vendoo.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#vendoo",
+  "tested_on": "2026-11-20",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Vendoo hands-on test by Marketing & Sales Software, 20 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/vendoo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vendoo.svg\" width=\"340\" height=\"81\" alt=\"Vendoo hands-on test by Marketing &amp; Sales Software, 20 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "vify-order-printer",
