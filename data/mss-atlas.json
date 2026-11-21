@@ -809,7 +809,7 @@
    "entry_price": "$59",
    "entry_price_terms": "Lite… · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-05 on beehiiv.com/pricing, prices in USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv shows a 0% take rate, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Free is $0 up to 2,500 subscribers with unlimited sends. At up to 1,000 subscribers Lite is $59/mo billed monthly or $49/mo on yearly billing, Pro $109/mo or $95/mo yearly. At 10,000 subscribers Lite is $139/mo ($119 yearly) and Pro $239/mo ($199 yearly); at 50,000 Lite is $299/mo ($249) and Pro $469/mo ($399); at 100,000 Lite is $469/mo ($399) and Pro $699/mo ($599). Lite stops at 100,000 subscribers; Pro runs on to $999/mo billed monthly at 250,000+. Read again on 9 October 2026 with the slider, step by step (Free shows 'Unavailable' above 2,500 subscribers). Lite billed monthly: $59 at 1,000, $79 at 2,500, $109 at 5,000, $139 at 10,000, $199 at 25,000, $299 at 50,000, $389 at 75,000, $469 at 100,000; billed yearly, per month: $49, $69, $95, $119, $169, $249, $329, $399. Pro billed monthly: $109 at 1,000, $149 at 2,500, $199 at 5,000, $239 at 10,000, $349 at 25,000, $469 at 50,000, $589 at 75,000, $699 at 100,000, $799 at 150,000, $899 at 200,000, $999 at 250,000 (the last step reads '250,000+'); billed yearly, per month: $95, $129, $169, $199, $299, $399, $499, $599, $689, $779, $869. Re-read 19 November 2026 on beehiiv.com/pricing.md, generated from the same plan data as the website: Lite $59 monthly or $49 a month yearly and Pro $109 or $95 at up to 1,000 subscribers; $139 and $239 monthly at 10,000, $299 and $469 at 50,000, $469 and $699 at 100,000, Pro $999 at 250,000+; unchanged. Podcast downloads above the plan allowance cost $1.25 per 1,000 on Lite and Pro (help article updated 13 November 2026).",
+   "price_note": "(re-verified 2026-10-05 on beehiiv.com/pricing, prices in USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv shows a 0% take rate, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Free is $0 up to 2,500 subscribers with unlimited sends. At up to 1,000 subscribers Lite is $59/mo billed monthly or $49/mo on yearly billing, Pro $109/mo or $95/mo yearly. At 10,000 subscribers Lite is $139/mo ($119 yearly) and Pro $239/mo ($199 yearly); at 50,000 Lite is $299/mo ($249) and Pro $469/mo ($399); at 100,000 Lite is $469/mo ($399) and Pro $699/mo ($599). Lite stops at 100,000 subscribers; Pro runs on to $999/mo billed monthly at 250,000+. Read again on 9 October 2026 with the slider, step by step (Free shows 'Unavailable' above 2,500 subscribers). Lite billed monthly: $59 at 1,000, $79 at 2,500, $109 at 5,000, $139 at 10,000, $199 at 25,000, $299 at 50,000, $389 at 75,000, $469 at 100,000; billed yearly, per month: $49, $69, $95, $119, $169, $249, $329, $399. Pro billed monthly: $109 at 1,000, $149 at 2,500, $199 at 5,000, $239 at 10,000, $349 at 25,000, $469 at 50,000, $589 at 75,000, $699 at 100,000, $799 at 150,000, $899 at 200,000, $999 at 250,000 (the last step reads '250,000+'); billed yearly, per month: $95, $129, $169, $199, $299, $399, $499, $599, $689, $779, $869. Re-read 19 November 2026 on beehiiv.com/pricing.md, generated from the same plan data as the website: Lite $59 monthly or $49 a month yearly and Pro $109 or $95 at up to 1,000 subscribers; $139 and $239 monthly at 10,000, $299 and $469 at 50,000, $469 and $699 at 100,000, Pro $999 at 250,000+; unchanged. Podcast downloads above the plan allowance cost $1.25 per 1,000 on Lite and Pro (help article updated 13 November 2026). Re-read 21 November 2026 on beehiiv.com/pricing.md: the bucket table is the same, from Lite $59 monthly ($588 a year, about $49 a month) and Pro $109 ($1,140, about $95) at up to 1,000 subscribers to Pro $999 monthly at 250,000+; Free stays at $0 up to 2,500 subscribers.",
    "flags": [
     {
      "flag": "free_tier",
@@ -817,11 +817,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-19"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-19",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-10-05"
   },
   {
@@ -960,44 +960,44 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Premium, for individuals · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing). For individuals, Premium is $9.99 a month billed monthly or $7.33 billed annually. For teams, Business is $6.99 per user a month billed monthly or $4.99 per user billed annually, with a minimum charge of five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise. Enterprise is custom. Event lead capture is no longer a separate add-on: it is part of Business and billed per lead, 1 credit at $9.99 for each lead captured and enriched (0.75 credit when Blinq adds no email or phone, none for a duplicate), invoiced monthly in arrears on top of the seats; bulk and unlimited lead packages are quote-only. In August 2026 we recorded the add-on as starting around $199 a month (historical). Note the individual plan costs more per person than the team plan — if there are five of you, the team tier is both cheaper per head and more capable.",
+   "price_note": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days. Premium is $9.99 a month billed monthly or $7.33 billed annually, for up to five custom-branded cards without Blinq branding. A Pro plan for individuals now sits above it at $22.49 a month billed monthly or $16.58 billed annually, adding advanced enrichment with phone numbers, the unlimited AI Notetaker, CSV export, and MCP and API access. Business for teams is $6.99 per card a month billed monthly or $4.99 per card billed annually, from five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise, which is custom. Capturing leads no longer costs anything per lead: the help centre says capture and AI enrichment of captured leads are included, subject to fair use. What is charged is Campaigns, the workspace for one event, at $750 per campaign on pay as you go (75 credits at $10 each), billed monthly in arrears on top of the seats. The pricing page shows Event Lead Capture as an optional add-on 'From $500/event' with a link to volume pricing; the annual event packages behind that are not priced in public. Bulk enrichment of an uploaded list is priced case by case. The page advertises up to 30% off for annual billing; our own arithmetic gives 27% on Premium, 26% on Pro and 29% on Business. Note the individual plans cost more per person than the team plan: if there are five of you, the team tier is both cheaper per head and more capable.",
    "flags": [
     {
-     "flag": "per_seat",
-     "evidence": "For teams, Business is $6.99 per user a month billed monthly or $4.99 per user billed annually, with a minimum charge of five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise.",
-     "evidence_excerpt": "For teams, Business is $6.99 per user a month billed monthly or $4.99 per user billed annually, with a minimum charge of five cards, adding CRM sync, templates, the admin platform and team analytics;…",
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
-    },
-    {
      "flag": "usage_metered",
-     "evidence": "Event lead capture is no longer a separate add-on: it is part of Business and billed per lead, 1 credit at $9.99 for each lead captured and enriched (0.75 credit when Blinq adds no email or phone, none for a duplicate), invoiced monthly in arrears on top of the seats; bulk and unlimited lead packages are quote-only.",
-     "evidence_excerpt": "Event lead capture is no longer a separate add-on: it is part of Business and billed per lead, 1 credit at $9.99 for each lead captured and enriched (0.75 credit when Blinq adds no email or phone, no…",
+     "evidence": "What is charged is Campaigns, the workspace for one event, at $750 per campaign on pay as you go (75 credits at $10 each), billed monthly in arrears on top of the seats.",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
-     "evidence": "In August 2026 we recorded the add-on as starting around $199 a month (historical).",
+     "evidence": "The pricing page shows Event Lead Capture as an optional add-on 'From $500/event' with a link to volume pricing; the annual event packages behind that are not priced in public.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-21"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "The page advertises up to 30% off for annual billing; our own arithmetic gives 27% on Premium, 26% on Pro and 29% on Business.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "free_tier",
-     "evidence": "(re-verified 2026-08-17 and 2026-10-07) Free forever for individuals (2 cards, unlimited QR sharing).",
-     "evidence_excerpt": null,
+     "evidence": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days.",
+     "evidence_excerpt": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
-   "first_observed_at": "2026-08-17"
+   "price_verified_at": "2026-11-21",
+   "first_observed_at": "2026-11-21"
   },
   {
    "name": "Blocky",
@@ -5711,7 +5711,7 @@
    "entry_price": "€14",
    "entry_price_terms": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat…",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front. Billed monthly the same plans are €24, €49, €79 and €99 per seat. The page advertises that annual billing saves up to 42%. The numbers do not convert between currencies, they are reprinted with a different symbol, so a European pays materially more for the same seat. The public trial is 14 days with no credit card; the affiliate landing page our own link leads to advertised 30 days when we followed it on 3 September 2026. Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50. Pipedrive's help pages say LeadBooster, Projects and Smart Docs are included on Premium and Ultimate and can be bought on Lite and Growth, while Campaigns and Web Visitors are always extra. The terms make all fees non-refundable, and a cancelled account stays usable until the end of the billing cycle.",
+   "price_note": "(re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front. Billed monthly the same plans are €24, €49, €79 and €99 per seat. The page advertises that annual billing saves up to 42%. The numbers do not convert between currencies, they are reprinted with a different symbol, so a European pays materially more for the same seat. The public trial is 14 days with no credit card; the affiliate landing page our own link leads to advertised 30 days when we followed it on 3 September 2026. Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50. Pipedrive's help pages say LeadBooster, Projects and Smart Docs are included on Premium and Ultimate and can be bought on Lite and Growth, while Campaigns and Web Visitors are always extra. The terms make all fees non-refundable, and a cancelled account stays usable until the end of the billing cycle. Re-read 21 November 2026 on pipedrive.com/de/pricing (the English page refused our reader): €14, €39, €59 and €79 per seat a month billed annually, one payment of €168, €468, €708 or €948 per seat a year, 'up to 42%' saving and the 14-day trial without a card, all unchanged. The monthly toggle did not respond, so the €24 to €99 monthly rates date from 17 October 2026. The German page lists the Projects add-on from €16 where we read €16.66 on 17 October; the other four add-ons read the same.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5719,15 +5719,15 @@
      "evidence_excerpt": "Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges t…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
-     "evidence": "Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50.",
+     "evidence": "The German page lists the Projects add-on from €16 where we read €16.66 on 17 October; the other four add-ons read the same.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "annual_lock",
@@ -5735,11 +5735,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-17",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-10-17"
   },
   {
@@ -6477,7 +6477,7 @@
    "entry_price": "$49",
    "entry_price_terms": "Email Volume… · per user per month billed annually, by active contacts",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts. Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,000, with 200,000 and up quoted; month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live data credits. AI SDR (Jason) runs $500, $800 or $1,000 a month billed annually at Starter (1,000, 2,000 or 3,000 contacts) and $1,500 or $3,000 at Growth (5,000 or 10,000), $800 to $5,000 month to month, with Enterprise quoted. Agency Core starts at $210/month and Agency AI SDR at $500 per client. Add-ons on top of the Email track: LinkedIn automation $69/month per account, calls and SMS $29/month per account, AI/live-data credits from $39/month and email validation from $20/month. Each mailbox beyond the number a plan includes also needs a $29/month email account seat on top of the mailbox price.",
+   "price_note": "(re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file; starting prices re-read 2026-11-21 in a rendered browser) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts. Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,000, with 200,000 and up quoted; month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live data credits. AI SDR (Jason) runs $500, $800 or $1,000 a month billed annually at Starter (1,000, 2,000 or 3,000 contacts) and $1,500 or $3,000 at Growth (5,000 or 10,000), $800 to $5,000 month to month, with Enterprise quoted. Agency Core starts at $210/month and Agency AI SDR at $500 per client. Add-ons on top of the Email track: LinkedIn automation $69/month per account, calls and SMS $29/month per account, AI/live-data credits from $39/month and email validation from $20/month. Each mailbox beyond the number a plan includes also needs a $29/month email account seat on top of the mailbox price. On 21 November 2026 the starting list prices were unchanged: $49 per user a month billed annually on Email Volume at 1,000 contacts, $89 on Multichannel and $500 a month for Jason AI SDR, with $59 and $99 month to month in the comparison table, and the same add-ons ($69 LinkedIn, $29 calls and SMS, $29 per extra email account, live data from $39, validation from $20). The higher contact tiers were not re-read. The page also ran a Black Friday offer: code BF26REPLY takes 40% off an annual Email Volume or Multichannel plan, shown as $29 and $53 per user a month at the starting tier (40% off $49 and $89 is $29.40 and $53.40), and Jason AI SDR showed 25% off, $375 against $500. The page frames the saving as year one, so the list prices above are what a renewal is measured against.",
    "flags": [
     {
      "flag": "per_seat",
@@ -6485,7 +6485,7 @@
      "evidence_excerpt": "Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "usage_metered",
@@ -6493,15 +6493,15 @@
      "evidence_excerpt": "Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "addons_extra",
-     "evidence": "The trap is the cheaper Email track: it starts at $49 for 1,000 contacts, but LinkedIn automation ($69 per account) and calls and SMS ($29) are add-ons there, so one seat with both is $147 against $89 for Multichannel.",
-     "evidence_excerpt": "The trap is the cheaper Email track: it starts at $49 for 1,000 contacts, but LinkedIn automation ($69 per account) and calls and SMS ($29) are add-ons there, so one seat with both is $147 against $8…",
+     "evidence": "On 21 November 2026 the starting list prices were unchanged: $49 per user a month billed annually on Email Volume at 1,000 contacts, $89 on Multichannel and $500 a month for Jason AI SDR, with $59 and $99 month to month in the comparison table, and the same add-ons ($69 LinkedIn, $29 calls and SMS, $29 per extra email account, live data from $39, validation from $20).",
+     "evidence_excerpt": "On 21 November 2026 the starting list prices were unchanged: $49 per user a month billed annually on Email Volume at 1,000 contacts, $89 on Multichannel and $500 a month for Jason AI SDR, with $59 an…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-21"
     },
     {
      "flag": "annual_lock",
@@ -6509,11 +6509,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-09"
+     "verified_at": "2026-11-21"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-09",
+   "price_verified_at": "2026-11-21",
    "first_observed_at": "2026-10-09"
   },
   {

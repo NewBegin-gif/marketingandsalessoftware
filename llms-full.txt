@@ -1162,7 +1162,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/reply-io-review.html
 - Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The sidebar showed Trial: 14 days after registration.
 - Verdict: Reply.io: Month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. The $89 is the Multichannel track on annual billing.
-- Price: (re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts.
+- Price: (re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file; starting prices re-read 2026-11-21 in a rendered browser) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts.
 
 ## RepointQR
 - Review: https://marketingandsalessoftware.com/repointqr-review.html
