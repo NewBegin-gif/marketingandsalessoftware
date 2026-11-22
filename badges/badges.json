@@ -2585,6 +2585,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/upsell-cross-sell-aw.svg\" width=\"340\" height=\"115\" alt=\"Upsell &amp; Cross Sell - AW hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 10; 4 confirmed · 3 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "upsellplus",
+  "name": "UpsellPlus",
+  "review_url": "https://marketingandsalessoftware.com/upsellplus-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/upsellplus.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#upsellplus",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 12",
+   "5 confirmed · 1 contradicted · 5 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "UpsellPlus hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 12; 5 confirmed · 1 contradicted · 5 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/upsellplus-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/upsellplus.svg\" width=\"340\" height=\"115\" alt=\"UpsellPlus hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 12; 5 confirmed · 1 contradicted · 5 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "vendoo",
   "name": "Vendoo",
   "review_url": "https://marketingandsalessoftware.com/vendoo-review.html",
@@ -2597,6 +2613,22 @@
   ],
   "alt": "Vendoo hands-on test by Marketing & Sales Software, 20 Nov 2026: No claim or export checks recorded",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/vendoo-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vendoo.svg\" width=\"340\" height=\"81\" alt=\"Vendoo hands-on test by Marketing &amp; Sales Software, 20 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "vidpal",
+  "name": "VidPal",
+  "review_url": "https://marketingandsalessoftware.com/vidpal-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/vidpal.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#vidpal",
+  "tested_on": "2026-11-18",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 10",
+   "4 confirmed · 1 contradicted · 2 not comparable · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "VidPal hands-on test by Marketing & Sales Software, 18 Nov 2026: Vendor claims checked 10; 4 confirmed · 1 contradicted · 2 not comparable · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/vidpal-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vidpal.svg\" width=\"340\" height=\"115\" alt=\"VidPal hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 10; 4 confirmed · 1 contradicted · 2 not comparable · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "vify-order-printer",
