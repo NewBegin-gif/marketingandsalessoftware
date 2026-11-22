@@ -310,7 +310,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/clay-review.html
 - Hands-on: tested by us on 2026-10-30. Measured 2026-10-30: The account came with 1,000 data credits and 5,000 actions every two weeks, with no card. Setup asks four survey questions and a tool must be picked before you can continue.
 - Verdict: Clay: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder.
-- Price: (re-verified 2026-10-19 on clay.com/pricing; both billing terms read from the page markup, no figure has moved since our August reading, and our reading of the headline prices was corrected that day) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August…
+- Price: (re-verified 2026-11-22 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headline prices was corrected) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August…
 
 ## Cloro
 - Review: https://marketingandsalessoftware.com/cloro-review.html
