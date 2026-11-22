@@ -472,7 +472,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/essent-preorder-back-in-stock-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "$3.47/first month, then $4.95/month". What we saw: The plans screen shows Lite at $3.47 first month, then $4.95 a month, with the label -30% first mo, 100 preorders and 1000 back in stock…
 - Verdict: Essent Preorder Back in Stock: $0.25 per extra pre-order on Lite, $0.20 on Starter and $0.10 on Essentials. The plans are cheap until a launch works.
-- Price: (read 2026-11-17 on apps.shopify.com/essential-preorder and in our own test that day; earlier: read 2026-10-04 on apps.shopify.com/essential-pre-order, pricing table and data-access section; the vendor's own pricing page at essential-apps.com/pricing lists the apps but no prices) Four plans on the listing plus an unlimited plan mentioned on the top card, priced on two meters: pre-orders a month and back-in-stock…
+- Price: (re-read 2026-11-22 with a plain fetch of apps.shopify.com/essential-pre-order, which now carries the listing; the essential-preorder address gave a 404 that day: Free and the three paid plans, their allowances, the per-use overage and the $59 Professional plan unchanged, 1,408 reviews at 5.0) (read 2026-11-17 on apps.shopify.com/essential-preorder and in our own test that day; earlier: read 2026-10-04 on…
 
 ## Essential Announcement Bar
 - Review: https://marketingandsalessoftware.com/essential-announcement-bar-review.html
@@ -514,7 +514,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/essential-upsell-cross-sell-review.html
 - Hands-on: tested by us on 2026-11-16. Measured 2026-11-16: In the app $39.99 a month is the Growth plan (up to $2,500). Professional is $99.99 (up to $10,000) and the plan without a limit is Unlimited at $149.99 (above $10,000). The listing shows only Free,…
 - Verdict: Essential Upsell & Cross Sell: Starter is $9.99 a month for up to $500. The plans are metered on revenue the app says it generated.
-- Price: (read 2 Oct 2026 on the Shopify listing and on the vendor's own page; the listing was read again on 16 Nov 2026 and the plan screen in the app was checked the same day) Plans are priced not on orders or views but on the extra revenue the app generates in a month. Free covers up to $100 of generated revenue with product-page and post-purchase offers, analytics and translations.
+- Price: (read 2 Oct 2026 on the Shopify listing and the vendor's own page; read again on 16 Nov 2026 together with the plan screen in the app, and on 22 Nov 2026 on the listing and on the vendor's pricing page at essential-apps.com/upsell/pricing-info) Plans are priced not on orders or views but on the extra revenue the app generates in a month. Free covers up to $100 of generated revenue with product-page and…
 
 ## Evey Events
 - Review: https://marketingandsalessoftware.com/evey-events-review.html
