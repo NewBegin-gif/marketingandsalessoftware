@@ -376,6 +376,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/brandye-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/brandye.svg\" width=\"340\" height=\"115\" alt=\"Brandye hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 4 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "bss-b2b-lock",
+  "name": "BSS B2B Lock",
+  "review_url": "https://marketingandsalessoftware.com/bss-b2b-lock-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/bss-b2b-lock.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#bss-b2b-lock",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "BSS B2B Lock hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/bss-b2b-lock-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bss-b2b-lock.svg\" width=\"340\" height=\"81\" alt=\"BSS B2B Lock hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "bss-b2b-solution",
   "name": "BSS B2B Solution",
   "review_url": "https://marketingandsalessoftware.com/bss-b2b-solution-review.html",
