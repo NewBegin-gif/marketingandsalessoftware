@@ -140,10 +140,10 @@
 .tool-tags{min-height:24px}
 
 /* KAART_V6: lezerscode */
-.tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
+.tc-coupon{min-height:40px;margin:-4px 0 12px;display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;padding:7px 10px;border-radius:9px;border:1px dashed rgba(52,211,153,.45);background:rgba(52,211,153,.06);font-size:.78rem;color:var(--text-2)}
 .tc-coupon.leeg{display:none}
-.tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:nowrap}
-.tc-coupon .lb{min-width:0;flex:1 1 auto;overflow-wrap:anywhere}
+.tc-coupon .cd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:800;color:var(--green);letter-spacing:.04em;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.35);border-radius:6px;padding:1px 7px;white-space:normal;overflow-wrap:anywhere;flex:0 0 auto;max-width:calc(100% - 24px)}
+.tc-coupon .lb{min-width:0;flex:1 1 8em;overflow-wrap:anywhere}
 
 /* KAART_V7: ledger. Eén tool per rij, vijf kolommen; de kolomlijnen doen de uitlijning. */
 #marketplace-grid,.tools-grid{display:block!important;grid-template-columns:none!important}
@@ -243,7 +243,7 @@ nav.snav a:focus-visible,nav.snav button:focus-visible{outline:2px solid #a5b4fc
 @media(max-width:480px){nav.snav .snav-merk em{display:none}}
 /* audit P1-2: de marketplace-subnav (vorige/volgende) plakt direct onder deze balk, op elke breedte */
 .subnav{top:calc(var(--snav-h) + 1px)!important}
-</style><div class="snav-in"><a class="snav-merk" href="/"><i aria-hidden="true"></i><span>Marketing &amp; Sales <em>Software</em></span></a><ul class="snav-links" id="zuster-nav-links"><li><a href="/software.html">Reviews</a></li><li><a href="/guides.html">Guides</a></li><li><a href="/tools/">Free tools</a></li><li><a href="/atlas.html">Atlas</a></li><li><a href="/deals.html">Deals</a></li><li><a href="/black-friday.html">Black Friday</a></li><li class="snav-meer"><button type="button" aria-expanded="false" aria-controls="zuster-nav-meer">More</button><ul class="snav-meer-lijst" id="zuster-nav-meer" hidden><li><a href="/price-watch.html">Price Watch</a></li><li><a href="/about.html">About</a></li></ul></li></ul><a class="snav-cta" href="/finder.html">Find software</a><button type="button" class="snav-menu" aria-expanded="false" aria-controls="zuster-nav-links">Menu</button></div><script>(function(){var n=document.currentScript&&document.currentScript.closest('nav.snav');if(!n)return;
+@media(max-width:480px){nav.snav .snav-in{column-gap:5px}nav.snav .snav-merk span{min-width:0;white-space:normal;overflow-wrap:anywhere}}</style><div class="snav-in"><a class="snav-merk" href="/"><i aria-hidden="true"></i><span>Marketing &amp; Sales <em>Software</em></span></a><ul class="snav-links" id="zuster-nav-links"><li><a href="/software.html">Reviews</a></li><li><a href="/guides.html">Guides</a></li><li><a href="/tools/">Free tools</a></li><li><a href="/atlas.html">Atlas</a></li><li><a href="/deals.html">Deals</a></li><li><a href="/black-friday.html">Black Friday</a></li><li class="snav-meer"><button type="button" aria-expanded="false" aria-controls="zuster-nav-meer">More</button><ul class="snav-meer-lijst" id="zuster-nav-meer" hidden><li><a href="/price-watch.html">Price Watch</a></li><li><a href="/about.html">About</a></li></ul></li></ul><a class="snav-cta" href="/finder.html">Find software</a><button type="button" class="snav-menu" aria-expanded="false" aria-controls="zuster-nav-links">Menu</button></div><script>(function(){var n=document.currentScript&&document.currentScript.closest('nav.snav');if(!n)return;
 var m=n.querySelector('.snav-menu'),w=n.querySelector('.snav-meer>button'),l=n.querySelector('.snav-meer-lijst');
 function zetMenu(o){n.classList.toggle('open',o);m.setAttribute('aria-expanded',o?'true':'false');}
 function zetMeer(o){if(!w)return;w.setAttribute('aria-expanded',o?'true':'false');l.hidden=!o;}
