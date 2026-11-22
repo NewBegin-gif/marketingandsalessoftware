@@ -825,8 +825,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## LifterLMS
 - Review: https://marketingandsalessoftware.com/lifterlms-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: LifterLMS: Earth is $199 for the first year, normally $398. Taking payments needs a paid bundle, and every bundle renews at twice the first-year price.
-- Price: (read 2026-10-10 on lifterlms.com/pricing, USD) The LifterLMS core plugin for WordPress is free and open source, with unlimited courses, memberships, students and teachers. Paid bundles are annual subscriptions, shown at an introductory 50% off the first year with the code FIRSTYEAR50, and the page states that all renewals are at full price.
+- Verdict: LifterLMS: The normal prices of $398, $598 and $1,598 a year are unchanged. Taking payments needs a paid bundle.
+- Price: (re-read 2026-11-22 on lifterlms.com/pricing: the normal prices of $398, $598 and $1,598 a year are unchanged. Through November the page runs a Black Friday sale in place of the usual first-year offer: 60% off the first year with the code BLACKFRIDAY26, so year one shows $159.20 for Earth, $239.20 for Universe and $639.20 for Infinity, and renewals stay at full price.
 
 ## LinkShortener.io
 - Review: https://marketingandsalessoftware.com/linkshortener-io-review.html

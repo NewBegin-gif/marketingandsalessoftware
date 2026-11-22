@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 336 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 338 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 336,
-  "flags": 508,
+  "tools": 338,
+  "flags": 510,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1008,20 +1008,12 @@
    "entry_price": "$7.99",
    "entry_price_terms": "Basic Plan · per month for unlimited country and IP blocking plus the Bot Killer",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-17 on apps.shopify.com/blocky-simple-country-blocker and in our own test that day; earlier: re-verified 2026-11-13 on apps.shopify.com/blocky-simple-country-blocker, where the app is now listed as Bloky Fraud Filter Bot Blocker) Four plans. The ladder was rebuilt after our 2 November reading: the Development Stores plan and the Advanced tier are gone, and a Free plan and a Plus plan have appeared. The Free plan allowed up to 4 country and IP rules on 13 November 2026 (the card read 2 on 17 November, see below), blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support; its plan card carries no development-store restriction. Basic is $7.99 a month or $67.11 a year (a stated 30% saving; it was $9.99 and $59.94): unlimited country blocking, unlimited IP and IP-range blocking, an IP whitelist, the Bot Killer for VPN, proxy and Tor traffic, blocking directly in checkout, a fully customisable blocked page and a custom checkout blocked message. Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-ons checkout blocker, right-click and content protection and unlimited visitor analytics traffic logs. Plus is $39.99 a month or $239.94 a year, for Shopify Plus stores only, and adds automatic cancellation of fraud orders to everything in Pro. Basic and Pro state in their own plan text: all stores except for Shopify Plus stores. On 13 November 2026 the plan cards no longer listed a 7-day free trial, though the developer's reply to a review dated 20 August 2026 still mentioned one; on 17 November 2026 the Basic, Pro and Plus cards listed the 7 day trial again. All charges are billed in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, 7722119, Israel; the app launched 7 April 2021 and still carries Shopify's “Built for Shopify” badge. The review record keeps moving: 365 reviews averaging 4.7 on 13 November 2026, up from 324 on 22 August, 346 on 18 September, 355 on 5 October and 362 on 2 November, distributed 325 five-star, 16 four-star, 3 three-star, 1 two-star and 20 one-star. The developer replies to reviews on the listing, including an August 2026 reply explaining what the Basic plan is meant to cover. Read again on 17 November 2026: the listing (Bloky Fraud Filter Bot Blocker, 4.7 from 367 reviews) shows the same four plans at the same amounts, Basic $7.99 a month or $67.11 a year, Pro $16.99 or $101.94 and Plus $39.99 or $239.94, but its Free card now reads up to 2 country and IP rules, where our reading of 13 November 2026 recorded 4. The Free card still lists blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support. We did not install the app.",
+   "price_note": "(read 2026-11-17 on apps.shopify.com/blocky-simple-country-blocker and in our own test that day; earlier: re-verified 2026-11-13 on apps.shopify.com/blocky-simple-country-blocker, where the app is now listed as Bloky Fraud Filter Bot Blocker) Four plans. The ladder was rebuilt after our 2 November reading: the Development Stores plan and the Advanced tier are gone, and a Free plan and a Plus plan have appeared. The Free plan allowed up to 4 country and IP rules on 13 November 2026 (the card read 2 on 17 November, see below), blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support; its plan card carries no development-store restriction. Basic is $7.99 a month or $67.11 a year (a stated 30% saving; it was $9.99 and $59.94): unlimited country blocking, unlimited IP and IP-range blocking, an IP whitelist, the Bot Killer for VPN, proxy and Tor traffic, blocking directly in checkout, a fully customisable blocked page and a custom checkout blocked message. Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-ons checkout blocker, right-click and content protection and unlimited visitor analytics traffic logs. Plus is $39.99 a month or $239.94 a year, for Shopify Plus stores only, and adds automatic cancellation of fraud orders to everything in Pro. Basic and Pro state in their own plan text: all stores except for Shopify Plus stores. On 13 November 2026 the plan cards no longer listed a 7-day free trial, though the developer's reply to a review dated 20 August 2026 still mentioned one; on 17 November 2026 the Basic, Pro and Plus cards listed the 7 day trial again. All charges are billed in USD and recur every 30 days. Developer Effective Apps, 13 Max Nordau, Ashdod, 7722119, Israel; the app launched 7 April 2021 and still carries Shopify's “Built for Shopify” badge. The review record keeps moving: 365 reviews averaging 4.7 on 13 November 2026, up from 324 on 22 August, 346 on 18 September, 355 on 5 October and 362 on 2 November, distributed 325 five-star, 16 four-star, 3 three-star, 1 two-star and 20 one-star. The developer replies to reviews on the listing, including an August 2026 reply explaining what the Basic plan is meant to cover. Read again on 17 November 2026: the listing (Bloky Fraud Filter Bot Blocker, 4.7 from 367 reviews) shows the same four plans at the same amounts, Basic $7.99 a month or $67.11 a year, Pro $16.99 or $101.94 and Plus $39.99 or $239.94, but its Free card now reads up to 2 country and IP rules, where our reading of 13 November 2026 recorded 4. The Free card still lists blocking directly in checkout, visitor analytics for the first 300 visits, the default blocked page and online support. On 22 November 2026 we installed the app on a Shopify development store. Its own Free card listed “Up to 2 country and IP rules”, “First 300 visitor logs” and “Default blocked page” and did not list blocking in checkout, while the App Store Free card read the same day still lists “Block directly in checkout”. With yearly billing the app showed Basic at $5.59 a month ($67.12 a year) and Pro at $8.49 a month ($101.94 a year). The app also states: “Blocky cannot stop Shopify from logging visits or abandoned checkouts.” We blocked one country on the Free plan and the rule saved, but we could not see the block work: a development store sits behind Shopify's store password, and the block counter stayed at 0.",
    "flags": [
     {
      "flag": "addons_extra",
      "evidence": "Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-ons checkout blocker, right-click and content protection and unlimited visitor analytics traffic logs.",
      "evidence_excerpt": "Pro is $16.99 a month or $101.94 a year (a stated 50% saving; it was $19.99 and $119.94) and adds geolocation redirects by country, blocking by email and phone, blocking by name and address, an add-o…",
-     "source_url": "https://apps.shopify.com/blocky-simple-country-blocker",
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-17"
-    },
-    {
-     "flag": "free_tier",
-     "evidence": "The ladder was rebuilt after our 2 November reading: the Development Stores plan and the Advanced tier are gone, and a Free plan and a Plus plan have appeared.",
-     "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/blocky-simple-country-blocker",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-11-17"
@@ -4485,7 +4477,7 @@
    "entry_price": "$199",
    "entry_price_terms": "Earth Bundle · per year, first year with the 50% introductory price, 1 active site",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-10 on lifterlms.com/pricing, USD) The LifterLMS core plugin for WordPress is free and open source, with unlimited courses, memberships, students and teachers. Paid bundles are annual subscriptions, shown at an introductory 50% off the first year with the code FIRSTYEAR50, and the page states that all renewals are at full price. Earth is $199 for the first year, normally $398: 1 active site, support for 1 user, the Stripe, PayPal and WooCommerce e-commerce add-ons, cart abandonment recovery and name-your-price. Universe, marked most popular, is $299 for the first year, normally $598: 5 active sites, support for 2 users, the Sky Pilot theme, 4 e-commerce add-ons, email marketing and CRM add-ons (including Mailchimp and Kit), form integrations (Gravity Forms, Ninja Forms, Formidable Forms, WPForms) and a weekly mastermind with a private Facebook group. Infinity is $799 for the first year, normally $1,598: unlimited sites, support for 3 users and 15 advanced add-ons such as advanced quizzes and videos, assignments, groups, private areas, a private site and social learning. A lifetime Infinity licence is offered on a separate page. A 30-day demo site with every add-on costs $1, and purchases carry a 30-day, 100% money-back guarantee with no setup fees. Licences renew automatically; you can cancel the renewal at any time.",
+   "price_note": "(re-read 2026-11-22 on lifterlms.com/pricing: the normal prices of $398, $598 and $1,598 a year are unchanged. Through November the page runs a Black Friday sale in place of the usual first-year offer: 60% off the first year with the code BLACKFRIDAY26, so year one shows $159.20 for Earth, $239.20 for Universe and $639.20 for Infinity, and renewals stay at full price. The FAQ still describes the standing 50% first-year discount. The sale is temporary and not the list price.) (read 2026-10-10 on lifterlms.com/pricing, USD) The LifterLMS core plugin for WordPress is free and open source, with unlimited courses, memberships, students and teachers. Paid bundles are annual subscriptions, shown at an introductory 50% off the first year with the code FIRSTYEAR50, and the page states that all renewals are at full price. Earth is $199 for the first year, normally $398: 1 active site, support for 1 user, the Stripe, PayPal and WooCommerce e-commerce add-ons, cart abandonment recovery and name-your-price. Universe, marked most popular, is $299 for the first year, normally $598: 5 active sites, support for 2 users, the Sky Pilot theme, 4 e-commerce add-ons, email marketing and CRM add-ons (including Mailchimp and Kit), form integrations (Gravity Forms, Ninja Forms, Formidable Forms, WPForms) and a weekly mastermind with a private Facebook group. Infinity is $799 for the first year, normally $1,598: unlimited sites, support for 3 users and 15 advanced add-ons such as advanced quizzes and videos, assignments, groups, private areas, a private site and social learning. A lifetime Infinity licence is offered on a separate page. A 30-day demo site with every add-on costs $1, and purchases carry a 30-day, 100% money-back guarantee with no setup fees. Licences renew automatically; you can cancel the renewal at any time.",
    "flags": [
     {
      "flag": "renewal_jump",
@@ -4493,7 +4485,7 @@
      "evidence_excerpt": null,
      "source_url": "https://lifterlms.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-22"
     },
     {
      "flag": "addons_extra",
@@ -4501,12 +4493,12 @@
      "evidence_excerpt": null,
      "source_url": "https://lifterlms.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-10"
+     "verified_at": "2026-11-22"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-10",
-   "first_observed_at": "2026-10-10"
+   "price_verified_at": "2026-11-22",
+   "first_observed_at": "2026-11-22"
   },
   {
    "name": "LinkShortener.io",
@@ -5320,6 +5312,38 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-14",
    "first_observed_at": "2026-11-14"
+  },
+  {
+   "name": "OPTIS Product Options",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/optis-product-options-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "Advanced · per month, Advanced, the first paid plan, as listed on the Shopify App Store…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-22 on apps.shopify.com/product-options-by-bss) Free plan: 10 variant option sets, 10+ product option types, analytics, email and live support, watermark removed. Advanced is $9.99 a month: unlimited option sets, 15+ option types, price add-on, conditional logic, import and export, 5 file uploads per button and option styling, with a 14 day free trial. Platinum is $19.99 a month: unlimited option types and features, 20 file uploads, option quantity, calendar language, editing options on the cart page and prioritised support, with a 14 day trial. Unlimited is $49.99 a month, for Shopify Plus: customisation service and 1-1 support, with a 14 day trial. All charges are billed in USD every 30 days. On our development store Shopify showed the Advanced Plan as a test charge of $9.99 every 30 days and we paid nothing.",
+   "flags": [
+    {
+     "flag": "addons_extra",
+     "evidence": "Advanced is $9.99 a month: unlimited option sets, 15+ option types, price add-on, conditional logic, import and export, 5 file uploads per button and option styling, with a 14 day free trial.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/product-options-by-bss",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-22"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-22 on apps.shopify.com/product-options-by-bss) Free plan: 10 variant option sets, 10+ product option types, analytics, email and live support, watermark removed.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/product-options-by-bss",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-22"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-22",
+   "first_observed_at": "2026-11-22"
   },
   {
    "name": "Optizen",
@@ -8840,6 +8864,30 @@
    "first_observed_at": "2026-10-08"
   },
   {
+   "name": "Vibe",
+   "category": "Marketing",
+   "domain": "vibe.co",
+   "review_url": "https://aibuildermarketplace.com/b2b/vibe-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$50",
+   "entry_price_terms": "Minimum daily ad spend · per usage, no subscription",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-22 on vibe.co/pricing, USD) No subscription: you pay for the ads you run. CPM $15 to $40 depending on channel and time, minimum spend $50 a day, no contract and no commitment, paid by credit card or wire. The pricing page lists targeting, Vibe Studio, reporting, A/B testing, automatic and manual bidding, and 24/7 support as included. Banner on 22 November 2026: spend $5,000 on streaming TV ads, get $5,000 in bonus ad credits. In our test the budget step filled in $100 a day and a card was asked for before publishing.",
+   "flags": [
+    {
+     "flag": "usage_metered",
+     "evidence": "Banner on 22 November 2026: spend $5,000 on streaming TV ads, get $5,000 in bonus ad credits.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.vibe.co/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-22"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-22",
+   "first_observed_at": "2026-11-22"
+  },
+  {
    "name": "VideoUpload",
    "category": "Marketing",
    "domain": "videoupload.team",
@@ -8928,7 +8976,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Starter · per month, Shopify app billed every 30 days in USD",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-25 on the Shopify App Store listing apps.shopify.com/visibility-mesh and on the vendor's app page at visibilitymesh.com/pages/shopify-app) Three plans, billed in USD through Shopify every 30 days, each with a 7-day free trial that includes one full scan. Starter is $29 a month: every issue with step-by-step fixes, 12 rescans a month and a backlink audit of up to 30 links. Pro is $79: everything in Starter plus a deep catalog scan, a competitor benchmark, AI traffic tracking, a backlink audit of up to 150 links and 25 rescans a month. Growth is $179: everything in Pro plus approving and applying fixes from the app with undo, FAQ and blog content, a backlink audit of up to 500 links and a priority queue. The vendor also sells separate web audits outside the Shopify app; those are not part of these plans.",
+   "price_note": "(read 2026-10-25 on the Shopify App Store listing apps.shopify.com/visibility-mesh and on the vendor's app page at visibilitymesh.com/pages/shopify-app) Three plans, billed in USD through Shopify every 30 days, each with a 7-day free trial that includes one full scan. Starter is $29 a month: every issue with step-by-step fixes, 12 rescans a month and a backlink audit of up to 30 links. Pro is $79: everything in Starter plus a deep catalog scan, a competitor benchmark, AI traffic tracking, a backlink audit of up to 150 links and 25 rescans a month. Growth is $179: everything in Pro plus approving and applying fixes from the app with undo, FAQ and blog content, a backlink audit of up to 500 links and a priority queue. The vendor also sells separate web audits outside the Shopify app; those are not part of these plans. Checked in the app on 21 November 2026 (install screen): the app asked to view customer device and activity data, to view staff data (for the store owner this covers name, email, phone and address), and to view and edit products, orders from the last 60 days and Online Store pages. On our password protected development store the app said a scan could not produce a result there, so we did not see a scan. The listing showed the same three plans and the 7-day trial.",
    "flags": [],
    "researched": "2026-07",
    "price_verified_at": "2026-10-25",

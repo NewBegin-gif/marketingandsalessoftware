@@ -36,7 +36,7 @@ BidX,E-commerce,bidx.io,,usage_metered|addons_extra|annual_lock,https://aibuilde
 Birch,Growth & Revenue,bir.ch,49.0,usage_metered|annual_lock,https://aibuildermarketplace.com/b2b/birch-review/,2026-07,$49,"a month, up to $10K monthly ad spend (price then scales with spend)",public,2026-10-13
 Bitscale,Growth & Revenue,bitscale.ai,349.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/bitscale-review/,2026-07,$349,"per month for 15,000 (Booster $799 for 50,000)",public,2026-10-28
 Blinq,IT & Productivity,blinq.me,9.99,usage_metered|addons_extra|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/blinq-review/,2026-07,$9.99,"Premium, for individuals · billed monthly",public,2026-11-21
-Blocky,E-commerce,effectify.io,7.99,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/blocky-review/,2026-07,$7.99,Basic Plan · per month for unlimited country and IP blocking plus the Bot Killer,public,2026-11-17
+Blocky,E-commerce,effectify.io,7.99,addons_extra,https://aibuildermarketplace.com/b2b/blocky-review/,2026-07,$7.99,Basic Plan · per month for unlimited country and IP blocking plus the Bot Killer,public,2026-11-17
 Bold Custom Pricing,E-commerce,boldcommerce.com,29.0,,https://aibuildermarketplace.com/b2b/bold-custom-pricing-review/,2026-07,$29,"Essential · per month, pricing for 1 customer group",public,2026-10-06
 Bold Memberships,E-commerce,boldcommerce.com,0.13,per_seat|free_tier,https://aibuildermarketplace.com/b2b/bold-memberships-review/,2026-07,$0.13,"Scale · per member, per month",public,2026-10-05
 Bold Subscriptions,E-commerce,boldcommerce.com,24.99,,https://aibuildermarketplace.com/b2b/bold-subscriptions-review/,2026-07,$24.99,"Launch · per month, plus a 2% transaction fee",public,2026-11-18
@@ -158,7 +158,7 @@ LearnWorlds,Growth & Revenue,learnworlds.com,49.0,usage_metered|addons_extra|ann
 lemlist,Growth & Revenue,lemlist.com,69.0,per_seat|usage_metered|addons_extra,https://aibuildermarketplace.com/b2b/lemlist-review/,2026-07,$69,per month ($55 billed yearly) for unlimited users,public,2026-10-05
 Lensmor,Growth & Revenue,lensmor.com,499.0,usage_metered|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/lensmor-review/,2026-07,$499,"Basic · flat price for a workspace of up to 5 seats with 35,000 credits a month",public,2026-10-26
 LettrLabs,Growth & Revenue,lettrlabs.com,399.0,addons_extra,https://aibuildermarketplace.com/b2b/lettrlabs-review/,2026-07,$399,per month billed annually ($449 monthly),public,2026-11-17
-LifterLMS,Growth & Revenue,lifterlms.com,,renewal_jump|addons_extra,https://aibuildermarketplace.com/b2b/lifterlms-review/,2026-07,$199,"Earth Bundle · per year, first year with the 50% introductory price, 1 active site",public,2026-10-10
+LifterLMS,Growth & Revenue,lifterlms.com,,renewal_jump|addons_extra,https://aibuildermarketplace.com/b2b/lifterlms-review/,2026-07,$199,"Earth Bundle · per year, first year with the 50% introductory price, 1 active site",public,2026-11-22
 LinkShortener.io,Marketing,linkshortener.io,,free_tier,https://aibuildermarketplace.com/b2b/linkshortener-io-review/,2026-07,$13,Basic · Basic $13 a month or $130 a year,public,2026-11-18
 Livestorm,Growth & Revenue,livestorm.com,,usage_metered,https://aibuildermarketplace.com/b2b/livestorm-review/,2026-07,,,see_details,2026-10-22
 LocalTry,Sales & CRM,localtry.com,,,https://aibuildermarketplace.com/b2b/localtry-review/,2026-07,,,see_details,2026-11-10
@@ -187,6 +187,7 @@ Omneky,Marketing,omneky.com,29.0,usage_metered,https://aibuildermarketplace.com/
 Omniseo,Growth & Revenue,omniseo.com,45.0,annual_lock,https://aibuildermarketplace.com/b2b/omniseo-review/,2026-07,$45,"per month (25 saved prompts, 5 seats, all 10 AI platforms)",public,2026-11-16
 Oneflow,Sales & CRM,oneflow.com,,per_seat|addons_extra|annual_lock,https://aibuildermarketplace.com/b2b/oneflow-review/,2026-07,€50,"per user a month billed annually, 5-user minimum (floor €250/month)",public,2026-10-05
 OptinMonster,Marketing,optinmonster.com,,usage_metered|renewal_jump,https://aibuildermarketplace.com/b2b/optinmonster-review/,2026-07,$108,"Basic · per year, First-year price billed today on annual billing",public,2026-11-14
+OPTIS Product Options,E-commerce,apps.shopify.com,9.99,addons_extra|free_tier,https://aibuildermarketplace.com/b2b/optis-product-options-review/,2026-07,$9.99,"Advanced · per month, Advanced, the first paid plan, as listed on the Shopify App Store…",public,2026-11-22
 Optizen,Growth & Revenue,optizenapp.com,9.99,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/optizen-review/,2026-07,$9.99,"Starter · per month, plus $2 per extra AI video credit beyond the 2 included",public,2026-10-05
 Outgrow,Growth & Revenue,outgrow.co,22.0,annual_lock,https://aibuildermarketplace.com/b2b/outgrow-review/,2026-07,$22,per month or $14/mo billed annually,public,2026-09-30
 OutSends,Sales & CRM,outsends.com,19.0,usage_metered|annual_lock|free_tier,https://aibuildermarketplace.com/b2b/outsends-review/,2026-07,$19,"Starter · billed monthly, excluding VAT",public,2026-10-17
@@ -315,6 +316,7 @@ Upsell.com,Growth & Revenue,upsell.com,9.99,usage_metered|free_tier,https://aibu
 UpsellPlus,Growth & Revenue,upsellplus.com,,usage_metered,https://aibuildermarketplace.com/b2b/upsellplus-review/,2026-07,$49,"Basic · per month, or $500 a year",public,2026-11-17
 UserTrail,Growth & Revenue,usertrail.io,39.0,free_tier,https://aibuildermarketplace.com/b2b/usertrail-review/,2026-07,$39,"Basic · per month billed yearly, 10,000 sessions and 3 websites",public,2026-10-07
 Vendoo,E-commerce,vendoo.co,12.49,free_tier,https://aibuildermarketplace.com/b2b/vendoo-review/,2026-07,$12.49,Starter · per month billed yearly,public,2026-10-08
+Vibe,Marketing,vibe.co,,usage_metered,https://aibuildermarketplace.com/b2b/vibe-review/,2026-07,$50,"Minimum daily ad spend · per usage, no subscription",public,2026-11-22
 VideoUpload,Marketing,videoupload.team,25.0,usage_metered,https://aibuildermarketplace.com/b2b/videoupload-review/,2026-07,$25,"Creator · Creator billed monthly: you + 2 team members, 1 channel, 50 GB, 100 AI…",public,2026-11-03
 VidPal,Growth & Revenue,vidpal.ai,12.0,usage_metered|free_tier,https://aibuildermarketplace.com/b2b/vidpal-review/,2026-07,$12,"per month billed annually ($144/yr), or $19 month to month",public,2026-10-07
 Vify Order Printer,E-commerce,vify.io,,free_tier,https://aibuildermarketplace.com/b2b/vify-order-printer-review/,2026-07,$10.99,"Starter · per month, or $109 a year",public,2026-10-11
