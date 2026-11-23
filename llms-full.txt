@@ -322,7 +322,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/close-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: On the day of sign-up the app showed 'Subscribe · 14d left'; no card was asked, but the trial only started after ticking consent to sales calls and texts.
 - Verdict: Close costs $19 to $149 per user a month, or $9 to $139 billed annually. No free plan, a 14-day trial without a card, and workflows start at Growth.
-- Price: (re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October and 19 November 2026. No free plan; the trial runs 14 days and close.com states no credit card is required…
+- Price: (re-verified 2026-11-19 and 2026-11-23 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October, 19 November and 23 November 2026. No free plan; the trial runs 14 days and close.com states…
 
 ## Cloze CRM
 - Review: https://marketingandsalessoftware.com/cloze-crm-review.html
@@ -525,8 +525,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Expandi
 - Review: https://marketingandsalessoftware.com/expandi-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: Expandi: Business is $99 per month month-to-month; paying a year up front takes 20% off, $79 a month equivalent. It's also LinkedIn automation.
-- Price: (re-verified 2026-08-17 and 2026-10-07) 7-day free trial, no free plan. Business is $99 per month month-to-month; paying a year up front takes 20% off, $79 a month equivalent.
+- Verdict: Expandi, For teams: Solo, 1 account, $99 a month month-to-month or $79 a month billed annually. Built for sales teams and agencies running LinkedIn.
+- Price: (re-verified 2026-08-17 and 2026-10-07; re-read 2026-11-23, when the page had moved to published volume tiers) 7-day free trial, no free plan; the FAQ says you are charged only once you decide to use Expandi after the trial. Pricing is per LinkedIn account, one seat each, on two tabs.
 
 ## ExpertSender
 - Review: https://marketingandsalessoftware.com/expertsender-review.html

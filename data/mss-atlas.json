@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 340,
-  "flags": 515,
+  "flags": 516,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1835,35 +1835,35 @@
    "entry_price": "$19",
    "entry_price_terms": "Solo, per user · per month, billed month to month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October and 19 November 2026. No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the page carries a 30-day money-back guarantee. AI credits are pooled per tier (500 a month on Solo, then 1,000, 1,500 and 2,000 per user up to 10,000, 15,000 and 20,000). Chloe, the AI assistant Close now leads the page with, is included on every plan with a weekly chat allowance that resets every Sunday; beyond that, and for AI Agents, AI Enrichment and AI steps in Workflows, she spends those AI credits (plus telephony on calls), so heavy use is metered rather than included. Call minutes, SMS and dialer credits are billed separately and can meaningfully raise the real cost: outbound calls run about $0.02 a minute and phone lines start at about $1 a month. The Call Assistant add-on is $50 a month per account plus $0.02 per recorded minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org. Monthly plans can be changed or cancelled anytime; annual plans can be upgraded during the term, while downgrades and cancellations take effect at the end of the term.",
+   "price_note": "(re-verified 2026-11-19 and 2026-11-23 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October, 19 November and 23 November 2026. No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the page carries a 30-day money-back guarantee. AI credits are pooled per tier (500 a month on Solo, then 1,000, 1,500 and 2,000 per user up to 10,000, 15,000 and 20,000). Chloe, the AI assistant Close now leads the page with, is included on every plan with a weekly chat allowance that resets every Sunday; beyond that, and for AI Agents, AI Enrichment and AI steps in Workflows, she spends those AI credits (plus telephony on calls), so heavy use is metered rather than included. Call minutes, SMS and dialer credits are billed separately and can meaningfully raise the real cost: outbound calls run about $0.02 a minute and phone lines start at about $1 a month. The Call Assistant add-on is $50 a month per account plus $0.02 per recorded minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org. Monthly plans can be changed or cancelled anytime; annual plans can be upgraded during the term, while downgrades and cancellations take effect at the end of the term. The 23 November page adds that AI credits refresh monthly and do not roll over, and that the AI Notetaker, included on every plan, does not use AI credits.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October and 19 November 2026.",
-     "evidence_excerpt": "(re-verified 2026-11-19 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed a…",
-     "source_url": null,
+     "evidence": "(re-verified 2026-11-19 and 2026-11-23 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 and $139 billed annually — the same twelve amounts we have now read on 23 July, 3, 11 and 14 August, 12 September, 19 October, 19 November and 23 November 2026.",
+     "evidence_excerpt": "(re-verified 2026-11-19 and 2026-11-23 on close.com/pricing and close.com/pricing.md, amounts unchanged) Per-seat: Solo $19, Essentials $49, Growth $109 and Scale $149 per user/mo, or $9, $35, $99 an…",
+     "source_url": "https://close.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-19"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "usage_metered",
      "evidence": "No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the page carries a 30-day money-back guarantee.",
      "evidence_excerpt": "No free plan; the trial runs 14 days and close.com states no credit card is required and that the trial includes calling and AI credits (the November page names no dollar amount for them), and the pa…",
-     "source_url": null,
+     "source_url": "https://close.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-19"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "addons_extra",
      "evidence": "The Call Assistant add-on is $50 a month per account plus $0.02 per recorded minute, and additional organisations are $50 a month each, with Growth and Scale including one free secondary org.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://close.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-19"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-19",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": "2026-11-19"
   },
   {
@@ -2941,29 +2941,37 @@
    "review_url": "https://aibuildermarketplace.com/b2b/expandi-review/",
    "from_price_usd_mo": 99.0,
    "entry_price": "$99",
-   "entry_price_terms": "Business · per month, month-to-month",
+   "entry_price_terms": "Solo… · per month, month-to-month per account",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and 2026-10-07) 7-day free trial, no free plan. Business is $99 per month month-to-month; paying a year up front takes 20% off, $79 a month equivalent. The same page also calls this two months free; on its own figures it is $948 a year against $1,188, a saving of $240, which is closer to two and a half months of the $99 fee than two. Pricing is per seat and Expandi states that the discount grows with the number of seats you buy, so a multi-seat agency quote is not simply the seat price multiplied. Higher tiers add role and permission management and centralised billing. Taxes vary by country and are added on top.",
+   "price_note": "(re-verified 2026-08-17 and 2026-10-07; re-read 2026-11-23, when the page had moved to published volume tiers) 7-day free trial, no free plan; the FAQ says you are charged only once you decide to use Expandi after the trial. Pricing is per LinkedIn account, one seat each, on two tabs. For teams: Solo, 1 account, $99 a month month-to-month or $79 a month billed annually; Studio, 2 to 10 accounts, $89 or $69 per account a month; above 10 accounts the team tab sends you to sales. For agencies: Launch, 11 to 24 accounts, $79 or $59 per account a month; Growth, 25 to 50 accounts, $69 or $49; Agency+, 50+ accounts, quote only. The billing toggle says \"Save 20%\", which holds exactly only on Solo: $948 a year against $1,188, a $240 saving that the FAQ also calls two months free, closer to two and a half. Checked tier by tier, the annual discount is 22% on Studio, 25% on Launch and 29% on Growth. The page lists the same features in every seat; image and GIF personalisation and video personalisation through Sendspark are paid add-ons. Taxes vary by country and are added on top.",
    "flags": [
     {
      "flag": "per_seat",
      "evidence": "There is no free tier and no cheap entry: Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://expandi.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-23"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The page lists the same features in every seat; image and GIF personalisation and video personalisation through Sendspark are paid add-ons.",
+     "evidence_excerpt": null,
+     "source_url": "https://expandi.io/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "annual_lock",
      "evidence": "There is no free tier and no cheap entry: Expandi starts at $99 a month per seat, and the friendlier $79 assumes annual commitment.",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://expandi.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-07"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-07",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": "2026-08-17"
   },
   {
