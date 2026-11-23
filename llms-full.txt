@@ -573,8 +573,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## folk
 - Review: https://marketingandsalessoftware.com/folk-review.html
 - Hands-on: tested by us on 2026-10-23. Measured 2026-10-23: Onboarding took six screens and asked for no card; the last one said 'Welcome to your 14-day free trial' with access to all Premium features, and the app then showed 'Premium trial (2 weeks left)'.…
-- Verdict: folk: $30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly. One gap has closed and one has narrowed.
-- Price: $30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly; billed yearly those drop to $24, $48 and from $80 per member per month — 20% off — for $288, $576 and $960 per member per year (re-verified 2026-09-03; every figure held). The same page publishes euro rates: 27€, 54€ and from 83€ monthly, 22€, 43€ and from 67€ yearly, for 259€, 518€ and 804€ a year.
+- Verdict: folk: $30/member/month on Standard and $60 on Premium when billed monthly. Automation is still uneven, but the picture moved in September.
+- Price: $30/member/month on Standard and $60 on Premium when billed monthly; billed yearly those drop to $24 and $48 per member per month (20% off), for $288 and $576 per member per year (re-verified 2026-11-23). Enterprise changed since our September reading: the card now reads $80 per user/month as a "Starting price, annual billing only", so there is no monthly Enterprise rate any more and no yearly total is printed.
 
 ## Frase
 - Review: https://marketingandsalessoftware.com/frase-review.html
@@ -1486,7 +1486,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/surfer-surferseo-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Surfer (SurferSEO): €120, €240, €444 and €720 a year on the four plans and €156 on AI Search Analytics. Every tier quotes its monthly rate on annual billing.
-- Price: (re-read 2026-11-04 from the Netherlands: surferseo.com/pricing now redirects to surfer.ai/pricing; earlier reads 2026-08-25 and 2026-09-19 from the Netherlands and 2026-08-26 over a US connection) Billed yearly, as quoted to a European visitor: Discovery €49/mo, Standard €99/mo, Pro €182/mo and Peace of Mind €299/mo, with AI Search Analytics sold on its own from €82/mo. The cards state the annual saving…
+- Price: (re-read 2026-11-23 from our EU server, unchanged from 2026-11-04: surferseo.com/pricing redirects to surfer.ai/pricing; earlier reads 2026-08-25 and 2026-09-19 from the Netherlands and 2026-08-26 over a US connection) Billed yearly, as quoted to a European visitor: Discovery €49/mo, Standard €99/mo, Pro €182/mo and Peace of Mind €299/mo, with AI Search Analytics sold on its own from €82/mo. The cards state the…
 
 ## SurFox AI
 - Review: https://marketingandsalessoftware.com/surfox-ai-review.html

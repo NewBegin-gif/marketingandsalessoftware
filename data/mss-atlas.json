@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 338 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 340 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 338,
-  "flags": 510,
+  "tools": 340,
+  "flags": 514,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -3206,19 +3206,27 @@
    "entry_price": "$30",
    "entry_price_terms": "Standard, per member · billed monthly",
    "pricing_status": "public",
-   "price_note": "$30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly; billed yearly those drop to $24, $48 and from $80 per member per month — 20% off — for $288, $576 and $960 per member per year (re-verified 2026-09-03; every figure held). The same page publishes euro rates: 27€, 54€ and from 83€ monthly, 22€, 43€ and from 67€ yearly, for 259€, 518€ and 804€ a year. The free trial is two weeks and needs no credit card; folk's own FAQ says an account that does not upgrade is blocked rather than deleted at the end, and that the trial can be extended by a week on request. The published caps: email enrichment 500 a month on Standard, 1,000 on Premium and custom on Enterprise; AI magic fields 2,000 and 5,000; account sync one per member and five per member.",
+   "price_note": "$30/member/month on Standard and $60 on Premium when billed monthly; billed yearly those drop to $24 and $48 per member per month (20% off), for $288 and $576 per member per year (re-verified 2026-11-23). Enterprise changed since our September reading: the card now reads $80 per user/month as a \"Starting price, annual billing only\", so there is no monthly Enterprise rate any more and no yearly total is printed. On 3 Sep 2026 the same card showed from $100 monthly and from $80 yearly. The euro side: 27€ and 54€ monthly, 22€ and 43€ yearly, for 259€ and 518€ a year, with Enterprise from 67€ a month on annual billing. The free trial is two weeks and needs no credit card; folk's own FAQ says an account that does not upgrade is blocked rather than deleted at the end, and that the trial can be extended by a week on request. The published caps (23 Nov 2026): email enrichment 500 a month on Standard, 1,000 on Premium and custom on Enterprise; AI fields 2,000 and 5,000 a month; Workflow Assistant 1,500 and 10,000 a month; messages 2,000 and 5,000 per member a month; synced email, calendar and WhatsApp accounts one per member and five per member. Sequences and API access are not included on Standard.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "$30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly; billed yearly those drop to $24, $48 and from $80 per member per month — 20% off — for $288, $576 and $960 per member per year (re-verified 2026-09-03; every figure held).",
-     "evidence_excerpt": "$30/member/month on Standard, $60 on Premium and from $100 on Enterprise when billed monthly; billed yearly those drop to $24, $48 and from $80 per member per month — 20% off — for $288, $576 and $96…",
+     "evidence": "$30/member/month on Standard and $60 on Premium when billed monthly; billed yearly those drop to $24 and $48 per member per month (20% off), for $288 and $576 per member per year (re-verified 2026-11-23).",
+     "evidence_excerpt": "$30/member/month on Standard and $60 on Premium when billed monthly; billed yearly those drop to $24 and $48 per member per month (20% off), for $288 and $576 per member per year (re-verified 2026-11…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-23"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Enterprise changed since our September reading: the card now reads $80 per user/month as a \"Starting price, annual billing only\", so there is no monthly Enterprise rate any more and no yearly total is printed.",
+     "evidence_excerpt": "Enterprise changed since our September reading: the card now reads $80 per user/month as a \"Starting price, annual billing only\", so there is no monthly Enterprise rate any more and no yearly total i…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": null
   },
   {
@@ -3315,6 +3323,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-11-17"
+  },
+  {
+   "name": "GemPages",
+   "category": "E-commerce",
+   "domain": "gempages.net",
+   "review_url": "https://aibuildermarketplace.com/b2b/gempages-review/",
+   "from_price_usd_mo": 29.0,
+   "entry_price": "$29",
+   "entry_price_terms": "Build · Build $29/mo, $23/mo billed yearly ($276/yr) on gempages.net/pricing…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-19 on gempages.net/pricing and in the app, USD) Free plan: 1 published page (limit seen in our test). Build: $29/mo, or $23/mo billed yearly at $276/yr (save $72). Optimize: $59/mo, or $47/mo billed yearly at $564/yr (save $144). Enterprise: $199/mo, or $159/mo billed yearly at $1,908/yr (save $480), sold via a contact-us call. Inside the app on 19 November 2026 the paid plans showed 20% off for the first 3 months (Build $23.2, Optimize $47.2, Enterprise $159.2 a month). The pricing page does not say whether Shopify's own plan or other fees apply, and the higher plans mention paying commission as you grow.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-19 on gempages.net/pricing and in the app, USD) Free plan: 1 published page (limit seen in our test).",
+     "evidence_excerpt": null,
+     "source_url": "https://gempages.net/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-19"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-19",
+   "first_observed_at": "2026-11-19"
   },
   {
    "name": "GeoStock",
@@ -4674,6 +4706,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-10",
    "first_observed_at": "2026-10-10"
+  },
+  {
+   "name": "MailerLite",
+   "category": "Marketing",
+   "domain": "mailerlite.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/mailerlite-review/",
+   "from_price_usd_mo": 12.0,
+   "entry_price": "$12",
+   "entry_price_terms": "Comfort… · Comfort $12/mo and Power $25/mo for 500 subscribers, monthly…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-22 in the MailerLite app, USD unless stated) Free: up to 250 subscribers and 2,500 emails, 0 a month. For 500 subscribers, billed monthly: Comfort $12 (5,000 emails a month, 50 automations, 10 forms, 3 user seats) and Power $25 (unlimited emails). Billed yearly in EUR: Comfort EUR 9.90 a month (EUR 118.80 a year) and Power EUR 17.10 a month (EUR 205.20 a year). Enterprise is custom. The Comfort monthly checkout, which charged in EUR, showed EUR 11 plus 21% VAT, EUR 13.31 due now, with the next charge on 22 December 2026. Prices rise with the subscriber count. Black Friday: 26% off annual plans with the code LITEFRIDAY26 (Comfort $144 a year to $107, Power $300 to $222), ends 18 December 2026.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-22 in the MailerLite app, USD unless stated) Free: up to 250 subscribers and 2,500 emails, 0 a month.",
+     "evidence_excerpt": null,
+     "source_url": "https://www.mailerlite.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-22"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-22",
+   "first_observed_at": "2026-11-22"
   },
   {
    "name": "MailVeri",
@@ -8151,7 +8207,7 @@
    "entry_price": "$49",
    "entry_price_terms": "Discovery · per month, billed yearly",
    "pricing_status": "public",
-   "price_note": "(re-read 2026-11-04 from the Netherlands: surferseo.com/pricing now redirects to surfer.ai/pricing; earlier reads 2026-08-25 and 2026-09-19 from the Netherlands and 2026-08-26 over a US connection) Billed yearly, as quoted to a European visitor: Discovery €49/mo, Standard €99/mo, Pro €182/mo and Peace of Mind €299/mo, with AI Search Analytics sold on its own from €82/mo. The cards state the annual saving themselves: €120, €240, €444 and €720 a year on the four plans and €156 on AI Search Analytics. Enterprise no longer carries a price: since this read its card says Custom, tailored packages, with a Talk to Surfer Expert button, where it showed $999/mo in September.\n\nAI Search Analytics is capped by prompts, which is the part that catches people out. The card opens on 50 prompts refreshed daily; the plans include their own prompt allowance (25 refreshed weekly on Standard, 50 daily on Pro, 100 daily on Peace of Mind, none on Discovery). In September the card carried a prompt dropdown with 100- and 200-prompt rungs at higher prices; we did not re-confirm those rungs on this read, so check which rung your checkout page is on before you compare it with anything.\n\nWorth knowing if you are outside the US: in August we read this page from both sides and the numbers did not convert. A European was quoted €49 to €299 where an American was quoted $49 to $299, which makes the same subscription materially more expensive in Europe.",
+   "price_note": "(re-read 2026-11-23 from our EU server, unchanged from 2026-11-04: surferseo.com/pricing redirects to surfer.ai/pricing; earlier reads 2026-08-25 and 2026-09-19 from the Netherlands and 2026-08-26 over a US connection) Billed yearly, as quoted to a European visitor: Discovery €49/mo, Standard €99/mo, Pro €182/mo and Peace of Mind €299/mo, with AI Search Analytics sold on its own from €82/mo. The cards state the annual saving themselves: €120, €240, €444 and €720 a year on the four plans and €156 on AI Search Analytics. Surfer's own surfer.ai/llms.txt, read 23 November 2026, lists the dollar side: Discovery $49, Standard $99, Pro $182, Peace of Mind $299 per month billed yearly, AI Search Analytics alone $82, Enterprise custom. Enterprise no longer carries a price: since this read its card says Custom, tailored packages, with a Talk to Surfer Expert button, where it showed $999/mo in September.\n\nAI Search Analytics is capped by prompts, which is the part that catches people out. The card opens on 50 prompts refreshed daily; the plans include their own prompt allowance (25 refreshed weekly on Standard, 50 daily on Pro, 100 daily on Peace of Mind, none on Discovery). In September the card carried a prompt dropdown with 100- and 200-prompt rungs at higher prices; we did not re-confirm those rungs on this read, so check which rung your checkout page is on before you compare it with anything.\n\nWorth knowing if you are outside the US: in August we read this page from both sides and the numbers did not convert. A European was quoted €49 to €299 where an American was quoted $49 to $299, which makes the same subscription materially more expensive in Europe.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -8159,12 +8215,12 @@
      "evidence_excerpt": null,
      "source_url": "https://surferseo.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-04"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-04",
-   "first_observed_at": "2026-11-04"
+   "price_verified_at": "2026-11-23",
+   "first_observed_at": "2026-11-23"
   },
   {
    "name": "SurFox AI",
@@ -9420,12 +9476,20 @@
    "entry_price": "€29",
    "entry_price_terms": "Starter · billed monthly",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-06 on zoviz.com/pricing from a Netherlands connection; the page says prices are shown in EUR based on your location) Three plans, monthly or yearly, with yearly marked -43%. Starter is €29 a month or €199 a year, for 1 brand, 10GB storage, 300 AI credits a month, 1 link-in-bio page, 1 digital business card, the website builder and 1 team member with email support. Pro is €49 a month or €339 a year, for up to 5 brands, 500GB, 800 credits, 5 link-in-bio pages and cards, 1 website with a custom domain, 3 team members and priority support. Business is €99 a month or €679 a year, for up to 15 brands, 2TB, 2,000 credits, unlimited bio pages and cards, up to 5 websites with custom domains and up to 50 team members. Enterprise is on request. Every plan includes the 5,000+ templates, the logo tools, background removal and upscaling, the AI editor and text-to-image. The FAQ says you can design and preview for free and pay only to download; credits reset each billing cycle and do not roll over, extra credit packs can be bought, and each task uses a different number of credits that the page does not list. The page's own savings table prices the Pro plan's first year at $399 in US dollars. Re-read on 28 October 2026 with a plain fetch from a Netherlands connection: the pricing page still opens with 'Starting at €29 per month' and shows yearly savings of €149, €249 and €509, which match the Starter €199, Pro €339 and Business €679 yearly prices read on 6 October (the plan amounts themselves load by script). The help centre's plans page (last updated 15 October 2026) says plans start at $29 a month in the US and does not list other prices. Two numbers differ between Zoviz's own pages: the pricing page gives Business up to 50 team members, the help centre's plan table and team page up to 10. One-off purchases are gone except the Elite Logo Kit, which transfers ownership of the logo icon to you; its price is not on the pages we read. Enterprise credit packages are sold on the Microsoft Azure Marketplace from $4,000 a year.",
+   "price_note": "(read 2026-10-06 on zoviz.com/pricing from a Netherlands connection; the page says prices are shown in EUR based on your location) Three paid plans, monthly or yearly (on 22 Nov 2026 a new account opened on a Free plan with 5 credits; downloads need a paid plan), with yearly marked -43%. Starter is €29 a month or €199 a year, for 1 brand, 10GB storage, 300 AI credits a month, 1 link-in-bio page, 1 digital business card, the website builder and 1 team member with email support. Pro is €49 a month or €339 a year, for up to 5 brands, 500GB, 800 credits, 5 link-in-bio pages and cards, 1 website with a custom domain, 3 team members and priority support. Business is €99 a month or €679 a year, for up to 15 brands, 2TB, 2,000 credits, unlimited bio pages and cards, up to 5 websites with custom domains and up to 50 team members. Enterprise is on request. Every plan includes the 5,000+ templates, the logo tools, background removal and upscaling, the AI editor and text-to-image. The FAQ says you can design and preview for free and pay only to download; credits reset each billing cycle and do not roll over, extra credit packs can be bought, and each task uses a different number of credits that the page does not list. The page's own savings table prices the Pro plan's first year at $399 in US dollars. Re-read on 28 October 2026 with a plain fetch from a Netherlands connection: the pricing page still opens with 'Starting at €29 per month' and shows yearly savings of €149, €249 and €509, which match the Starter €199, Pro €339 and Business €679 yearly prices read on 6 October (the plan amounts themselves load by script). The help centre's plans page (last updated 15 October 2026) says plans start at $29 a month in the US and does not list other prices. Two numbers differ between Zoviz's own pages: the pricing page gives Business up to 50 team members, the help centre's plan table and team page up to 10. One-off purchases are gone except the Elite Logo Kit, which transfers ownership of the logo icon to you; its price is not on the pages we read. Enterprise credit packages are sold on the Microsoft Azure Marketplace from $4,000 a year.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Starter is €29 a month or €199 a year, for 1 brand, 10GB storage, 300 AI credits a month, 1 link-in-bio page, 1 digital business card, the website builder and 1 team member with email support.",
-     "evidence_excerpt": null,
+     "evidence": "(read 2026-10-06 on zoviz.com/pricing from a Netherlands connection; the page says prices are shown in EUR based on your location) Three paid plans, monthly or yearly (on 22 Nov 2026 a new account opened on a Free plan with 5 credits; downloads need a paid plan), with yearly marked -43%.",
+     "evidence_excerpt": "(read 2026-10-06 on zoviz.com/pricing from a Netherlands connection; the page says prices are shown in EUR based on your location) Three paid plans, monthly or yearly (on 22 Nov 2026 a new account op…",
+     "source_url": "https://zoviz.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-28"
+    },
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-10-06 on zoviz.com/pricing from a Netherlands connection; the page says prices are shown in EUR based on your location) Three paid plans, monthly or yearly (on 22 Nov 2026 a new account opened on a Free plan with 5 credits; downloads need a paid plan), with yearly marked -43%.",
+     "evidence_excerpt": "(read 2026-10-06 on zoviz.com/pricing from a Netherlands connection; the page says prices are shown in EUR based on your location) Three paid plans, monthly or yearly (on 22 Nov 2026 a new account op…",
      "source_url": "https://zoviz.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-28"
