@@ -904,7 +904,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/moosend-review.html
 - Hands-on: tested by us on 2026-10-29. Measured 2026-10-29: Home shows 30 days and 1,000-member allowance; Billing shows no payment method.
 - Verdict: Moosend: A 30-day free trial with no credit card. The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts).
-- Price: (re-verified 2026-09-06 and again 2026-09-30) A 30-day free trial with no credit card. Pro is priced by list size across 21 steps from 500 to 1,000,000 contacts, quoted monthly, biannually (sold as 15% off) or annually (sold as 20% off).
+- Price: (re-verified 2026-09-06, 2026-09-30 and 2026-11-23) A 30-day free trial with no credit card. Pro is priced by list size across 21 steps from 500 to 1,000,000 contacts, quoted monthly, biannually (sold as 15% off) or annually (sold as 20% off).
 
 ## My Stories
 - Review: https://marketingandsalessoftware.com/my-stories-review.html
