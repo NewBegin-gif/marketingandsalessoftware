@@ -2087,6 +2087,23 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/roverlead-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/roverlead.svg\" width=\"340\" height=\"81\" alt=\"RoverLead hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "salesflare",
+  "name": "Salesflare",
+  "review_url": "https://marketingandsalessoftware.com/salesflare-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/salesflare.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#salesflare",
+  "tested_on": "2026-10-29",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 2",
+   "1 not comparable · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Salesflare sign-up attempt by Marketing & Sales Software, 29 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/salesflare-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/salesflare.svg\" width=\"340\" height=\"132\" alt=\"Salesflare sign-up attempt by Marketing &amp; Sales Software, 29 Oct 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "salestarget-ai",
   "name": "SalesTarget.ai",
   "review_url": "https://marketingandsalessoftware.com/salestarget-ai-review.html",
@@ -2771,6 +2788,22 @@
   ],
   "alt": "Vify Order Printer hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/vify-order-printer-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vify-order-printer.svg\" width=\"340\" height=\"115\" alt=\"Vify Order Printer hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 1 contradicted · 2 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "vista-social",
+  "name": "Vista Social",
+  "review_url": "https://marketingandsalessoftware.com/vista-social-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/vista-social.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#vista-social",
+  "tested_on": "2026-11-05",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 6",
+   "5 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Vista Social hands-on test by Marketing & Sales Software, 5 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/vista-social-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/vista-social.svg\" width=\"340\" height=\"115\" alt=\"Vista Social hands-on test by Marketing &amp; Sales Software, 5 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "voicedrop",
