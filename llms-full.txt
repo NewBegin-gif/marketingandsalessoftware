@@ -694,7 +694,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/involve-me-review.html
 - Hands-on: tested by us on 2026-09-07
 - Verdict: involve.me: In the app the same tiers are priced in euros, €29, €69, €139. The tier pages sell live funnels, but the meter that empties first is contacts.
-- Price: (re-verified 20 November 2026 on the public pricing page, amounts unchanged since 19 September; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI funnel…
+- Price: (re-verified 20 and 23 November 2026 on the public pricing page, amounts unchanged since 19 September; the free plan's feature set was measured inside the product, because the plan cards still do not state it) There is a free plan, and this is what it actually gives: 2 live funnels, publishing on a daanV.involve.me subdomain (or one of ten alternatives such as quizzes.cx, forms.ac and calculators.cx), the AI…
 
 ## Kartra
 - Review: https://marketingandsalessoftware.com/kartra-review.html
