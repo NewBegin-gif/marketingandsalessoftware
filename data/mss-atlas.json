@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 340,
-  "flags": 514,
+  "flags": 515,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -5855,28 +5855,28 @@
    "entry_price": "€87",
    "entry_price_terms": "Starter · per year on the yearly tab (list price EUR 145)",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-19 on pippit.ai/pricing from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6 September reading, so treat any older figure, ours included, as withdrawn. The page opens on the Yearly tab. Yearly: Free €0 with recurring daily credits and no card; Starter €87 a year against a struck-through €145; Plus €213 against €355; Pro is a five-step ladder at €467, €948, €1,260, €1,901 and €3,117 against list prices of €779, €1,580, €2,100, €3,169 and €5,195, with the €1,901 step shown by default. Monthly: Starter €8 (list €13), Plus €19 (list €31), and the same five Pro steps at €41, €83, €110, €166 and €270 against lists of €68, €137.99, €184, €277 and €450. Every card is marked 38% to 40% off. The allowances that go with them, identical on both billing tabs: 1,575 credits a month on Starter, 3,885 on Plus, and 8,645 / 17,600 / 23,500 / 35,500 / 59,000 across the five Pro steps, with 1, 3 and 10 seats respectively. Two things changed shape rather than level. Pro gained a new bottom step at 8,645 credits, so the ladder is five prices where it was four. And the credits-per-euro ratio the page prints beside each card — EUR1=217.24, 218.87 and 224.09 — is now arithmetically correct for yearly billing; on 6 September the same line was a hundredfold off its own figures. All amounts here were taken from the page's own SKU payload, which carries the charged amount, the list price, the discount percentage, the credit quota and the seat count for every plan on both tabs.",
+   "price_note": "(re-read 2026-11-23 on pippit.ai/pricing from our EU server, every figure below identical to the 2026-09-19 reading from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6 September reading, so treat any older figure, ours included, as withdrawn. The page opens on the Yearly tab. Yearly: Free €0 with recurring daily credits and no card; Starter €87 a year against a struck-through €145; Plus €213 against €355; Pro is a five-step ladder at €467, €948, €1,260, €1,901 and €3,117 against list prices of €779, €1,580, €2,100, €3,169 and €5,195, with the €1,901 step shown by default. Monthly: Starter €8 (list €13), Plus €19 (list €31), and the same five Pro steps at €41, €83, €110, €166 and €270 against lists of €68, €137.99, €184, €277 and €450. Every card is marked 38% to 40% off. The allowances that go with them, identical on both billing tabs: 1,575 credits a month on Starter, 3,885 on Plus, and 8,645 / 17,600 / 23,500 / 35,500 / 59,000 across the five Pro steps, with 1, 3 and 10 seats respectively. Two things changed shape rather than level. Pro gained a new bottom step at 8,645 credits, so the ladder is five prices where it was four. And the credits-per-euro ratio the page prints beside each card — EUR1=217.24, 218.87 and 224.09 — is now arithmetically correct for yearly billing; on 6 September the same line was a hundredfold off its own figures. All amounts here were taken from the page's own SKU payload, which carries the charged amount, the list price, the discount percentage, the credit quota and the seat count for every plan on both tabs.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(read 2026-09-19 on pippit.ai/pricing from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6 September reading, so treat any older figure, ours included, as withdrawn.",
-     "evidence_excerpt": "(read 2026-09-19 on pippit.ai/pricing from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6…",
-     "source_url": null,
+     "evidence": "(re-read 2026-11-23 on pippit.ai/pricing from our EU server, every figure below identical to the 2026-09-19 reading from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6 September reading, so treat any older figure, ours included, as withdrawn.",
+     "evidence_excerpt": "(re-read 2026-11-23 on pippit.ai/pricing from our EU server, every figure below identical to the 2026-09-19 reading from a Netherlands exit; the page prices in the visitor's currency, so these are eu…",
+     "source_url": "https://www.pippit.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-23"
     },
     {
      "flag": "free_tier",
      "evidence": "Yearly: Free €0 with recurring daily credits and no card; Starter €87 a year against a struck-through €145; Plus €213 against €355; Pro is a five-step ladder at €467, €948, €1,260, €1,901 and €3,117 against list prices of €779, €1,580, €2,100, €3,169 and €5,195, with the €1,901 step shown by default.",
      "evidence_excerpt": "Yearly: Free €0 with recurring daily credits and no card; Starter €87 a year against a struck-through €145; Plus €213 against €355; Pro is a five-step ladder at €467, €948, €1,260, €1,901 and €3,117 …",
-     "source_url": null,
+     "source_url": "https://www.pippit.ai/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-09-19"
+   "price_verified_at": "2026-11-23",
+   "first_observed_at": "2026-11-23"
   },
   {
    "name": "Pixasocial",
@@ -9143,19 +9143,27 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "quote_only",
-   "price_note": "No price is published any more, and the site has moved. Re-read on 20 September 2026: vwo.com now answers HTTP 301 and redirects to wingify.com — vwo.com/pricing/ to wingify.com/pricing/, vwo.com/free-trial/ to wingify.com/free-trial/ — and the pricing page is titled \"Pricing & Plans | Wingify Platform\", with the products named Wingify Testing, Wingify Personalization and Wingify Insights and a site-wide banner announcing that AB Tasty and VWO have united. The tier structure is unchanged: Growth, Pro and Enterprise as feature tables only, every button a Schedule a Demo, no currency amount anywhere in the rendered page and none in wingify.com/llms.txt either — the same picture as the 4 and 10 September 2026 readings. The ~$314/mo for 10k MTUs this dossier carried until 4 September 2026 was a published figure the vendor has since withdrawn. Two things are new on the page. A per-MAU meter is now visible in the comparison table — 50, 100 and 200 events stored per MAU across the tiers — under the vendor's own footnote that the limit is not implemented in the app, is representational, does not affect current pricing and will apply in future to all customers on their respective plans. And API access at Enterprise is now listed with a rate limit of 60K a month. Wandz, the AI layer the 10 September reading found sold in Core and Advanced tiers, is no longer named on the pricing page. The tier lines are unchanged: multivariate testing, guardrail metrics, advanced targeting and downloadable reports start at Pro; API access, SSO, mutually exclusive groups and a dedicated CSM only at Enterprise.",
+   "price_note": "No price is published any more, and the site has moved. Re-read on 20 September 2026: vwo.com now answers HTTP 301 and redirects to wingify.com — vwo.com/pricing/ to wingify.com/pricing/, vwo.com/free-trial/ to wingify.com/free-trial/ — and the pricing page is titled \"Pricing & Plans | Wingify Platform\", with the products named Wingify Testing, Wingify Personalization and Wingify Insights and a site-wide banner announcing that AB Tasty and VWO have united. The tier structure is unchanged: Growth, Pro and Enterprise as feature tables only, every button a Schedule a Demo, no currency amount anywhere in the rendered page and none in wingify.com/llms.txt either — the same picture as the 4 and 10 September 2026 readings. The ~$314/mo for 10k MTUs this dossier carried until 4 September 2026 was a published figure the vendor has since withdrawn. Two things are new on the page. A per-MAU meter is now visible in the comparison table — 50, 100 and 200 events stored per MAU across the tiers — under the vendor's own footnote that the limit is not implemented in the app, is representational, does not affect current pricing and will apply in future to all customers on their respective plans. And API access at Enterprise is now listed with a rate limit of 60K a month. Wandz, the AI layer the 10 September reading found sold in Core and Advanced tiers, is no longer named on the pricing page. The tier lines are unchanged: multivariate testing, guardrail metrics, advanced targeting and downloadable reports start at Pro; API access, SSO, mutually exclusive groups and a dedicated CSM only at Enterprise. Re-read on 23 November 2026 from our EU server: still no amount anywhere on wingify.com/pricing/ or in wingify.com/llms.txt. Growth, Pro and Enterprise are still feature tables with Schedule a Demo on every tier, the events-per-MAU footnote still says the limit \"has not been implemented on the app, is representational, and does not affect current pricing\", and Enterprise API access is still listed with a rate limit of 60K a month. The AI layer now goes by Wingz AI: the FAQ says Wingz Core is included for free with every paid Wingify product and that advanced AI features sit in a paid plan, Wingz Advanced, and paid add-ons, again without a price.",
    "flags": [
     {
      "flag": "quote_only",
-     "evidence": "No published price: Growth/Pro/Enterprise are feature tables only, every button is Schedule a Demo, no currency amount anywhere (read 20 Sep 2026)",
+     "evidence": "No published price: Growth/Pro/Enterprise are feature tables only, every button is Schedule a Demo, no currency amount on wingify.com/pricing/ or in wingify.com/llms.txt (re-read 23 Nov 2026)",
      "evidence_excerpt": null,
-     "source_url": null,
+     "source_url": "https://wingify.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-20"
+     "verified_at": "2026-11-23"
+    },
+    {
+     "flag": "addons_extra",
+     "evidence": "The AI layer now goes by Wingz AI: the FAQ says Wingz Core is included for free with every paid Wingify product and that advanced AI features sit in a paid plan, Wingz Advanced, and paid add-ons, again without a price.",
+     "evidence_excerpt": "The AI layer now goes by Wingz AI: the FAQ says Wingz Core is included for free with every paid Wingify product and that advanced AI features sit in a paid plan, Wingz Advanced, and paid add-ons, aga…",
+     "source_url": "https://wingify.com/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-23"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-20",
+   "price_verified_at": "2026-11-23",
    "first_observed_at": null
   },
   {

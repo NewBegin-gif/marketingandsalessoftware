@@ -1060,7 +1060,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/pippit-review.html
 - Hands-on: tested by us on 2026-10-31. Measured 2026-10-31: The credit history showed 400 trial credits from August that expired after 30 days, and 40 free credits that were valid for one day only.
 - Verdict: Pippit: Free €0 with recurring daily credits and no card. The meter is credits per attempt, not per usable result, and buyer reviews centre on exactly that.
-- Price: (read 2026-09-19 on pippit.ai/pricing from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6 September reading, so treat any older figure, ours included, as withdrawn. The page opens on the Yearly tab.
+- Price: (re-read 2026-11-23 on pippit.ai/pricing from our EU server, every figure below identical to the 2026-09-19 reading from a Netherlands exit; the page prices in the visitor's currency, so these are euro amounts) Every tier was repriced and every credit allowance cut since our 6 September reading, so treat any older figure, ours included, as withdrawn. The page opens on the Yearly tab.
 
 ## Pixasocial
 - Review: https://marketingandsalessoftware.com/pixasocial-review.html
