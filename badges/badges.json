@@ -1035,6 +1035,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/gelato-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/gelato.svg\" width=\"340\" height=\"115\" alt=\"Gelato hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 4; 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "gempages",
+  "name": "GemPages",
+  "review_url": "https://marketingandsalessoftware.com/gempages-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/gempages.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#gempages",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "GemPages hands-on test by Marketing & Sales Software, 19 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/gempages-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/gempages.svg\" width=\"340\" height=\"81\" alt=\"GemPages hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "geostock",
   "name": "GeoStock",
   "review_url": "https://marketingandsalessoftware.com/geostock-review.html",
@@ -1570,6 +1584,20 @@
   ],
   "alt": "Lusha sign-up attempt by Marketing & Sales Software, 6 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/lusha-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/lusha.svg\" width=\"340\" height=\"132\" alt=\"Lusha sign-up attempt by Marketing &amp; Sales Software, 6 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "mailerlite",
+  "name": "MailerLite",
+  "review_url": "https://marketingandsalessoftware.com/mailerlite-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/mailerlite.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#mailerlite",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "MailerLite hands-on test by Marketing & Sales Software, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/mailerlite-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/mailerlite.svg\" width=\"340\" height=\"81\" alt=\"MailerLite hands-on test by Marketing &amp; Sales Software, 22 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "mailveri",
