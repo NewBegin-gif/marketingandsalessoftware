@@ -4285,7 +4285,7 @@
    "entry_price": "$79",
    "entry_price_terms": "Discover · per month billed annually",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-26 on leadfeeder.com/pricing over a US connection) Lite is free forever with a 14-day full trial, seven days of visitor history and the last 100 companies a month. Discover starts at $79 a month, Activate at $369 and Scale at $599, all billed annually, which the page marks as 30% off. Worth knowing: the page carries both currencies with the same figures — $79 for an American is €79 for a European, not a converted amount — so the euro price is the more expensive of the two. Re-verified 12 October 2026 from a Netherlands exit: Lite €0, Discover from €79, Activate from €369 and Scale from €599 a month billed annually, the toggle still marked SAVE 30%. The page now publishes the full tier table behind its 'How is the price calculated?' link: Discover €79 / €109 / €139 / €179 / €249 / €309 for up to 50, 51-100, 101-200, 201-400, 401-500 and 501-1,000 identified companies a month (month to month €113 / €156 / €199 / €256 / €356 / €441); Activate from €369 (1,000 companies, 200 credits; €527 month to month) to €729 (4,000 companies, 1,500 credits; €1,041); Scale, billed annually only, from €599 (2,000 companies, 1,000 credits) to €2,089 (10,000 companies, 5,500 credits). Extra credits come in non-renewing blocks of 100 to 5,000, valid for two years; plan credits do not roll over at the end of the contract period. Re-read 21 November 2026 from the same Netherlands exit: Lite €0, Discover from €79 (€113 month to month), Activate from €369 (€527) and Scale from €599 a month billed annually only, the full tier table unchanged up to €309 for Discover and €2,089 for Scale.",
+   "price_note": "(read 2026-08-26 on leadfeeder.com/pricing over a US connection) Lite is free forever with a 14-day full trial, seven days of visitor history and the last 100 companies a month. Discover starts at $79 a month, Activate at $369 and Scale at $599, all billed annually, which the page marks as 30% off. Worth knowing: the page carries both currencies with the same figures — $79 for an American is €79 for a European, not a converted amount — so the euro price is the more expensive of the two. Re-verified 12 October 2026 from a Netherlands exit: Lite €0, Discover from €79, Activate from €369 and Scale from €599 a month billed annually, the toggle still marked SAVE 30%. The page now publishes the full tier table behind its 'How is the price calculated?' link: Discover €79 / €109 / €139 / €179 / €249 / €309 for up to 50, 51-100, 101-200, 201-400, 401-500 and 501-1,000 identified companies a month (month to month €113 / €156 / €199 / €256 / €356 / €441); Activate from €369 (1,000 companies, 200 credits; €527 month to month) to €729 (4,000 companies, 1,500 credits; €1,041); Scale, billed annually only, from €599 (2,000 companies, 1,000 credits) to €2,089 (10,000 companies, 5,500 credits). Extra credits come in non-renewing blocks of 100 to 5,000, valid for two years; plan credits do not roll over at the end of the contract period. Re-read 21 November 2026 from the same Netherlands exit: Lite €0, Discover from €79 (€113 month to month), Activate from €369 (€527) and Scale from €599 a month billed annually only, the full tier table unchanged up to €309 for Discover and €2,089 for Scale. Re-read 24 November 2026 with curl: Discover from €79 (€113 month to month), Activate from €369 (€527) and Scale from €599 billed annually only, the toggle still marked SAVE 30%, and the tier table unchanged (Discover up to €309, Activate up to €729, Scale up to €2,089).",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4293,7 +4293,7 @@
      "evidence_excerpt": "The page now publishes the full tier table behind its 'How is the price calculated?' link: Discover €79 / €109 / €139 / €179 / €249 / €309 for up to 50, 51-100, 101-200, 201-400, 401-500 and 501-1,00…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "free_tier",
@@ -4301,11 +4301,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-08-26"
   },
   {
@@ -5815,7 +5815,7 @@
    "entry_price": "€14",
    "entry_price_terms": "Lite, per seat · per seat a month billed annually, one payment of EUR 168 per seat…",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front. Billed monthly the same plans are €24, €49, €79 and €99 per seat. The page advertises that annual billing saves up to 42%. The numbers do not convert between currencies, they are reprinted with a different symbol, so a European pays materially more for the same seat. The public trial is 14 days with no credit card; the affiliate landing page our own link leads to advertised 30 days when we followed it on 3 September 2026. Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50. Pipedrive's help pages say LeadBooster, Projects and Smart Docs are included on Premium and Ultimate and can be bought on Lite and Growth, while Campaigns and Web Visitors are always extra. The terms make all fees non-refundable, and a cancelled account stays usable until the end of the billing cycle. Re-read 21 November 2026 on pipedrive.com/de/pricing (the English page refused our reader): €14, €39, €59 and €79 per seat a month billed annually, one payment of €168, €468, €708 or €948 per seat a year, 'up to 42%' saving and the 14-day trial without a card, all unchanged. The monthly toggle did not respond, so the €24 to €99 monthly rates date from 17 October 2026. The German page lists the Projects add-on from €16 where we read €16.66 on 17 October; the other four add-ons read the same.",
+   "price_note": "(re-verified 2026-10-17 in a browser on pipedrive.com/en/pricing from the Netherlands, both billing views, with Pipedrive's help article on plan features; our 26 August 2026 reading over a US connection showed the same numerals in dollars) Four seat-based plans, VAT exclusive. Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges the year up front. Billed monthly the same plans are €24, €49, €79 and €99 per seat. The page advertises that annual billing saves up to 42%. The numbers do not convert between currencies, they are reprinted with a different symbol, so a European pays materially more for the same seat. The public trial is 14 days with no credit card; the affiliate landing page our own link leads to advertised 30 days when we followed it on 3 September 2026. Five add-ons are priced 'starting from' on the pricing page: LeadBooster €32.50, Projects €16.66, Campaigns €13.33, Web Visitors €41 and Smart Docs €32.50. Pipedrive's help pages say LeadBooster, Projects and Smart Docs are included on Premium and Ultimate and can be bought on Lite and Growth, while Campaigns and Web Visitors are always extra. The terms make all fees non-refundable, and a cancelled account stays usable until the end of the billing cycle. Re-read 21 November 2026 on pipedrive.com/de/pricing (the English page refused our reader): €14, €39, €59 and €79 per seat a month billed annually, one payment of €168, €468, €708 or €948 per seat a year, 'up to 42%' saving and the 14-day trial without a card, all unchanged. The monthly toggle did not respond, so the €24 to €99 monthly rates date from 17 October 2026. The German page lists the Projects add-on from €16 where we read €16.66 on 17 October; the other four add-ons read the same. Re-read 24 November 2026 on pipedrive.com/de/pricing with curl (the English page again refused our reader): the same €14, €39, €59 and €79 per seat a month billed annually, €168 to €948 a year, 'up to 42%', the 14-day trial, and add-ons from €32.50, €16, €13.33, €41 and €32.50.",
    "flags": [
     {
      "flag": "per_seat",
@@ -5823,7 +5823,7 @@
      "evidence_excerpt": "Billed annually they are €14, €39, €59 and €79 per seat per month for Lite, Growth, Premium and Ultimate, which is one payment of €168, €468, €708 or €948 per seat per year, since Pipedrive charges t…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
@@ -5831,7 +5831,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "annual_lock",
@@ -5839,11 +5839,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-10-17"
   },
   {
@@ -6581,7 +6581,7 @@
    "entry_price": "$49",
    "entry_price_terms": "Email Volume… · per user per month billed annually, by active contacts",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file; starting prices re-read 2026-11-21 in a rendered browser) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts. Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,000, with 200,000 and up quoted; month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live data credits. AI SDR (Jason) runs $500, $800 or $1,000 a month billed annually at Starter (1,000, 2,000 or 3,000 contacts) and $1,500 or $3,000 at Growth (5,000 or 10,000), $800 to $5,000 month to month, with Enterprise quoted. Agency Core starts at $210/month and Agency AI SDR at $500 per client. Add-ons on top of the Email track: LinkedIn automation $69/month per account, calls and SMS $29/month per account, AI/live-data credits from $39/month and email validation from $20/month. Each mailbox beyond the number a plan includes also needs a $29/month email account seat on top of the mailbox price. On 21 November 2026 the starting list prices were unchanged: $49 per user a month billed annually on Email Volume at 1,000 contacts, $89 on Multichannel and $500 a month for Jason AI SDR, with $59 and $99 month to month in the comparison table, and the same add-ons ($69 LinkedIn, $29 calls and SMS, $29 per extra email account, live data from $39, validation from $20). The higher contact tiers were not re-read. The page also ran a Black Friday offer: code BF26REPLY takes 40% off an annual Email Volume or Multichannel plan, shown as $29 and $53 per user a month at the starting tier (40% off $49 and $89 is $29.40 and $53.40), and Jason AI SDR showed 25% off, $375 against $500. The page frames the saving as year one, so the list prices above are what a renewal is measured against.",
+   "price_note": "(re-verified 2026-10-09 in a browser on reply.io/pricing/ and in Reply's own machine-readable pricing file; starting prices re-read 2026-11-21 in a rendered browser) Three separate tracks, and the one you pick changes the arithmetic completely. Email Volume is priced by active contacts. Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,000, with 200,000 and up quoted; month to month the same tiers are $59, $69, $79, $99, $179, $299, $499 and $999. Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live data credits. AI SDR (Jason) runs $500, $800 or $1,000 a month billed annually at Starter (1,000, 2,000 or 3,000 contacts) and $1,500 or $3,000 at Growth (5,000 or 10,000), $800 to $5,000 month to month, with Enterprise quoted. Agency Core starts at $210/month and Agency AI SDR at $500 per client. Add-ons on top of the Email track: LinkedIn automation $69/month per account, calls and SMS $29/month per account, AI/live-data credits from $39/month and email validation from $20/month. Each mailbox beyond the number a plan includes also needs a $29/month email account seat on top of the mailbox price. On 21 November 2026 the starting list prices were unchanged: $49 per user a month billed annually on Email Volume at 1,000 contacts, $89 on Multichannel and $500 a month for Jason AI SDR, with $59 and $99 month to month in the comparison table, and the same add-ons ($69 LinkedIn, $29 calls and SMS, $29 per extra email account, live data from $39, validation from $20). The higher contact tiers were not re-read. The page also ran a Black Friday offer: code BF26REPLY takes 40% off an annual Email Volume or Multichannel plan, shown as $29 and $53 per user a month at the starting tier (40% off $49 and $89 is $29.40 and $53.40), and Jason AI SDR showed 25% off, $375 against $500. The page frames the saving as year one, so the list prices above are what a renewal is measured against. Re-read 24 November 2026 in a headless browser on the VPS (reply.io blocks plain requests): the same $49, $89 and $500 starting prices, $59 and $99 month to month, the same add-ons, and the Black Friday code BF26REPLY still showing $29, $53 and $375.",
    "flags": [
     {
      "flag": "per_seat",
@@ -6589,7 +6589,7 @@
      "evidence_excerpt": "Billed annually it is $49, $59, $69 and $89 per user a month for 1,000, 2,000, 3,000 and 5,000 contacts, then, for unlimited users, $159 for 10,000, $259 for 25,000, $459 for 50,000 and $899 for 100,…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "usage_metered",
@@ -6597,7 +6597,7 @@
      "evidence_excerpt": "Multichannel is all-inclusive from $89 per user a month billed annually ($99 monthly) with unlimited active contacts, adding LinkedIn, SMS, calls and WhatsApp, 10 mailboxes (5 on monthly) and 50 live…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
@@ -6605,7 +6605,7 @@
      "evidence_excerpt": "On 21 November 2026 the starting list prices were unchanged: $49 per user a month billed annually on Email Volume at 1,000 contacts, $89 on Multichannel and $500 a month for Jason AI SDR, with $59 an…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "annual_lock",
@@ -6613,11 +6613,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-10-09"
   },
   {
