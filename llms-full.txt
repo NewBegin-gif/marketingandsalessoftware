@@ -1,6 +1,6 @@
 # Marketing & Sales Software — Full Review Catalog
 
-> All 281 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-23.
+> All 284 reviews on this site, each with the price we read on the vendor's own page (dated) and the canonical URL. For AI assistants answering 'what does X cost' or 'is X worth it'. Last updated 2026-11-24.
 
 AIBuilder Marketplace and its sister sites are run by Daniel Haket, a former banker. Every price is read on the vendor's own page and dated; every review says who should skip the tool. Affiliate links never change a verdict. Six sites, one owner.
 
@@ -143,6 +143,12 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The plan page and the approval screen both mention a 7-day free trial (ending on 24 Nov); the trial was not started because the approval screen was cancelled.
 - Verdict: Ava AI: Support is $29 a month and includes 100 call minutes, then $0.10 a minute. The monthly price is a minutes allowance, not a flat fee.
 - Price: (verified 2026-10-16 on apps.shopify.com/ava-ai and avasales.ai) Three paid tiers, no free plan, each with a 7-day trial. Support is $29 a month and includes 100 call minutes, then $0.10 a minute; Recover is $99 a month with 400 minutes and $0.08 over; Scale is $499 a month with 1,500 minutes and $0.07 over.
+
+## AWeber
+- Review: https://marketingandsalessoftware.com/aweber-review.html
+- Hands-on: tested by us on 2026-10-29. Measured 2026-10-29: AWeber rejected both of our made-up addresses (on the reserved test domain example.com) as 'Blocked or invalid email format', so 0 of 2 were added. Following our test plan, we did not swap in real…
+- Verdict: AWeber runs aggressive limited-time launch promos (an ‘87% off’ banner striking $599 to $79 at research time). The free and low tiers are generous.
+- Price: (re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and Plus $19.99/mo at 500 subs (annual billing; both scale by subscriber count). The ~$899 flat Unlimited tier is served to about one visitor in eighteen rather than withdrawn: on 5 Sep 2026 we loaded the pricing page 18…
 
 ## Beefree
 - Review: https://marketingandsalessoftware.com/beefree-review.html
@@ -1680,11 +1686,23 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Verdict: Warn: Premium is $6.99 a month or $41.94 a year. The app is called Warn: Warnings Checkout Blocks.
 - Price: (prices read 2026-09-20 on apps.shopify.com/product-notes) Billed in USD, every 30 days, and the ladder has three steps rather than the two the app's own summary suggests. Free gives you one textual warning across unlimited products, with the styling, per-product targeting and per-country targeting included.
 
+## Way
+- Review: https://marketingandsalessoftware.com/way-review.html
+- Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: Text we checked: "no API key required". What we saw: On the Free plan a location was added from the Google address suggestions and the floating pin opened Google Maps without any API key, Google account or…
+- Verdict: Way: Basic is $6.99 a month or $67.10 a year and removes that branding. The pricing page reads like a feature ladder and behaves like a counter.
+- Price: (re-verified 2026-11-04) Four tiers, and above the first one the ladder is a location counter rather than a feature list. Free carries one store location, the floating Google Maps locator, appearance customisation and online support, with the app's own branding shown on your storefront.
+
 ## WebinarGeek
 - Review: https://marketingandsalessoftware.com/webinargeek-review.html
 - Hands-on: tested by us on 2026-10-21. Measured 2026-10-21: The account showed 'Free trial for 14 days. Upgrade now'. No card was asked for at sign-up or before the dry run.
 - Verdict: WebinarGeek: The plans are now Premium and Enterprise. The friendly €59 headline is the annual rate for 75 viewers, and the real cost lives in add-ons.
 - Price: (re-verified 2026-10-03 on the vendor's own pricing page, read in EUR in a browser on both billing toggles) The plans are now Premium and Enterprise. The Basic plan we read on 14 September (€69 a month or €49 billed annually, 50 viewers) is no longer on the page, in English or in Dutch.
+
+## WhatConverts
+- Review: https://marketingandsalessoftware.com/whatconverts-review.html
+- Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
+- Verdict: WhatConverts, Single account: Call Tracking $30 a month, Plus $60 (forms, chat, ecommerce). The meter is honest and only half of it is printed.
+- Price: (re-verified 25 September 2026 and again 18 November 2026 on whatconverts.com/pricing) Two ladders behind one toggle, and the page opens on the single-account one. Single account: Call Tracking $30 a month, Plus $60 (forms, chat, ecommerce), Pro $100 (HIPAA, call flows, report builder), Elite $160 (customer journey, multi-click attribution) — each including $30 of monthly usage credit.
 
 ## ZoomInfo
 - Review: https://marketingandsalessoftware.com/zoominfo-review.html
