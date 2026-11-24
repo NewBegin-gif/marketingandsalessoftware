@@ -234,6 +234,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/ava-ai-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/ava-ai.svg\" width=\"340\" height=\"115\" alt=\"Ava AI hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 4 confirmed · 2 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "aweber",
+  "name": "AWeber",
+  "review_url": "https://marketingandsalessoftware.com/aweber-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/aweber.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#aweber",
+  "tested_on": "2026-10-29",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 2",
+   "2 confirmed",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "AWeber hands-on test by Marketing & Sales Software, 29 Oct 2026: Vendor claims checked 2; 2 confirmed; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/aweber-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/aweber.svg\" width=\"340\" height=\"115\" alt=\"AWeber hands-on test by Marketing &amp; Sales Software, 29 Oct 2026: Vendor claims checked 2; 2 confirmed; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "beefree",
   "name": "Beefree",
   "review_url": "https://marketingandsalessoftware.com/beefree-review.html",
@@ -2882,6 +2898,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/warn-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/warn.svg\" width=\"340\" height=\"115\" alt=\"Warn hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 8; 5 confirmed · 1 contradicted · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "way",
+  "name": "Way",
+  "review_url": "https://marketingandsalessoftware.com/way-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/way.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#way",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "6 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Way hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 9; 6 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/way-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/way.svg\" width=\"340\" height=\"115\" alt=\"Way hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 6 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "webinargeek",
   "name": "WebinarGeek",
   "review_url": "https://marketingandsalessoftware.com/webinargeek-review.html",
@@ -2895,5 +2927,22 @@
   ],
   "alt": "WebinarGeek hands-on test by Marketing & Sales Software, 21 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/webinargeek-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/webinargeek.svg\" width=\"340\" height=\"98\" alt=\"WebinarGeek hands-on test by Marketing &amp; Sales Software, 21 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable\"></a>"
+ },
+ {
+  "slug": "whatconverts",
+  "name": "WhatConverts",
+  "review_url": "https://marketingandsalessoftware.com/whatconverts-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/whatconverts.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#whatconverts",
+  "tested_on": "2026-11-12",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "WhatConverts sign-up attempt by Marketing & Sales Software, 12 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/whatconverts-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/whatconverts.svg\" width=\"340\" height=\"132\" alt=\"WhatConverts sign-up attempt by Marketing &amp; Sales Software, 12 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  }
 ]
