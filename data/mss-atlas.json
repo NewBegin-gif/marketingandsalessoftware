@@ -1,9 +1,9 @@
 {
  "meta": {
-  "title": "Cost Traps in 340 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 342 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 340,
+  "tools": 342,
   "flags": 516,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
@@ -809,7 +809,7 @@
    "entry_price": "$59",
    "entry_price_terms": "Lite… · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-05 on beehiiv.com/pricing, prices in USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv shows a 0% take rate, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Free is $0 up to 2,500 subscribers with unlimited sends. At up to 1,000 subscribers Lite is $59/mo billed monthly or $49/mo on yearly billing, Pro $109/mo or $95/mo yearly. At 10,000 subscribers Lite is $139/mo ($119 yearly) and Pro $239/mo ($199 yearly); at 50,000 Lite is $299/mo ($249) and Pro $469/mo ($399); at 100,000 Lite is $469/mo ($399) and Pro $699/mo ($599). Lite stops at 100,000 subscribers; Pro runs on to $999/mo billed monthly at 250,000+. Read again on 9 October 2026 with the slider, step by step (Free shows 'Unavailable' above 2,500 subscribers). Lite billed monthly: $59 at 1,000, $79 at 2,500, $109 at 5,000, $139 at 10,000, $199 at 25,000, $299 at 50,000, $389 at 75,000, $469 at 100,000; billed yearly, per month: $49, $69, $95, $119, $169, $249, $329, $399. Pro billed monthly: $109 at 1,000, $149 at 2,500, $199 at 5,000, $239 at 10,000, $349 at 25,000, $469 at 50,000, $589 at 75,000, $699 at 100,000, $799 at 150,000, $899 at 200,000, $999 at 250,000 (the last step reads '250,000+'); billed yearly, per month: $95, $129, $169, $199, $299, $399, $499, $599, $689, $779, $869. Re-read 19 November 2026 on beehiiv.com/pricing.md, generated from the same plan data as the website: Lite $59 monthly or $49 a month yearly and Pro $109 or $95 at up to 1,000 subscribers; $139 and $239 monthly at 10,000, $299 and $469 at 50,000, $469 and $699 at 100,000, Pro $999 at 250,000+; unchanged. Podcast downloads above the plan allowance cost $1.25 per 1,000 on Lite and Pro (help article updated 13 November 2026). Re-read 21 November 2026 on beehiiv.com/pricing.md: the bucket table is the same, from Lite $59 monthly ($588 a year, about $49 a month) and Pro $109 ($1,140, about $95) at up to 1,000 subscribers to Pro $999 monthly at 250,000+; Free stays at $0 up to 2,500 subscribers.",
+   "price_note": "(re-verified 2026-10-05 on beehiiv.com/pricing, prices in USD) Subscriber-based, and you keep 100% of paid subscriptions — beehiiv shows a 0% take rate, against Substack's 10%, leaving only Stripe's 2.9% + $0.30. Free is $0 up to 2,500 subscribers with unlimited sends. At up to 1,000 subscribers Lite is $59/mo billed monthly or $49/mo on yearly billing, Pro $109/mo or $95/mo yearly. At 10,000 subscribers Lite is $139/mo ($119 yearly) and Pro $239/mo ($199 yearly); at 50,000 Lite is $299/mo ($249) and Pro $469/mo ($399); at 100,000 Lite is $469/mo ($399) and Pro $699/mo ($599). Lite stops at 100,000 subscribers; Pro runs on to $999/mo billed monthly at 250,000+. Read again on 9 October 2026 with the slider, step by step (Free shows 'Unavailable' above 2,500 subscribers). Lite billed monthly: $59 at 1,000, $79 at 2,500, $109 at 5,000, $139 at 10,000, $199 at 25,000, $299 at 50,000, $389 at 75,000, $469 at 100,000; billed yearly, per month: $49, $69, $95, $119, $169, $249, $329, $399. Pro billed monthly: $109 at 1,000, $149 at 2,500, $199 at 5,000, $239 at 10,000, $349 at 25,000, $469 at 50,000, $589 at 75,000, $699 at 100,000, $799 at 150,000, $899 at 200,000, $999 at 250,000 (the last step reads '250,000+'); billed yearly, per month: $95, $129, $169, $199, $299, $399, $499, $599, $689, $779, $869. Re-read 19 November 2026 on beehiiv.com/pricing.md, generated from the same plan data as the website: Lite $59 monthly or $49 a month yearly and Pro $109 or $95 at up to 1,000 subscribers; $139 and $239 monthly at 10,000, $299 and $469 at 50,000, $469 and $699 at 100,000, Pro $999 at 250,000+; unchanged. Podcast downloads above the plan allowance cost $1.25 per 1,000 on Lite and Pro (help article updated 13 November 2026). Re-read 21 November 2026 on beehiiv.com/pricing.md: the bucket table is the same, from Lite $59 monthly ($588 a year, about $49 a month) and Pro $109 ($1,140, about $95) at up to 1,000 subscribers to Pro $999 monthly at 250,000+; Free stays at $0 up to 2,500 subscribers. Re-read 24 November 2026 on beehiiv.com/pricing.md: the same bucket table, Lite $59 monthly ($49 a month yearly) and Pro $109 ($95) at up to 1,000 subscribers through Pro $999 monthly at 250,000+, Free $0 up to 2,500 subscribers; unchanged.",
    "flags": [
     {
      "flag": "free_tier",
@@ -817,11 +817,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-10-05"
   },
   {
@@ -960,23 +960,15 @@
    "entry_price": "$9.99",
    "entry_price_terms": "Premium, for individuals · billed monthly",
    "pricing_status": "public",
-   "price_note": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days. Premium is $9.99 a month billed monthly or $7.33 billed annually, for up to five custom-branded cards without Blinq branding. A Pro plan for individuals now sits above it at $22.49 a month billed monthly or $16.58 billed annually, adding advanced enrichment with phone numbers, the unlimited AI Notetaker, CSV export, and MCP and API access. Business for teams is $6.99 per card a month billed monthly or $4.99 per card billed annually, from five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise, which is custom. Capturing leads no longer costs anything per lead: the help centre says capture and AI enrichment of captured leads are included, subject to fair use. What is charged is Campaigns, the workspace for one event, at $750 per campaign on pay as you go (75 credits at $10 each), billed monthly in arrears on top of the seats. The pricing page shows Event Lead Capture as an optional add-on 'From $500/event' with a link to volume pricing; the annual event packages behind that are not priced in public. Bulk enrichment of an uploaded list is priced case by case. The page advertises up to 30% off for annual billing; our own arithmetic gives 27% on Premium, 26% on Pro and 29% on Business. Note the individual plans cost more per person than the team plan: if there are five of you, the team tier is both cheaper per head and more capable.",
+   "price_note": "(corrected 2026-11-21 and again 2026-11-24, read on blinq.me/pricing, Blinq's Event Lead Capture page and two Blinq help-centre articles) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days. Premium is $9.99 a month billed monthly or $7.33 billed annually, for up to five custom-branded cards without Blinq branding. A Pro plan for individuals now sits above it at $22.49 a month billed monthly or $16.58 billed annually, adding advanced enrichment with phone numbers, the unlimited AI Notetaker, CSV export, and MCP and API access. Business for teams is $6.99 per card a month billed monthly or $4.99 per card billed annually, from five cards, adding CRM sync, templates, the admin platform and team analytics; custom reporting sits on Enterprise, which is custom. Capturing leads no longer costs anything per lead: the help centre says capture and AI enrichment of captured leads are included, subject to fair use. What is charged is Campaigns, the workspace for one event, at $500 per campaign on pay as you go (help centre and Event Lead Capture page, read 24 November 2026; on 21 November the help centre said $750). The Event Lead Capture page now prices three event packages, each with unlimited lead capture and enrichment: Flex at $500 per event with Business seats billed separately; Launch at $2,999 a year for 5 events and 10 Business seats, then $500 per additional event and $4.99 a month per additional user; and Unlimited at $4,999 a year for unlimited events and 25 Business seats, then $4.99 a month per additional user. The pricing page sums that up as '$500 /event or $4,999 /unlimited'. Bulk enrichment of an uploaded list is priced case by case. The page advertises up to 30% off for annual billing; our own arithmetic gives 27% on Premium, 26% on Pro and 29% on Business. Note the individual plans cost more per person than the team plan: if there are five of you, the team tier is both cheaper per head and more capable.",
    "flags": [
     {
-     "flag": "usage_metered",
-     "evidence": "What is charged is Campaigns, the workspace for one event, at $750 per campaign on pay as you go (75 credits at $10 each), billed monthly in arrears on top of the seats.",
-     "evidence_excerpt": null,
-     "source_url": null,
-     "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
-    },
-    {
      "flag": "addons_extra",
-     "evidence": "The pricing page shows Event Lead Capture as an optional add-on 'From $500/event' with a link to volume pricing; the annual event packages behind that are not priced in public.",
-     "evidence_excerpt": null,
+     "evidence": "The core product is honestly cheap: the cost that grows sits in events, at $500 per Campaign on pay as you go, or $2,999 a year for five events, on top of the Business seats (read 24 November 2026; the leads themselves are not charged per lead), which is where teams that live on trade shows actually get value.",
+     "evidence_excerpt": "The core product is honestly cheap: the cost that grows sits in events, at $500 per Campaign on pay as you go, or $2,999 a year for five events, on top of the Business seats (read 24 November 2026; t…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "annual_lock",
@@ -984,19 +976,19 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "free_tier",
-     "evidence": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days.",
-     "evidence_excerpt": "(corrected 2026-11-21, read on blinq.me/pricing and in two Blinq help-centre articles updated 20 November 2026) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with…",
+     "evidence": "(corrected 2026-11-21 and again 2026-11-24, read on blinq.me/pricing, Blinq's Event Lead Capture page and two Blinq help-centre articles) Free forever for individuals: two cards, unlimited sharing, unlimited lead capture with email enrichment, and the AI Notetaker with notes from the last 30 days.",
+     "evidence_excerpt": "(corrected 2026-11-21 and again 2026-11-24, read on blinq.me/pricing, Blinq's Event Lead Capture page and two Blinq help-centre articles) Free forever for individuals: two cards, unlimited sharing, u…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-11-21"
   },
   {
@@ -7537,6 +7529,21 @@
    "first_observed_at": "2026-11-17"
   },
   {
+   "name": "ShipProtect ShippingProtection",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/shipprotect-shippingprotection-review/",
+   "from_price_usd_mo": 9.99,
+   "entry_price": "$9.99",
+   "entry_price_terms": "ShipProtect · per month, $9.99 every 30 days on the Shopify App Store listing, read 24 November…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-24 on apps.shopify.com/shipping-protection, USD) One paid plan: $9.99 every 30 days with all features, after a free trial (10 days in our test; the listing mentions 10 and 30 days). A free plan for developer partner stores is also listed. Charges are billed through Shopify. The protection premiums customers pay belong to you.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-24",
+   "first_observed_at": "2026-11-24"
+  },
+  {
    "name": "ShopTrueProfit",
    "category": "E-commerce",
    "domain": "shoptrueprofit.com",
@@ -9378,6 +9385,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-17",
    "first_observed_at": "2026-11-17"
+  },
+  {
+   "name": "Wiz Email App",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/wiz-email-app-review/",
+   "from_price_usd_mo": 29.99,
+   "entry_price": "$29.99",
+   "entry_price_terms": "Pro · Pro $29.99 a month, up to 2,000 active contacts, on the Shopify App…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-24 on apps.shopify.com/emailwiz, USD) Free plan: up to 500 active contacts. Pro: $29.99 a month, up to 2,000 active contacts, 7 day free trial. AI Agency: $99.99 a month, up to 2,000 active contacts, 7 day free trial, adds monthly AI-planned campaigns. The listing says prices rise as active contacts grow. Charges are billed every 30 days.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-24 on apps.shopify.com/emailwiz, USD) Free plan: up to 500 active contacts.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/emailwiz",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-24"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-24",
+   "first_observed_at": "2026-11-24"
   },
   {
    "name": "Woodpecker",

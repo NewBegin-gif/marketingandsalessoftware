@@ -2322,6 +2322,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/ship-com-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/ship-com.svg\" width=\"340\" height=\"115\" alt=\"Ship.com hands-on test by Marketing &amp; Sales Software, 18 Nov 2026: Vendor claims checked 13; 5 confirmed · 2 contradicted · 1 not comparable · 5 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "shipprotect-shippingprotection",
+  "name": "ShipProtect ShippingProtection",
+  "review_url": "https://marketingandsalessoftware.com/shipprotect-shippingprotection-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/shipprotect-shippingprotection.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#shipprotect-shippingprotection",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "ShipProtect ShippingProtection hands-on test by Marketing & Sales Software, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/shipprotect-shippingprotection-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/shipprotect-shippingprotection.svg\" width=\"340\" height=\"81\" alt=\"ShipProtect ShippingProtection hands-on test by Marketing &amp; Sales Software, 22 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "shoptrueprofit",
   "name": "ShopTrueProfit",
   "review_url": "https://marketingandsalessoftware.com/shoptrueprofit-review.html",
@@ -2944,5 +2958,19 @@
   ],
   "alt": "WhatConverts sign-up attempt by Marketing & Sales Software, 12 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/whatconverts-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/whatconverts.svg\" width=\"340\" height=\"132\" alt=\"WhatConverts sign-up attempt by Marketing &amp; Sales Software, 12 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "wiz-email-app",
+  "name": "Wiz Email App",
+  "review_url": "https://marketingandsalessoftware.com/wiz-email-app-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/wiz-email-app.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#wiz-email-app",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Wiz Email App hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/wiz-email-app-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/wiz-email-app.svg\" width=\"340\" height=\"81\" alt=\"Wiz Email App hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
  }
 ]
