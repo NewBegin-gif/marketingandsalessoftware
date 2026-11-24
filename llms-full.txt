@@ -1462,7 +1462,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/streak-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Streak: Enterprise $129 annual or $159 monthly - a flat 20% annual discount. The pitch, CRM living inside Gmail, is also the ceiling.
-- Price: (price re-verified 2026-11-21 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly; Enterprise $129 annual or…
+- Price: (price re-verified 2026-11-21 and again 2026-11-24 against streak.com/pricing: Pro $49/$59, Pro+ $69/$89, Enterprise $129/$159 per user, 20/150/500 AI credits and the $100-$1,000 top-up ladder all unchanged) (price re-verified 2026-09-22 against the vendor's own pricing page; every plan figure identical to the 31 Aug 2026 reading) (2026) Pro $49/user/mo annual or $59 monthly; Pro+ $69 annual or $89 monthly;…
 
 ## Success.co
 - Review: https://marketingandsalessoftware.com/success-co-review.html
