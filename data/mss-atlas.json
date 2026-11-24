@@ -1635,7 +1635,7 @@
    "entry_price": "$89",
    "entry_price_terms": "Professional · per month billed annually ($129 billed monthly)",
    "pricing_status": "public",
-   "price_note": "(2026) Professional about $89/mo billed annually ($129 monthly), Business $199/mo annual, Scale $419/mo annual, plus a custom Circle Plus tier for fully branded apps. On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts. 14-day free trial, but no always-free option. Re-verified 12 October 2026 on circle.so/pricing and its pricing.md: Professional $89, Business $199 and Scale $419 a month, all marked as annual-billing USD prices excluding tax, Circle Plus on custom pricing; transaction fees 2%, 1%, 1% and 0.5%; Circle AI credits 2,500, 2,500 and 5,000 a month, extra credits $10 per 1,000; Business includes 5,000 Admin API requests a month ($.005 per extra request), Scale 30,000 ($.002). The $129 monthly figure is not printed on the page we read. Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%, 1%, 1% and 0.5%; AI credits 2,500, 2,500 and 5,000 a month with extra credits at $10 per 1,000; unchanged. The monthly-billing price is still not printed on the page.",
+   "price_note": "(2026) Professional about $89/mo billed annually ($129 monthly), Business $199/mo annual, Scale $419/mo annual, plus a custom Circle Plus tier for fully branded apps. On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts. 14-day free trial, but no always-free option. Re-verified 12 October 2026 on circle.so/pricing and its pricing.md: Professional $89, Business $199 and Scale $419 a month, all marked as annual-billing USD prices excluding tax, Circle Plus on custom pricing; transaction fees 2%, 1%, 1% and 0.5%; Circle AI credits 2,500, 2,500 and 5,000 a month, extra credits $10 per 1,000; Business includes 5,000 Admin API requests a month ($.005 per extra request), Scale 30,000 ($.002). The $129 monthly figure is not printed on the page we read. Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%, 1%, 1% and 0.5%; AI credits 2,500, 2,500 and 5,000 a month with extra credits at $10 per 1,000; unchanged. The monthly-billing price is still not printed on the page. Re-read 24 November 2026 on circle.so/pricing.md and circle.so/llms.txt: the same $89, $199 and $419 annual-billing prices, the same transaction fees, AI credit allowances and $10 per 1,000 extra credits, and the 30-day money-back guarantee; the monthly-billing price is still not printed.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1643,7 +1643,7 @@
      "evidence_excerpt": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
@@ -1651,7 +1651,7 @@
      "evidence_excerpt": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "annual_lock",
@@ -1659,11 +1659,11 @@
      "evidence_excerpt": "Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%,…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": null
   },
   {
@@ -3603,7 +3603,7 @@
    "entry_price": "€9",
    "entry_price_terms": "Starter… · per month billed yearly for 3 profiles, 1 user and 30 posts a month",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-10-03 and 2026-11-21) Read on iconosquare.com/pricing (now served at /plans-and-pricing) from a Netherlands connection, with both billing toggles. Free covers 2 social profiles, 1 user and 10 posts a month per profile, with one month of analytics history. Starter now carries a profile selector: €9 a month billed yearly (€11 month to month) for up to 3 profiles, or €15 (€18) for up to 5, with 1 user and 30 posts a month. Launch is €33 billed yearly (€39 monthly) for 5 profiles, 1 user and 100 posts. Scale, badged Most popular, is the first tier with 3 users, unlimited posts, one group and two years of history, and it is priced by profile count: €69 billed yearly (€83 monthly) for 5 profiles, €119 (€143) for 10, €169 (€203) for 15 and €219 (€263) for 20. Custom starts at €116 billed yearly or €139 month to month and covers 5 to unlimited profiles and 1 or unlimited users, with white-label reporting, API access and personalised onboarding. The page puts the yearly saving at €24 on 3-profile Starter (€36 on 5), €72 on Launch, €168 on 5-profile Scale and €276 on Custom. The ladder has been rebuilt twice since our 26 August reading over a US connection, which listed Launch $39, Scale $79 and an Excel tier at $139: by mid-September Excel had folded into Custom and Starter had appeared below Launch, and by 3 October Starter and Scale had each gained a profile selector, so Scale now reaches 20 profiles before Custom is needed. The profile count is the dial that moves the price, so a quote taken at five says little about what a team managing twenty will pay. Re-read on 21 November 2026 on iconosquare.com/plans-and-pricing: Starter from €9 (3 profiles) or €15 (5), Launch €33, Scale €69 to €219 for 5 to 20 profiles and Custom from €116, all billed yearly, with the same yearly savings (€36, €72, €168, €276), so the monthly rates behind them are unchanged. The FAQ now adds that extra profiles can be bought on Scale and Custom through sales, and that X (Twitter) is only available from Launch up.",
+   "price_note": "(price re-verified 2026-10-03 and 2026-11-21) Read on iconosquare.com/pricing (now served at /plans-and-pricing) from a Netherlands connection, with both billing toggles. Free covers 2 social profiles, 1 user and 10 posts a month per profile, with one month of analytics history. Starter now carries a profile selector: €9 a month billed yearly (€11 month to month) for up to 3 profiles, or €15 (€18) for up to 5, with 1 user and 30 posts a month. Launch is €33 billed yearly (€39 monthly) for 5 profiles, 1 user and 100 posts. Scale, badged Most popular, is the first tier with 3 users, unlimited posts, one group and two years of history, and it is priced by profile count: €69 billed yearly (€83 monthly) for 5 profiles, €119 (€143) for 10, €169 (€203) for 15 and €219 (€263) for 20. Custom starts at €116 billed yearly or €139 month to month and covers 5 to unlimited profiles and 1 or unlimited users, with white-label reporting, API access and personalised onboarding. The page puts the yearly saving at €24 on 3-profile Starter (€36 on 5), €72 on Launch, €168 on 5-profile Scale and €276 on Custom. The ladder has been rebuilt twice since our 26 August reading over a US connection, which listed Launch $39, Scale $79 and an Excel tier at $139: by mid-September Excel had folded into Custom and Starter had appeared below Launch, and by 3 October Starter and Scale had each gained a profile selector, so Scale now reaches 20 profiles before Custom is needed. The profile count is the dial that moves the price, so a quote taken at five says little about what a team managing twenty will pay. Re-read on 21 November 2026 on iconosquare.com/plans-and-pricing: Starter from €9 (3 profiles) or €15 (5), Launch €33, Scale €69 to €219 for 5 to 20 profiles and Custom from €116, all billed yearly, with the same yearly savings (€36, €72, €168, €276), so the monthly rates behind them are unchanged. The FAQ now adds that extra profiles can be bought on Scale and Custom through sales, and that X (Twitter) is only available from Launch up. Re-read 24 November 2026: the same ladder (Starter €9 or €15, Launch €33, Scale €69 to €219, Custom from €116, all billed yearly) and the same yearly savings.",
    "flags": [
     {
      "flag": "per_seat",
@@ -3611,7 +3611,7 @@
      "evidence_excerpt": "And the per-seat, per-profile tiering means agencies managing many brands climb toward the Custom plan quicker than the headline Starter price suggests: Starter and Launch carry one seat and five pro…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "free_tier",
@@ -3619,11 +3619,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-10-03"
   },
   {
@@ -3822,7 +3822,7 @@
    "entry_price": "$320",
    "entry_price_terms": "the whole platform · billed monthly for 2 users and 1,500 contacts",
    "pricing_status": "public",
-   "price_note": "Starting at $320 a month billed monthly for the whole platform, with no feature-based tiers and no free plan (re-read 21 November 2026 from the plan data behind the calculator on keap.com/pricing; on 24 September 2026 the same minimum was $299). That $320 is what the calculator quotes for its own minimum: 2 users and 1,500 contacts. The contact steps did not move, so raising only the contact count now gives $356 at 2,500, $470 at 5,000, $560 at 10,000 and $740 at 25,000, and users beyond the first two are $39 a month each. The same price card carries an annual line, 'Billed at $3,195 /year', for the base configuration. Keap also requires paid implementation services (strategy consulting, data import and migration), quoted separately before you go live. Text marketing is bundled at Tier 1 (500 messages and 100 voice minutes) and steps to $24, $39, $79, $139 and $279 a month above that, with overages at $0.015 a message and $0.01 a voice minute; it is US-only. Cancelling an annual contract before its term ends carries a $299 early termination fee, and cancellation must be started by phone at least ten days before the next invoice date. Keap has been acquired by Thryv; its own pages now route training to Thryv Academy.",
+   "price_note": "Starting at $320 a month billed monthly for the whole platform, with no feature-based tiers and no free plan (re-read 21 and 24 November 2026 from the plan data behind the calculator on keap.com/pricing; on 24 September 2026 the same minimum was $299). That $320 is what the calculator quotes for its own minimum: 2 users and 1,500 contacts. The contact steps did not move, so raising only the contact count now gives $356 at 2,500, $470 at 5,000, $560 at 10,000 and $740 at 25,000, and users beyond the first two are $39 a month each. The same price card carries an annual line, 'Billed at $3,195 /year', for the base configuration. Keap also requires paid implementation services (strategy consulting, data import and migration), quoted separately before you go live. Text marketing is bundled at Tier 1 (500 messages and 100 voice minutes) and steps to $24, $39, $79, $139 and $279 a month above that, with overages at $0.015 a message and $0.01 a voice minute; it is US-only. Cancelling an annual contract before its term ends carries a $299 early termination fee, and cancellation must be started by phone at least ten days before the next invoice date. Keap has been acquired by Thryv; its own pages now route training to Thryv Academy.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3830,7 +3830,7 @@
      "evidence_excerpt": "Text marketing is bundled at Tier 1 (500 messages and 100 voice minutes) and steps to $24, $39, $79, $139 and $279 a month above that, with overages at $0.015 a message and $0.01 a voice minute; it i…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "annual_lock",
@@ -3838,11 +3838,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-21"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-21",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": null
   },
   {
