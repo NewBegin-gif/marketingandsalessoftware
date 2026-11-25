@@ -1556,7 +1556,7 @@
    "entry_price": "$10",
    "entry_price_terms": "Creator · billed monthly",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-18 in a browser on carouselbot.app/pricing, Monthly and Annual views; earlier: read 2026-10-17; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, 3 AI images, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. In our test (18 Nov 2026) the free app showed the same allowances (3 carousels, 3 card sets, 1 batch, 1 document), and the watermark was a small CarouselBot logo in the slide footer, not a large mark across the slide. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited carousels, 3 card sets, 3 batches and 10 documents a month, up to 5,000 words per document, no watermark. Pro is $30 a month, or $249 a year (shown as $20.75 a month): unlimited card sets, batches and documents, up to 10,000 words per document. The annual cards cross out $120 and $360, twelve monthly payments. Business is a starting price of $50 a month for agencies and teams, adding bulk creation from up to 50 URLs; its final price and billing are not stated. The FAQ offers a 7-day money-back guarantee on all paid plans, requested by email; after cancelling you keep access until the billing period ends, then drop to Free, and saved work stays in your library.",
+   "price_note": "(re-read 2026-11-25 on carouselbot.app/pricing in a headless browser, Annual view with the FAQ: prices, limits and the 7-day money-back guarantee unchanged, and the Save 34% and Save 31% labels match twelve monthly payments of $10 and $30, our arithmetic; read 2026-11-18 in a browser on carouselbot.app/pricing, Monthly and Annual views; earlier: read 2026-10-17; the cards show a $ sign without naming the currency) Free is $0 forever: 3 carousels a month, plus 3 card sets, 1 batch collection and 1 document in total, 3 AI images, up to 2,500 words per document, and PNG, JPG and PDF exports with a watermark. In our test (18 Nov 2026) the free app showed the same allowances (3 carousels, 3 card sets, 1 batch, 1 document), and the watermark was a small CarouselBot logo in the slide footer, not a large mark across the slide. Creator is $10 a month, or $79 a year on annual billing (shown as $6.58 a month): unlimited carousels, 3 card sets, 3 batches and 10 documents a month, up to 5,000 words per document, no watermark. Pro is $30 a month, or $249 a year (shown as $20.75 a month): unlimited card sets, batches and documents, up to 10,000 words per document. The annual cards cross out $120 and $360, twelve monthly payments. Business is a starting price of $50 a month for agencies and teams, adding bulk creation from up to 50 URLs; its final price and billing are not stated. The FAQ offers a 7-day money-back guarantee on all paid plans, requested by email; after cancelling you keep access until the billing period ends, then drop to Free, and saved work stays in your library.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -1564,12 +1564,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.carouselbot.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-18",
-   "first_observed_at": "2026-11-18"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Cartly",
@@ -8293,15 +8293,15 @@
    "entry_price": "$49",
    "entry_price_terms": "Starter · per account per month, billed monthly in advance",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-16 on getsurfox.com/pricing and the terms of service, still dated 22 September 2026, after SurFox aligned the two pages; first read 2026-10-15 in a live browser with the FAQ and the home page) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active campaigns and 1 user, with the core AI, knowledge-base upload and Google and Outlook calendar booking, but no conversation learning. Growth is $597 a month: 10,000 messages, 500 website chats, 400 voice minutes and 5 users, plus conversation learning from the last 100 conversations, A/B testing, Zapier and a Chrome extension for lead capture. Growth Plus is $1,497 a month: 25,000 messages, 2,000 chats, 1,000 voice minutes, 15 users, learning from the last 1,000 conversations, multiple personas, unlimited knowledge-base uploads, white-glove onboarding and a dedicated success manager. Scale is $2,497 a month: 40,000 messages, 5,000 chats, 2,000 voice minutes and 15 or more users with the same features. A message is any text in the conversation, yours or the lead's; the page puts a conversation at about 4 to 8 messages. When you near the message limit you are emailed and can buy a top-up, at a price the page does not publish. Both inbound and outbound calls count toward the voice minutes, and minutes over the bucket are billed automatically at $0.25 a minute. Website chats pause when the allowance runs out. There are no setup fees and no annual plans; the FAQ says annual options may come later, and the terms reserve annual billing for custom enterprise agreements. You can cancel any time with 24 hours' notice, with no refund for a partial month. Every plan carries a 30-day money-back guarantee whose clock starts when your carrier (A2P) registration is approved, not at payment, and which pays out only if you sent at least 80% of your monthly messages and the AI demonstrably failed at its core tasks; the pricing page now states the 80% condition itself and adds “Conditions apply, see terms” with a link to the terms.",
+   "price_note": "(re-read 2026-11-25 on getsurfox.com/pricing in a headless browser with the FAQ answers opened, and on the terms, still dated 22 September 2026: plans, limits, the $0.25 voice overage and the guarantee conditions unchanged; re-verified 2026-10-16 on getsurfox.com/pricing and the terms of service, still dated 22 September 2026, after SurFox aligned the two pages; first read 2026-10-15 in a live browser with the FAQ and the home page) Four monthly plans, priced by message volume rather than seats. Starter is $49 a month: 1,000 SMS messages, 100 website chat conversations and 20 voice minutes a month, up to 500 new SMS leads, 3 active campaigns and 1 user, with the core AI, knowledge-base upload and Google and Outlook calendar booking, but no conversation learning. Growth is $597 a month: 10,000 messages, 500 website chats, 400 voice minutes and 5 users, plus conversation learning from the last 100 conversations, A/B testing, Zapier and a Chrome extension for lead capture. Growth Plus is $1,497 a month: 25,000 messages, 2,000 chats, 1,000 voice minutes, 15 users, learning from the last 1,000 conversations, multiple personas, unlimited knowledge-base uploads, white-glove onboarding and a dedicated success manager. Scale is $2,497 a month: 40,000 messages, 5,000 chats, 2,000 voice minutes and 15 or more users with the same features. A message is any text in the conversation, yours or the lead's; the page puts a conversation at about 4 to 8 messages. When you near the message limit you are emailed and can buy a top-up, at a price the page does not publish. Both inbound and outbound calls count toward the voice minutes, and minutes over the bucket are billed automatically at $0.25 a minute. Website chats pause when the allowance runs out. There are no setup fees and no annual plans; the FAQ says annual options may come later, and the terms reserve annual billing for custom enterprise agreements. You can cancel any time with 24 hours' notice, with no refund for a partial month. Every plan carries a 30-day money-back guarantee whose clock starts when your carrier (A2P) registration is approved, not at payment, and which pays out only if you sent at least 80% of your monthly messages and the AI demonstrably failed at its core tasks; the pricing page now states the 80% condition itself and adds “Conditions apply, see terms” with a link to the terms.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "Inbound and outbound calls both count as voice minutes, and overage is billed automatically.",
-     "evidence_excerpt": null,
+     "evidence": "(re-read 2026-11-25 on getsurfox.com/pricing in a headless browser with the FAQ answers opened, and on the terms, still dated 22 September 2026: plans, limits, the $0.25 voice overage and the guarantee conditions unchanged; re-verified 2026-10-16 on getsurfox.com/pricing and the terms of service, still dated 22 September 2026, after SurFox aligned the two pages; first read 2026-10-15 in a live browser with the FAQ and the home page) Four monthly plans, priced by message volume rather than seats.",
+     "evidence_excerpt": "(re-read 2026-11-25 on getsurfox.com/pricing in a headless browser with the FAQ answers opened, and on the terms, still dated 22 September 2026: plans, limits, the $0.25 voice overage and the guarant…",
      "source_url": "https://www.getsurfox.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-25"
     },
     {
      "flag": "annual_lock",
@@ -8309,12 +8309,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.getsurfox.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-16"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-16",
-   "first_observed_at": "2026-10-16"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "SurveySparrow",
