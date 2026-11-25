@@ -303,8 +303,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## CiteRoute
 - Review: https://marketingandsalessoftware.com/citeroute-review.html
 - Hands-on: tested by us on 2026-11-18. Measured 2026-11-18: The scan says 0 JSON-LD detected, but a curl of the homepage shows 3 application/ld+json blocks (Organization, WebSite with a SearchAction, ItemList with 12 items). The Schema score of 73/100 stands next…
-- Verdict: CiteRoute: Four plans, billed monthly. The GEO score is CiteRoute's own algorithm, and its terms say outright that it cannot guarantee citations or rankings.
-- Price: (read 2026-11-18 on citeroute.com/pricing and the home page and in our own test that day; earlier: read 2026-10-13 in a live browser on those pages and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO Radar, a two-domain competitor comparison, 3 watchlist domains, the agent.json studio, a basic score…
+- Verdict: CiteRoute: $0.02 for a GEO score, $0.01 for a verification and $0.05 for AI-traffic data. Real AI-traffic data starts at $79 a month and covers one site.
+- Price: (re-read 2026-11-25 on citeroute.com/pricing with the same four plans, prices, limits and API rates; read 2026-11-18 on citeroute.com/pricing and the home page and in our own test that day; earlier: read 2026-10-13 in a live browser on those pages and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO…
 
 ## Claap
 - Review: https://marketingandsalessoftware.com/claap-review.html
@@ -555,8 +555,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## FeedbackGate
 - Review: https://marketingandsalessoftware.com/feedbackgate-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: FeedbackGate: Three monthly plans, each with a 14-day free trial. Used as designed, it can cost you the reviews it collected.
-- Price: (read 2026-10-14 in a live browser on feedbackgate.com/pricing, the home page, the about page and the terms of service dated 1 January 2025) Three monthly plans, each with a 14-day free trial. Starter is $69 a month: up to 500 contacts, 1,000 emails and 100 SMS a month, basic analytics, the rating gate and email support.
+- Verdict: FeedbackGate: , which returns $69, $149 and $399 for Starter, Growth and Agency. Used as designed, it can cost you the reviews it collected.
+- Price: (re-read 2026-11-25 with plain HTTP and the page's own pricing feed (feedbackgate.com/api/v1/system/pricing), which returns $69, $149 and $399 for Starter, Growth and Agency; the static page source shows $49 for Starter until the script replaces it, so a reader without scripts sees the wrong price; read 2026-10-14 in a live browser on feedbackgate.com/pricing, the home page, the about page and the terms of…
 
 ## Feedvisor
 - Review: https://marketingandsalessoftware.com/feedvisor-review.html
@@ -1114,7 +1114,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/postonce-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: PostOnce: Solo is €15 a month, or €144 a year billed once. The only way to look before paying is a demo with sample data, not your own accounts.
-- Price: (read 2026-10-12 in a live browser on postonce.app and postonce.app/pricing, monthly and yearly views, and in the terms at postonce.app/terms) Two plans, priced in euros including VAT, with approximate dollar figures shown beside them, and no charge per connected network. Solo is €15 a month, or €144 a year billed once, which works out at €12 a month: 10 social accounts, 2 team members, unlimited scheduled posts,…
+- Price: (re-read 2026-11-25 on postonce.app/pricing.md, postonce.app/llms.txt, postonce.app/llms-full.txt and the terms: both plans, prices and limits unchanged; earlier, read 2026-10-12 in a live browser on postonce.app and postonce.app/pricing, monthly and yearly views, and in the terms at postonce.app/terms) Two plans, priced in euros including VAT, with approximate dollar figures shown beside them, and no charge per…
 
 ## Postscript
 - Review: https://marketingandsalessoftware.com/postscript-review.html
@@ -1618,7 +1618,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/upsell-cross-sell-aw-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The app says Visible on first 2 pages for Start-up and for the Free plan, while the listing names 3 locations for Start-up and 2 locations for Free.
 - Verdict: Upsell & Cross Sell - AW: StartUp Upsell is $29.99 a month or $299 a year (the listing says save 17%). The meter is recommendation clicks.
-- Price: (read 2026-10-11 on the Shopify App Store listing apps.shopify.com/cross-sell and on the developer's own pricing page csell.io/pricing, USD; the listing says all charges are billed in USD and recurring charges every 30 days) Upsell & Cross Sell by Aheadworks is priced by recommendation clicks and by the number of store locations it may appear in. The Free Upsell Plan is $0: cross-sells and upsells in 2 locations,…
+- Price: (re-read 2026-11-25 on csell.io/pricing and the Shopify listing, unchanged for the first four plans; read 2026-10-11 on the Shopify App Store listing apps.shopify.com/cross-sell and on the developer's own pricing page csell.io/pricing, USD; the listing says all charges are billed in USD and recurring charges every 30 days) Upsell & Cross Sell by Aheadworks is priced by recommendation clicks and by the number of…
 
 ## Upsell.com
 - Review: https://marketingandsalessoftware.com/upsell-com-review.html

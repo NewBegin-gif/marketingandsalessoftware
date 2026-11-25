@@ -1675,7 +1675,7 @@
    "entry_price": "$79",
    "entry_price_terms": "Pro · per month, billed monthly in advance through Lemon Squeezy as merchant…",
    "pricing_status": "public",
-   "price_note": "(read 2026-11-18 on citeroute.com/pricing and the home page and in our own test that day; earlier: read 2026-10-13 in a live browser on those pages and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO Radar, a two-domain competitor comparison, 3 watchlist domains, the agent.json studio, a basic score report and community support. Pro is $79 a month with a 14-day trial: unlimited scans, 10 monitored prompts, a five-way competitor benchmark, one verified site with the tracking tag and a dashboard of real AI bot and crawler visits, 20 watchlist domains, an API key for 500 requests a day, history charts and priority support. Agency is $249 a month with a 14-day trial: 50 monitored prompts, 10 verified client sites, unlimited watchlist, white-label PDF reports, an embeddable badge and 10,000 API requests a day. Enterprise is custom. API calls beyond the daily plan limit are charged per call: $0.02 for a GEO score, $0.01 for a verification and $0.05 for AI-traffic data. The terms say Lemon Squeezy is the merchant of record and handles VAT and sales tax, subscriptions renew monthly until cancelled, you keep access to the end of the paid month after cancelling, and a full refund can be requested within 14 days of the initial purchase. CiteRoute operates from Kigali, Rwanda, under Rwandan law. Read 18 November 2026, the plans and prices were unchanged; the Free card lists daily automated re-scans as not included, while Pro and Agency include them, and in our test that day the scan page said it rescans every 7 days. The home page now also offers citation probes that check where a domain is cited, with source URLs. In our test the probe was unreliable: it scored 92/100 'Verified Citation' on an answer that said 'I don't have verified information'.",
+   "price_note": "(re-read 2026-11-25 on citeroute.com/pricing with the same four plans, prices, limits and API rates; read 2026-11-18 on citeroute.com/pricing and the home page and in our own test that day; earlier: read 2026-10-13 in a live browser on those pages and the terms of service dated 10 September 2026) Four plans, billed monthly. Free costs nothing and includes 10 GEO scans a month, one monitored buyer prompt in GEO Radar, a two-domain competitor comparison, 3 watchlist domains, the agent.json studio, a basic score report and community support. Pro is $79 a month with a 14-day trial: unlimited scans, 10 monitored prompts, a five-way competitor benchmark, one verified site with the tracking tag and a dashboard of real AI bot and crawler visits, 20 watchlist domains, an API key for 500 requests a day, history charts and priority support. Agency is $249 a month with a 14-day trial: 50 monitored prompts, 10 verified client sites, unlimited watchlist, white-label PDF reports, an embeddable badge and 10,000 API requests a day. Enterprise is custom. API calls beyond the daily plan limit are charged per call: $0.02 for a GEO score, $0.01 for a verification and $0.05 for AI-traffic data. The terms say Lemon Squeezy is the merchant of record and handles VAT and sales tax, subscriptions renew monthly until cancelled, you keep access to the end of the paid month after cancelling, and a full refund can be requested within 14 days of the initial purchase. CiteRoute operates from Kigali, Rwanda, under Rwandan law. Read 18 November 2026, the plans and prices were unchanged; the Free card lists daily automated re-scans as not included, while Pro and Agency include them, and in our test that day the scan page said it rescans every 7 days. The home page now also offers citation probes that check where a domain is cited, with source URLs. In our test the probe was unreliable: it scored 92/100 'Verified Citation' on an answer that said 'I don't have verified information'.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -1683,12 +1683,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.citeroute.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-18"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-18",
-   "first_observed_at": "2026-11-18"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Claap",
@@ -3094,7 +3094,7 @@
    "entry_price": "$69",
    "entry_price_terms": "Starter · per month for up to 500 contacts, 1,000 emails and 100 SMS a month",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-14 in a live browser on feedbackgate.com/pricing, the home page, the about page and the terms of service dated 1 January 2025) Three monthly plans, each with a 14-day free trial. Starter is $69 a month: up to 500 contacts, 1,000 emails and 100 SMS a month, basic analytics, the rating gate and email support. Growth is $149 a month: up to 2,500 contacts, 5,000 emails and 500 SMS, advanced analytics and reports, the rating gate with custom routing, campaign automation, brand customization, team management, priority email and chat support, Zapier and API access. Agency is $399 a month: up to 10,000 contacts, 20,000 emails and 2,000 SMS, full white-label branding, custom domain support, custom integrations and a dedicated account manager. Every plan has pay-as-you-go overages, but no overage rate is published; the FAQ says you upgrade or buy additional message credits. Annual billing saves 20% according to the FAQ, through the sales team. No setup fees. Payments are processed by Lemon Squeezy. The pricing page says the trial needs no credit card; the home page says a credit card is required for the trial.",
+   "price_note": "(re-read 2026-11-25 with plain HTTP and the page's own pricing feed (feedbackgate.com/api/v1/system/pricing), which returns $69, $149 and $399 for Starter, Growth and Agency; the static page source shows $49 for Starter until the script replaces it, so a reader without scripts sees the wrong price; read 2026-10-14 in a live browser on feedbackgate.com/pricing, the home page, the about page and the terms of service dated 1 January 2025) Three monthly plans, each with a 14-day free trial. Starter is $69 a month: up to 500 contacts, 1,000 emails and 100 SMS a month, basic analytics, the rating gate and email support. Growth is $149 a month: up to 2,500 contacts, 5,000 emails and 500 SMS, advanced analytics and reports, the rating gate with custom routing, campaign automation, brand customization, team management, priority email and chat support, Zapier and API access. Agency is $399 a month: up to 10,000 contacts, 20,000 emails and 2,000 SMS, full white-label branding, custom domain support, custom integrations and a dedicated account manager. Every plan has pay-as-you-go overages, but no overage rate is published; the FAQ says you upgrade or buy additional message credits. Annual billing saves 20% according to the FAQ, through the sales team. No setup fees. Payments are processed by Lemon Squeezy. The pricing page says the trial needs no credit card; the home page says a credit card is required for the trial.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3102,7 +3102,7 @@
      "evidence_excerpt": null,
      "source_url": "https://www.feedbackgate.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-14"
+     "verified_at": "2026-11-25"
     },
     {
      "flag": "annual_lock",
@@ -3110,12 +3110,12 @@
      "evidence_excerpt": null,
      "source_url": "https://www.feedbackgate.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-14"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-14",
-   "first_observed_at": "2026-10-14"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Feedvisor",
@@ -6094,7 +6094,7 @@
    "entry_price": "€15",
    "entry_price_terms": "Solo · per month billed monthly, VAT included",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-12 in a live browser on postonce.app and postonce.app/pricing, monthly and yearly views, and in the terms at postonce.app/terms) Two plans, priced in euros including VAT, with approximate dollar figures shown beside them, and no charge per connected network. Solo is €15 a month, or €144 a year billed once, which works out at €12 a month: 10 social accounts, 2 team members, unlimited scheduled posts, automatic media resizing, recurring posts, a media library with Canva, Google Drive and Dropbox import, a link shortener, hashtag groups and basic post analytics. Pro is €30 a month, or €300 a year (€25 a month): unlimited social accounts, 3 workspaces, 5 team members, import from the platforms, roll-up reporting across workspaces, priority support and API access. Annual billing is two months free, which the page labels as saving 17%. Supported networks per the FAQ: Instagram, TikTok, YouTube, Facebook, LinkedIn, Pinterest, X and Bluesky, with the note that individual features vary with each network's API. There is no free plan and no trial: the page says billing starts when you subscribe, and an interactive demo with sample data stands in for a trial. The terms say plans renew automatically, can be cancelled at any time to the end of the paid period, carry no pro-rated refunds, and are otherwise non-refundable; EU consumers have a 14-day right of withdrawal that they give up once they start using the service.",
+   "price_note": "(re-read 2026-11-25 on postonce.app/pricing.md, postonce.app/llms.txt, postonce.app/llms-full.txt and the terms: both plans, prices and limits unchanged; earlier, read 2026-10-12 in a live browser on postonce.app and postonce.app/pricing, monthly and yearly views, and in the terms at postonce.app/terms) Two plans, priced in euros including VAT, with approximate dollar figures shown beside them, and no charge per connected network. Solo is €15 a month, or €144 a year billed once, which works out at €12 a month: 10 social accounts, 2 team members, unlimited scheduled posts, automatic media resizing, recurring posts, a media library with Canva, Google Drive and Dropbox import, a link shortener, hashtag groups and basic post analytics. Pro is €30 a month, or €300 a year (€25 a month): unlimited social accounts, 3 workspaces, 5 team members, import from the platforms, roll-up reporting across workspaces, priority support and API access. Annual billing is two months free, which the page labels as saving 17%. Supported networks per the FAQ: Instagram, TikTok, YouTube, Facebook, LinkedIn, Pinterest, X and Bluesky, with the note that individual features vary with each network's API. There is no free plan and no trial: the page says billing starts when you subscribe, and an interactive demo with sample data stands in for a trial. The terms say plans renew automatically, can be cancelled at any time to the end of the paid period, carry no pro-rated refunds, and are otherwise non-refundable; EU consumers have a 14-day right of withdrawal that they give up once they start using the service.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -6102,12 +6102,12 @@
      "evidence_excerpt": null,
      "source_url": "https://postonce.app/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-12"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-12",
-   "first_observed_at": "2026-10-12"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Postscript",
@@ -8871,7 +8871,7 @@
    "entry_price": "$29.99",
    "entry_price_terms": "StartUp Upsell · per month, or $299 a year",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-11 on the Shopify App Store listing apps.shopify.com/cross-sell and on the developer's own pricing page csell.io/pricing, USD; the listing says all charges are billed in USD and recurring charges every 30 days) Upsell & Cross Sell by Aheadworks is priced by recommendation clicks and by the number of store locations it may appear in. The Free Upsell Plan is $0: cross-sells and upsells in 2 locations, 50 upsell recommendation clicks a month, and Cross Sell branding on the widget. StartUp Upsell is $29.99 a month or $299 a year (the listing says save 17%): 3 locations, 2,500 recommendation clicks a month and no branding. Small Store Upsell is $49.99 a month or $499 a year: all 8 locations and 5,000 clicks a month. MediumStore Upsell is $59.99 a month or $599 a year: the 8 locations plus custom pages and 10,000 clicks a month. Every paid plan has a 14-day free trial. The listing names the 8 locations as including product pages, cart, checkout, order status, thank-you and post-purchase pages. The developer's own pricing page lists two further tiers, 50,000 clicks a month and unlimited clicks, but showed no amount for any tier when we read it, and on the 2,500-click plan it prints extra recommendation clicks at $0.012 per click.",
+   "price_note": "(re-read 2026-11-25 on csell.io/pricing and the Shopify listing, unchanged for the first four plans; read 2026-10-11 on the Shopify App Store listing apps.shopify.com/cross-sell and on the developer's own pricing page csell.io/pricing, USD; the listing says all charges are billed in USD and recurring charges every 30 days) Upsell & Cross Sell by Aheadworks is priced by recommendation clicks and by the number of store locations it may appear in. The Free Upsell Plan is $0: cross-sells and upsells in 2 locations, 50 upsell recommendation clicks a month, and Cross Sell branding on the widget. StartUp Upsell is $29.99 a month or $299 a year (the listing says save 17%): 3 locations, 2,500 recommendation clicks a month and no branding. Small Store Upsell is $49.99 a month or $499 a year: all 8 locations and 5,000 clicks a month. MediumStore Upsell is $59.99 a month or $599 a year: the 8 locations plus custom pages and 10,000 clicks a month. Every paid plan has a 14-day free trial. The listing names the 8 locations as including product pages, cart, checkout, order status, thank-you and post-purchase pages. On 25 November 2026 the developer's own pricing page, csell.io/pricing, showed amounts for the two tiers above that: Large Store at $79.99 a month or $799 a year for 50,000 recommendation clicks, and Unlimited at $99.99 a month or $999 a year with no click cap, both with all 8 locations and custom pages. It prints extra recommendation clicks at $0.012 per click on the 2,500-click plan only. The Shopify listing still shows only the first four plans.",
    "flags": [
     {
      "flag": "free_tier",
@@ -8879,12 +8879,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/cross-sell",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-11"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-11",
-   "first_observed_at": "2026-10-11"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Upsell.com",
