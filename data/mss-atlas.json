@@ -3676,15 +3676,15 @@
    "category": "E-commerce",
    "domain": "indiemade.com",
    "review_url": "https://aibuildermarketplace.com/b2b/indiemade-review/",
-   "from_price_usd_mo": null,
-   "entry_price": null,
-   "entry_price_terms": null,
-   "pricing_status": "see_details",
-   "price_note": "(read 2026-11-09 on indiemade.com/plans-pricing) IndieMade lists two plans, Essential and Plus, and every plan starts with a 30-day free trial that needs no credit card. The pricing page now says the live plan lineup is shown at signup, so we cannot quote a current monthly price; an earlier reading on 16 October 2026 showed Essential at $15 a month and Plus at $25 a month, with lower rates billed annually, but that is not on the page today. The page says IndieMade adds no listing fee and no transaction fee on any plan, and that you take payments through your own Stripe, Square or PayPal account, whose processing fees are separate. Hosting is included and every plan supports a custom domain. Unlimited products are included on every plan. The terms state prices in US dollars.",
+   "from_price_usd_mo": 15.0,
+   "entry_price": "$15",
+   "entry_price_terms": "a month and Plus is $25 a month",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-25 on indiemade.com/plans-pricing) IndieMade lists two plans, Essential and Plus, and every plan starts with a 30-day free trial that needs no credit card. Essential costs $15 a month, or $12 a month billed annually. Plus costs $25 a month, or $20 a month billed annually. The page says IndieMade adds no listing fee and no transaction fee on any plan, and that you take payments through your own Stripe, Square or PayPal account, whose processing fees are separate. Hosting is included and every plan supports a custom domain. Unlimited products are included on every plan. The terms state prices in US dollars.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-09",
-   "first_observed_at": "2026-11-09"
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Influencer Hero",
@@ -4708,7 +4708,7 @@
    "entry_price": "$37.45",
    "entry_price_terms": "Starter · per month billed yearly, 4,800 credits a year granted upfront, 1 seat",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-10 on lusha.com/pricing with both billing toggles, at the credit-slider position the page opened on, USD, and on lusha.com/faq) Free is $0 with 40 credits a month, 1 seat and no credit card. Starter is $49.90 a month billed monthly with 400 credits a month, or $37.45 a month billed yearly with 4,800 credits a year granted upfront; 1 seat, adding lookalikes, bulk enrichment, the AI assistant and 5 buying-intent topics. Pro is $69.90 monthly with 600 credits a month, or $52.45 a month yearly with 7,200 credits a year; 2 seats included, adding API access, CSV enrichment, signals and webhooks. Premium, marked most popular, is $399.90 monthly with 3,400 credits a month, or $299.95 a month yearly with 40,800 credits a year; 5 seats, team management and credit allocation. Scale is a custom annual plan with SSO, 25 buying-intent topics and what the page calls 50%+ off the price per credit. Paying yearly is labelled 25% off. The FAQ prices the credits: a verified email costs 1 credit, a phone number 5 and company information 1; a lookup with no match costs nothing. Through the API a request costs 1 credit per up to 25 results plus the data revealed. Data Waterfall, on Pro and above, costs 2 credits for an email and 8 for a phone when it finds one. On the monthly Pro and Premium cards unused credits roll over up to twice the monthly amount; annual credits arrive upfront and reset at the end of the year. Plans renew automatically at the then-current price, and the FAQ says to cancel at least 14 days before the renewal date.",
+   "price_note": "(read 2026-10-10 on lusha.com/pricing with both billing toggles, at the credit-slider position the page opened on, USD, and on lusha.com/faq) Free is $0 with 40 credits a month, 1 seat and no credit card. Starter is $49.90 a month billed monthly with 400 credits a month, or $37.45 a month billed yearly with 4,800 credits a year granted upfront; 1 seat, adding lookalikes, bulk enrichment, the AI assistant and 5 buying-intent topics. Pro is $69.90 monthly with 600 credits a month, or $52.45 a month yearly with 7,200 credits a year; 2 seats included, adding full API access, CSV enrichment, signals and webhooks. Premium, marked most popular, is $399.90 monthly with 3,400 credits a month, or $299.95 a month yearly with 40,800 credits a year; 5 seats, team management and credit allocation. Scale is a custom annual plan with SSO, 25 buying-intent topics and what the page calls 50%+ off the price per credit. Paying yearly is labelled 25% off. The FAQ prices the credits: a verified email costs 1 credit, a phone number 5 and company information 1; a lookup with no match costs nothing. Through the API a request costs 1 credit per up to 25 results plus the data revealed. Data Waterfall, on Pro and above, costs 2 credits for an email and 8 for a phone when it finds one. On the monthly Pro and Premium cards unused credits roll over up to twice the monthly amount; annual credits arrive upfront and reset at the end of the year. Plans renew automatically at the then-current price, and the FAQ says to cancel at least 14 days before the renewal date.",
    "flags": [
     {
      "flag": "usage_metered",
