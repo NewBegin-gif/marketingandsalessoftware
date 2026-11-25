@@ -1273,6 +1273,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/kedra-checkout-rules-upsells-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/kedra-checkout-rules-upsells.svg\" width=\"340\" height=\"115\" alt=\"Kedra Checkout Rules &amp; Upsells hands-on test by Marketing &amp; Sales Software, 16 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "keepcart",
+  "name": "KeepCart",
+  "review_url": "https://marketingandsalessoftware.com/keepcart-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/keepcart.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#keepcart",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "KeepCart hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/keepcart-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/keepcart.svg\" width=\"340\" height=\"81\" alt=\"KeepCart hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "kit",
   "name": "Kit",
   "review_url": "https://marketingandsalessoftware.com/kit-review.html",
@@ -2178,6 +2192,20 @@
   ],
   "alt": "Scrolly hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/scrolly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/scrolly.svg\" width=\"340\" height=\"115\" alt=\"Scrolly hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "section-store",
+  "name": "Section Store",
+  "review_url": "https://marketingandsalessoftware.com/section-store-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/section-store.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#section-store",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Section Store hands-on test by Marketing & Sales Software, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/section-store-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/section-store.svg\" width=\"340\" height=\"81\" alt=\"Section Store hands-on test by Marketing &amp; Sales Software, 22 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "selixer",
