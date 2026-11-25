@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 342 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 344 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 342,
-  "flags": 516,
+  "tools": 344,
+  "flags": 519,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1633,22 +1633,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/circle-review/",
    "from_price_usd_mo": 89.0,
    "entry_price": "$89",
-   "entry_price_terms": "Professional · per month billed annually ($129 billed monthly)",
+   "entry_price_terms": "Professional · per month billed annually",
    "pricing_status": "public",
-   "price_note": "(2026) Professional about $89/mo billed annually ($129 monthly), Business $199/mo annual, Scale $419/mo annual, plus a custom Circle Plus tier for fully branded apps. On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts. 14-day free trial, but no always-free option. Re-verified 12 October 2026 on circle.so/pricing and its pricing.md: Professional $89, Business $199 and Scale $419 a month, all marked as annual-billing USD prices excluding tax, Circle Plus on custom pricing; transaction fees 2%, 1%, 1% and 0.5%; Circle AI credits 2,500, 2,500 and 5,000 a month, extra credits $10 per 1,000; Business includes 5,000 Admin API requests a month ($.005 per extra request), Scale 30,000 ($.002). The $129 monthly figure is not printed on the page we read. Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%, 1%, 1% and 0.5%; AI credits 2,500, 2,500 and 5,000 a month with extra credits at $10 per 1,000; unchanged. The monthly-billing price is still not printed on the page. Re-read 24 November 2026 on circle.so/pricing.md and circle.so/llms.txt: the same $89, $199 and $419 annual-billing prices, the same transaction fees, AI credit allowances and $10 per 1,000 extra credits, and the 30-day money-back guarantee; the monthly-billing price is still not printed.",
+   "price_note": "(2026) Professional about $89/mo billed annually, Business $199/mo annual, Scale $419/mo annual, plus a custom Circle Plus tier for fully branded apps. On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business and Scale, 0.5% on Plus) plus standard Stripe processing. Email Hub is available as a separate add-on. 14-day free trial, but no always-free option. Re-verified 12 October 2026 on circle.so/pricing and its pricing.md: Professional $89, Business $199 and Scale $419 a month, all marked as annual-billing USD prices excluding tax, Circle Plus on custom pricing; transaction fees 2%, 1%, 1% and 0.5%; Circle AI credits 2,500, 2,500 and 5,000 a month, extra credits $10 per 1,000; Business includes 5,000 Admin API requests a month ($.005 per extra request), Scale 30,000 ($.002). The $129 monthly figure is not printed on the page we read. Re-read 21 November 2026 on circle.so/pricing.md: Professional $89, Business $199 and Scale $419 a month, still marked as USD on annual billing excluding tax, Circle Plus custom; transaction fees 2%, 1%, 1% and 0.5%; AI credits 2,500, 2,500 and 5,000 a month with extra credits at $10 per 1,000; unchanged. The monthly-billing price is still not printed on the page. Re-read 24 November 2026 on circle.so/pricing.md and circle.so/llms.txt: the same $89, $199 and $419 annual-billing prices, the same transaction fees, AI credit allowances and $10 per 1,000 extra credits, and the 30-day money-back guarantee; the monthly-billing price is still not printed.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts.",
-     "evidence_excerpt": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and…",
+     "evidence": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business and Scale, 0.5% on Plus) plus standard Stripe processing.",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
-     "evidence": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and the Email Hub is a paid add-on around $99/mo for 10,000 contacts.",
-     "evidence_excerpt": "On top of the subscription Circle takes a commission on every sale you make through the platform (roughly 2% on Professional, 1% on Business, 0.5% on Plus) plus standard Stripe/PayPal processing, and…",
+     "evidence": "Email Hub is available as a separate add-on.",
+     "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-11-24"
@@ -1755,15 +1755,15 @@
    "entry_price": "$167",
    "entry_price_terms": "Launch: smallest action… · per year, billed annually ($54 actions + $113 data credits a month)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-22 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headline prices was corrected) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update. The free plan is real: 6,000 actions and 1,200 data credits a year, unlimited seats and tables, multi-provider waterfalls and Claygent, capped at 200 rows per table and with no phone enrichment. Launch is advertised at $167/mo and Growth at $446/mo, and the page's own figures show how those are built: the smallest action step plus the smallest data-credit step on annual billing ($54 + $113 = $167 for Launch, $185 + $261 = $446 for Growth). The plan FAQ's “starting at $185/mo” for Launch and “$495/mo” for Growth are the same pairs billed monthly ($60 + $125 and $205 + $290). The “Starts at $54/mo” and “$185/mo” lines on the cards price the action meter alone. The served page offers no data-credit step below 30,000 a year on Launch or 72,000 on Growth, and it does not say whether a plan can be bought with actions only. Our earlier reading treated $54 as the Launch floor, and that was wrong. Billed monthly the Launch action ladder runs $60, $150, $200, $290 and $540 for 15K, 40K, 60K, 100K and 200K actions a month; billed annually it runs $54, $135, $180, $261 and $486 a month for 180K, 480K, 720K, 1.2M and 2.4M actions a year. Growth starts one rung higher: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder. Data credits are a separate meter again — monthly from $125 for 2,500 credits up to $2,125 for 50,000, or annually from $113/mo for 30,000 a year up to $1,913/mo for 600,000. Annual billing saves 10%. Waterfall enrichment spends credits per lookup, so the credit meter rather than the plan is what decides the bill. Actions reset every cycle. Unused data credits on Launch and Growth bank up to twice the monthly amount, and top-ups on those plans cost 30% more than plan credits. Enterprise is quote-only.",
+   "price_note": "(re-verified 2026-11-22 and again 2026-11-25 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headline prices was corrected) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update. The free plan is real: 6,000 actions and 1,200 data credits a year, unlimited seats and tables, multi-provider waterfalls and Claygent, capped at 200 rows per table and with no phone enrichment. Launch is advertised at $167/mo and Growth at $446/mo, and the page's own figures show how those are built: the smallest action step plus the smallest data-credit step on annual billing ($54 + $113 = $167 for Launch, $185 + $261 = $446 for Growth). The plan FAQ's “starting at $185/mo” for Launch and “$495/mo” for Growth are the same pairs billed monthly ($60 + $125 and $205 + $290). The “Starts at $54/mo” and “$185/mo” lines on the cards price the action meter alone. The served page offers no data-credit step below 30,000 a year on Launch or 72,000 on Growth, and it does not say whether a plan can be bought with actions only. Our earlier reading treated $54 as the Launch floor, and that was wrong. Billed monthly the Launch action ladder runs $60, $150, $200, $290 and $540 for 15K, 40K, 60K, 100K and 200K actions a month; billed annually it runs $54, $135, $180, $261 and $486 a month for 180K, 480K, 720K, 1.2M and 2.4M actions a year. Growth starts one rung higher: $205, $290, $450 and $850 a month for 40K to 200K monthly actions, or $185 to $765 a month on the annual ladder. Data credits are a separate meter again — monthly from $125 for 2,500 credits up to $2,125 for 50,000, or annually from $113/mo for 30,000 a year up to $1,913/mo for 600,000. Annual billing saves 10%. Waterfall enrichment spends credits per lookup, so the credit meter rather than the plan is what decides the bill. Actions reset every cycle. Unused credits roll over on Launch and Growth: on 25 November 2026 the plan table gave the limit as “Up to 1 month’s credits” and “15% of annual credits”, the second for annual billing. Top-ups on those plans cost 30% more than plan credits. Enterprise is quote-only.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-11-22 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headline prices was corrected) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update.",
-     "evidence_excerpt": "(re-verified 2026-11-22 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headline prices was correcte…",
+     "evidence": "(re-verified 2026-11-22 and again 2026-11-25 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headline prices was corrected) Clay meters two things separately — actions and data credits — and each paid plan is an expandable volume rather than a fixed tier, which is the part most write-ups still get wrong, ours included until the August 2026 update.",
+     "evidence_excerpt": "(re-verified 2026-11-22 and again 2026-11-25 on clay.com/pricing and its markdown version, clay.com/pricing.md; every figure below matches the 19 October 2026 reading, when our reading of the headlin…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-22"
+     "verified_at": "2026-11-25"
     },
     {
      "flag": "annual_lock",
@@ -1771,7 +1771,7 @@
      "evidence_excerpt": "Launch is advertised at $167/mo and Growth at $446/mo, and the page's own figures show how those are built: the smallest action step plus the smallest data-credit step on annual billing ($54 + $113 =…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-22"
+     "verified_at": "2026-11-25"
     },
     {
      "flag": "free_tier",
@@ -1779,11 +1779,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-22"
+     "verified_at": "2026-11-25"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-22",
+   "price_verified_at": "2026-11-25",
    "first_observed_at": "2026-11-22"
   },
   {
@@ -3894,6 +3894,30 @@
    "first_observed_at": null
   },
   {
+   "name": "KeepCart",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/keepcart-review/",
+   "from_price_usd_mo": 49.0,
+   "entry_price": "$49",
+   "entry_price_terms": "Blocking Basic · Blocking Basic $49 a month on the Shopify App Store listing, read…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-25 on apps.shopify.com/keepcart, USD) Free plan: one coupon leak scan a month, no coupon blocker. Blocking Basic: $49 a month, or $432 a year, 30 day free trial, best for non Plus plans. Blocking Starter: $99 a month, up to 5,000 orders a month, 30 day free trial. Blocking Growth: $199 a month, up to 10,000 orders a month, 30 day free trial. Charges are billed every 30 days.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-25 on apps.shopify.com/keepcart, USD) Free plan: one coupon leak scan a month, no coupon blocker.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/keepcart",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-25"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
+  },
+  {
    "name": "Kit",
    "category": "Growth & Revenue",
    "domain": "kit.com",
@@ -4317,7 +4341,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month ($23 billed annually), 25 pages, 1 site",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise and a 7-day free trial that requires a credit card and converts unless you cancel. Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access; Business $49/mo or $39 annually ($468), 50 pages, 2 sites and lead export. Neither includes A/B testing. Testing and optimisation plans: Grow $99/mo or $79 annually ($948), unlimited pages, 4 sites, manual two-way A/B testing, dynamic text replacement, lead enrichment and anonymous traffic detection; Optimize $199/mo or $159 annually ($1,908), 6 sites, 3 seats, up to four variants, Smart Traffic, heatmaps and auto-personalisation; Scale $399/mo or $319 annually ($3,828), 10 sites, 10 seats, auto-optimisation, cross-page learning, role-based access and audit logs. Enterprise is set up with sales. Annual billing is 20% off. No plan has a traffic cap. Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credit pack. For buyers outside the US: read from a European connection on 15 October 2026, the pricing page shows euros, with Pro at €29 and Business at €49 but Grow at €115 and Optimize at €229 a month, against $99 and $199. That page shows Pro, Business, Grow and Optimize as plan cards and names Scale only in its FAQ. Re-read on 15 November 2026 by plain fetch: leadpages.com/pricing.md, now dated 2026-11-12, lists the same five plans at the same monthly and annual prices, the same add-ons and the same AI credit packs. Three things changed. The file now answers \"Is there a free plan?\" with yes; leadpages.com/llms.txt explains that a free account can build and preview pages, but going live, custom slugs and search-engine indexing need a paid plan or an active trial. The trial checkout can show a trial fee: the file names $1 and the pricing page €1, which counts toward the first month. And Enterprise is now described as from $399 a month, the price of Scale.",
+   "price_note": "(re-verified 2026-10-15 against Leadpages' own machine-readable pricing file at leadpages.com/pricing.md, dated 2026-10-10, and the pricing page in a live browser; USD) The Starter plan is gone, so the cheapest plan is now Pro. Five paid plans plus Enterprise and a 7-day free trial that requires a credit card and converts unless you cancel. Publishing plans: Pro $29/mo or $23 billed annually ($276 a year), 25 pages, 1 site, 1 blog, 5 active integrations and API access; Business $49/mo or $39 annually ($468), 50 pages, 2 sites and lead export. Neither includes A/B testing. Testing and optimisation plans: Grow $99/mo or $79 annually ($948), unlimited pages, 4 sites, manual two-way A/B testing, dynamic text replacement, lead enrichment and anonymous traffic detection; Optimize $199/mo or $159 annually ($1,908), 6 sites, 3 seats, up to four variants, Smart Traffic, heatmaps and auto-personalisation; Enterprise is set up with sales (Scale from $399/mo in the USD reference, or $319 a month billed annually at $3,828) and includes 10 sites, 10 seats, auto-optimisation, cross-page learning, role-based access and audit logs. Annual billing is 20% off. No plan has a traffic cap. Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credit pack. For buyers outside the US: read from a European connection on 15 October 2026, the pricing page shows euros, with Pro at €29 and Business at €49 but Grow at €115 and Optimize at €229 a month, against $99 and $199. That page shows Pro, Business, Grow and Optimize as plan cards and names Scale only in its FAQ. Re-read on 15 November 2026 by plain fetch: leadpages.com/pricing.md, now dated 2026-11-12, lists the same five plans at the same monthly and annual prices, the same add-ons and the same AI credit packs. Three things changed. The file now answers \"Is there a free plan?\" with yes; leadpages.com/llms.txt explains that a free account can build and preview pages, but going live, custom slugs and search-engine indexing need a paid plan or an active trial. The trial checkout can show a trial fee: the file names $1 and the pricing page €1, which counts toward the first month. The public pricing card calls the top tier Enterprise. The USD reference labels it Scale (sold as Enterprise, from $399/mo).",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4325,7 +4349,7 @@
      "evidence_excerpt": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credi…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-15"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "addons_extra",
@@ -4333,7 +4357,7 @@
      "evidence_excerpt": "Add-ons: $20 a month per extra seat or extra custom domain, $40 per extra client workspace on Scale, and AI credit top-ups from $2.50 for 2,000 credits down to $0.60 per thousand at the 150,000-credi…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-15"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "annual_lock",
@@ -4341,7 +4365,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-15"
+     "verified_at": "2026-11-24"
     },
     {
      "flag": "free_tier",
@@ -4349,11 +4373,11 @@
      "evidence_excerpt": "The file now answers \"Is there a free plan?\" with yes; leadpages.com/llms.txt explains that a free account can build and preview pages, but going live, custom slugs and search-engine indexing need a …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-15"
+     "verified_at": "2026-11-24"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-15",
+   "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-10-15"
   },
   {
@@ -5625,7 +5649,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Starter · Starter billed monthly, unlimited AI work and leads under fair use…",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-11-03 on parallellabs.app/pricing; the page we read on 11 September 2026 sold credits, and that model is gone) Parallel AI now sells flat plans with usage limits instead of credits. Starter costs $29 a month, or $24 a month billed yearly, with a 7-day free trial: unlimited AI work and leads under fair use, lead search and enrichment from 300M+ contacts, AI employees, Smart Lists, Sequences and the Content Engine, 1 LinkedIn account and 3 branded domains. Entrepreneur costs $119 a month, or $99 a month billed yearly, for 6 times the usage of Starter, 2 LinkedIn accounts, 5 branded domains, a white-label instance and the App Builder. Business costs $356 a month, or $297 a month billed yearly, for 30 times the usage of Starter, 10 LinkedIn accounts, 10 branded domains, shared AI employees and priority support. Enterprise is custom, with SAML SSO, on-premise deployment and dedicated support. Every plan includes full API and MCP access. The page says every plan is unlimited for normal business use, that usage refreshes on a rolling 5-hour window so a heavy session may need a short pause, and that sustained automated use far beyond normal business activity may be limited for the rest of the month. Add-ons: an extra white-label instance $50 a month, an extra branded domain $5, a cold-email mailbox $5 each, an extra LinkedIn account $25 and an extra static IP $25. There is no longer a free plan; the old Pay As You Go tier with 50 credits does not appear on the page.",
+   "price_note": "(re-verified 2026-11-03 on parallellabs.app/pricing; the page we read on 11 September 2026 sold credits, and that model is gone) Parallel AI now sells flat plans with usage limits instead of credits. Starter costs $29 a month, or $24 a month billed yearly, with a 7-day free trial: unlimited AI work and leads under fair use, lead search and enrichment from 500M+ profiles, AI employees, Smart Lists, Sequences and the Content Engine, 1 LinkedIn account and 3 branded domains. Entrepreneur costs $119 a month, or $99 a month billed yearly, for 6 times the usage of Starter, 2 LinkedIn accounts, 5 branded domains, a white-label instance and the App Builder. Business costs $356 a month, or $297 a month billed yearly, for 30 times the usage of Starter, 10 LinkedIn accounts, 10 branded domains, shared AI employees and priority support. Enterprise is custom, with SAML SSO, on-premise deployment and dedicated support. Every plan includes full API and MCP access. The page says every plan is unlimited for normal business use, that usage refreshes on a rolling 5-hour window so a heavy session may need a short pause, and that sustained automated use far beyond normal business activity may be limited for the rest of the month. Add-ons: an extra white-label instance $50 a month, an extra branded domain $5, a cold-email mailbox $5 each, an extra LinkedIn account $25 and an extra static IP $25. There is no longer a free plan; the old Pay As You Go tier with 50 credits does not appear on the page.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -7034,6 +7058,21 @@
    "first_observed_at": "2026-11-17"
   },
   {
+   "name": "Section Store",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/section-store-review/",
+   "from_price_usd_mo": 15.0,
+   "entry_price": "$15",
+   "entry_price_terms": "Section Store Plus · Plus $15 a month on the Shopify App Store listing, read 25 November 2026",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-25 on apps.shopify.com/section-factory, USD) Section Store: free to install, free sections, premium sections for a one time charge (about $9 each in our test). Section Store Plus: $15 a month, flat price with no share of your sales, 14 day free trial. Charges are billed every 30 days.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-25",
+   "first_observed_at": "2026-11-25"
+  },
+  {
    "name": "Securify",
    "category": "E-commerce",
    "domain": "securification.ai",
@@ -8001,12 +8040,20 @@
    "entry_price": "$15",
    "entry_price_terms": "Starter · per month, removing Storista's branding and adding Instagram/TikTok…",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-10 on apps.shopify.com/storista-stories, listed as “Storista Shoppable Videos UGC”, and on storista.io/pricing) Four tiers. Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; the FAQ on storista.io/pricing still says the free plan covers 10 videos, so the vendor's own pages disagree on the free cap. Starter is $15 a month and adds GEO/SEO optimisation, multiple products per video, manual videos on product pages, removal of the Storista branding, auto-sync from Instagram and TikTok and manual caption uploads. Growth is $49 a month and adds AI Smart Tagging, advanced analytics, auto captions in 40 languages, A/B tests and smart videos on product pages. Scale is $199 a month for Shopify Plus stores and adds VIP support, multiple stores and custom widgets. Every paid tier carries a 14-day free trial, and storista.io says you are not charged if you cancel during it. storista.io advertises yearly billing at 20% off without printing the yearly amounts. Charges are in USD. When we first read the listing on 23 August 2026 the tiers were called Basic and Business, Free stopped at 10 videos and Basic at 50, and storista.io sold a different product, AI-generated UGC video priced per render; read on 10 October 2026, storista.io sells this same widget. Developer Storista LLC, Sheridan, Wyoming; the app launched on 19 February 2021 and had 54 reviews at a 4.9 average on 10 October 2026.",
+   "price_note": "(read 2026-10-10 on apps.shopify.com/storista-stories, listed as “Storista Shoppable Videos UGC”, and on storista.io/pricing) Four tiers. Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; Storista's pricing FAQ also says the Free plan includes unlimited videos. Starter is $15 a month and adds GEO/SEO optimisation, multiple products per video, manual videos on product pages, removal of the Storista branding, auto-sync from Instagram and TikTok and manual caption uploads. Growth is $49 a month and adds AI Smart Tagging, advanced analytics, auto captions in 40 languages, A/B tests and smart videos on product pages. Scale is $199 a month for Shopify Plus stores and adds VIP support, multiple stores and custom widgets. Every paid tier carries a 14-day free trial, and storista.io says you are not charged if you cancel during it. On annual billing, Starter is $12 a month, Growth is $39, and Scale is $159. Charges are in USD. When we first read the listing on 23 August 2026 the tiers were called Basic and Business, Free stopped at 10 videos and Basic at 50, and storista.io sold a different product, AI-generated UGC video priced per render; read on 10 October 2026, storista.io sells this same widget. Developer Storista LLC, Sheridan, Wyoming; the app launched on 19 February 2021 and had 54 reviews at a 4.9 average on 10 October 2026.",
    "flags": [
     {
+     "flag": "annual_lock",
+     "evidence": "On annual billing, Starter is $12 a month, Growth is $39, and Scale is $159.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/storista-stories",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-10"
+    },
+    {
      "flag": "free_tier",
-     "evidence": "Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; the FAQ on storista.io/pricing still says the free plan covers 10 videos, so the vendor's own pages disagree on the free cap.",
-     "evidence_excerpt": "Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; the FAQ on storista.io/pricing still says the free …",
+     "evidence": "Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; Storista's pricing FAQ also says the Free plan includes unlimited videos.",
+     "evidence_excerpt": "Free lists unlimited videos and views, Shop app integration and manual import from Instagram and TikTok, and keeps Storista branding on the widget; Storista's pricing FAQ also says the Free plan incl…",
      "source_url": "https://apps.shopify.com/storista-stories",
      "evidence_field": "dossier pricing notes and honest knock",
      "verified_at": "2026-10-10"
@@ -8776,11 +8823,20 @@
    "entry_price": "$29",
    "entry_price_terms": "a month, or $22 billed yearly at 25% off",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-03 on their own pricing page, USD) Five published levels, monthly against yearly at 25% off: Starter $29 / $22, Build $99 / $74, Experiment $149 / $112, Optimize $249 / $187, plus Concierge custom pricing above that. The Starter tier is missing from most summaries, ours included until the August 2026 update, which described the range as beginning at $74. Pages are unlimited from Build up; Starter allows 5 pages and up to 500 visitors, 1 user and 1 root domain. Above Starter what pushes you up a tier is the visitor cap (20k on Build, 30k on Experiment, 50k on Optimize), so a traffic spike rather than a page count is what changes your bill. Every plan now lists an MCP server, and the 14-day trial still needs no credit card. Unlimited A/B testing starts at Experiment, and AI traffic optimization at Optimize.",
-   "flags": [],
+   "price_note": "(re-verified 2026-11-25 on their own pricing page, USD) Starter $29, Build $99, Experiment $149 and Optimize $249 are monthly, with Agency starting at $349 a month on annual billing. Concierge has custom pricing. On yearly billing, Starter is $22 a month, Build $74, Experiment $112 and Optimize $187. The Starter tier is missing from most summaries, ours included until the August 2026 update, which described the range as beginning at $74. Pages are unlimited from Build up; Starter allows 5 pages and up to 500 visitors, 1 user and 1 root domain. Above Starter what pushes you up a tier is the visitor cap (20k on Build, 30k on Experiment, 50k on Optimize), so a traffic spike rather than a page count is what changes your bill. Every plan now lists an MCP server, and the 14-day trial still needs no credit card. Unlimited A/B testing starts at Experiment, and AI traffic optimization at Optimize.",
+   "flags": [
+    {
+     "flag": "annual_lock",
+     "evidence": "(re-verified 2026-11-25 on their own pricing page, USD) Starter $29, Build $99, Experiment $149 and Optimize $249 are monthly, with Agency starting at $349 a month on annual billing.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-03"
+    }
+   ],
    "researched": "2026-07",
    "price_verified_at": "2026-10-03",
-   "first_observed_at": "2026-10-03"
+   "first_observed_at": "2026-11-25"
   },
   {
    "name": "Uniqode",
