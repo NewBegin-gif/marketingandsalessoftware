@@ -2972,5 +2972,22 @@
   ],
   "alt": "Wiz Email App hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/wiz-email-app-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/wiz-email-app.svg\" width=\"340\" height=\"81\" alt=\"Wiz Email App hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
+  "slug": "zendrop",
+  "name": "Zendrop",
+  "review_url": "https://marketingandsalessoftware.com/zendrop-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/zendrop.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#zendrop",
+  "tested_on": "2026-11-17",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 3",
+   "1 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Zendrop sign-up attempt by Marketing & Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 3; 1 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/zendrop-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/zendrop.svg\" width=\"340\" height=\"132\" alt=\"Zendrop sign-up attempt by Marketing &amp; Sales Software, 17 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 3; 1 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  }
 ]
