@@ -1694,6 +1694,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/my-stories-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/my-stories.svg\" width=\"340\" height=\"115\" alt=\"My Stories hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 3 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "nexis-cro",
+  "name": "Nexis CRO",
+  "review_url": "https://marketingandsalessoftware.com/nexis-cro-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/nexis-cro.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#nexis-cro",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "6 confirmed · 3 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Nexis CRO hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 9; 6 confirmed · 3 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/nexis-cro-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/nexis-cro.svg\" width=\"340\" height=\"115\" alt=\"Nexis CRO hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 6 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "nocrm",
   "name": "noCRM",
   "review_url": "https://marketingandsalessoftware.com/nocrm-review.html",
@@ -1973,6 +1989,20 @@
   ],
   "alt": "Printify hands-on test by Marketing & Sales Software, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/printify-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/printify.svg\" width=\"340\" height=\"115\" alt=\"Printify hands-on test by Marketing &amp; Sales Software, 30 Oct 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "proposall",
+  "name": "Proposall",
+  "review_url": "https://marketingandsalessoftware.com/proposall-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/proposall.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#proposall",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Proposall hands-on test by Marketing & Sales Software, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/proposall-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/proposall.svg\" width=\"340\" height=\"81\" alt=\"Proposall hands-on test by Marketing &amp; Sales Software, 22 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "pumper-bundles",
@@ -2410,6 +2440,20 @@
   ],
   "alt": "Skip To Checkout hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/skip-to-checkout-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/skip-to-checkout.svg\" width=\"340\" height=\"115\" alt=\"Skip To Checkout hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 2 confirmed · 1 contradicted · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "sledge",
+  "name": "Sledge",
+  "review_url": "https://marketingandsalessoftware.com/sledge-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/sledge.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#sledge",
+  "tested_on": "2026-11-21",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Sledge hands-on test by Marketing & Sales Software, 21 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/sledge-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/sledge.svg\" width=\"340\" height=\"81\" alt=\"Sledge hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
   "slug": "smarty-discounts",

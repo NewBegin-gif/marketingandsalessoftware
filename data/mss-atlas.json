@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 344 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 346 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 344,
-  "flags": 519,
+  "tools": 346,
+  "flags": 521,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -1284,7 +1284,7 @@
    "entry_price": "€7",
    "entry_price_terms": "a month or €6.33 billed yearly",
    "pricing_status": "public",
-   "price_note": "Brevo serves a different price list depending on where you open the page, and the two are not each other's conversion: Starter and Standard differ by more than the exchange rate ($9 and $18 against €7 and €15), while Professional lands on the same 499 in both. Both ladders are below, each with the date it was read. Read on brevo.com/pricing on 6 September 2026 with the currency switched to US dollars and the yearly tab open: Free at $0 with 300 emails a day; Starter from $9 a month for 5,000 emails, or $8.08 on yearly billing; Standard from $18 ($16.17 yearly) adding marketing automation and A/B testing; Professional from $499 ($449 yearly, from 150,000 emails) with multi-user access and contact scoring; Enterprise on quote. Email volume is the headline meter, but every send tier also caps stored contacts: Free stores up to 100,000 contacts (automation on 2,000 of them); on Starter and Standard, 5,000 monthly sends store up to 500 contacts, 10,000 sends up to 1,500, 15,000 up to 2,500 and 20,000 sends or more up to 500,000; Professional stores up to 2 million and only Enterprise is unlimited (help.brevo.com, About Brevo's pricing plans, read 15 September 2026). So a big list you rarely mail still needs the send tier that stores it. Re-verified 19 September 2026 in a browser, this time in the euro view the page serves from the Netherlands and with the plan builder open: Starter €7 a month or €6.33 on yearly billing (the toggle is labelled -10%), Standard €15 or €13.50, Professional €499 or €449.08 with 10 seats included, and Free unchanged at 300 emails a day once Brevo has approved the account for sending. Two things the builder now puts on the public page that we previously had to cite the help centre for: the 5,000-email step lists 500 contacts and 1,000 web-push subscribers as included, and removing the “Sent with Brevo” footer is an €8.10-a-month add-on on Starter while Standard includes it. The Sales Essentials CRM is billed separately at €26.08 a month per seat, Sales Advanced at €53.08.",
+   "price_note": "(re-verified 26 November 2026 on brevo.com/pricing and /pricing.md: USD $9, $18 and $499 a month, or $97, $194 and $5,389 a year, and the EUR ladder unchanged; Brevo's own llms.txt still says Professional from $350 a month, which the pricing page, pricing.md and the help centre do not support) Brevo serves a different price list depending on where you open the page, and the two are not each other's conversion: Starter and Standard differ by more than the exchange rate ($9 and $18 against €7 and €15), while Professional lands on the same 499 in both. Both ladders are below, each with the date it was read. Read on brevo.com/pricing on 6 September 2026 with the currency switched to US dollars and the yearly tab open: Free at $0 with 300 emails a day; Starter from $9 a month for 5,000 emails, or $8.08 on yearly billing; Standard from $18 ($16.17 yearly) adding marketing automation and A/B testing; Professional from $499 ($449 yearly, from 150,000 emails) with multi-user access and contact scoring; Enterprise on quote. Email volume is the headline meter, but every send tier also caps stored contacts: Free stores up to 100,000 contacts (automation on 2,000 of them); on Starter and Standard, 5,000 monthly sends store up to 500 contacts, 10,000 sends up to 1,500, 15,000 up to 2,500 and 20,000 sends or more up to 500,000; Professional stores up to 2 million and only Enterprise is unlimited (help.brevo.com, About Brevo's pricing plans, read 15 September 2026). So a big list you rarely mail still needs the send tier that stores it. Re-verified 19 September 2026 in a browser, this time in the euro view the page serves from the Netherlands and with the plan builder open: Starter €7 a month or €6.33 on yearly billing (the toggle is labelled -10%), Standard €15 or €13.50, Professional €499 or €449.08 with 10 seats included, and Free unchanged at 300 emails a day once Brevo has approved the account for sending. Two things the builder now puts on the public page that we previously had to cite the help centre for: the 5,000-email step lists 500 contacts and 1,000 web-push subscribers as included, and removing the “Sent with Brevo” footer is an €8.10-a-month add-on on Starter while Standard includes it. The Sales Essentials CRM is billed separately at €26.08 a month per seat, Sales Advanced at €53.08.",
    "flags": [
     {
      "flag": "per_seat",
@@ -1292,7 +1292,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "addons_extra",
@@ -1300,7 +1300,7 @@
      "evidence_excerpt": "Two things the builder now puts on the public page that we previously had to cite the help centre for: the 5,000-email step lists 500 contacts and 1,000 web-push subscribers as included, and removing…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "free_tier",
@@ -1308,11 +1308,11 @@
      "evidence_excerpt": "Read on brevo.com/pricing on 6 September 2026 with the currency switched to US dollars and the yearly tab open: Free at $0 with 300 emails a day; Starter from $9 a month for 5,000 emails, or $8.08 on…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
+   "price_verified_at": "2026-11-26",
    "first_observed_at": null
   },
   {
@@ -2918,12 +2918,12 @@
    "review_url": "https://aibuildermarketplace.com/b2b/evey-events-review/",
    "from_price_usd_mo": 19.0,
    "entry_price": "$19",
-   "entry_price_terms": "per month plus $0.75 per ticket, 7-day trial",
+   "entry_price_terms": "Growth · Growth $19 a month plus $0.75 per ticket",
    "pricing_status": "public",
-   "price_note": "(re-verified 1 October 2026 on apps.shopify.com/event-tickets; every rate unchanged since 1 September 2026) Four tiers, and every one of them charges twice: a monthly fee and a fee per ticket processed. Lite is free to install and takes $1.00 per ticket. Growth is $19 a month and $0.75. Standard, the tier the store marks Popular, is $49 and $0.50. Professional is $189 and $0.25. The paid tiers carry a 7-day free trial. Read that structure the right way round: the monthly fee is not what you are buying, it is what you pay to lower the per-ticket rate, so the correct plan follows from your ticket volume and nothing else. The crossings are exact. Lite and Growth cost the same at 76 tickets a month; below that Lite wins. Growth and Standard cross at 120. Standard and Professional cross at 560. So a store selling 300 tickets a month pays $199 on Standard against $244 on Growth and $264 on Professional -- the middle tier, and the store's own Popular label happens to be right for that range. One feature line changes that arithmetic and sits above the crossover: Collect fees on every ticket sold appears on Standard and Professional only, so passing the per-ticket cost to attendees is itself a paid feature. Beyond that, feature differences barely enter into it until Professional, which is where reserved seating, Klaviyo and Mailchimp integrations, the multi-vendor dashboard and priority support live. The app is published by Staytuned and carries a 4.5 rating from 327 reviews (read 1 October 2026).",
+   "price_note": "(re-verified 26 November 2026 on apps.shopify.com/event-tickets; every rate unchanged since 1 September 2026) Four tiers, and every one of them charges twice: a monthly fee and a fee per ticket processed. Lite is free to install and takes $1.00 per ticket. Growth is $19 a month and $0.75. Standard, the tier the store marks Popular, is $49 and $0.50. Professional is $189 and $0.25. The paid tiers carry a 7-day free trial. Read that structure the right way round: the monthly fee is not what you are buying, it is what you pay to lower the per-ticket rate, so the correct plan follows from your ticket volume and nothing else. The crossings are exact. Lite and Growth cost the same at 76 tickets a month; below that Lite wins. Growth and Standard cross at 120. Standard and Professional cross at 560. So a store selling 300 tickets a month pays $199 on Standard against $244 on Growth and $264 on Professional -- the middle tier, and the store's own Popular label happens to be right for that range. One feature line changes that arithmetic and sits above the crossover: Collect fees on every ticket sold appears on Standard and Professional only, so passing the per-ticket cost to attendees is itself a paid feature. Beyond that, feature differences barely enter into it until Professional, which is where reserved seating, Klaviyo and Mailchimp integrations, the multi-vendor dashboard and priority support live. The app is published by Staytuned and carries a 4.5 rating from 327 reviews (read 1 October 2026).",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-01",
+   "price_verified_at": "2026-11-26",
    "first_observed_at": null
   },
   {
@@ -3878,7 +3878,7 @@
    "entry_price": "$6.99",
    "entry_price_terms": "Starter · billed monthly through the Shopify invoice in USD",
    "pricing_status": "public",
-   "price_note": "(Shopify App Store listing, read 15 Oct 2026 and read again 16 Nov 2026, prices in USD) Four plans, billed through your Shopify invoice. Free allows 1 active rule in total, of any type, with 1 condition per rule and 7 days of checkout analytics. Starter is $6.99 a month, or $58.70 a year, which the listing calls a 30% saving: 3 active rules in total, 3 conditions per rule and full checkout analytics. Starter Plus is $8.99 a month or $75.50 a year and adds post-purchase upsell offers. Unlimited is $12.99 a month or $109.10 a year, with unlimited checkout validation, payment and shipping, and shipping discount rules, and no limit on conditions per rule. Paid plans list a 5 day free trial (it said 7 days when we read it on 15 Oct 2026), and each paid plan lists $1 a month for the first 3 months (listing, read 16 Nov 2026). One inconsistency to know about: the listing counts the rule limit in total across all types, while Kedra's own pricing documentation describes it per rule type. The documentation also says stores that installed before 3 August 2026 keep unlimited rules.",
+   "price_note": "(re-verified 2026-11-26 on the Shopify listing: prices, the 5 day trial and the $1 a month offer for the first 3 months unchanged; the 30% yearly saving checks out at about 30% on all three plans; Kedra's own docs still say 7 days) (Shopify App Store listing, read 15 Oct 2026 and read again 16 Nov 2026, prices in USD) Four plans, billed through your Shopify invoice. Free allows 1 active rule in total, of any type, with 1 condition per rule and 7 days of checkout analytics. Starter is $6.99 a month, or $58.70 a year, which the listing calls a 30% saving: 3 active rules in total, 3 conditions per rule and full checkout analytics. Starter Plus is $8.99 a month or $75.50 a year and adds post-purchase upsell offers. Unlimited is $12.99 a month or $109.10 a year, with unlimited checkout validation, payment and shipping, and shipping discount rules, and no limit on conditions per rule. Paid plans list a 5 day free trial (it said 7 days when we read it on 15 Oct 2026), and each paid plan lists $1 a month for the first 3 months (listing, read 16 Nov 2026). One inconsistency to know about: the listing counts the rule limit in total across all types, while Kedra's own pricing documentation describes it per rule type. The documentation also says stores that installed before 3 August 2026 keep unlimited rules.",
    "flags": [
     {
      "flag": "free_tier",
@@ -3886,12 +3886,12 @@
      "evidence_excerpt": null,
      "source_url": "https://apps.shopify.com/kedra-checkout-rules-1",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-11-16"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-11-16",
-   "first_observed_at": null
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "KeepCart",
@@ -5490,7 +5490,7 @@
    "entry_price": "$19",
    "entry_price_terms": "Starter · billed monthly, excluding VAT",
    "pricing_status": "public",
-   "price_note": "(read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts. Pro is $49 for 100,000 emails and 50,000 contacts, 1 seat, 50 AI credits a day and 10 warm-up accounts. Growth is $99 for 200,000 emails and 100,000 contacts, 1 seat, 100 credits and 20 warm-up accounts. Team / Agency is $199 for 350,000 emails, 200,000 contacts, 10 team seats, 200 credits and 50 warm-up accounts. Starter keeps logs for 30 days, the others for 60. Above that, Custom starts at $300 a month for 300K to 2M+ emails at $1.00 per 1,000 emails. Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout. Monthly plans start with a 14-day free trial. When we tested on 18 November 2026, a new account started on a Free plan inside the app that the pricing page does not show. It let us import contacts and save a template, but creating a follow-up sequence was blocked: 'Sequence limit reached. You have 0 sequences. Upgrade your plan to create more.' The Free plan also requires an unsubscribe footer. The terms say paid fees are non-refundable unless the law requires otherwise, and a cancellation takes effect at the end of the billing period.",
+   "price_note": "(re-verified 2026-11-26 on outsends.com/pricing, /pricing.md and /llms.txt: monthly prices and limits unchanged; the yearly totals are now readable) (read 2026-10-17 in a browser on outsends.com/pricing, monthly view; the cards show a $ sign without naming the currency, and the page says prices exclude VAT) Four fixed plans, each with unlimited campaigns, sequences and templates and no daily sending caps. Starter is $19 a month for 20,000 emails a month and 10,000 active contacts, 1 seat, 15 AI credits a day and 3 warm-up accounts. Pro is $49 for 100,000 emails and 50,000 contacts, 1 seat, 50 AI credits a day and 10 warm-up accounts. Growth is $99 for 200,000 emails and 100,000 contacts, 1 seat, 100 credits and 20 warm-up accounts. Team / Agency is $199 for 350,000 emails, 200,000 contacts, 10 team seats, 200 credits and 50 warm-up accounts. Starter keeps logs for 30 days, the others for 60. Above that, Custom starts at $300 a month for 300K to 2M+ emails at $1.00 per 1,000 emails. Annual billing is advertised as two months free, saving up to $398 a year; on 26 November 2026 the pricing page in markdown listed the yearly totals as $190 for Starter ($15.83 a month), $490 for Pro ($40.83), $990 for Growth ($82.50) and $1,990 for Team / Agency ($165.83). Monthly plans start with a 14-day free trial. When we tested on 18 November 2026, a new account started on a Free plan inside the app that the pricing page does not show. It let us import contacts and save a template, but creating a follow-up sequence was blocked: 'Sequence limit reached. You have 0 sequences. Upgrade your plan to create more.' The Free plan also requires an unsubscribe footer. The terms say paid fees are non-refundable unless the law requires otherwise, and a cancellation takes effect at the end of the billing period.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -5498,15 +5498,15 @@
      "evidence_excerpt": null,
      "source_url": "https://outsends.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "annual_lock",
-     "evidence": "Annual billing is advertised as two months free, saving up to $398 a year; we did not get the annual totals to display, so check them at checkout.",
-     "evidence_excerpt": null,
+     "evidence": "Annual billing is advertised as two months free, saving up to $398 a year; on 26 November 2026 the pricing page in markdown listed the yearly totals as $190 for Starter ($15.83 a month), $490 for Pro ($40.83), $990 for Growth ($82.50) and $1,990 for Team / Agency ($165.83).",
+     "evidence_excerpt": "Annual billing is advertised as two months free, saving up to $398 a year; on 26 November 2026 the pricing page in markdown listed the yearly totals as $190 for Starter ($15.83 a month), $490 for Pro…",
      "source_url": "https://outsends.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "free_tier",
@@ -5514,12 +5514,12 @@
      "evidence_excerpt": null,
      "source_url": "https://outsends.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-10-17"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-10-17",
-   "first_observed_at": "2026-10-17"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "P2COS",
@@ -6228,6 +6228,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-02",
    "first_observed_at": "2026-11-02"
+  },
+  {
+   "name": "Proposall",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/proposall-review/",
+   "from_price_usd_mo": 14.99,
+   "entry_price": "$14.99",
+   "entry_price_terms": "Orbit · Orbit $14.99 a month on the Shopify App Store listing, read 26 November…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-26 on apps.shopify.com/propose, USD) Launch Pad: free, 5 proposals a month in our test. Orbit: $14.99 a month or $149.90 a year, 14 day free trial. Mission Control: $39.99 a month or $399.90 a year, 14 day free trial. Charges are billed every 30 days.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "We could test only the free plan.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/propose",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-26"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "ProtectMyOrder",
@@ -7699,6 +7723,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-10-19",
    "first_observed_at": "2026-10-19"
+  },
+  {
+   "name": "Sledge",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/sledge-review/",
+   "from_price_usd_mo": 29.99,
+   "entry_price": "$29.99",
+   "entry_price_terms": "Pro · Pro $29.99 a month on the Shopify App Store listing, read 26 November…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-26 on apps.shopify.com/sledge, USD) Development store: free, 50 products indexed, no AI search. Pro: $29.99 a month, 10,000 products indexed, 14 day free trial. Scale: $89.99 a month, 200,000 products indexed, 14 day free trial. Accelerate: $199 a month, unlimited products indexed, 14 day free trial. The app also showed Ultimate at $399 a month. Charges are billed every 30 days.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "On a live store the app says customers see none of the tools until you pick a paid plan, so the free plan is a trial bench, not a free tier.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/sledge",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-26"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "Smartli",
