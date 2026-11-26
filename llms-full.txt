@@ -21,8 +21,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## AdCreative.ai
 - Review: https://marketingandsalessoftware.com/adcreative-ai-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
-- Verdict: AdCreative.ai: Credit-metered, where one credit is one downloaded creative, and there is no free plan. The meter counts downloads, not campaigns.
-- Price: (re-verified 2026-08-15, read on their own homepage pricing table) Credit-metered, where one credit is one downloaded creative, and there is no free plan — only a 7-day trial with 10 credits. Three families, each with several credit steps.
+- Verdict: AdCreative.ai: $999 for 300 credits, $1,099 for 450 and $1,399 for 600. The meter counts downloads, not campaigns.
+- Price: (re-verified 2026-11-26 on their own homepage pricing table and FAQ) Credit-metered: the FAQ says a credit is used when you download a generated ad creative, that plans include a set number of monthly credits which renew every month, and that generating is unlimited. No free plan; the 7-day trial includes 20 credits.
 
 ## AddressHero
 - Review: https://marketingandsalessoftware.com/addresshero-review.html
@@ -100,7 +100,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/amplemarket-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Amplemarket's one public price is Startup: $600/mo on an annual term for 2 users. Growth and Elite are custom. European contact data gets the most complaints.
-- Price: (re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial.
+- Price: (re-verified 2026-11-26 on amplemarket.com/pricing and its llms.txt, unchanged) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial.
 
 ## Apollo
 - Review: https://marketingandsalessoftware.com/apollo-review.html

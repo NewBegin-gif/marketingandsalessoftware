@@ -62,22 +62,22 @@
    "review_url": "https://aibuildermarketplace.com/b2b/adcreative-ai-review/",
    "from_price_usd_mo": 39.0,
    "entry_price": "$39",
-   "entry_price_terms": "a month for 10 credits and 1 brand",
+   "entry_price_terms": "a month for 20 credits and 1 brand",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-15, read on their own homepage pricing table) Credit-metered, where one credit is one downloaded creative, and there is no free plan — only a 7-day trial with 10 credits. Three families, each with several credit steps. Starter is 1 user throughout: $39 a month for 10 credits and 1 brand, $89 for 15 credits and 2 brands, $139 for 30 credits and $189 for 50. Professional is 10 users and 10 brands: $249 for 50 credits, $339 for 75 and $400 for 100. Ultimate is 20 users and 25 brands: $999 for 100 credits, $1,099 for 150 and $1,399 for 200. Credits expire at the end of each billing cycle and do not roll over.",
+   "price_note": "(re-verified 2026-11-26 on their own homepage pricing table and FAQ) Credit-metered: the FAQ says a credit is used when you download a generated ad creative, that plans include a set number of monthly credits which renew every month, and that generating is unlimited. No free plan; the 7-day trial includes 20 credits. Prices are unchanged, but since October 2026 every step carries more credits. Starter is 1 user: $39 a month for 20 credits and 1 brand, $89 for 50 credits and 2 brands, $139 for 85 and $189 for 120. Professional is 10 users and 10 brands: $249 for 300 credits, $339 for 450 and $400 for 600. Ultimate is 20 users and 25 brands: $999 for 300 credits, $1,099 for 450 and $1,399 for 600. Under a Black Friday banner, quarterly and yearly billing show $20, $125 and $500 a month at the entry steps. The table is not consistent with itself: the Professional card also says 'Brand Limit: 3', and the yearly Ultimate card says 'Brand Limit: 5' and 'Total Users: 25', so confirm brands and seats at checkout. Until at least 2 October 2026 the same prices bought 10, 15, 30 and 50 credits in Starter, 50, 75 and 100 in Professional and 100, 150 and 200 in Ultimate (archived copies of the homepage).",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-08-15, read on their own homepage pricing table) Credit-metered, where one credit is one downloaded creative, and there is no free plan — only a 7-day trial with 10 credits.",
-     "evidence_excerpt": null,
+     "evidence": "(re-verified 2026-11-26 on their own homepage pricing table and FAQ) Credit-metered: the FAQ says a credit is used when you download a generated ad creative, that plans include a set number of monthly credits which renew every month, and that generating is unlimited.",
+     "evidence_excerpt": "(re-verified 2026-11-26 on their own homepage pricing table and FAQ) Credit-metered: the FAQ says a credit is used when you download a generated ad creative, that plans include a set number of monthl…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-13"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-13",
-   "first_observed_at": "2026-08-15"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "AddressHero",
@@ -452,15 +452,15 @@
    "entry_price": "$600",
    "entry_price_terms": "per month billed annually (2 users)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial. Startup covers 13,500 email address credits and 600 phone number credits per user per year, 2 mailboxes per user and 27,000 contacts. Growth lists 4 users, 35,000 email and 5,000 phone credits per user per year, 4 mailboxes and 140,000 contacts. Elite lists 10 users, 40,000 email and 9,600 phone credits, 8 mailboxes and 400,000 contacts. Two gated rows are easy to miss in the comparison table and both start at zero or near it on Startup: Custom Data Requests run 0, 4 and 12 per plan, so a Startup customer cannot ask for a bespoke data pull at all, and Job Change Alerts cover 500, 1,000 and 2,000 contacts. Duo Inbox is marked as an Add-On rather than an included feature, and the MCP row - prospecting and taking action from inside Claude or ChatGPT - is listed as a platform feature with no plan boundary stated.",
+   "price_note": "(re-verified 2026-11-26 on amplemarket.com/pricing and its llms.txt, unchanged) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site. All plans include a free trial. Startup covers 13,500 email address credits and 600 phone number credits per user per year, 2 mailboxes per user and 27,000 contacts. Growth lists 4 users, 35,000 email and 5,000 phone credits per user per year, 4 mailboxes and 140,000 contacts. Elite lists 10 users, 40,000 email and 9,600 phone credits, 8 mailboxes and 400,000 contacts. Two gated rows are easy to miss in the comparison table and both start at zero or near it on Startup: Custom Data Requests run 0, 4 and 12 per plan, so a Startup customer cannot ask for a bespoke data pull at all, and Job Change Alerts cover 500, 1,000 and 2,000 contacts. Duo Inbox is marked as an Add-On rather than an included feature, and the MCP row - prospecting and taking action from inside Claude or ChatGPT - is listed as a platform feature with no plan boundary stated.",
    "flags": [
     {
      "flag": "per_seat",
-     "evidence": "(re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site.",
-     "evidence_excerpt": "(re-verified 2026-09-14) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so tho…",
+     "evidence": "(re-verified 2026-11-26 on amplemarket.com/pricing and its llms.txt, unchanged) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to purchase; Growth and Elite are listed as Custom, so those numbers come from sales rather than the site.",
+     "evidence_excerpt": "(re-verified 2026-11-26 on amplemarket.com/pricing and its llms.txt, unchanged) The only published price is Startup at $600/mo on an annual term, covering 2 users, with additional users available to …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-14"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "usage_metered",
@@ -468,7 +468,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-14"
+     "verified_at": "2026-11-26"
     },
     {
      "flag": "addons_extra",
@@ -476,12 +476,12 @@
      "evidence_excerpt": "Duo Inbox is marked as an Add-On rather than an included feature, and the MCP row - prospecting and taking action from inside Claude or ChatGPT - is listed as a platform feature with no plan boundary…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-14"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-14",
-   "first_observed_at": "2026-09-14"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "Apollo",
@@ -2592,20 +2592,20 @@
    "entry_price": null,
    "entry_price_terms": null,
    "pricing_status": "see_details",
-   "price_note": "(re-verified 2026-08-31 on emaillistverify.com/pricing, read from the page's own JSON-LD offer data) Pay-as-you-go credits that never expire: 1,000 for $5 ($0.005/check), 5,000 for $17 ($0.0034), 10,000 for $27 ($0.0027), 25,000 for $54 ($0.00216), 50,000 for $98 ($0.00196), 100,000 for $186 ($0.00186). Monthly subscription at the same volumes: 5,000 for $16 ($0.0032), 10,000 for $25 ($0.0025), 25,000 for $49 ($0.00196), 50,000 for $89 ($0.00178), 100,000 for $168 ($0.00168), 250,000 for $346. The subscription discount runs from 5.9% at 5,000 credits to 9.7% at 100,000, so it grows with volume rather than being a flat rate. API included at every level; the email finder costs 5 credits per address found when a first or last name is supplied and 10 when only a domain is supplied, charged only on a high- or medium-confidence result (confirmed by EmailListVerify support, 24 Sep 2026). Subscription credits reset each billing cycle; unused ones are lost (same source). Free tools: email validator, inbox-placement test, DMARC/SPF generators. Note that /llms.txt and /pricing.md both serve the 404 page under an HTTP 200, so the JSON-LD on the pricing page is the machine-readable source here.",
+   "price_note": "(re-verified 2026-11-26 on emaillistverify.com/pricing and its /pricing.md, which states prices in EUR as of 2026-11-22) Pay-as-you-go credits that never expire: 1,000 for €5, 5,000 for €17, 10,000 for €27, 25,000 for €54, 50,000 for €98, 100,000 for €186, then 250,000 for €276, 500,000 for €356, 1,000,000 for €474, 2,500,000 for €942, 5,000,000 for €1,576 and 10,000,000 for €2,606 (€0.26 per 1,000). The monthly subscription now has three steps: 10,000 for €24 a month, 25,000 for €45 and 100,000 for €139; its credits renew every month and unused ones do not roll over. Worked out against pay-as-you-go that is 11% less at 10,000, 17% at 25,000 and 25% at 100,000, which matches the page's 'save up to 25%'. Volumes above 1,000,000 a month are priced through sales. The email finder uses 5 credits per address found with medium or higher confidence (pricing.md); support told us on 24 September 2026 that it is 10 credits when only a domain is supplied. Uploads: TXT, CSV, XLSX. API included. Prices exclude VAT. Older figures: until at least 12 November 2026 the monthly ladder ran 5,000 for 16, 10,000 for 25, 25,000 for 49, 50,000 for 89, 100,000 for 168 and 250,000 for 346. The JSON-LD block on the pricing page still carries that older ladder in USD, so a machine reading only that block gets outdated subscription prices.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(re-verified 2026-08-31 on emaillistverify.com/pricing, read from the page's own JSON-LD offer data) Pay-as-you-go credits that never expire: 1,000 for $5 ($0.005/check), 5,000 for $17 ($0.0034), 10,000 for $27 ($0.0027), 25,000 for $54 ($0.00216), 50,000 for $98 ($0.00196), 100,000 for $186 ($0.00186).",
-     "evidence_excerpt": "(re-verified 2026-08-31 on emaillistverify.com/pricing, read from the page's own JSON-LD offer data) Pay-as-you-go credits that never expire: 1,000 for $5 ($0.005/check), 5,000 for $17 ($0.0034), 10,…",
+     "evidence": "(re-verified 2026-11-26 on emaillistverify.com/pricing and its /pricing.md, which states prices in EUR as of 2026-11-22) Pay-as-you-go credits that never expire: 1,000 for €5, 5,000 for €17, 10,000 for €27, 25,000 for €54, 50,000 for €98, 100,000 for €186, then 250,000 for €276, 500,000 for €356, 1,000,000 for €474, 2,500,000 for €942, 5,000,000 for €1,576 and 10,000,000 for €2,606 (€0.26 per 1,000).",
+     "evidence_excerpt": "(re-verified 2026-11-26 on emaillistverify.com/pricing and its /pricing.md, which states prices in EUR as of 2026-11-22) Pay-as-you-go credits that never expire: 1,000 for €5, 5,000 for €17, 10,000 f…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-19"
+     "verified_at": "2026-11-26"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-19",
-   "first_observed_at": "2026-08-31"
+   "price_verified_at": "2026-11-26",
+   "first_observed_at": "2026-11-26"
   },
   {
    "name": "EmailOctopus",
