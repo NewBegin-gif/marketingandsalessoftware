@@ -507,7 +507,10 @@ KOP = '<div class="lg-kop" aria-hidden="true"><span>Tool</span><span>Price, date
 
 def main():
     root = Path(__file__).parent
-    tools = json.loads((root / "data.json").read_text(encoding="utf-8"))
+    import sys as _sys_zb
+    _sys_zb.path.insert(0, str(Path(__file__).resolve().parent.parent))
+    from zuster_bouwdata import bouwdata as _bouwdata  # 26 nov 2026: partnerlink niet meer uit de publieke data.json
+    tools = _bouwdata()
     # 3 sep 2026: het oude THEME-filter (Growth, Voice, Marketing, SEO) zat
     # vóór de snede en hield Sales & CRM (13) en E-commerce (29) van de
     # homepage terwijl SNEDE ze wél noemt en hun reviews op deze site staan.
