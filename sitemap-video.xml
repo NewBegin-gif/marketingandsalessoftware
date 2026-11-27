@@ -11,6 +11,16 @@
     </video:video>
   </url>
   <url>
+    <loc>https://marketingandsalessoftware.com/ai-autocomplete-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/L3RgiHEMBJU/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>AI Autocomplete Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>Usage charges sit on top of the monthly fee and the listing does not define a prediction. The app launched on 2 September 2026, so there is little track record. Three of 11 reviews are one-star.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/L3RgiHEMBJU</video:player_loc>
+    <video:publication_date>2026-11-27T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
     <loc>https://marketingandsalessoftware.com/aisdr-review.html</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/WhMd7ltOm3c/hqdefault.jpg</video:thumbnail_loc>
@@ -487,7 +497,7 @@ Two smaller things worth reading twice, and one correction we owe you. The AI cr
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/ZmHCrAm91ao/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Consentmo Review (2026) — honest pricing &amp; who should skip it</video:title>
-      <video:description>Read the ladder before you budget $10 for this. The two things the listing leads with (web accessibility and a smart region-specific banner) are not on Standard; they start at Plus, $37 a month, which is 3.7 times the entry price. A Shopify Plus store that wants a banner on the checkout needs Enterprise at $64, and so does anything headless or on Hydrogen. The accessibility side is a widget and a scanner: it overlays controls and flags issues, but it does not change the theme markup underneath, which is where an accessibility audit actually looks: treat it as a first layer, not as a remediation. And the free tier puts Consentmo&#x27;s own branding on the banner your visitors see first.</video:description>
+      <video:description>Read the ladder before you budget $10 for this. The two things the listing leads with (web accessibility and a smart region-specific banner) are not on Standard; they start at Plus, $37 a month, which is 3.7 times the entry price. The top plan is now Max at $99 a month (Shopify listing, 27 Nov 2026), and the listing does not name a checkout banner for Shopify Plus or headless support, so ask Consentmo before you buy for those. The accessibility side is a widget and a scanner: it overlays controls and flags issues, but it does not change the theme markup underneath, which is where an accessibility audit actually looks: treat it as a first layer, not as a remediation. And the free tier puts Consentmo&#x27;s own branding on the banner your visitors see first.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/ZmHCrAm91ao</video:player_loc>
     <video:publication_date>2026-09-28T00:00:00+00:00</video:publication_date>
     </video:video>
@@ -1326,6 +1336,16 @@ One more limit worth reading before you install: the listing names English as th
       <video:description>The friendly $7-9 headline is the entry rate at the smallest list size (500 contacts), and the ladder above it does not fall smoothly: paid annually, 8,000 contacts costs $51 a month while 10,000 costs $70, so a list of 9,000 sits on the wrong side of the sharpest jump on the slider. The same reversal repeats at 100,000 and at 600,000. Read the comparison table before you assume Pro covers you, too: transactional emails, SSO and SAML, a dedicated IP, hosted files and an account manager are Moosend+ add-ons or Enterprise rather than included.</video:description>
       <video:player_loc>https://www.youtube-nocookie.com/embed/c4Uo2fSoYcE</video:player_loc>
     <video:publication_date>2026-07-14T00:00:00+00:00</video:publication_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://marketingandsalessoftware.com/my-stories-review.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kQsHPfZSsn4/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>My Stories Review (2026) — honest pricing &amp; who should skip it</video:title>
+      <video:description>The free plan carries a watermark and stops at 10 videos. Lead capture is capped at 20 a month on the $14 plan, so a store that gets real traffic moves to $45 quickly. Plan names differ between the vendor site and the Shopify listing. We have not installed the app, so the lead sync and speed claims are the vendor&#x27;s own.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/kQsHPfZSsn4</video:player_loc>
+    <video:publication_date>2026-11-27T00:00:00+00:00</video:publication_date>
     </video:video>
   </url>
   <url>

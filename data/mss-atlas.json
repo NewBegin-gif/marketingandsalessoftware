@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 346 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 348 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 346,
-  "flags": 520,
+  "tools": 348,
+  "flags": 523,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -823,6 +823,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-24",
    "first_observed_at": "2026-10-05"
+  },
+  {
+   "name": "BestTrack",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/besttrack-review/",
+   "from_price_usd_mo": 9.0,
+   "entry_price": "$9",
+   "entry_price_terms": "Pro · Pro $9 a month for 1,000 tracked orders on the Shopify App Store…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-27 on apps.shopify.com/besttrack, USD) Free: 300 tracked orders a month, branded order tracking page, email notifications and custom templates, dropshipping mode. Pro: $9 a month for 1,000 tracked orders, $0.03 per additional tracked order beyond 1,000 per month. Charges are billed in USD. We found no Pro trial.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-27 on apps.shopify.com/besttrack, USD) Free: 300 tracked orders a month, branded order tracking page, email notifications and custom templates, dropshipping mode.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/besttrack",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-27"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "BeSure Checkout Rules",
@@ -1986,7 +2010,7 @@
    "entry_price": "$10",
    "entry_price_terms": "Standard · a month, or $100 a year, for unlimited cookie scans, multi-region…",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-08 on apps.shopify.com/gdpr-backpack and on the vendor's own consentmo.com/pricing, which list the same four tiers) Billed in USD every 30 days, with a 7-day free trial on each paid tier. Banner impressions are unlimited on every tier, the free one included, so the ladder gates features rather than traffic. Free costs nothing and covers the cookie banner and preferences, the data-request and Do-Not-Sell pages, one banner language and one cookie scan a month, with minimal Consentmo branding on the banner. Standard is $10 a month or $100 a year (17% off) and adds unlimited cookie scans, multi-region compliance (GDPR, CCPA, PIPEDA and others), Google Consent Mode v2 and Meta, Microsoft and TikTok integrations, US opt-out signals, script blocking, multilingual banners with automatic detection, automatic Google Drive backups and removal of the branding. Plus is $37 or $370 a year and is where the accessibility side starts: web accessibility (ADA/WCAG), smart geotargeting, the EU withdrawal page for Directive 2023/2673, automated monitoring, scheduled scans, AI cookie categorisation, advanced analytics and full CSS customisation. Enterprise is $64 or $640 a year for IAB TCF v2.4 (the listing's wording on 13 October 2026; it read 2.3 in September), cross-domain consent sharing, a checkout banner for Shopify Plus, Hydrogen and headless support, A/B testing, an alt-text manager, bot and crawler protection and priority support.",
+   "price_note": "(read 2026-09-08 on apps.shopify.com/gdpr-backpack and on the vendor's own consentmo.com/pricing, which list the same four tiers) Billed in USD every 30 days, with a 7-day free trial on each paid tier. Banner impressions are unlimited on every tier, the free one included, so the ladder gates features rather than traffic. Free costs nothing and covers the cookie banner and preferences, the data-request and Do-Not-Sell pages, one banner language and one cookie scan a month, with minimal Consentmo branding on the banner. Standard is $10 a month or $100 a year (17% off) and adds unlimited cookie scans, multi-region compliance (GDPR, CCPA, PIPEDA and others), Google Consent Mode v2 and Meta, Microsoft and TikTok integrations, US opt-out signals, script blocking, multilingual banners with automatic detection, automatic Google Drive backups and removal of the branding. Plus is $37 or $370 a year and is where the accessibility side starts: web accessibility (ADA/WCAG), smart geotargeting, the EU withdrawal page for Directive 2023/2673, automated monitoring, scheduled scans, AI cookie categorisation, advanced analytics and full CSS customisation. The Shopify listing read on 27 November 2026 names the top plan Max at $99 a month or $990 a year, with consent monitoring, proof of consent, banner statistics, a privacy centre, an alt-text manager, IAB TCF 2.4 compliance and bot protection; the earlier top plan, Enterprise at $64 a month, is no longer listed.",
    "flags": [
     {
      "flag": "free_tier",
@@ -2169,20 +2193,20 @@
    "entry_price": "$75",
    "entry_price_terms": "per month (USD)",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-22 on diginius.com/pricing/, business pricing) Essential $75 USD a month, Pro $250, Core $500 and marked Most Popular, Business by contact with sales. Every amount held to the dollar against our 21 August 2026 reading. The FAQ on the same page confirms a 20% discount for annual payment. The plan limits scale with the price: SEO keywords 25 / 500 / 1000 / custom, SEO site pages 1000 / 5000 / 10000 / custom, Lead Intelligence leads 10 / 25 / 50, Bombora intent leads 10 / 50 / 100 per week and contact info credits 25 / 50 / 100 per month. The comparison table labels the Lead Intelligence figure weekly where the mobile plan cards label the same numbers monthly. Support runs from email only to a Customer Success Rep on Pro and a Dedicated CS Rep on Core and Business, although the mobile Core card contradicts the table and says email support. The trial banner advertises 30 days including 100 intent leads a week and 100 contact credits and the desktop Essential card agrees, while the mobile Essential card still says 14 days. Seat counts are no longer published: the 2 / 5 / 10 users we recorded on 21 August 2026 are gone and the word user does not appear anywhere in the page or its source.",
+   "price_note": "(re-verified 2026-11-27 on diginius.com/pricing/, business pricing; first re-verified 2026-09-22) Essential $75 USD a month, Pro $250, Core $500 and marked Most Popular, Business by contact with sales. The amounts are unchanged since our 21 August 2026 reading. The FAQ on the same page confirms a 20% discount for annual payment and says there is no time limit on the Essential package. Users are published again, as Unlimited on every plan, next to Account Integrations: Unlimited. On 21 August 2026 the page sold Essential as 2 users, Pro as 5 and Core as 10, and on 22 September 2026 it named no seat count at all. The plan limits scale with the price: SEO keywords 25 / 500 / 1000 / custom, SEO site pages 1000 / 5000 / 10000 / custom, Lead Intelligence leads 10 / 50 / 100 a week (10 / 25 / 50 on 22 September), Bombora intent leads 10 / 50 / 100 a week and contact info credits 25 / 50 / 100 a month. The desktop table and the mobile plan cards now agree: both say weekly for Lead Intelligence, both give Essential a 30-day trial and both give Core a Dedicated CS Rep. In September the mobile cards said monthly, 14 days and email support. Support runs from email only on Essential to a Customer Success Rep on Pro and a Dedicated CS Rep on Core and Business. The trial banner advertises 30 days including 100 intent leads a week and 100 contact credits, after which your plan limits apply.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "The plan limits scale with the price: SEO keywords 25 / 500 / 1000 / custom, SEO site pages 1000 / 5000 / 10000 / custom, Lead Intelligence leads 10 / 25 / 50, Bombora intent leads 10 / 50 / 100 per week and contact info credits 25 / 50 / 100 per month.",
-     "evidence_excerpt": "The plan limits scale with the price: SEO keywords 25 / 500 / 1000 / custom, SEO site pages 1000 / 5000 / 10000 / custom, Lead Intelligence leads 10 / 25 / 50, Bombora intent leads 10 / 50 / 100 per …",
+     "evidence": "The plan limits scale with the price: SEO keywords 25 / 500 / 1000 / custom, SEO site pages 1000 / 5000 / 10000 / custom, Lead Intelligence leads 10 / 50 / 100 a week (10 / 25 / 50 on 22 September), Bombora intent leads 10 / 50 / 100 a week and contact info credits 25 / 50 / 100 a month.",
+     "evidence_excerpt": "The plan limits scale with the price: SEO keywords 25 / 500 / 1000 / custom, SEO site pages 1000 / 5000 / 10000 / custom, Lead Intelligence leads 10 / 50 / 100 a week (10 / 25 / 50 on 22 September), …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-22",
-   "first_observed_at": "2026-09-22"
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "Doba",
@@ -3277,20 +3301,20 @@
    "entry_price": "$29",
    "entry_price_terms": "a month for 500 credits",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-23 against the vendor's own pricing page and its machine-readable pricing file fullenrich.com/pricing.md, which declares USD) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0. Credit costs, unchanged: work email 1, personal email 3, mobile phone 10, reverse email lookup 1, a person-plus-company profile 0.25 on its own and free alongside any enrichment. Free trial: 50 credits, no card, more for inviting team members. Pro monthly, per the vendor's own table: 500 credits $29 ($0.058 each), 750 $42.75, 1,000 $55 ($0.055), 1,500 $79.50, 2,000 $104, 5,000 $255, 10,000 $499, 15,000 $720 ($0.048), 25,000 $1,150, 50,000 $1,950 ($0.039), 100,000 $3,500 ($0.035), above that contact sales. Pro annual (~10% cheaper, credits granted per year): 6,000/yr $312 ($26/mo, $0.052), 9,000 $468, 12,000 $588, 18,000 $852, 24,000 $1,128, 60,000 $2,784, 120,000 $5,448, 180,000 $7,860, 300,000 $12,552, 600,000 $21,228, 1,200,000 $37,800 ($0.032). Enterprise is custom. Unlimited users on every plan, no seat or platform fee. Credits roll over 3 months on monthly and 12 months on annual. CORRECTION 23 Sep 2026: this dossier previously gave Pro as 'from $55/mo'; $55 is the 1,000-credit step the slider opens on, and the ladder starts at $29 for 500. Reading note: from a Dutch exit the slider prints euros (EUR 0.055 a credit at 1,000) while the calculator's recommended-plan card prints $720/mo.",
+   "price_note": "(price re-verified 2026-11-27 against the vendor's machine-readable pricing file fullenrich.com/pricing.md, which declares USD and says it mirrors fullenrich.com/pricing; previously re-verified 2026-09-23) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0. Credit costs, unchanged: work email 1, personal email 3, mobile phone 10, reverse email lookup 1, a person-plus-company profile 0.25 on its own and free alongside any enrichment. Free trial: 50 credits, no card, more for inviting team members. Pro monthly, per the vendor's own table: 500 credits $29 ($0.058 each), 750 $42.75, 1,000 $55 ($0.055), 1,500 $79.50, 2,000 $104, 5,000 $255, 10,000 $499, 15,000 $720 ($0.048), 25,000 $1,150, 50,000 $1,950 ($0.039), 100,000 $3,500 ($0.035), above that contact sales. Pro annual (~10% cheaper, credits granted per year): 6,000/yr $312 ($26/mo, $0.052), 9,000 $468, 12,000 $588, 18,000 $852, 24,000 $1,128, 60,000 $2,784, 120,000 $5,448, 180,000 $7,860, 300,000 $12,552, 600,000 $21,228, 1,200,000 $37,800 ($0.032). Enterprise is custom. Unlimited users on every plan, no seat or platform fee. Credits roll over 3 months on monthly and 12 months on annual. CORRECTION 23 Sep 2026: this dossier previously gave Pro as 'from $55/mo'; $55 is the 1,000-credit step the slider opens on, and the ladder starts at $29 for 500. Reading note: from a Dutch exit the slider prints euros (EUR 0.055 a credit at 1,000) while the calculator's recommended-plan card prints $720/mo. On 27 November 2026 every amount, credit cost and rollover term in that file read the same as on 23 September; it still gives 14 July 2026 as its last update, and it serves the same data as JSON at fullenrich.com/pricing.json.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(price re-verified 2026-09-23 against the vendor's own pricing page and its machine-readable pricing file fullenrich.com/pricing.md, which declares USD) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0.",
-     "evidence_excerpt": "(price re-verified 2026-09-23 against the vendor's own pricing page and its machine-readable pricing file fullenrich.com/pricing.md, which declares USD) Credit-based, and credits are spent only when …",
+     "evidence": "(price re-verified 2026-11-27 against the vendor's machine-readable pricing file fullenrich.com/pricing.md, which declares USD and says it mirrors fullenrich.com/pricing; previously re-verified 2026-09-23) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0.",
+     "evidence_excerpt": "(price re-verified 2026-11-27 against the vendor's machine-readable pricing file fullenrich.com/pricing.md, which declares USD and says it mirrors fullenrich.com/pricing; previously re-verified 2026-…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-23"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-23",
-   "first_observed_at": "2026-09-23"
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "Gelato",
@@ -3475,7 +3499,7 @@
    "entry_price": "$29",
    "entry_price_terms": "per month billed annually ($39 monthly), up to 50,000 views/mo",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-24 against hellobar.com/pricing; amounts unchanged since 3 Sep 2026) Hello Bar publishes exact prices, so the ranges we carried before were wrong: they were the monthly and the annual rate side by side. Paid tiers meter monthly popup VIEWS. Growth is $39 a month billed monthly or $29 billed annually, up to 50,000 views a month; Premium $69 or $49, up to 150,000; Elite $129 or $99, up to 500,000, with unlimited seats. The annual feature table states the same quotas as 600,000, 1.8 million and 6 million views a year. Starter is $0 forever with 5,000 views in total rather than per month. The view limit applies per website, and only a custom agency or enterprise plan can move it to a per-account basis. A view is one display per page load per visitor. When a site reaches its monthly limit its campaigns pause until the next billing cycle; the page describes no overage charge, and an upgrade takes effect immediately. Seats: 1 on Starter, 3 on Growth, unlimited on Premium and Elite. Monthly plans stay active to the end of the period after cancelling, annual plans to the end of the term, and a cancelled account drops to Starter with campaigns and subscriber data kept. No credit card is needed to start, and first-time customers on an annual plan get a 30-day money-back guarantee.",
+   "price_note": "(re-verified 2026-11-27 against hellobar.com/pricing; amounts unchanged since 3 Sep 2026) Hello Bar publishes exact prices, so the ranges we carried before were wrong: they were the monthly and the annual rate side by side. Paid tiers meter monthly popup VIEWS. Growth is $39 a month billed monthly or $29 billed annually, up to 50,000 views a month; Premium $69 or $49, up to 150,000; Elite $129 or $99, up to 500,000, with unlimited seats. The annual feature table states the same quotas as 600,000, 1.8 million and 6 million views a year. Starter is $0 forever with 5,000 views in total rather than per month. The view limit applies per website, and only a custom agency or enterprise plan can move it to a per-account basis. A view is one display per page load per visitor. When a site reaches its monthly limit its campaigns pause until the next billing cycle; the page describes no overage charge, and an upgrade takes effect immediately. Seats: 1 on Starter, 3 on Growth, unlimited on Premium and Elite. Monthly plans stay active to the end of the period after cancelling, annual plans to the end of the term, and a cancelled account drops to Starter with campaigns and subscriber data kept. No credit card is needed to start, and first-time customers on an annual plan get a 30-day money-back guarantee. The billing toggle now advertises 'Save up to 24%'. On the page's own amounts annual billing saves 25.6% on Growth ($29 against $39), 29.0% on Premium ($49 against $69) and 23.3% on Elite ($99 against $129), so two of the three tiers save more than the banner says (our sums, 27 November 2026). Upgrades take effect immediately and the price difference is prorated for the rest of the billing cycle; downgrades start at the next billing cycle.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -3483,7 +3507,15 @@
      "evidence_excerpt": "The meter is views, not results: every visitor who sees a popup counts against your quota, so a traffic spike eats the allowance regardless of how many emails you actually captured, and at the limit …",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-27"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "On the page's own amounts annual billing saves 25.6% on Growth ($29 against $39), 29.0% on Premium ($49 against $69) and 23.3% on Elite ($99 against $129), so two of the three tiers save more than the banner says (our sums, 27 November 2026).",
+     "evidence_excerpt": "On the page's own amounts annual billing saves 25.6% on Growth ($29 against $39), 29.0% on Premium ($49 against $69) and 23.3% on Elite ($99 against $129), so two of the three tiers save more than th…",
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "free_tier",
@@ -3491,12 +3523,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
-   "first_observed_at": "2026-09-24"
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "HighLevel",
@@ -3711,7 +3743,7 @@
    "entry_price": "$79",
    "entry_price_terms": "per month billed yearly ($99 month to month) for 15,000 visitors",
    "pricing_status": "public",
-   "price_note": "(re-verified 24 Sep 2026; amounts unchanged since 4 Sep) Instapage does publish plan prices; they are not on the URL we had recorded. instapage.com/en/pricing redirects to the homepage at instapage.com/lp, and the plan table sits at instapage.com/plans. Our 26 August reading landed on the redirect, found no figures and concluded that prices had been withdrawn; the figures below match the last published rates this dossier already held, so the more likely explanation is a moved page rather than a withdrawal. Three tiers sit there. Create is $99 a month month-to-month or $79 billed annually, for 15,000 unique monthly visitors. Optimize is $199 or $159 annually for 30,000 unique monthly visitors, with selectors for 50,000 and for a custom volume — the custom option defaults to 50,000 and hands you to sales. Convert is quote-only. Annual billing is advertised as 'save up to 20%', and every tier carries unlimited contacts. The 14-day free trial asks for a credit card and is capped at 2,500 unique monthly visitors; Instapage's own FAQ states that exceeding that cap ends the trial automatically and moves you onto the paid plan you selected. The comparison table on the same page lists 10 team members on every self-serve column; 2 subdomains and 1 workspace on both Create and the 30,000-visitor Optimize, rising to 10 subdomains and 5 workspaces at 50,000 visitors; and 15, 30 and 50 pages per Collection. Publishing to the root domain (yoursite.com) is listed only under Convert. The FAQ says custom usage is not offered below the 50,000-visitor Optimize option.",
+   "price_note": "(re-verified 27 Nov 2026; amounts unchanged since 4 Sep) Instapage does publish plan prices; they are not on the URL we had recorded. instapage.com/en/pricing redirects to the homepage at instapage.com/lp, and the plan table sits at instapage.com/plans. Our 26 August reading landed on the redirect, found no figures and concluded that prices had been withdrawn; the figures below match the last published rates this dossier already held, so the more likely explanation is a moved page rather than a withdrawal. Three tiers sit there. Create is $99 a month month-to-month or $79 billed annually, for 15,000 unique monthly visitors. Optimize is $199 or $159 annually for 30,000 unique monthly visitors, with selectors for 50,000 and for a custom volume — the custom option defaults to 50,000 and hands you to sales. Convert is quote-only. Annual billing is advertised as 'save up to 20%', and every tier carries unlimited contacts. The 14-day free trial asks for a credit card and is capped at 2,500 unique monthly visitors; Instapage's own FAQ states that exceeding that cap ends the trial automatically and moves you onto the paid plan you selected. The comparison table on the same page lists 10 team members on every self-serve column; 2 subdomains and 1 workspace on both Create and the 30,000-visitor Optimize, rising to 10 subdomains and 5 workspaces at 50,000 visitors; and 15, 30 and 50 pages per Collection. Publishing to the root domain (yoursite.com) is listed only under Convert. The FAQ says custom usage is not offered below the 50,000-visitor Optimize option. The FAQ read 27 November 2026 adds that custom limits are currently available with annual contracts only. The comparison table also meters email and API use: 15,000 email sends a month (1,500 a day) and 5,000 API calls a day on Create, 30,000 (3,000 a day) and 10,000 on the 30,000-visitor Optimize, and 50,000 (5,000 a day) and 15,000 at 50,000 visitors. A fourth column at 100,000 visitors carries 100,000 sends and 30,000 API calls a day, but the plain page text does not name its plan, so we do not assign it to one.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -3719,11 +3751,11 @@
      "evidence_excerpt": null,
      "source_url": "https://instapage.com/plans",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-24"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-24",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": null
   },
   {
@@ -4610,6 +4642,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-10",
    "first_observed_at": "2026-11-10"
+  },
+  {
+   "name": "Loox",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/loox-review/",
+   "from_price_usd_mo": 49.99,
+   "entry_price": "$49.99",
+   "entry_price_terms": "Convert · Convert $49.99 a month with 300 orders included on the Shopify App…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-27 on apps.shopify.com/loox, USD) Beginner: free, up to 500 orders. Convert: $49.99 a month, 300 orders included in the base price plus $50 per additional 300 orders, 14 day free trial. Unlimited: $299.99 a month, 14 day free trial. All charges are billed in USD. Recurring and usage based charges are billed every 30 days.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "The free plan keeps the Loox branding and leaves out video reviews and the AI features.",
+     "evidence_excerpt": null,
+     "source_url": "https://apps.shopify.com/loox",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-27"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "Loyalino",
@@ -7825,9 +7881,9 @@
    "review_url": "https://aibuildermarketplace.com/b2b/socialbee-review/",
    "from_price_usd_mo": 29.0,
    "entry_price": "$29",
-   "entry_price_terms": "per month ($290/yr, 16% off), 5 profiles, 1 workspace",
+   "entry_price_terms": "per month, 5 profiles, 1 workspace, 1 user",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-22 on socialbee.com/pricing/; every named-plan amount unchanged to the cent. The yearly figures render as a monthly equivalent -- $24.20, $40.80 and $82.50 for Bootstrap, Accelerate and Pro. Header terms: free 14-day trial, no contracts, 30-day money-back guarantee, and the trial gives full Pro access without a card. Analytics history is capped at 3 months on Bootstrap against 2 years on every tier above it; content categories run 10 / 50 / unlimited and content sources 10 / 30 / unlimited. The add-on prices below were read on 30 Aug and are no longer on the pricing page, which now routes you into the app to buy them) Bootstrap $29/month ($290 a year, 16% off): 5 profiles, 1 workspace, 1 user. Accelerate $49/month ($490 a year): 10 profiles, 1 workspace, 1 user. Pro $99/month ($990 a year): 25 profiles, 5 workspaces, 3 users per workspace. Agency tiers billed monthly: Pro50 $179, Pro100 $329, Pro150 $449 for 50, 100 and 150 profiles, with 10, 20 and 30 workspaces and 5 users per workspace; billed yearly they are $149.20, $274.20 and $374.20 a month. Add-ons: 5 extra profiles $15/month or $150/year, an extra user $10/month or $100/year, an extra workspace $10/month or $100/year. AI generation is unlimited on every tier.",
+   "price_note": "(re-verified 2026-11-27 on socialbee.com/pricing/; first re-verified 2026-09-22. The monthly amounts are unchanged to the cent. The yearly line is not consistent on this reading: the plan cards and the comparison table print yearly prices of $348, $588 and $1,188 for Bootstrap, Accelerate and Pro, and $2,148, $3,948 and $5,388 for the agency tiers, which is exactly twelve monthly payments, while the FAQ on the same page still says annual plans 'come with a discount of 16%'. On 22 September 2026 the page gave $290, $490 and $990 a year, and our 5 November 2026 hands-on test saw the same three figures in the app. The page was running a Black Friday offer at the time: code SOCIALBEEBF26 'by December 1' for 70% off monthly plans for 3 months ($8.70, $14.70 and $29.70 a month) or 50% off yearly plans for 1 year ($174, $294 and $594). Header terms: free 14-day trial with full Pro access and no card, and no contracts; the 30-day money-back guarantee we read in September is no longer on the page. Analytics history is capped at 3 months on Bootstrap against 2 years on every tier above it; content categories run 10 / 50 / unlimited and content sources 10 / 30 / unlimited. The add-on prices are printed on the pricing page again, unchanged from 30 August, and you buy them in the app) Bootstrap $29/month: 5 profiles, 1 workspace, 1 user. Accelerate $49/month: 10 profiles, 1 workspace, 1 user. Pro $99/month: 25 profiles, 5 workspaces, 3 users per workspace. Agency tiers billed monthly: Pro50 $179, Pro100 $329, Pro150 $449 for 50, 100 and 150 profiles, with 10, 20 and 30 workspaces and 5 users per workspace. Add-ons: 5 extra profiles $15/month or $150/year, an extra user $10/month or $100/year, an extra workspace $10/month or $100/year. AI generation is unlimited on every tier.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -7835,12 +7891,12 @@
      "evidence_excerpt": null,
      "source_url": "https://socialbee.com/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-22"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-22",
-   "first_observed_at": "2026-09-22"
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "SocialDesk",

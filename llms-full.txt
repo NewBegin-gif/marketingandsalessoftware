@@ -375,7 +375,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Consentmo
 - Review: https://marketingandsalessoftware.com/consentmo-review.html
 - Hands-on: tested by us on 2026-11-17. Measured 2026-11-17: The Shopify approval screen for Standard says You have a 7-day free trial ending on 24 Nov. As our research says for each paid plan, but it asks for a payment method and Approve was greyed out.
-- Verdict: Consentmo: Billed in USD every 30 days, with a 7-day free trial on each paid tier. The accessibility side is a widget and a scanner.
+- Verdict: Consentmo: Billed in USD every 30 days, with a 7-day free trial on each paid tier. The top plan is now Max at $99 a month (Shopify listing, 27 Nov 2026).
 - Price: (read 2026-09-08 on apps.shopify.com/gdpr-backpack and on the vendor's own consentmo.com/pricing, which list the same four tiers) Billed in USD every 30 days, with a 7-day free trial on each paid tier. Banner impressions are unlimited on every tier, the free one included, so the ladder gates features rather than traffic.
 
 ## Content Raptor
@@ -621,8 +621,8 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## FullEnrich
 - Review: https://marketingandsalessoftware.com/fullenrich-review.html
 - Hands-on: tested by us on 2026-11-13. Measured 2026-11-13: The home screen offers a Quick enrichment form with two checkboxes: Mobile phone at 10 credits and Work email at 1 credit. Only work email was ticked by default. You enter a LinkedIn URL or a name and…
-- Verdict: FullEnrich: Credit-based, and credits are spent only when data is found and passes verification. The pay-on-success model is refreshingly honest.
-- Price: (price re-verified 2026-09-23 against the vendor's own pricing page and its machine-readable pricing file fullenrich.com/pricing.md, which declares USD) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0. Credit costs, unchanged: work email 1, personal email 3, mobile phone 10, reverse email lookup 1, a…
+- Verdict: FullEnrich, Free trial: 50 credits, no card, more for inviting team members. The pay-on-success model is refreshingly honest, but note the 10x.
+- Price: (price re-verified 2026-11-27 against the vendor's machine-readable pricing file fullenrich.com/pricing.md, which declares USD and says it mirrors fullenrich.com/pricing; previously re-verified 2026-09-23) Credit-based, and credits are spent only when data is found and passes verification: a failed lookup costs 0 and a landline returned instead of a mobile costs 0. Credit costs, unchanged: work email 1, personal…
 
 ## Gelato
 - Review: https://marketingandsalessoftware.com/gelato-review.html
@@ -670,7 +670,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/hello-bar-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Onboarding took three steps. The first asks for your website address, marked required, and says it will help you install Hello Bar. The second can be skipped. The third asks where new leads should go, with…
 - Verdict: Hello Bar: Growth is $39 a month billed monthly or $29 billed annually, up to 50,000 views a month. The meter is views, not results.
-- Price: (re-verified 2026-09-24 against hellobar.com/pricing; amounts unchanged since 3 Sep 2026) Hello Bar publishes exact prices, so the ranges we carried before were wrong: they were the monthly and the annual rate side by side. Paid tiers meter monthly popup VIEWS.
+- Price: (re-verified 2026-11-27 against hellobar.com/pricing; amounts unchanged since 3 Sep 2026) Hello Bar publishes exact prices, so the ranges we carried before were wrong: they were the monthly and the annual rate side by side. Paid tiers meter monthly popup VIEWS.
 
 ## HighLevel
 - Review: https://marketingandsalessoftware.com/highlevel-review.html
@@ -712,7 +712,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/instapage-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: After cancelling, Subscription said the plan features stay until 3 DEC 2026 and the first billing date became N/A.
 - Verdict: Instapage does publish plan prices; they are not on the URL we had recorded. The 14-day trial needs a card and carries its own cap of 2,500 visitors.
-- Price: (re-verified 24 Sep 2026; amounts unchanged since 4 Sep) Instapage does publish plan prices; they are not on the URL we had recorded. instapage.com/en/pricing redirects to the homepage at instapage.com/lp, and the plan table sits at instapage.com/plans.
+- Price: (re-verified 27 Nov 2026; amounts unchanged since 4 Sep) Instapage does publish plan prices; they are not on the URL we had recorded. instapage.com/en/pricing redirects to the homepage at instapage.com/lp, and the plan table sits at instapage.com/plans.
 
 ## Intelis
 - Review: https://marketingandsalessoftware.com/intelis-review.html
