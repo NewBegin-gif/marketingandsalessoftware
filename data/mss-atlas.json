@@ -6860,15 +6860,15 @@
    "entry_price": "$24",
    "entry_price_terms": "per month billed yearly ($35 monthly)",
    "pricing_status": "public",
-   "price_note": "(read 2026-09-26 on riverside.com/pricing; riverside.fm now redirects to riverside.com. Amounts are region-priced: the page returned euros from a Netherlands exit on this date, with the same numerals our 26 August 2026 US reading returned as dollars, so the dollar figures are given here) Pro $35 a month or $24 on annual billing; Grow $45 or $34; Webinar $99 or $79; Business quote-only. What separates the tiers is studios and separate-track download hours — 1 studio and 15 hours on Pro, 2 and 20 on Grow, 3 and 25 on Webinar, unlimited on Business — while recording hours are unlimited on all four. Up to 4K desktop capture, 44.1/48 kHz audio and 10 people in a session are on every tier; the mobile apps cap at 1080p below Business, and frame rates are 24 FPS except on Business. Webinar registration is 100 on the Webinar plan and up to 10,000 on Business. AI credits: Pro starts with 2,000 and Business with 12,000, and Magic Clips, Magic Audio and the AI Co-Creator do not consume them. The page contradicts itself: its FAQ says annual billing saves 'up to 20%' with Pro dropping from $29 to $24 and Grow from $39 to $34 — the pre-increase monthly rates — while against the $35/$45/$99 on the cards the annual saving is 31%, 24% and 20%.",
+   "price_note": "(read 2026-09-26 and re-read 2026-11-27, amounts unchanged, on riverside.com/pricing; riverside.fm now redirects to riverside.com. Amounts are region-priced: the page returned euros from a Netherlands exit on this date, with the same numerals our 26 August 2026 US reading returned as dollars, so the dollar figures are given here) Pro $35 a month or $24 on annual billing; Grow $45 or $34; Webinar $99 or $79; Business quote-only. What separates the tiers is studios and separate-track download hours — 1 studio and 15 hours on Pro, 2 and 20 on Grow, 3 and 25 on Webinar, unlimited on Business — while recording hours are unlimited on all four. Up to 4K desktop capture, 44.1/48 kHz audio and 10 people in a session are on every tier; the mobile apps record up to 4K on every tier as well (comparison table read 27 November 2026; in September it showed 1080p below Business), and frame rates are 24 FPS except on Business. Webinar registration is 100 on the Webinar plan and up to 10,000 on Business. AI credits: Pro starts with 400 and Business with 12,000 (FAQ read 27 November 2026; it said 2,000 for Pro in September), and Magic Clips, Magic Audio and the AI Co-Creator do not consume them. The page contradicts itself: its FAQ says annual billing saves 'up to 20%' with Pro dropping from $29 to $24 and Grow from $39 to $34 — the pre-increase monthly rates — while against the $35/$45/$99 on the cards the annual saving is 31%, 24% and 20%.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "AI credits: Pro starts with 2,000 and Business with 12,000, and Magic Clips, Magic Audio and the AI Co-Creator do not consume them.",
+     "evidence": "AI credits: Pro starts with 400 and Business with 12,000 (FAQ read 27 November 2026; it said 2,000 for Pro in September), and Magic Clips, Magic Audio and the AI Co-Creator do not consume them.",
      "evidence_excerpt": null,
      "source_url": "https://riverside.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "annual_lock",
@@ -6876,11 +6876,11 @@
      "evidence_excerpt": "Amounts are region-priced: the page returned euros from a Netherlands exit on this date, with the same numerals our 26 August 2026 US reading returned as dollars, so the dollar figures are given here…",
      "source_url": "https://riverside.com/pricing",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": "2026-09-26"
   },
   {
@@ -8256,7 +8256,7 @@
    "entry_price": "$12",
    "entry_price_terms": "per user per month on monthly billing ($11 annual)",
    "pricing_status": "public",
-   "price_note": "(read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08 and 2026-09-26) There is a Free Forever plan at $0 with the V/TO, Accountability Chart and Organizational Checkup, no time limit and no card. The paid All Inclusive Plan is priced per user in graduated bands: the visible table labels them 'First 1-25 users', 'Next 26-75', 'Next 76-125', 'Next 126-250' and 'Next 251-1000', so each rate applies to the seats inside its band. Monthly billing: $12, $11, $9, $7 and $6 per user a month; annual billing: $11, $10, $8, $6 and $5. More than 1,000 users is a custom plan. Two add-ons sit outside the plan at $250 a month each: Single Sign-On (Okta, Microsoft Entra ID, Google Workspace or any SAML/OIDC provider) and Directory Sync via SCIM. A 30-day free trial needs no credit card, data migration is done free of charge, and 501(c)(3) or similar nonprofits get 50% off.",
+   "price_note": "(read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08, 2026-09-26 and 2026-11-27) There is a Free Forever plan at $0 with the V/TO, Accountability Chart, Organizational Checkup and Mastery (EOS learning for the whole team), no time limit and no card. The paid All Inclusive Plan is priced per user in graduated bands: the visible table labels them 'First 1-25 users', 'Next 26-75', 'Next 76-125', 'Next 126-250' and 'Next 251-1000', so each rate applies to the seats inside its band. Monthly billing: $12, $11, $9, $7 and $6 per user a month; annual billing: $11, $10, $8, $6 and $5. More than 1,000 users is a custom plan. Two add-ons sit outside the plan at $250 a month each: Single Sign-On (Okta, Microsoft Entra ID, Google Workspace or any SAML/OIDC provider) and Directory Sync via SCIM, which requires the SSO add-on. Sign-in with Google and Microsoft accounts is included in the plan. A 30-day free trial needs no credit card, data migration is done free of charge, and 501(c)(3) or similar nonprofits get 50% off.",
    "flags": [
     {
      "flag": "per_seat",
@@ -8264,15 +8264,15 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "addons_extra",
-     "evidence": "Two add-ons sit outside the plan at $250 a month each: Single Sign-On (Okta, Microsoft Entra ID, Google Workspace or any SAML/OIDC provider) and Directory Sync via SCIM.",
+     "evidence": "Two add-ons sit outside the plan at $250 a month each: Single Sign-On (Okta, Microsoft Entra ID, Google Workspace or any SAML/OIDC provider) and Directory Sync via SCIM, which requires the SSO add-on.",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "annual_lock",
@@ -8280,19 +8280,19 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "free_tier",
-     "evidence": "(read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08 and 2026-09-26) There is a Free Forever plan at $0 with the V/TO, Accountability Chart and Organizational Checkup, no time limit and no card.",
-     "evidence_excerpt": "(read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08 and 2026-09-26) There is a Free Forever plan at $0 with the V/TO, Accountability Chart and Organizational Ch…",
+     "evidence": "(read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08, 2026-09-26 and 2026-11-27) There is a Free Forever plan at $0 with the V/TO, Accountability Chart, Organizational Checkup and Mastery (EOS learning for the whole team), no time limit and no card.",
+     "evidence_excerpt": "(read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08, 2026-09-26 and 2026-11-27) There is a Free Forever plan at $0 with the V/TO, Accountability Chart, Organiza…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": "2026-08-21"
   },
   {

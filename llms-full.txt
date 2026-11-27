@@ -1540,7 +1540,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/success-co-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Success.co: $12, $11, $9, $7 and $6 per user a month. The ladder rewards size rather than commitment: each band's rate applies only to the seats inside it.
-- Price: (read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08 and 2026-09-26) There is a Free Forever plan at $0 with the V/TO, Accountability Chart and Organizational Checkup, no time limit and no card. The paid All Inclusive Plan is priced per user in graduated bands: the visible table labels them 'First 1-25 users', 'Next 26-75', 'Next 76-125', 'Next 126-250' and 'Next 251-1000',…
+- Price: (read 2026-08-21 in Success.co's structured data on success.co/pricing, re-read 2026-09-08, 2026-09-26 and 2026-11-27) There is a Free Forever plan at $0 with the V/TO, Accountability Chart, Organizational Checkup and Mastery (EOS learning for the whole team), no time limit and no card. The paid All Inclusive Plan is priced per user in graduated bands: the visible table labels them 'First 1-25 users', 'Next…
 
 ## SupaEasy
 - Review: https://marketingandsalessoftware.com/supaeasy-review.html
