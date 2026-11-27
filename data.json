@@ -1032,7 +1032,7 @@
  {
   "name": "EmailListVerify",
   "domain": "emaillistverify.com",
-  "link": "https://aibuildermarketplace.com/b2b/emaillistverify-review/",
+  "link": "https://marketingandsalessoftware.com/emaillistverify-review.html",
   "category": "Marketing",
   "desc": "Email verification with never-expiring pay-as-you-go credits: bulk list cleaning, real-time API, inbox-placement testing and free DMARC/SPF tools, plus a credit-based email finder."
  },
@@ -1580,7 +1580,7 @@
   "category": "Growth & Revenue",
   "domain": "keap.com",
   "desc": "CRM, sales and marketing automation built for small businesses. Capture leads, automate follow-up and manage your pipeline in one place.",
-  "link": "https://aibuildermarketplace.com/b2b/keap-review/",
+  "link": "https://marketingandsalessoftware.com/keap-review.html",
   "replaces": "HubSpot"
  },
  {
@@ -2454,7 +2454,7 @@
   "category": "Growth & Revenue",
   "domain": "seamless.ai",
   "desc": "B2B contact database with AI list-building, plus an MCP server so Claude or ChatGPT can run the searching and enrichment. Nothing above the free plan (1 user, 50 credits) carries a published price; the only quantity their FAQ names is a Pro floor of 10,000 annual credits. Independent tests put deliverability near 74%, and contracts auto-renew with 30-60 days' notice to cancel.",
-  "link": "https://aibuildermarketplace.com/b2b/seamless-ai-review/",
+  "link": "https://marketingandsalessoftware.com/seamless-ai-review.html",
   "replaces": "ZoomInfo"
  },
  {
@@ -5183,5 +5183,28 @@
   "desc": "Shopify app for building custom quotes from your products with your own prices and emailing them to customers, with e-signatures on paid plans.",
   "link": "https://marketingandsalessoftware.com/proposall-review.html",
   "platform": "shopify"
+ },
+ {
+  "name": "BestTrack",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify order tracking app with a branded tracking page, carrier detection, status email templates and a dropshipping mode.",
+  "link": "https://marketingandsalessoftware.com/besttrack-review.html",
+  "platform": "shopify"
+ },
+ {
+  "name": "Loox",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app that collects photo and video reviews with review request emails and shows them in on brand widgets, with AI sorting on paid plans.",
+  "link": "https://marketingandsalessoftware.com/loox-review.html",
+  "platform": "shopify"
+ },
+ {
+  "name": "Pabbly Connect",
+  "category": "Operations & Workflow",
+  "domain": "pabbly.com",
+  "desc": "Workflow automation tool that connects apps with webhooks, formatters and API steps. Only actions on outside apps count as tasks, and there is a free plan.",
+  "link": "https://aibuildermarketplace.com/b2b/pabbly-connect-review/"
  }
 ]
