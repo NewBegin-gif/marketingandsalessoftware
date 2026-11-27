@@ -1257,7 +1257,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 ## Restream
 - Review: https://marketingandsalessoftware.com/restream-review.html
 - Hands-on: tested by us on 2026-11-06. Measured 2026-11-06: Onboarding asks who will stream (an organization or just you). No card was requested. Two draft events, an RTMP stream and a Studio stream, already existed on the home page.
-- Verdict: Restream: Standard $19 a month, billed as $190 a year (3 channels, 1 seat). The channel caps are the business model, each tier buys a few more destinations.
+- Verdict: Restream, Re-read 27 November 2026 with a plain fetch: the monthly list prices are unchanged at Free $0, Standard $19.
 - Price: Re-read on restream.io/pricing on 26 September 2026, with both the Creator/Business tabs and the Monthly/Annually toggle operated. Free: 2 channels with Restream branding, 1 seat.
 
 ## Rewardful
@@ -1738,7 +1738,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/vista-social-review.html
 - Hands-on: tested by us on 2026-11-05. Measured 2026-11-05: The dashboard showed 'Your trial ends in 14 days' and a banner asking us to confirm the e-mail address. Setup is a checklist: connect a profile, invite your team, schedule a first post. No card was asked for.
 - Verdict: Vista Social: (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing). The honest check is coverage depth: platform APIs change constantly.
-- Price: (price re-verified 2026-09-25 against the vendor's own pricing page; every list price rose after the 23 Sep 2026 reading) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 profiles, 2 users, 10,000 DM contacts, 1,000 AI credits/mo, Ask Vista + MCP; Advanced $199/mo ($1,910/yr, $160/mo) — 30 profiles, 4 users, 25,000 contacts, 2,000 credits, Zapier/Make integrations; Scale $449/mo…
+- Price: (price re-verified 2026-11-27 against the vendor's own pricing page; the list prices are the same as on 25 Sep 2026, but the user counts on Advanced and Scale are lower than we printed then) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 profiles, 2 users, 10,000 DM contacts, 1,000 AI credits/mo, Ask Vista + MCP; Advanced $199/mo ($1,910/yr, $160/mo) — 30 profiles, 3 users, 25,000…
 
 ## VoiceDrop
 - Review: https://marketingandsalessoftware.com/voicedrop-review.html

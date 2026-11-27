@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 348,
-  "flags": 523,
+  "flags": 524,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -6749,7 +6749,7 @@
    "entry_price": "$19",
    "entry_price_terms": "per month ($190/yr billed annually)",
    "pricing_status": "public",
-   "price_note": "Re-read on restream.io/pricing on 26 September 2026, with both the Creator/Business tabs and the Monthly/Annually toggle operated. Free: 2 channels with Restream branding, 1 seat. Standard $19 a month, billed as $190 a year (3 channels, 1 seat). Professional $49 a month, billed as $470 a year (5 channels, Full HD 1080p in Studio, 2 seats). Business $239 a month, billed as $2,390 a year (8 channels, website player to 1,000 viewers, 2 seats). Enterprise is quoted. Annual therefore saves 16.7% on Standard and Business and 20.1% on Professional, not the flat 'Save 20%' the toggle advertises. Add-ons are monthly on top: Clips +$19/+$29/+$59 and Webinars +$99/+$99/+$299 across the three tiers, extra team seats $25 a seat on Professional and Business only, and extra workspaces $49 (Professional) or $239 (Business).",
+   "price_note": "Re-read on restream.io/pricing on 26 September 2026, with both the Creator/Business tabs and the Monthly/Annually toggle operated. Free: 2 channels with Restream branding, 1 seat. Standard $19 a month, billed as $190 a year (3 channels, 1 seat). Professional $49 a month, billed as $470 a year (5 channels, Full HD 1080p in Studio, 2 seats). Business $239 a month, billed as $2,390 a year (8 channels, website player to 1,000 viewers, 2 seats). Enterprise is quoted. Annual therefore saves 16.7% on Standard and Business and 20.1% on Professional, not the flat 'Save 20%' the toggle advertises. Add-ons are monthly on top: Clips +$19/+$29/+$59 and Webinars +$99/+$99/+$299 across the three tiers, extra team seats $25 a seat on Professional and Business only, and extra workspaces $49 (Professional) or $239 (Business). Re-read 27 November 2026 with a plain fetch: the monthly list prices are unchanged at Free $0, Standard $19, Professional $49 and Business $239, with Clips +$19/+$29/+$59, Webinars +$99/+$99/+$299 and extra seats at $25 a seat a month on two plans, and the page still advertises 'Save 20%' on annual billing. The annual amounts sit behind the billing toggle and were not visible in the plain page, so $190, $470 and $2,390 are the 26 September reading.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -6757,7 +6757,15 @@
      "evidence_excerpt": "Add-ons are monthly on top: Clips +$19/+$29/+$59 and Webinars +$99/+$99/+$299 across the three tiers, extra team seats $25 a seat on Professional and Business only, and extra workspaces $49 (Professi…",
      "source_url": "https://restream.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Re-read 27 November 2026 with a plain fetch: the monthly list prices are unchanged at Free $0, Standard $19, Professional $49 and Business $239, with Clips +$19/+$29/+$59, Webinars +$99/+$99/+$299 and extra seats at $25 a seat a month on two plans, and the page still advertises 'Save 20%' on annual billing.",
+     "evidence_excerpt": "Re-read 27 November 2026 with a plain fetch: the monthly list prices are unchanged at Free $0, Standard $19, Professional $49 and Business $239, with Clips +$19/+$29/+$59, Webinars +$99/+$99/+$299 an…",
+     "source_url": "https://restream.io/pricing/",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "free_tier",
@@ -6765,11 +6773,11 @@
      "evidence_excerpt": null,
      "source_url": "https://restream.io/pricing/",
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-26"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-26",
+   "price_verified_at": "2026-11-27",
    "first_observed_at": null
   },
   {
@@ -7296,7 +7304,7 @@
    "entry_price": "$29",
    "entry_price_terms": "Starter, up to $10k… · billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-07, 2026-09-30 and 2026-11-21) Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year; Business $79 or $59, up to $50k; Premium $159 or $119, up to $200k; above that Sellfy quotes you. Yearly billing saves 25%, there is a 14-day trial, a 30-day money-back guarantee and no free tier. 0% transaction fees on every plan, though PayPal or Stripe still take roughly 2.9% + 30c per transaction. The revenue limits are soft: Sellfy's own pricing.md says the store is never suspended and you are never forced to upgrade, while the page's FAQ says you are expected to upgrade and that Sellfy may instead charge a 2% overage fee on revenue above the limit. Read in US dollars from a Netherlands connection. Re-read on 21 November 2026 on sellfy.com/pricing/ and sellfy.com/pricing.md: Starter $29/$22, Business $79/$59 and Premium $159/$119 with the $10k, $50k and $200k sales limits are unchanged. The pricing.md file (still dated 5 August 2026) now states both halves in one place: the limits are soft caps measured per billing year, the store stays live, and Sellfy may charge a 2% overage fee on revenue above the limit if you have not upgraded. It also lists the per-plan file-size caps (10, 15 and 20 GB) and free email credits (2,000, 10,000 and 50,000 a month). Re-read 24 November 2026 with curl on sellfy.com/pricing/ and sellfy.com/pricing.md (still dated 5 August 2026): Starter $29/$22, Business $79/$59 and Premium $159/$119 with the $10k, $50k and $200k sales limits, the 2% overage fee, the 10/15/20 GB file caps and the 2,000/10,000/50,000 email credits are all unchanged.",
+   "price_note": "(re-verified 2026-09-07, 2026-09-30 and 2026-11-21) Starter is $29/mo billed monthly or $22/mo billed yearly, for up to $10k of sales a year; Business $79 or $59, up to $50k; Premium $159 or $119, up to $200k; above that Sellfy quotes you. Yearly billing saves 25%, there is a 14-day trial, a 30-day money-back guarantee and no free tier. 0% transaction fees on every plan, though PayPal or Stripe still take roughly 2.9% + 30c per transaction. The revenue limits are soft: Sellfy's own pricing.md says the store is never suspended and you are never forced to upgrade, while the page's FAQ says you are expected to upgrade and that Sellfy may instead charge a 2% overage fee on revenue above the limit. Read in US dollars from a Netherlands connection. Re-read on 21 November 2026 on sellfy.com/pricing/ and sellfy.com/pricing.md: Starter $29/$22, Business $79/$59 and Premium $159/$119 with the $10k, $50k and $200k sales limits are unchanged. The pricing.md file (still dated 5 August 2026) now states both halves in one place: the limits are soft caps measured per billing year, the store stays live, and Sellfy may charge a 2% overage fee on revenue above the limit if you have not upgraded. It also lists the per-plan file-size caps (10, 15 and 20 GB) and free email credits (2,000, 10,000 and 50,000 a month). Re-read 24 November 2026 on sellfy.com/pricing/ and sellfy.com/pricing.md (still dated 5 August 2026): Starter $29/$22, Business $79/$59 and Premium $159/$119 with the $10k, $50k and $200k sales limits, the 2% overage fee, the 10/15/20 GB file caps and the 2,000/10,000/50,000 email credits are all unchanged.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -9214,15 +9222,15 @@
    "entry_price": "$80",
    "entry_price_terms": "per month billed yearly ($99 monthly), 15 profiles, 2 users",
    "pricing_status": "public",
-   "price_note": "(price re-verified 2026-09-25 against the vendor's own pricing page; every list price rose after the 23 Sep 2026 reading) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 profiles, 2 users, 10,000 DM contacts, 1,000 AI credits/mo, Ask Vista + MCP; Advanced $199/mo ($1,910/yr, $160/mo) — 30 profiles, 4 users, 25,000 contacts, 2,000 credits, Zapier/Make integrations; Scale $449/mo ($4,310/yr, $360/mo) — 70 profiles, 8 users, 100,000 contacts, 3,500 credits, white label and client connect; Enterprise custom with unlimited profiles and users. Yearly billing is 20% off on all three priced plans. Add-ons on every tier: listening across social, web and news from $75/mo, X (Twitter) $29/mo, Employee Advocacy free for 3 advocates then from $199/mo for 25. 14-day trial, no card. Extra profiles (in increments of 10) and extra users are sold only on Scale and Enterprise; the comparison table leaves those rows empty for Professional and Advanced. Annual billing is one upfront payment for the term. Nonprofit pricing exists on Professional and Advanced for US nonprofits.",
+   "price_note": "(price re-verified 2026-11-27 against the vendor's own pricing page; the list prices are the same as on 25 Sep 2026, but the user counts on Advanced and Scale are lower than we printed then) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 profiles, 2 users, 10,000 DM contacts, 1,000 AI credits/mo, Ask Vista + MCP; Advanced $199/mo ($1,910/yr, $160/mo) — 30 profiles, 3 users, 25,000 contacts, 2,000 credits, Zapier/Make integrations; Scale $449/mo ($4,310/yr, $360/mo) — 70 profiles, 4 users, 100,000 contacts, 3,500 credits, white label and client connect; Enterprise custom with unlimited profiles and 8+ users. Yearly billing is 20% off on all three priced plans. Add-ons on every tier: listening across social, web and news from $75/mo, X (Twitter) $29/mo, Employee Advocacy free for 3 advocates then from $199/mo for 25. 14-day trial, no card. Extra profiles (in increments of 10) and extra users are sold only on Scale and Enterprise (the Scale card reads 'Add profiles and users anytime'); the comparison table leaves those rows empty for Professional and Advanced. Annual billing is one upfront payment for the term. Nonprofit pricing exists on Professional and Advanced for US nonprofits.",
    "flags": [
     {
      "flag": "usage_metered",
-     "evidence": "(price re-verified 2026-09-25 against the vendor's own pricing page; every list price rose after the 23 Sep 2026 reading) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 profiles, 2 users, 10,000 DM contacts, 1,000 AI credits/mo, Ask Vista + MCP; Advanced $199/mo ($1,910/yr, $160/mo) — 30 profiles, 4 users, 25,000 contacts, 2,000 credits, Zapier/Make integrations; Scale $449/mo ($4,310/yr, $360/mo) — 70 profiles, 8 users, 100,000 contacts, 3,500 credits, white label and client connect; Enterprise custom with unlimited profiles and users.",
-     "evidence_excerpt": "(price re-verified 2026-09-25 against the vendor's own pricing page; every list price rose after the 23 Sep 2026 reading) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 …",
+     "evidence": "(price re-verified 2026-11-27 against the vendor's own pricing page; the list prices are the same as on 25 Sep 2026, but the user counts on Advanced and Scale are lower than we printed then) (2026) Professional $99/mo ($950/yr, shown as $80/mo on yearly billing) — 15 profiles, 2 users, 10,000 DM contacts, 1,000 AI credits/mo, Ask Vista + MCP; Advanced $199/mo ($1,910/yr, $160/mo) — 30 profiles, 3 users, 25,000 contacts, 2,000 credits, Zapier/Make integrations; Scale $449/mo ($4,310/yr, $360/mo) — 70 profiles, 4 users, 100,000 contacts, 3,500 credits, white label and client connect; Enterprise custom with unlimited profiles and 8+ users.",
+     "evidence_excerpt": "(price re-verified 2026-11-27 against the vendor's own pricing page; the list prices are the same as on 25 Sep 2026, but the user counts on Advanced and Scale are lower than we printed then) (2026) P…",
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "addons_extra",
@@ -9230,7 +9238,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-11-27"
     },
     {
      "flag": "annual_lock",
@@ -9238,12 +9246,12 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-25"
+     "verified_at": "2026-11-27"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-25",
-   "first_observed_at": "2026-09-25"
+   "price_verified_at": "2026-11-27",
+   "first_observed_at": "2026-11-27"
   },
   {
    "name": "VoiceDrop",
