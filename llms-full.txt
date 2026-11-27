@@ -400,7 +400,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/diginius-review.html
 - Hands-on: not tested by us; researched from the vendor's pages and buyer reviews
 - Verdict: Diginius: Essential $75 USD a month, Pro $250, Core $500 and marked Most Popular, Business by contact with sales.
-- Price: (re-verified 2026-09-22 on diginius.com/pricing/, business pricing) Essential $75 USD a month, Pro $250, Core $500 and marked Most Popular, Business by contact with sales. Every amount held to the dollar against our 21 August 2026 reading.
+- Price: (re-verified 2026-11-27 on diginius.com/pricing/, business pricing; first re-verified 2026-09-22) Essential $75 USD a month, Pro $250, Core $500 and marked Most Popular, Business by contact with sales. The amounts are unchanged since our 21 August 2026 reading.
 
 ## Doba
 - Review: https://marketingandsalessoftware.com/doba-review.html
