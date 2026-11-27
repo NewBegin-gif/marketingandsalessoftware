@@ -278,6 +278,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/beehiiv-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/beehiiv.svg\" width=\"340\" height=\"81\" alt=\"Beehiiv hands-on test by Marketing &amp; Sales Software, 23 Oct 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "besttrack",
+  "name": "BestTrack",
+  "review_url": "https://marketingandsalessoftware.com/besttrack-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/besttrack.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#besttrack",
+  "tested_on": "2026-11-22",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "BestTrack hands-on test by Marketing & Sales Software, 22 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/besttrack-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/besttrack.svg\" width=\"340\" height=\"81\" alt=\"BestTrack hands-on test by Marketing &amp; Sales Software, 22 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "besure-checkout-rules",
   "name": "BeSure Checkout Rules",
   "review_url": "https://marketingandsalessoftware.com/besure-checkout-rules-review.html",
@@ -751,6 +765,22 @@
   ],
   "alt": "EliteCart hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/elitecart-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/elitecart.svg\" width=\"340\" height=\"115\" alt=\"EliteCart hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 7; 5 confirmed · 1 not comparable · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "emaillistverify",
+  "name": "EmailListVerify",
+  "review_url": "https://marketingandsalessoftware.com/emaillistverify-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/emaillistverify.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#emaillistverify",
+  "tested_on": "2026-11-12",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 4",
+   "2 confirmed · 1 contradicted · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "EmailListVerify hands-on test by Marketing & Sales Software, 12 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/emaillistverify-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/emaillistverify.svg\" width=\"340\" height=\"115\" alt=\"EmailListVerify hands-on test by Marketing &amp; Sales Software, 12 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "emailoctopus",
@@ -1583,6 +1613,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/localtry-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/localtry.svg\" width=\"340\" height=\"115\" alt=\"LocalTry hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 4; 2 confirmed · 1 contradicted · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "loox",
+  "name": "Loox",
+  "review_url": "https://marketingandsalessoftware.com/loox-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/loox.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#loox",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Loox hands-on test by Marketing & Sales Software, 19 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/loox-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/loox.svg\" width=\"340\" height=\"81\" alt=\"Loox hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "loyalino",
   "name": "Loyalino",
   "review_url": "https://marketingandsalessoftware.com/loyalino-review.html",
@@ -2222,6 +2266,22 @@
   ],
   "alt": "Scrolly hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/scrolly-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/scrolly.svg\" width=\"340\" height=\"115\" alt=\"Scrolly hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 6; 3 confirmed · 3 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "seamless-ai",
+  "name": "Seamless.ai",
+  "review_url": "https://marketingandsalessoftware.com/seamless-ai-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/seamless-ai.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#seamless-ai",
+  "tested_on": "2026-10-31",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 3",
+   "2 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Seamless.ai hands-on test by Marketing & Sales Software, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/seamless-ai-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/seamless-ai.svg\" width=\"340\" height=\"115\" alt=\"Seamless.ai hands-on test by Marketing &amp; Sales Software, 31 Oct 2026: Vendor claims checked 3; 2 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "section-store",
