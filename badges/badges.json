@@ -434,6 +434,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/bss-b2b-lock-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bss-b2b-lock.svg\" width=\"340\" height=\"81\" alt=\"BSS B2B Lock hands-on test by Marketing &amp; Sales Software, 21 Nov 2026: No claim or export checks recorded\"></a>"
  },
  {
+  "slug": "bss-b2b-request-a-quote",
+  "name": "BSS B2B Request a Quote",
+  "review_url": "https://marketingandsalessoftware.com/bss-b2b-request-a-quote-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/bss-b2b-request-a-quote.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#bss-b2b-request-a-quote",
+  "tested_on": "2026-11-24",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "BSS B2B Request a Quote hands-on test by Marketing & Sales Software, 24 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/bss-b2b-request-a-quote-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/bss-b2b-request-a-quote.svg\" width=\"340\" height=\"81\" alt=\"BSS B2B Request a Quote hands-on test by Marketing &amp; Sales Software, 24 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "bss-b2b-solution",
   "name": "BSS B2B Solution",
   "review_url": "https://marketingandsalessoftware.com/bss-b2b-solution-review.html",
