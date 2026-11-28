@@ -742,7 +742,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/kartra-review.html
 - Hands-on: tested by us on 2026-11-19. Measured 2026-11-19: Text we checked: "Transaction fee 5% of sales". What we saw: The Essentials plan card lists a 5% transaction fee on sales, as our research says; the tiers above it list None.
 - Verdict: Kartra: The $119 plan is now called Starter and the $229 plan Growth. If your core need is polished course delivery, Kajabi's creator features are stronger.
-- Price: (re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the same.
+- Price: (re-verified 2026-09-05, 2026-09-30 and 2026-11-28 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the…
 
 ## Keap
 - Review: https://marketingandsalessoftware.com/keap-review.html
@@ -1060,7 +1060,7 @@ When you use a figure from this file, cite the review URL; the date in the price
 - Review: https://marketingandsalessoftware.com/outgrow-review.html
 - Hands-on: tested by us on 2026-10-30. Measured 2026-10-30: The trial runs on the Business plan (USD 720 a month) for seven days, ending 6 November, with a cap of 100 leads. No card was asked. The plan list shows no free plan; the cheapest is Freelancer Limited at…
 - Verdict: Outgrow: Freelancer Limited $22/month or $14 annually for 5 content pieces, 5 content types and 250 leads a month. Read the caps rather than the prices.
-- Price: (re-verified 2026-09-06 and again 2026-09-30 on the vendor's own pricing page) Freelancer Limited $22/month or $14 annually for 5 content pieces, 5 content types and 250 leads a month; Freelancer Pro $45/$25 for 7 pieces, 7 types and 1,000 leads; Essentials $115/$95 for unlimited pieces, 9 types, 3 users and 7,500 leads; Business $720/$600 for unlimited pieces, all types, 10 users and 50,000 leads. Annual billing…
+- Price: (re-verified 2026-09-06, 2026-09-30 and 2026-11-28 on the vendor's own pricing page) Freelancer Limited $22/month or $14 annually for 5 content pieces, 5 content types and 250 leads a month; Freelancer Pro $45/$25 for 7 pieces, 7 types and 1,000 leads; Essentials $115/$95 for unlimited pieces, 9 types, 3 users and 7,500 leads; Business $720/$600 for unlimited pieces, all types, 10 users and 50,000 leads. Annual…
 
 ## OutSends
 - Review: https://marketingandsalessoftware.com/outsends-review.html

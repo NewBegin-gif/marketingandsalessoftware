@@ -4,7 +4,7 @@
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
   "tools": 350,
-  "flags": 525,
+  "flags": 526,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -3586,7 +3586,7 @@
    "entry_price": "$20",
    "entry_price_terms": "Starter, per seat · the list price per seat per month",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-10-09 in a live browser on their own marketing and CRM pricing pages, USD view; first read 2026-08-18, no amount changed in between) Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Starter is advertised at $7 per seat a month against a list price of $20 per seat a month, under a banner reading “Save up to 65% on Starter — new customers only, select offers available for a limited time”. It includes 500 HubSpot Credits and 1,000 marketing contacts. Professional starts at $800 a month paid annually, or $890 a month billed monthly, and includes 3 Core Seats with additional Core Seats from $45 a month, 3,000 credits and 2,000 marketing contacts. On top of that comes a required one-time Professional Onboarding fee of $3,000 that the headline price does not include. Enterprise starts at $3,600 a month with 5 Core Seats, extra seats from $75, 5,000 credits and 10,000 marketing contacts, and a required one-time onboarding fee of $7,000. HubSpot AEO, their answer-engine visibility tracker, is sold separately at $50 a month or $45 annually for 25 prompts across 3 engines, with a 28-day trial; on the 9 October reading the page adds that AEO is also included in Marketing Hub Professional and Enterprise. The free tools FAQ caps a free account at 1,000 contacts, 2 users and 1 million records across the other standard object types.",
+   "price_note": "(re-verified 2026-10-09 in a live browser on their own marketing and CRM pricing pages, USD view; first read 2026-08-18, no amount changed in between) Free is $0 for up to 2 users and 1,000 marketing contacts, with no time limit. Starter is advertised at $7 per seat a month against a list price of $20 per seat a month, under a banner reading “Save up to 65% on Starter — new customers only, select offers available for a limited time”. It includes 500 HubSpot Credits and 1,000 marketing contacts. Professional starts at $800 a month paid annually, or $890 a month billed monthly, and includes 3 Core Seats with additional Core Seats from $45 a month, 3,000 credits and 2,000 marketing contacts. On top of that comes a required one-time Professional Onboarding fee of $3,000 that the headline price does not include. Enterprise starts at $3,600 a month with 5 Core Seats, extra seats from $75, 5,000 credits and 10,000 marketing contacts, and a required one-time onboarding fee of $7,000. HubSpot AEO, their answer-engine visibility tracker, is sold separately at $50 a month or $45 annually for 25 prompts across 3 engines, with a 28-day trial; on the 9 October reading the page adds that AEO is also included in Marketing Hub Professional and Enterprise. The Free Tools FAQ caps a free account at 1,000 contacts, 2 users and 1,000 records across the other standard object types.",
    "flags": [
     {
      "flag": "per_seat",
@@ -3615,6 +3615,14 @@
     {
      "flag": "addons_extra",
      "evidence": "Enterprise does the same thing at $7,000 on top of $43,200 a year.",
+     "evidence_excerpt": null,
+     "source_url": null,
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-10-09"
+    },
+    {
+     "flag": "annual_lock",
+     "evidence": "Year one on Professional is therefore $800 × 12 + $3,000 = $12,600 if you pay annually, or $890 × 12 + $3,000 = $13,680 if you pay monthly on an annual commitment (pricing page, 28 Nov 2026).",
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
@@ -3846,10 +3854,10 @@
    "entry_price": "$59",
    "entry_price_terms": "a month, or $52 a month billed yearly",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-05 and again 2026-09-30 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the same. The line that changes the arithmetic and is missing from most summaries: Essentials charges a 5% transaction fee on your sales, and the tiers above it charge 0%. On $10,000 a month of sales that fee is $500, which makes the $60 step from Essentials to Starter trivially worth taking. Contacts are capped at 500, 2,500, 12,500 and 25,000 across the four tiers; Essentials sends 10,000 emails and texts a month against unlimited above it and includes 1 custom domain. Kartra never blocks new leads: it upgrades you automatically to the tier that fits and charges a mid-cycle reconciliation fee for the move — two answers above that one, the same FAQ says a Kartra subscription is flat-rate and there are never any extra fees. On 30 September 2026 all eight amounts were unchanged, and the page now opens with a 30-day money-back guarantee and cancel-anytime line above the plan toggle.",
+   "price_note": "(re-verified 2026-09-05, 2026-09-30 and 2026-11-28 on their own pricing page) Four tiers, monthly against yearly: Essentials $59 / $52, Starter $119 / $99, Growth $229 / $189 and Professional $549 / $429, with yearly billing advertised as saving up to 22% and a 14-day trial. The tier names moved since our August reading — the $119 plan is now called Starter and the $229 plan Growth — while every amount stayed the same. The line that changes the arithmetic and is missing from most summaries: Essentials charges a 5% transaction fee on your sales, and the tiers above it charge 0%. On $10,000 a month of sales that fee is $500, which makes the $60 step from Essentials to Starter trivially worth taking. Contacts are capped at 500, 2,500, 12,500 and 25,000 across the four tiers; Essentials sends 10,000 emails and texts a month against unlimited above it and includes 1 custom domain. Kartra never blocks new leads: it upgrades you automatically to the tier that fits and charges a mid-cycle reconciliation fee for the move — two answers above that one, the same FAQ says a Kartra subscription is flat-rate and there are never any extra fees. On 30 September 2026 all eight amounts were unchanged, and the page now opens with a 30-day money-back guarantee and cancel-anytime line above the plan toggle. On 28 November 2026 the eight amounts were again unchanged; a banner read 'UP TO 40% OFF' with the code CYBERWEEK at checkout, without per-plan sale prices, and the FAQ on extra fees now also names an Enterprise plan that has no card or price on the page.",
    "flags": [],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
+   "price_verified_at": "2026-11-28",
    "first_observed_at": "2026-09-05"
   },
   {
@@ -5529,7 +5537,7 @@
    "entry_price": "$22",
    "entry_price_terms": "per month or $14/mo billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-09-06 and again 2026-09-30 on the vendor's own pricing page) Freelancer Limited $22/month or $14 annually for 5 content pieces, 5 content types and 250 leads a month; Freelancer Pro $45/$25 for 7 pieces, 7 types and 1,000 leads; Essentials $115/$95 for unlimited pieces, 9 types, 3 users and 7,500 leads; Business $720/$600 for unlimited pieces, all types, 10 users and 50,000 leads. Annual billing is advertised as saving up to 44%. Three tiers our earlier reading missed sit alongside these: a free Forms/Surveys plan at $0 with 100 leads a month, Startup Basic at $55/$35 ('only new companies can apply') with 750 leads, and Startup Special at $85/$55 ('only startups and small businesses can apply') with 8 content types, 6 pieces and the same 1,000-lead cap as Freelancer Pro. Outgrow branding cannot be removed below Essentials, where it comes off only under the small-business programme, and a custom domain via CNAME is Business-only. A done-for-you build service is listed at 'starting from $250 per content piece'. Note that outgrow.co/llms.txt disagrees with the page: it lists Business at $225, mixes monthly and annual rates, and dates itself to 2025.",
+   "price_note": "(re-verified 2026-09-06, 2026-09-30 and 2026-11-28 on the vendor's own pricing page) Freelancer Limited $22/month or $14 annually for 5 content pieces, 5 content types and 250 leads a month; Freelancer Pro $45/$25 for 7 pieces, 7 types and 1,000 leads; Essentials $115/$95 for unlimited pieces, 9 types, 3 users and 7,500 leads; Business $720/$600 for unlimited pieces, all types, 10 users and 50,000 leads. Annual billing is advertised as saving up to 44%. Three tiers our earlier reading missed sit alongside these: a free Forms/Surveys plan at $0 with 100 leads a month, Startup Basic at $55/$35 ('only new companies can apply') with 750 leads, and Startup Special at $85/$55 ('only startups and small businesses can apply') with 8 content types, 6 pieces and the same 1,000-lead cap as Freelancer Pro. Outgrow branding cannot be removed below Essentials, where it comes off only under the small-business programme, and a custom domain via CNAME is Business-only. A done-for-you build service is listed at 'starting from $250 per content piece'. Note that outgrow.co/llms.txt disagrees with the page: it lists Business at $225, mixes monthly and annual rates, and dates itself to 2025.",
    "flags": [
     {
      "flag": "annual_lock",
@@ -5537,11 +5545,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-30"
+     "verified_at": "2026-11-28"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-30",
+   "price_verified_at": "2026-11-28",
    "first_observed_at": "2026-09-06"
   },
   {
