@@ -2173,6 +2173,20 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/restream-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/restream.svg\" width=\"340\" height=\"115\" alt=\"Restream hands-on test by Marketing &amp; Sales Software, 6 Nov 2026: Vendor claims checked 6; 6 confirmed; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "reviewers-com",
+  "name": "Reviewers.com",
+  "review_url": "https://marketingandsalessoftware.com/reviewers-com-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/reviewers-com.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#reviewers-com",
+  "tested_on": "2026-11-19",
+  "signup_blocked": false,
+  "lines": [
+   "No claim or export checks recorded"
+  ],
+  "alt": "Reviewers.com hands-on test by Marketing & Sales Software, 19 Nov 2026: No claim or export checks recorded",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/reviewers-com-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/reviewers-com.svg\" width=\"340\" height=\"81\" alt=\"Reviewers.com hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: No claim or export checks recorded\"></a>"
+ },
+ {
   "slug": "rewardful",
   "name": "Rewardful",
   "review_url": "https://marketingandsalessoftware.com/rewardful-review.html",

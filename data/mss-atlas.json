@@ -1,10 +1,10 @@
 {
  "meta": {
-  "title": "Cost Traps in 348 Marketing and Sales Tools, With Sources (data)",
+  "title": "Cost Traps in 350 Marketing and Sales Tools, With Sources (data)",
   "source": "https://aibuildermarketplace.com/data/",
   "license": "CC BY 4.0",
-  "tools": 348,
-  "flags": 524,
+  "tools": 350,
+  "flags": 525,
   "note": "A slice of the AIBuilder Marketplace open dataset: the tools covered on marketingandsalessoftware.com. Every flag carries the dossier sentence it rests on."
  },
  "tools": [
@@ -690,7 +690,7 @@
    "entry_price": "$199",
    "entry_price_terms": "a month, billed monthly",
    "pricing_status": "public",
-   "price_note": "(re-verified 28 September 2026 on auware.com/pricing and the Shopify App Store listing) One plan: Pro at $199 a month per store, where a store is one myshopify.com domain, so each store needs its own subscription. It includes a 30-day free trial, 10 active campaigns and 6 personalized audience pages per product. Influencer Pages is a $99-a-month add-on. Larger setups — unlimited stores and team members, custom campaign and audience limits, Shopify Plus — are a 'Contact Us' conversation with no published price. The Shopify listing shows the same $199 a month, charged in USD and billed every 30 days. Correction: until 28 September 2026 this field put the plan at $99 a month; $99 is the Influencer Pages add-on, and the plan was already $199 when we read the pricing page on 26 July 2026.",
+   "price_note": "(re-verified 28 September 2026 and again, unchanged, 28 November 2026 on auware.com/pricing and the Shopify App Store listing) One plan: Pro at $199 a month per store, where a store is one myshopify.com domain, so each store needs its own subscription. It includes a 30-day free trial, 10 active campaigns and 6 personalized audience pages per product. Influencer Pages is a $99-a-month add-on. Larger setups — unlimited stores and team members, custom campaign and audience limits, Shopify Plus — are a 'Contact Us' conversation with no published price. The Shopify listing shows the same $199 a month, charged in USD and billed every 30 days. Correction: until 28 September 2026 this field put the plan at $99 a month; $99 is the Influencer Pages add-on, and the plan was already $199 when we read the pricing page on 26 July 2026.",
    "flags": [
     {
      "flag": "addons_extra",
@@ -698,11 +698,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-28"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-28",
    "first_observed_at": null
   },
   {
@@ -1354,6 +1354,21 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-22",
    "first_observed_at": "2026-11-22"
+  },
+  {
+   "name": "BSS B2B Request a Quote",
+   "category": "E-commerce",
+   "domain": "apps.shopify.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/bss-b2b-request-a-quote-review/",
+   "from_price_usd_mo": null,
+   "entry_price": "$19",
+   "entry_price_terms": "Growth · per month, Growth $19 / month, or $194.40/year, on the Shopify App Store listing…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-28 on the Shopify App Store listing, USD; limits read 2026-11-24 on the BSS plan details page) Growth: $19/mo, or $194.40/yr (save 15%), up to 5 quote logics, 5 custom form fields and 5 Quick Order pages, 14-day free trial. Business: $39/mo, or $398.40/yr (save 15%), unlimited quote requests and logics, custom form fields and Quick Order pages, 14-day free trial. Enterprise: $79/mo, or $806.40/yr (save 15%), all Business features plus quote logic per company customer, 14-day free trial. All plans are free on development and test stores. File uploads are capped at 10MB on Growth and 20MB on Business and Enterprise. We found no usage fees; the pages do not say whether any apply.",
+   "flags": [],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-28",
+   "first_observed_at": "2026-11-28"
   },
   {
    "name": "BSS B2B Solution",
@@ -4197,7 +4212,7 @@
    "entry_price": "$24",
    "entry_price_terms": "per month, billed annually",
    "pricing_status": "public",
-   "price_note": "(re-verified 2026-08-17 and again on 2026-09-28; the English page quotes USD while the same page served from a Dutch address quotes euros at the same numerals, so check your own currency) Four plans, billed annually: Build $24/month, Optimize $119/month, Scale from $229/month and Enterprise from $1,199/month. Annual billing includes two months free against monthly. Custom domains are metered: 1 on Build, 3 on Optimize, 10 on Scale and 100 on Enterprise, with extras at $5 a month each. AI credits come with the plan (2,500, 10,000, 20,000 and 60,000 a month) and top-ups are pay-as-you-go at $15 for 5,000, $25 for 10,000 and $40 for 20,000. A promotional rate roughly half the Build price appears periodically — it is a limited-time offer rather than the standard rate.",
+   "price_note": "(re-verified 2026-08-17, 2026-09-28 and 2026-11-28; the English page quotes USD while the same page served from a Dutch address quotes euros at the same numerals, so check your own currency) Four plans, billed annually: Build $24/month, Optimize $119/month, Scale from $229/month and Enterprise from $1,199/month. Annual billing includes two months free against monthly. Custom domains are metered: 1 on Build, 3 on Optimize, 10 on Scale and 100 on Enterprise, with extras at $5 a month each. AI credits come with the plan (2,500, 10,000, 20,000 and 60,000 a month) and top-ups are pay-as-you-go at $15 for 5,000, $25 for 10,000 and $40 for 20,000. A promotional rate roughly half the Build price appears periodically — it is a limited-time offer rather than the standard rate. On 28 November 2026 the page carried a banner reading 'Black Friday is ON! Up to 70% off Landingi' without per-plan sale prices; the FAQ amounts above were unchanged.",
    "flags": [
     {
      "flag": "usage_metered",
@@ -4205,7 +4220,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-28"
     },
     {
      "flag": "renewal_jump",
@@ -4213,7 +4228,7 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-28"
     },
     {
      "flag": "annual_lock",
@@ -4221,11 +4236,11 @@
      "evidence_excerpt": null,
      "source_url": null,
      "evidence_field": "dossier pricing notes and honest knock",
-     "verified_at": "2026-09-28"
+     "verified_at": "2026-11-28"
     }
    ],
    "researched": "2026-07",
-   "price_verified_at": "2026-09-28",
+   "price_verified_at": "2026-11-28",
    "first_observed_at": "2026-08-17"
   },
   {
@@ -6779,6 +6794,30 @@
    "researched": "2026-07",
    "price_verified_at": "2026-11-27",
    "first_observed_at": null
+  },
+  {
+   "name": "Reviewers.com",
+   "category": "E-commerce",
+   "domain": "reviewers.com",
+   "review_url": "https://aibuildermarketplace.com/b2b/reviewers-com-review/",
+   "from_price_usd_mo": 150.0,
+   "entry_price": "$150",
+   "entry_price_terms": "One campaign · per month, One campaign of up to 10 items $150 on reviewers.com, read 28 November…",
+   "pricing_status": "public",
+   "price_note": "(read 2026-11-28 on reviewers.com/pricing and the home page, USD) First campaign: $0, up to 10 video reviews, no plan, no commitment. One campaign of up to 10 items: $150. Bundles: 5 campaigns (up to 50 items) $750, 5% off, $142.50 each; 10 campaigns (up to 100) $1,500, 10% off, $135 each; 15 campaigns (up to 150) $2,250, 15% off, $127.50 each; 20 campaigns (up to 200) $3,000, 20% off, $120 each; Unlimited $5,000 a month. Brands also using Loox get a 33% lifetime discount. A second table on the pricing page lists $100 for one campaign and $3,500 a month unlimited without saying who it is for. You also pay for the product and its shipping, which reviewers order with a free code. Charges are billed in USD every 30 days.",
+   "flags": [
+    {
+     "flag": "free_tier",
+     "evidence": "(read 2026-11-28 on reviewers.com/pricing and the home page, USD) First campaign: $0, up to 10 video reviews, no plan, no commitment.",
+     "evidence_excerpt": null,
+     "source_url": "https://reviewers.com/pricing",
+     "evidence_field": "dossier pricing notes and honest knock",
+     "verified_at": "2026-11-28"
+    }
+   ],
+   "researched": "2026-07",
+   "price_verified_at": "2026-11-28",
+   "first_observed_at": "2026-11-28"
   },
   {
    "name": "Rewardful",

@@ -32,7 +32,7 @@ Attribuly,addons_extra,"Capture, which identifies anonymous visitors and enriche
 Attribuly,free_tier,"Free costs $0 and recovers the first $1,000 of email revenue; it includes multi touch attribution, new customer CPA benchmarks by cohort and a Klaviyo or ESP missed revenue audit.",2026-07,2026-11-17,https://apps.shopify.com/attribuly
 AutoWrite,usage_metered,"(re-verified 2026-10-09 on apps.shopify.com/autowrite, no amount changed; first read 2026-08-19 in a browser, because the plan table then rendered client-side) Four tiers, metered on posts, images and workflows per month.",2026-07,2026-10-09,https://apps.shopify.com/autowrite
 AutoWrite,free_tier,"Free: 10 posts, 10 images, 1 workflow, basic SEO.",2026-07,2026-10-09,https://apps.shopify.com/autowrite
-Auware,addons_extra,Influencer Pages is a $99-a-month add-on.,2026-07,2026-09-28,
+Auware,addons_extra,Influencer Pages is a $99-a-month add-on.,2026-07,2026-11-28,
 Ava AI,usage_metered,"The headline price is really a minutes bucket: a store with real call volume pays the overage, so cost tracks conversation length, not seats.",2026-07,2026-10-16,
 AWeber,annual_lock,"(re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and Plus $19.99/mo at 500 subs (annual billing; both scale by subscriber count).",2026-07,2026-11-19,https://aweber.com/pricing.htm
 AWeber,free_tier,"(re-verified 1 Oct 2026) A free plan still exists (up to 500 subscribers, 3,000 emails a month) but it is reached through the separate free-signup page, not the pricing page; Lite shows $12.49/mo and Plus $19.99/mo at 500 subs (annual billing; both scale by subscriber count).",2026-07,2026-11-19,https://aweber.com/pricing.htm
@@ -221,9 +221,9 @@ Koongo,usage_metered,"meter: unit · items, feeds, marketplaces and orders",2026
 KudosCRM,per_seat,Basic costs $9 per seat a month billed yearly or $12 monthly.,2026-07,2026-11-20,https://kudoscrm.com/pricing/
 KudosCRM,addons_extra,Add-ons include Kudos AI Boost at $10 per seat a month and Calling at $15 per seat a month.,2026-07,2026-11-20,https://kudoscrm.com/pricing/
 KudosCRM,free_tier,Free is $0.,2026-07,2026-11-20,https://kudoscrm.com/pricing/
-Landingi,usage_metered,"AI credits come with the plan (2,500, 10,000, 20,000 and 60,000 a month) and top-ups are pay-as-you-go at $15 for 5,000, $25 for 10,000 and $40 for 20,000.",2026-07,2026-09-28,
-Landingi,renewal_jump,A promotional rate roughly half the Build price appears periodically — it is a limited-time offer rather than the standard rate.,2026-07,2026-09-28,
-Landingi,annual_lock,Annual billing includes two months free against monthly.,2026-07,2026-09-28,
+Landingi,usage_metered,"AI credits come with the plan (2,500, 10,000, 20,000 and 60,000 a month) and top-ups are pay-as-you-go at $15 for 5,000, $25 for 10,000 and $40 for 20,000.",2026-07,2026-11-28,
+Landingi,renewal_jump,A promotional rate roughly half the Build price appears periodically — it is a limited-time offer rather than the standard rate.,2026-07,2026-11-28,
+Landingi,annual_lock,Annual billing includes two months free against monthly.,2026-07,2026-11-28,
 LangShop,usage_metered,meter: unit · translated products (and languages),2026-07,2026-11-17,https://apps.shopify.com/langshop
 LangShop,annual_lock,"Annual billing is described as two months free, which is the same 17% the listing quotes.",2026-07,2026-11-17,https://apps.shopify.com/langshop
 LangShop,free_tier,"Seven published tiers in all, billed in USD, starting with a Free tier on the listing and on the vendor's page.",2026-07,2026-11-17,https://apps.shopify.com/langshop
@@ -374,6 +374,7 @@ RepointQR,free_tier,"Free costs $0 forever with unlimited dynamic codes and scan
 Restream,addons_extra,"Add-ons are monthly on top: Clips +$19/+$29/+$59 and Webinars +$99/+$99/+$299 across the three tiers, extra team seats $25 a seat on Professional and Business only, and extra workspaces $49 (Professional) or $239 (Business).",2026-07,2026-11-27,https://restream.io/pricing/
 Restream,annual_lock,"Re-read 27 November 2026 with a plain fetch: the monthly list prices are unchanged at Free $0, Standard $19, Professional $49 and Business $239, with Clips +$19/+$29/+$59, Webinars +$99/+$99/+$299 and extra seats at $25 a seat a month on two plans, and the page still advertises 'Save 20%' on annual billing.",2026-07,2026-11-27,https://restream.io/pricing/
 Restream,free_tier,"Free: 2 channels with Restream branding, 1 seat.",2026-07,2026-11-27,https://restream.io/pricing/
+Reviewers.com,free_tier,"(read 2026-11-28 on reviewers.com/pricing and the home page, USD) First campaign: $0, up to 10 video reviews, no plan, no commitment.",2026-07,2026-11-28,https://reviewers.com/pricing
 Rewarx Studio AI,usage_metered,Free gives 10 AI product photo credits.,2026-07,2026-10-23,https://apps.shopify.com/rewarx-ai-product-photography
 Rewarx Studio AI,free_tier,Free gives 10 AI product photo credits.,2026-07,2026-10-23,https://apps.shopify.com/rewarx-ai-product-photography
 Riibase CRM,usage_metered,"Starter is $9.90 a month for up to 5 users, 500 records and 5,000 AI credits; Pro is $19.90 a month for up to 15 users, 5,000 records and 15,000 AI credits; Enterprise is $59.90 a month for up to 30 users, unlimited records and 25,000 AI credits.",2026-07,2026-10-23,https://www.riibase.com/pricing
