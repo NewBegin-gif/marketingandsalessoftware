@@ -671,6 +671,22 @@
   "snippet": "<a href=\"https://marketingandsalessoftware.com/doba-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/doba.svg\" width=\"340\" height=\"115\" alt=\"Doba hands-on test by Marketing &amp; Sales Software, 19 Nov 2026: Vendor claims checked 6; 5 confirmed · 1 contradicted; Data export: route checked, file not opened\"></a>"
  },
  {
+  "slug": "dynasort",
+  "name": "Dynasort",
+  "review_url": "https://marketingandsalessoftware.com/dynasort-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/dynasort.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#dynasort",
+  "tested_on": "2026-11-17",
+  "signup_blocked": false,
+  "lines": [
+   "Vendor claims checked: 9",
+   "2 confirmed · 2 contradicted · 1 not comparable · 3 not testable · 1 out of date",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Dynasort hands-on test by Marketing & Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 2 contradicted · 1 not comparable · 3 not testable · 1 out of date; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/dynasort-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/dynasort.svg\" width=\"340\" height=\"115\" alt=\"Dynasort hands-on test by Marketing &amp; Sales Software, 17 Nov 2026: Vendor claims checked 9; 2 confirmed · 2 contradicted · 1 not comparable · 3 not testable · 1 out of date; Data export: route checked, file not opened\"></a>"
+ },
+ {
   "slug": "easy-advanced-translations",
   "name": "Easy Advanced Translations",
   "review_url": "https://marketingandsalessoftware.com/easy-advanced-translations-review.html",
@@ -2187,6 +2203,23 @@
   ],
   "alt": "Riibase CRM hands-on test by Marketing & Sales Software, 2 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
   "snippet": "<a href=\"https://marketingandsalessoftware.com/riibase-crm-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/riibase-crm.svg\" width=\"340\" height=\"115\" alt=\"Riibase CRM hands-on test by Marketing &amp; Sales Software, 2 Nov 2026: Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
+ },
+ {
+  "slug": "riverside",
+  "name": "Riverside",
+  "review_url": "https://marketingandsalessoftware.com/riverside-review.html",
+  "badge_svg": "https://marketingandsalessoftware.com/badges/riverside.svg",
+  "badge_page": "https://marketingandsalessoftware.com/badges/#riverside",
+  "tested_on": "2026-11-12",
+  "signup_blocked": true,
+  "lines": [
+   "Stopped at sign-up; details in the review",
+   "Vendor claims checked: 2",
+   "1 confirmed · 1 not testable",
+   "Data export: route checked, file not opened"
+  ],
+  "alt": "Riverside sign-up attempt by Marketing & Sales Software, 12 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened",
+  "snippet": "<a href=\"https://marketingandsalessoftware.com/riverside-review.html\"><img src=\"https://marketingandsalessoftware.com/badges/riverside.svg\" width=\"340\" height=\"132\" alt=\"Riverside sign-up attempt by Marketing &amp; Sales Software, 12 Nov 2026: Stopped at sign-up; details in the review; Vendor claims checked 2; 1 confirmed · 1 not testable; Data export: route checked, file not opened\"></a>"
  },
  {
   "slug": "rocketreach",
